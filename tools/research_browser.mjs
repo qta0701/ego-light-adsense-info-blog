@@ -63,6 +63,50 @@ export async function startBatch(manifestUrl){
   }finally{await handle.close();await fs.unlink(lock);}
 }
 
+// DOM boxes are CSS pixels. Screenshots may use a different scale because of
+// browser zoom, device emulation or OS scaling; measure the PNG, never assume 1:1.
+export function pngSize(bytes){
+  if(bytes.length<24||!bytes.subarray(0,8).equals(Buffer.from([137,80,78,71,13,10,26,10]))||bytes.toString('ascii',12,16)!=='IHDR')throw Error('Invalid screenshot PNG');
+  const width=bytes.readUInt32BE(16),height=bytes.readUInt32BE(20);
+  if(!width||!height)throw Error('Empty screenshot PNG');
+  return {width,height};
+}
+function captureState(selectors){
+  const v=window.visualViewport;
+  const visual={x:v?.offsetLeft??0,y:v?.offsetTop??0,width:v?.width??innerWidth,height:v?.height??innerHeight,scale:v?.scale??1};
+  const scrollbar={width:Math.max(0,innerWidth-document.documentElement.clientWidth),height:Math.max(0,innerHeight-document.documentElement.clientHeight)};
+  return {url:location.href,title:document.title,width:innerWidth,height:innerHeight,scrollX,scrollY,devicePixelRatio,visual,scrollbar,
+    targets:selectors.map(selector=>{
+      const nodes=document.querySelectorAll(selector);
+      if(nodes.length!==1)throw Error('Target is missing or ambiguous: '+selector);
+      const r=nodes[0].getBoundingClientRect();
+      const box=[r.x-visual.x,r.y-visual.y,r.width,r.height];
+      if(box[2]<=0||box[3]<=0||box[0]<0||box[1]<0||box[0]+box[2]>visual.width||box[1]+box[3]>visual.height)throw Error('Target outside viewport: '+selector);
+      return [r.x,r.y,r.width,r.height];
+    })};
+}
+export function screenshotGeometry(before,after,pixels){
+  const numbers=s=>[s.width,s.height,s.scrollX,s.scrollY,s.devicePixelRatio,...Object.values(s.visual),...Object.values(s.scrollbar??{}),...s.targets.flat()];
+  const a=numbers(before),b=numbers(after);
+  if(before.url!==after.url||a.length!==b.length||a.some((n,i)=>!Number.isFinite(n)||!Number.isFinite(b[i])||Math.abs(n-b[i])>0.01))throw Error('Page changed during capture');
+  const v=before.visual;
+  if(v.width<=0||v.height<=0||pixels.width<=0||pixels.height<=0)throw Error('Invalid capture dimensions');
+  // Chromium's visual viewport excludes classic scrollbars; its PNG includes
+  // them. innerWidth/clientWidth are integer CSS values, so allow raster rounding.
+  const raster={width:v.width+(before.scrollbar?.width??0)/v.scale,height:v.height+(before.scrollbar?.height??0)/v.scale};
+  const sx=pixels.width/raster.width,sy=pixels.height/raster.height;
+  // Allow subpixel/integer raster rounding, but reject a crop or wrong surface.
+  const tolerance=Math.max(sx,sy)*2+1;
+  if(Math.abs(pixels.height-raster.height*sx)>tolerance||Math.abs(pixels.width-raster.width*sy)>tolerance)throw Error('Screenshot aspect does not match visual viewport');
+  const boxes=before.targets.map(([x,y,w,h])=>{
+    const left=Math.floor((x-v.x)*sx),top=Math.floor((y-v.y)*sy);
+    const right=Math.ceil((x-v.x+w)*sx),bottom=Math.ceil((y-v.y+h)*sy);
+    if(left<0||top<0||right>pixels.width||bottom>pixels.height||right<=left||bottom<=top)throw Error('Target outside screenshot');
+    return [left,top,right-left,bottom-top];
+  });
+  return {boxes,pixelSize:pixels,pixelScale:{x:sx,y:sy},rasterViewport:raster};
+}
+
 let captureQueue=Promise.resolve();
 export function capture(page,folder,name,selectors=[],viewport={width:390,height:844}){
   // Share this module instance across workers; no simultaneous capture/viewport changes.
@@ -74,17 +118,14 @@ export function capture(page,folder,name,selectors=[],viewport={width:390,height
     if((await fs.readdir(raw)).filter(x=>/\.(png|jpg|webp)$/i.test(x)).length>=limit)throw Error(`Capture budget ${limit} reached; curate existing evidence`);
     await page.cdp('Emulation.setDeviceMetricsOverride',{...viewport,deviceScaleFactor:1,mobile:viewport.width<600});
     await page.evaluate(()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(()=>r(true)))));
-    const meta=await page.evaluate(selectors=>({url:location.href,title:document.title,width:innerWidth,height:innerHeight,scrollX,scrollY,
-      targets:selectors.map(selector=>{const nodes=document.querySelectorAll(selector);
-        if(nodes.length!==1)throw Error('Target is missing or ambiguous: '+selector);
-        const r=nodes[0].getBoundingClientRect();
-        if(r.width<=0||r.height<=0||r.x<0||r.y<0||r.right>innerWidth||r.bottom>innerHeight)throw Error('Target outside viewport: '+selector);
-        return [r.x,r.y,r.width,r.height];})}),selectors);
-    if(meta.width!==viewport.width||meta.height!==viewport.height)throw Error('Viewport changed');
-    const shot=await page.cdp('Page.captureScreenshot',{format:'png'});
-    await fs.writeFile(path.join(raw,name+'.png'),Buffer.from(shot.data,'base64'),{flag:'wx'});
-    await write(path.join(dir,'evidence',name+'.json'),{...meta,checkedAt:new Date().toISOString()});
-    return {file:'raw/'+name+'.png',boxes:meta.targets,url:meta.url};
+    const meta=await page.evaluate(captureState,selectors);
+    const shot=await page.cdp('Page.captureScreenshot',{format:'png',fromSurface:true,captureBeyondViewport:false});
+    const after=await page.evaluate(captureState,selectors);
+    const bytes=Buffer.from(shot.data,'base64');
+    const geometry=screenshotGeometry(meta,after,pngSize(bytes));
+    await fs.writeFile(path.join(raw,name+'.png'),bytes,{flag:'wx'});
+    await write(path.join(dir,'evidence',name+'.json'),{...meta,requestedViewport:viewport,...geometry,coordinateSpace:'png-pixels',checkedAt:new Date().toISOString()});
+    return {file:'raw/'+name+'.png',boxes:geometry.boxes,url:meta.url};
   };
   const result=captureQueue.then(work);captureQueue=result.catch(()=>{});return result;
 }

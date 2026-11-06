@@ -5,11 +5,13 @@ Python 3.14; Pillow is required only for image validation/rendering.
 import argparse
 from datetime import date, datetime, timezone, timedelta
 import hashlib
+import io
 import json
 import os
 from pathlib import Path
 import re
 import sys
+import time
 import uuid
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -20,12 +22,26 @@ def read(path):
     return json.loads(Path(path).read_text(encoding='utf-8-sig'))
 
 
+def replace_file(temporary, destination):
+    for attempt in range(4):
+        try:
+            temporary.replace(destination)
+            return
+        except PermissionError:
+            if attempt == 3:
+                raise
+            time.sleep(0.05 * (attempt + 1))
+
+
 def write(path, value):
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
+    content = json.dumps(value, ensure_ascii=False, indent=2).encode('utf-8')
+    if path.is_file() and path.read_bytes() == content:
+        return
     tmp = path.with_suffix(path.suffix + '.tmp')
-    tmp.write_text(json.dumps(value, ensure_ascii=False, indent=2), encoding='utf-8')
-    tmp.replace(path)
+    tmp.write_bytes(content)
+    replace_file(tmp, path)
 
 
 def local(base, relative):
@@ -156,7 +172,7 @@ def check(d, data):
                 im.verify()
             if min(w, h) < 200:
                 errors.append(f'해상도 부족: {i["file"]}')
-            for box in i.get('boxes', []):
+            for box in i.get('boxes', []) + i.get('redactions', []):
                 x, y, bw, bh = box
                 if x < 0 or y < 0 or bw <= 0 or bh <= 0 or x+bw > w or y+bh > h:
                     errors.append(f'표식이 이미지 밖: {i["file"]}')
@@ -179,11 +195,15 @@ def package(d, data):
         raise ValueError('\n'.join(errors))
     out = d / 'publish'
     out.mkdir(exist_ok=True)
-    # Only managed output files are replaced; unrelated files are untouched.
+    # Preserve inspected/locked identical files and keep old output until new
+    # rendering succeeds. Windows image viewers can retain read handles.
     previous = read(out/'index.json') if (out/'index.json').exists() else []
-    for name in previous:
-        p = local(out, name)
-        if p.is_file(): p.unlink()
+    def save_bytes(destination, content):
+        if destination.is_file() and destination.read_bytes() == content:
+            return
+        temporary = destination.with_suffix(destination.suffix+'.tmp')
+        temporary.write_bytes(content)
+        replace_file(temporary, destination)
     source_map = {s['id']: s for s in data['sources']}
     index, markdown = [], [f'# {data["keyword"]} 웹조사 결과',
         f'조사일: {data["date"]} | {data["tab"]} {data["row"]}행', data['body'], '## 이미지 사용 순서']
@@ -205,6 +225,10 @@ def package(d, data):
         lines.append(line)
         canvas = Image.new('RGB',(im.width,im.height+len(lines)*40+58),'white')
         canvas.paste(im,(0,0)); draw=ImageDraw.Draw(canvas)
+        for x,y,bw,bh in item.get('redactions', []):
+            x,y,bw,bh=[v*scale for v in (x,y,bw,bh)]
+            draw.rectangle((x,y,x+bw,y+bh),fill='#24334a')
+            draw.text((x+8,y+8),'로그인 QR 가림',font=f,fill='white')
         for k,(x,y,bw,bh) in enumerate(item.get('boxes',[]),1):
             x,y,bw,bh=[v*scale for v in (x,y,bw,bh)]
             pad=max(12,round(10*scale));x=max(5,x-pad);y=max(5,y-pad)
@@ -218,13 +242,20 @@ def package(d, data):
             draw.text((min(im.width-45,x+8),min(im.height-40,y+7)),str(k),font=f,fill='#e32f35',stroke_width=3,stroke_fill='white')
         for k,line in enumerate(lines): draw.text((16,im.height+8+k*40),line,font=f,fill='#24334a')
         draw.text((16,canvas.height-43),f'{number:02d} | {item["sourceId"]} | {data["date"]}',font=f,fill='#526176')
-        name=f'{number:02d}_{item["role"]}.png';canvas.save(out/name);index.append(name)
+        name=f'{number:02d}_{item["role"]}.png'
+        buffer=io.BytesIO();canvas.save(buffer,format='PNG')
+        save_bytes(out/name,buffer.getvalue());index.append(name)
         markdown.extend([f'![{item["alt"]}]({name})', item['caption'],
                          f'출처: [{item["sourceId"]}]({source_map[item["sourceId"]]["url"]})'])
     markdown.append('## 출처 및 확인일')
     markdown.extend(f'- [{s["id"]}: {s["title"]}]({s["url"]}) — {s["checkedAt"]}' for s in data['sources'])
+    for source in data['sources']:
+        markdown.extend(f'  - 탐색 근거: [{link["title"]}]({link["url"]})' for link in source.get('relatedUrls', []))
     name=f'{safe_name(data["tab"])}_{safe_name(data["keyword"])}_웹조사결과.md'
-    (out/name).write_text('\n\n'.join(markdown)+'\n',encoding='utf-8');index.append(name)
+    save_bytes(out/name,('\n\n'.join(markdown)+'\n').encode('utf-8'));index.append(name)
+    for old in set(previous)-set(index):
+        p=local(out,old)
+        if p.is_file():p.unlink()
     write(out/'index.json',index)
     write(d/'validation.json',{'checkedAt':datetime.now(KST).isoformat(),'errors':[],
           'researchSha256':hashlib.sha256((d/'research.json').read_bytes()).hexdigest(),

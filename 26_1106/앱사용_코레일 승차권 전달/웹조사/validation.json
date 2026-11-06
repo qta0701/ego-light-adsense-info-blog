@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-11-06T23:52:33.702385+09:00",
+  "errors": [],
+  "researchSha256": "8bd92832c6055e500ec0f0e503bf3a0e791338a1d91481cc6f7c0029e8ad2acb",
+  "artifactHashes": {
+    "publish\\01_search.png": "ecf2d0a72930bde0631f04ea97c9b260256c12b83514cfbed9c2dad48056a6af",
+    "publish\\02_guide.png": "26ca038915deda629c2d72c558d27484f0059347f5a17c52803ffc9daeb5dac4",
+    "publish\\03_guide.png": "fac98ff496bada92e79ade1fc3a201e44082e2f29f1379fe9ac3ddecc0e0ea1f",
+    "publish\\04_guide.png": "10c0b65a00384995f71726b3cc723eb224882999841565ab88f66770749d5b9a",
+    "publish\\05_guide.png": "5ea9da4d3c5643042d9c4a32802c2ac0b1982b020de2bdb37e8a71fa214f01b2",
+    "publish\\06_reference.png": "c2cb1df0c24c584bf19e61f9de5a0547d139db3c39fcfc74844b3cc99a2df392",
+    "publish\\앱사용_코레일 승차권 전달_웹조사결과.md": "8c6d6364c21c84cd5b21b28ea7eb79cddcfab97108b8a8f12d0c6d75d88d1c19",
+    "웹조사결과.md": "c484ca7f596465af856f633a18865dcb0139e647eb914e6b9418f1faf955193e"
+  },
+  "visualReviewed": true,
+  "status": "ready_for_sheet"
+}

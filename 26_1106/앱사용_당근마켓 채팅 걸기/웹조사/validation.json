@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-11-06T23:52:33.892383+09:00",
+  "errors": [],
+  "researchSha256": "9e49d92005a961cfc138391143193416022d2c25167a658136439775a49dc171",
+  "artifactHashes": {
+    "publish\\01_search.png": "59b41b4be87f5cbaf2b6643b9c59bb5aecfedc204d46468b61f5ab84eec8ef4b",
+    "publish\\02_guide.png": "6c64fab2717325c7d9f0bda5844cd487e9aa6b46026ad9c1018d815e4bdc79a1",
+    "publish\\03_guide.png": "5ad8bee96206bf939e99feb075bc0ae15c9f4a897940142e1fed0bfd4762b605",
+    "publish\\04_guide.png": "b764c261fb11ca1b8ccfc8ff6098b69c73c3c2a4397d8373011f1ab1d56f7565",
+    "publish\\05_guide.png": "172311d1ab57c0be6f10b89794ae6404d5daeb19c7ea4ee2f23b7860949f1052",
+    "publish\\앱사용_당근마켓 채팅 걸기_웹조사결과.md": "2dea9c9257b58e373f20dff4e1a69a4cb806f8ddc819567c4cb1768f870c064f",
+    "웹조사결과.md": "4a73781f9368befe702d2a666a5f54e6174c4a6a798923018dcd6eb28b866f76"
+  },
+  "visualReviewed": true,
+  "status": "ready_for_sheet"
+}

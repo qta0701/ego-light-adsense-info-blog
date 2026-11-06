@@ -1,0 +1,34 @@
+{
+  "url": "https://chat.daangn.com/login",
+  "title": "당근채팅",
+  "text": "당근채팅 로그인\n휴대전화의 카메라 또는 당근 앱으로 QR코드를 촬영해주세요.\n휴대전화로 QR 코드 촬영하기\n휴대전화에서 카메라 앱을 열어요.\n카메라로 코드를 스캔해요.\n당근채팅 로그인하기 팝업을 클릭해요.\n당근 앱으로 QR 코드 촬영하기\n휴대전화에서 당근 앱을 열어요.\n나의 당근 > 설정 > QR 코드 스캔을 선택해요.\n스캐너로 코드를 스캔해요.\n당근채팅 로그인하기 팝업을 선택해요.\n아직 계정이 없다면 모바일 앱에서 회원가입해주세요.\n자주 묻는 질문\n비즈프로필 채팅은 비즈채팅 웹에서 이용해주세요.\n비즈채팅 웹 가기\n이용약관개인정보처리방침위치기반서비스 이용약관\n© Daangn Market Inc.",
+  "links": [
+    {
+      "title": "",
+      "url": "https://daangn.com/"
+    },
+    {
+      "title": "자주 묻는 질문",
+      "url": "https://www.daangn.com/wv/faqs?kind=karrotchat"
+    },
+    {
+      "title": "비즈채팅 웹 가기",
+      "url": "https://business-chat.daangn.com/chat"
+    },
+    {
+      "title": "이용약관",
+      "url": "https://www.daangn.com/policy/terms"
+    },
+    {
+      "title": "개인정보처리방침",
+      "url": "https://www.daangn.com/policy/privacy"
+    },
+    {
+      "title": "위치기반서비스 이용약관",
+      "url": "https://www.daangn.com/policy/location"
+    }
+  ],
+  "selector": "body",
+  "sha256": "3c96fefec3b26d76cfa4a7f5d4f1d6373bd54981204390d1a53e8039bcb2fe03",
+  "checkedAt": "2026-11-06T14:45:18.082Z"
+}

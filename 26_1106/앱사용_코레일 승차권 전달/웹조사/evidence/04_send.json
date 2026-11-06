@@ -1,0 +1,54 @@
+{
+  "url": "https://www.korail.com/ticket/reserve/guide/faq",
+  "title": "자주찾는 질문(FAQ)",
+  "width": 1100,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 1258.4000244140625,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1084.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      32,
+      316.32501220703125,
+      1020.7999877929688,
+      267.3625183105469
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 900
+  },
+  "boxes": [
+    [
+      32,
+      316,
+      1021,
+      268
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001818068403325,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1099.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-06T14:46:28.691Z"
+}

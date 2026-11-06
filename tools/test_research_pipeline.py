@@ -89,5 +89,22 @@ class PipelineTests(unittest.TestCase):
             'boxes':[[20,70,120,50]]})
         self.assertEqual(check(d,data),[])
 
+    def test_repack_preserves_identical_files(self):
+        d,data=self.fixture();out=package(d,data)
+        image=out/'01_search.png';before=image.stat().st_mtime_ns
+        package(d,data)
+        self.assertEqual(image.stat().st_mtime_ns,before)
+
+    def test_qr_redaction_and_related_sources(self):
+        d,data=self.fixture()
+        data['images'][0]['redactions']=[[200,200,100,100]]
+        data['sources'][0]['relatedUrls']=[{'title':'추가 공식 안내','url':'https://example.org/details'}]
+        out=package(d,data)
+        with Image.open(out/'01_search.png') as im:
+            self.assertEqual(im.getpixel((int(250*720/390),int(280*720/390))),(36,51,74))
+        self.assertIn('https://example.org/details',(out/'앱사용_테스트 하나_웹조사결과.md').read_text('utf-8'))
+        data['images'][0]['redactions']=[[380,200,100,100]]
+        self.assertTrue(any('표식' in e for e in check(d,data)))
+
 
 if __name__=='__main__':unittest.main()

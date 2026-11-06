@@ -1,0 +1,17 @@
+{
+  "url": "https://www.korail.com/ticket/login?hiddenTabNms=nonMember&redirectUrl=/ticket/myticket/list",
+  "title": "로그인>코레일 승차권예매",
+  "width": 1100,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "targets": [
+    [
+      0,
+      172,
+      1084.800048828125,
+      44
+    ]
+  ],
+  "checkedAt": "2026-11-06T14:26:45.937Z"
+}

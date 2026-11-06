@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=%EC%BD%94%EB%A0%88%EC%9D%BC%20%EC%8A%B9%EC%B0%A8%EA%B6%8C%20%EC%A0%84%EB%8B%AC",
+  "title": "코레일 승차권 전달 - Google 검색",
+  "width": 1000,
+  "height": 818,
+  "scrollX": 0,
+  "scrollY": 960,
+  "devicePixelRatio": 1.1000000163912773,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 986.1818237304688,
+    "height": 818.1818237304688,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 14,
+    "height": 0
+  },
+  "targets": [
+    [
+      84,
+      386.1932067871094,
+      480.4545593261719,
+      44.806819915771484
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 900
+  },
+  "boxes": [
+    [
+      92,
+      424,
+      529,
+      51
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0998000302557294,
+    "y": 1.0999999925401476
+  },
+  "rasterViewport": {
+    "width": 1000.1818237304688,
+    "height": 818.1818237304688
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-06T14:36:52.023Z"
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://chat.daangn.com/login",
+  "title": "당근채팅",
+  "width": 1100,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1100,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 0,
+    "height": 0
+  },
+  "targets": [
+    [
+      40.79999923706055,
+      244,
+      498.4375,
+      40.79999923706055
+    ],
+    [
+      707.5125122070312,
+      366.5500183105469,
+      220,
+      220
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 900
+  },
+  "boxes": [
+    [
+      40,
+      244,
+      500,
+      41
+    ],
+    [
+      707,
+      366,
+      221,
+      221
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1100,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-06T14:46:29.181Z"
+}

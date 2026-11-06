@@ -1,0 +1,144 @@
+{
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s/edit",
+  "properties": {
+    "title": "1.애드센스_콘텐츠표",
+    "locale": "ko_KR",
+    "timeZone": "America/Los_Angeles"
+  },
+  "sheets": [
+    {
+      "properties": {
+        "sheetId": 2121839224,
+        "title": "앱사용",
+        "index": 15,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 81,
+          "columnCount": 31,
+          "frozenRowCount": 1,
+          "frozenColumnCount": 8,
+          "rowGroupControlAfter": true,
+          "columnGroupControlAfter": true
+        }
+      },
+      "data": [
+        {
+          "startRow": 47,
+          "rowData": [
+            {
+              "values": [
+                {
+                  "formattedValue": "2026-11-06",
+                  "userEnteredValue": {
+                    "numberValue": 46332
+                  },
+                  "effectiveFormat": {
+                    "numberFormat": {
+                      "type": "DATE",
+                      "pattern": "yyyy-MM-dd"
+                    }
+                  }
+                },
+                {
+                  "effectiveFormat": {
+                    "numberFormat": {
+                      "type": "NUMBER",
+                      "pattern": "#,##0"
+                    }
+                  }
+                },
+                {
+                  "formattedValue": "ㅇ",
+                  "userEnteredValue": {
+                    "stringValue": "ㅇ"
+                  },
+                  "effectiveFormat": {
+                    "numberFormat": {
+                      "type": "NUMBER",
+                      "pattern": "#,##0"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "2026-11-06",
+                  "userEnteredValue": {
+                    "numberValue": 46332
+                  },
+                  "effectiveFormat": {
+                    "numberFormat": {
+                      "type": "DATE",
+                      "pattern": "yyyy-MM-dd"
+                    }
+                  }
+                },
+                {
+                  "effectiveFormat": {
+                    "numberFormat": {
+                      "type": "NUMBER",
+                      "pattern": "#,##0"
+                    }
+                  }
+                },
+                {
+                  "formattedValue": "ㅇ",
+                  "userEnteredValue": {
+                    "stringValue": "ㅇ"
+                  },
+                  "effectiveFormat": {
+                    "numberFormat": {
+                      "type": "NUMBER",
+                      "pattern": "#,##0"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startRow": 47,
+          "startColumn": 8,
+          "rowData": [
+            {
+              "values": [
+                {
+                  "formattedValue": "코레일 승차권 전달",
+                  "userEnteredValue": {
+                    "stringValue": "코레일 승차권 전달"
+                  },
+                  "effectiveFormat": {
+                    "numberFormat": {
+                      "type": "NUMBER",
+                      "pattern": "General"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "values": [
+                {
+                  "formattedValue": "당근마켓 채팅 걸기",
+                  "userEnteredValue": {
+                    "stringValue": "당근마켓 채팅 걸기"
+                  },
+                  "effectiveFormat": {
+                    "numberFormat": {
+                      "type": "NUMBER",
+                      "pattern": "General"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
