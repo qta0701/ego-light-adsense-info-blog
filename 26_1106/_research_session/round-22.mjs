@@ -1,0 +1,1 @@
+const t=await taskSpace(1);const s=t.page('p4');console.log((await s.snapshot()).slice(0,7000));console.log(await s.evaluate(()=>({field:document.querySelector('#kpngPlcNm').outerHTML,hidden:getComputedStyle(document.querySelector('#kpngPlcNm')).visibility,buttons:[...document.querySelectorAll('button')].filter(e=>e.textContent.trim()==='검색 필터').map(e=>e.outerHTML)})));

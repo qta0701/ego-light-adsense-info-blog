@@ -1,0 +1,12 @@
+const task=await taskSpace(1); const p=task.page('p1');
+const fs=await import('node:fs/promises');
+const root='Y:/antigravity-project/ego-light-adsense-info-blog/26_1106/';
+for(const k of ['카카오톡 무료 이모티콘','코레일 분실물 센터']) await fs.mkdir(root+'앱사용_'+k+'/웹조사',{recursive:true});
+await fs.writeFile(root+'앱사용_카카오톡 무료 이모티콘/웹조사/검색결과_참고기록.json',JSON.stringify(await p.evaluate(()=>({url:location.href,text:document.body.innerText,links:[...document.querySelectorAll('a')].filter(a=>a.querySelector('h3')).map(a=>({title:a.innerText,url:a.href}))})),null,2));
+await p.screenshot({path:root+'앱사용_카카오톡 무료 이모티콘/웹조사/00_구글검색_원본.png'});
+await p.click('@21',{label:'공식 무료 이벤트 열기'});
+console.log('KAKAO',await p.url()); console.log(await p.snapshot());
+const q=await task.newPage(); await q.goto('https://www.google.com/search?q='+encodeURIComponent('코레일 분실물 센터'));
+await fs.writeFile(root+'앱사용_코레일 분실물 센터/웹조사/검색결과_참고기록.json',JSON.stringify(await q.evaluate(()=>({url:location.href,text:document.body.innerText,links:[...document.querySelectorAll('a')].filter(a=>a.querySelector('h3')).map(a=>({title:a.innerText,url:a.href}))})),null,2));
+await q.screenshot({path:root+'앱사용_코레일 분실물 센터/웹조사/00_구글검색_원본.png'});
+console.log('CORAIL',q.label); console.log(await q.snapshot());

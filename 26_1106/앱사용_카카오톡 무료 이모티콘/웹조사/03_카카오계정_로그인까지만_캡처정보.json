@@ -1,0 +1,25 @@
+{
+  "url": "https://accounts.kakao.com/login/?continue=https%3A%2F%2Fe.kakao.com%2Fweekly_event%3Fs%3D2mdzha#login",
+  "title": "카카오계정",
+  "width": 390,
+  "height": 844,
+  "scrollY": 0,
+  "targets": [
+    {
+      "selector": "input[name=\"loginId\"]",
+      "label": "카카오계정 로그인 필요",
+      "x": 16,
+      "y": 145,
+      "w": 358.3999938964844,
+      "h": 42
+    },
+    {
+      "text": "회원가입",
+      "label": "계정이 없으면 회원가입",
+      "x": 16,
+      "y": 477.6000061035156,
+      "w": 48,
+      "h": 18
+    }
+  ]
+}

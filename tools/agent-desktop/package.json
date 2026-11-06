@@ -1,0 +1,5 @@
+{
+  "name": "project-agent-desktop",
+  "private": true,
+  "dependencies": { "agent-desktop": "1.2.0" }
+}

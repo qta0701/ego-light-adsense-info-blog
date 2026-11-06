@@ -17,28 +17,20 @@
 - **파이썬 3.14 표준 및 동적 경로 준수**: 본 프로젝트는 파이썬 3.14 버전(`python3.14-64.exe`)을 기본 실행 환경으로 삼는다. 다양한 PC 환경에 유연하게 대응하기 위해 절대 경로를 직접 하드코딩하지 않고, 사용자 환경 변수 `PATH`에 등록된 `C:\Users\<유저명>\AppData\Local\Python\bin` 경로 또는 `%USERPROFILE%\AppData\Local\Python\bin` 아래의 `python3.14-64.exe`를 동적으로 탐색하여 실행한다. 향후 신규 프로젝트 생성, 배치 스크립트 작성, 라이브러리 추가 등 모든 작업 시 이 파이썬 3.14 버전의 호환성과 문법을 엄격히 준수한다.
 - **다른 PC 환경의 절대 경로 호환성 확보**: 작업 결과물 및 메타데이터(`.json`, `map_path`, `save_dir` 등)에 기록된 타 PC의 절대 경로를 읽거나 쓸 때, 현재 PC 환경의 프로젝트 루트 경로와 결합하여 정상 동작할 수 있도록 반드시 `utils.system_utils.resolve_meta_path` 유틸리티를 적용해 동적으로 경로를 치환 및 정규화하여 사용한다.
 
-## 3. 브라우저 자동화 및 웹 에이전트 도구 선택 지침 (Browser Agent Decision Rules)
+## 3. 브라우저·데스크톱 에이전트 선택 지침 (2026-11-06 갱신)
 
-본 프로젝트는 AI 에이전트가 브라우저 제어, 웹 리서치, 애드센스 검증을 수행할 수 있도록 3가지 특화 도구를 제공합니다. 에이전트는 사용자의 요청 성격에 따라 다음 판단 기준을 엄격히 준수하여 적절한 도구와 명령어를 선택해야 합니다.
+1. **ego-browser / ego-lite**: 로그인 세션과 격리 TaskSpace가 필요한 웹 작업. 설치된 `ego-browser skill`을 끝까지 읽고 공개 SDK를 사용한다. 고정 9222 포트나 외부 브라우저 연결을 가정하지 않는다. 사용자 제어 전환·권한 프롬프트·추가 인증은 다른 도구로 우회하지 않는다.
+2. **sderosiaux/chrome-agent** (`bin/ca-rust.cmd`): 독립된 공개 웹 자료의 `read`, `extract`, A11y 조회. 본문·목록·출력 길이를 제한하고 실제 토큰 절감률을 측정 전 단정하지 않는다.
+3. **captivus/chrome-agent** (`bin/ca-py.cmd`): 허용된 브라우저의 Raw CDP·애드센스 Network 진단. 필요한 이벤트만 구독한다. 캡차나 2FA를 자동 돌파하는 기본 경로로 사용하지 않는다.
+4. **vercel-labs/agent-desktop 1.2.0** (`bin/agent-desktop.cmd` / `.ps1`): Windows 네이티브 앱·창을 UI Automation으로 관찰·조작하는 보완 CLI. 최초 사용 전 `status`, `skills get desktop`, `skills get platform`을 확인한다. 앱/창을 지정한 skeleton→subtree 관찰을 사용하고 원시 전체 JSON을 반복 출력하지 않는다. OS 창 관찰은 ego TaskSpace와 격리되지 않으며 자동으로 해당 Space를 선택하지 않는다. `--headed`를 자동 활성화하지 않는다.
 
-1. **`sderosiaux/chrome-agent` (`.\bin\ca-rust.cmd` / `ca-rust.ps1`)**:
-   - **적용 상황**: 웹 검색, 기사/기술 문서 본문 수집(`read`), 뉴스/상품 목록 추출(`extract`), 폼 입력 및 페이지 변경 검증.
-   - **핵심 이유**: A11y 접근성 트리를 통한 50~500 토큰 극단 압축으로 LLM API 비용을 90% 이상 절감.
-   - **주요 명령어**: `goto --inspect`, `read`, `extract`, `click <uid>`, `fill --uid <uid>`
-   - **자동화 스크립트**: `tools/collect_blog_material.py <URL>`
+### 토큰·왕복 최소화
+- 연결된 정식 API/도구로 충분한 저장소·시트 작업은 해당 도구를 우선한다.
+- ego 웹조사 본문은 `tools/research_observe.mjs`의 `observePage`로 로컬 저장하고 기본 1,500자·링크 5개만 반환한다. 내용이 같으면 본문 재출력을 생략한다. 추가 읽기는 `readPageEvidence`의 offset 구간을 사용한다. 저장본을 현재 조작 상태로 간주하지 않는다.
+- 한 페이지의 근거가 확보된 작업과 최종 확인을 한 라운드로 묶고, 필요한 중간 판단은 유지한다. 서로 다른 도구의 refs를 섞지 않는다. 스크린샷은 결과물과 시각 검수에 필요할 때 사용한다.
+- `EgoLiteBridge`는 레거시 외부 CDP 어댑터다. 포트가 열렸다는 사실만으로 ego·로그인 세션·TaskSpace 격리를 검증했다고 처리하지 않는다.
 
-2. **`captivus/chrome-agent` (`.\bin\ca-py.cmd` / `ca-py.ps1`)**:
-   - **적용 상황**: Cloudflare Turnstile, reCAPTCHA v2, 슬라이더 퍼즐 등 고도화된 봇 차단 돌파, 애드센스 광고 태그 및 네트워크 패킷/헤더 실시간 감시, 다중 에이전트 동시 관찰.
-   - **핵심 이유**: CDP 100% 원시 개방, 미트백 래더(Meatbag Ladder) 기반 하드웨어 수준 `isTrusted=true` 신뢰 이벤트 모사, 격리된 이벤트 스트림(`attach`).
-   - **주요 명령어**: `launch --headless`, `attach <인스턴스> +Network.*`, `Page.navigate`, `Input.dispatchMouseEvent`
-   - **자동화 스크립트**: `tools/check_adsense_network.py <URL>`
-
-3. **`citrolabs/ego-lite` (Ego-Browser)**:
-   - **적용 상황**: 네이버 블로그, 티스토리, 구글 애드센스/Search Console, 인트라넷 등 사용자의 기존 로그인/2FA 세션이 반드시 필요한 웹 콘솔 작업, 사용자가 PC를 사용하는 중에 마우스 방해 없이 백그라운드로 병렬 작업할 때.
-   - **핵심 이유**: 사용자의 실제 크롬 프로필/쿠키 상속, 격리된 독립 Task Space 제공.
-   - **하이브리드 연동**: ego-lite 디버깅 포트(9222)에 `ca-rust --connect http://127.0.0.1:9222` 또는 `ca-py attach`로 연결하여 로그인된 상태에서 초저비용 추출이나 패킷 감시를 수행.
-
-*상세 기술 가이드 및 하이브리드 조합 패턴은 `guidelines/CHROME_AGENTS_USAGE_GUIDE.md`를 필독하고 참고한다.*
+상세 기준: `guidelines/CHROME_AGENTS_USAGE_GUIDE.md` 3절, `guidelines/AGENT_DESKTOP_GUIDE.md`, `guidelines/웹자료수집.md` 7절.
 
 ---
 *이 파일의 내용은 Antigravity AI가 대화를 시작하거나 작업을 수행할 때 항상 최우선으로 고려해야 합니다.*

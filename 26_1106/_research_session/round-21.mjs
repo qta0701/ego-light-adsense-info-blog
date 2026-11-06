@@ -1,0 +1,12 @@
+import {mobile,capture,root} from './capture.mjs';const fs=await import('node:fs/promises');const t=await taskSpace(1);const p=t.page('p1');const s=t.page('p4');
+await mobile(p);console.log((await p.snapshot()).slice(-2000));
+await p.evaluate(()=>[...document.querySelectorAll('[role="dialog"] button')].find(b=>b.textContent.trim()==='닫기')?.click());
+await p.evaluate(()=>document.querySelector('a[href="/cvlcpt/cvlcptAply.do?cvlcptId=MW-201"]').scrollIntoView({block:'center',behavior:'instant'}));
+await capture(p,'앱사용_코레일 분실물 센터','06_경찰민원24_습득물검색메뉴',[{selector:'a[href="/cvlcpt/cvlcptAply.do?cvlcptId=MW-201"]',label:'1. 습득물 검색'},{selector:'a[href="/cvlcpt/cvlcptGdInfo.do?cvlcptId=MW-001"]',label:'2. 없으면 분실물 신고'}]);
+await s.goto('https://minwon24.police.go.kr/cvlcpt/cvlcptAply.do?cvlcptId=MW-201');await s.waitForSelector('#pkupPlcSeCd',{state:'attached'});await s.cdp('Emulation.setDeviceMetricsOverride',{width:1280,height:1000,deviceScaleFactor:1,mobile:false});
+await s.click('loc=role:button[name="검색 필터"]');await s.selectOption('#pkupPlcSeCd',{label:'기차'});await s.fill('#kpngPlcNm','서울역');await s.click('loc=css:button[onclick="fn_gridSearch_4(1)"]');
+await s.waitForFunction(()=>/총\s*987\s*개의 항목/.test(document.body.innerText),undefined,{timeout:10000});
+await s.evaluate(()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(()=>r(true)))));
+await s.evaluate(()=>{const e=[...document.querySelectorAll('h3,h4,h5,strong')].find(e=>e.textContent.trim()==='은반지');window.scrollTo({top:e.getBoundingClientRect().top+window.scrollY-150,behavior:'instant'});});
+await capture(s,'앱사용_코레일 분실물 센터','11_기차서울역_습득물검색결과',[{text:'은반지',label:'조건 검색 결과 예시'},{text:'서울역(한국철도공사)',label:'보관 장소 확인'}]);
+await fs.writeFile(root+'앱사용_코레일 분실물 센터/웹조사/기차서울역_검색검증.json',JSON.stringify(await s.evaluate(()=>({url:location.href,place:document.querySelector('#pkupPlcSeCd').value,storage:document.querySelector('#kpngPlcNm').value,text:document.body.innerText.slice(-7500)})),null,2));

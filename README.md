@@ -32,6 +32,19 @@
 
 ---
 
+## 4. agent-desktop 1.2.0 및 ego-lite 출력 절감
+
+공식 `vercel-labs/agent-desktop` 배포 패키지를 프로젝트 내부에 버전 고정 설치했다. Windows UI Automation으로 네이티브 앱·창을 처리하며 웹 본문 수집에는 ego SDK/ca-rust를 사용한다.
+
+```powershell
+./tools/install-agent-desktop.ps1
+./bin/agent-desktop.cmd status
+./bin/agent-desktop.cmd skills get desktop
+./bin/agent-desktop.cmd skills get platform
+```
+
+`tools/research_observe.mjs`는 ego 웹 본문을 로컬 저장하고 기본 1,500자만 반환하며, 중복 출력 생략과 브라우저 없는 추가 구간 읽기를 제공한다. 세부 사용법과 검증 범위는 [agent-desktop 가이드](guidelines/AGENT_DESKTOP_GUIDE.md), 현재 하이브리드 조합은 [통합 가이드 3절](guidelines/CHROME_AGENTS_USAGE_GUIDE.md)을 따른다. 종전 고정 9222 포트 연결을 ego 기본 경로로 가정하지 않는다.
+
 ## 🚀 빠른 시작 (Quick Start)
 
 ### 1. 웹페이지 글감 및 목록 데이터 자동 수집
@@ -75,5 +88,7 @@ ego-light-adsense-info-blog/
 
 ## 📖 상세 매뉴얼 문서
 - [크롬 에이전트 통합 사용 가이드](guidelines/CHROME_AGENTS_USAGE_GUIDE.md)
-- [블로그 웹자료 수집 및 애드센스 검증 가이드](블로그작성_가이드라인/04_웹자료수집_크롬에이전트_활용법.md)
+- [블로그 웹자료 수집 및 애드센스 검증 가이드](guidelines/크롬에이전트_활용법.md)
+- [키워드별 웹자료수집 표준](guidelines/웹자료수집.md)
+- [agent-desktop 통합 및 출력 절감](guidelines/AGENT_DESKTOP_GUIDE.md)
 

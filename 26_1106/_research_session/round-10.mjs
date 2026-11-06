@@ -1,0 +1,11 @@
+import {mobile,capture,root} from './capture.mjs';const fs=await import('node:fs/promises');
+const t=await taskSpace(1);const p=t.page('p1');const q=t.page('p3');const k=t.page('p2');
+await mobile(k);await capture(k,'앱사용_카카오톡 무료 이모티콘','03_카카오계정_로그인까지만',[{selector:'input[name="loginId"]',label:'카카오계정 로그인 필요'},{text:'회원가입',label:'계정이 없으면 회원가입'}]);
+await p.click('@134');await mobile(p);await p.evaluate(()=>scrollTo(0,0));
+await capture(p,'앱사용_코레일 분실물 센터','05_경찰민원24_모바일첫화면');
+await p.evaluate(()=>document.querySelector('a[href="/cvlcpt/cvlcptAply.do?cvlcptId=MW-201"]').scrollIntoView({block:'center'}));
+await capture(p,'앱사용_코레일 분실물 센터','06_경찰민원24_습득물검색메뉴',[{selector:'a[href="/cvlcpt/cvlcptAply.do?cvlcptId=MW-201"]',label:'습득물 검색'},{selector:'a[href="/cvlcpt/cvlcptGdInfo.do?cvlcptId=MW-001"]',label:'분실물 신고'}]);
+await p.click('loc=href:/cvlcpt/cvlcptAply.do?cvlcptId=MW-201',{label:'습득물 검색 화면 열기'});await p.waitForURL('**/cvlcpt/cvlcptAply.do?cvlcptId=MW-201');console.log('POLICE',await p.snapshot());
+await mobile(q);await q.evaluate(()=>document.querySelector('input[placeholder="검색어를 입력하세요."]').scrollIntoView({block:'center'}));
+await capture(q,'앱사용_코레일 분실물 센터','03_역별연락처_서울검색',[{selector:'input.searchBox',label:'역 이름 입력 후 검색'},{text:'서울',label:'서울역'},{text:'02-755-7108',label:'공식 연락처 확인'}]);
+await fs.writeFile(root+'앱사용_코레일 분실물 센터/웹조사/서울역연락처_참고기록.json',JSON.stringify(await q.evaluate(()=>({url:location.href,text:document.body.innerText})),null,2));

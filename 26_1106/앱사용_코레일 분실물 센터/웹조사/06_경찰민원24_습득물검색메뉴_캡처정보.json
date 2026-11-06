@@ -1,0 +1,25 @@
+{
+  "url": "https://minwon24.police.go.kr/main.do",
+  "title": "경찰민원24",
+  "width": 390,
+  "height": 844,
+  "scrollY": 1188,
+  "targets": [
+    {
+      "selector": "a[href=\"/cvlcpt/cvlcptAply.do?cvlcptId=MW-201\"]",
+      "label": "1. 습득물 검색",
+      "x": 159.1999969482422,
+      "y": 292.3500061035156,
+      "w": 72,
+      "h": 129
+    },
+    {
+      "selector": "a[href=\"/cvlcpt/cvlcptGdInfo.do?cvlcptId=MW-001\"]",
+      "label": "2. 없으면 분실물 신고",
+      "x": 56.26250076293945,
+      "y": 292.3500061035156,
+      "w": 72,
+      "h": 129
+    }
+  ]
+}

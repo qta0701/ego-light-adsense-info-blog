@@ -1,0 +1,11 @@
+const t=await taskSpace(1);const p=t.page('p2');const q=t.page('p3');const fs=await import('node:fs/promises');const base='Y:/antigravity-project/ego-light-adsense-info-blog/26_1106/';const kd=base+'앱사용_카카오톡 무료 이모티콘/웹조사/';const cd=base+'앱사용_코레일 분실물 센터/웹조사/';
+await p.screenshot({path:kd+'01_월이무_모바일첫화면_원본.png'});
+await p.click('loc=css:button[aria-label="짱 가까운 우리 사이(슈야 ver.) 선택"]');
+await p.click('loc=css:button[aria-label="짱 가까운 우리 사이(토야 ver.) 선택"]');
+await p.click('loc=css:button[aria-label="존댓말 톡 17 선택"]');
+await p.evaluate(()=>window.scrollTo(0,0));await p.screenshot({path:kd+'02_이모티콘3종선택_원본.png'});
+console.log('SELECTED',await p.snapshot());
+await q.screenshot({path:cd+'01_코레일_신고안내_PC_원본.png'});
+await fs.writeFile(cd+'코레일공식_참고기록.json',JSON.stringify(await q.evaluate(()=>({url:location.href,text:document.body.innerText,links:[...document.querySelectorAll('a')].map(a=>({text:a.innerText,url:a.href})),images:[...document.images].map(i=>({alt:i.alt,src:i.currentSrc}))})),null,2));
+await q.cdp('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});await q.reload();
+console.log('MOBILE KORAIL',await q.snapshot({scope:'full_page'}));

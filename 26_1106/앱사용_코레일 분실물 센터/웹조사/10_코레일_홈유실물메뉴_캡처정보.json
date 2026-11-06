@@ -1,0 +1,17 @@
+{
+  "url": "https://www.korail.com/ticket/main",
+  "title": "코레일 승차권예매",
+  "width": 390,
+  "height": 844,
+  "scrollY": 1614.4000244140625,
+  "targets": [
+    {
+      "selector": "a[href=\"/ticket/guest/lost/register\"]:has(span.s_tit)",
+      "label": "종합이용 가이드에서 유실물",
+      "x": 16,
+      "y": 291.9250183105469,
+      "w": 107.0250015258789,
+      "h": 140.4499969482422
+    }
+  ]
+}

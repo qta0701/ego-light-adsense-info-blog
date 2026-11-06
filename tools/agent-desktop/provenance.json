@@ -1,0 +1,10 @@
+{
+  "package": "agent-desktop",
+  "version": "1.2.0",
+  "repository": "https://github.com/vercel-labs/agent-desktop",
+  "release": "https://github.com/vercel-labs/agent-desktop/releases/tag/v1.2.0",
+  "reviewedMainCommit": "b43ac4f6e892ef608f8851428613c4009f0e84c7",
+  "checkedAtKST": "2026-11-06",
+  "license": "Apache-2.0",
+  "npmIntegrity": "sha512-sp8hHs8JfnuZe8ZQwiKZrqSOlu26SSeZXkjDog4KsU31L09G3uZJa8pITGN2vORif9uuh0iOSJHD146CEyTqag=="
+}

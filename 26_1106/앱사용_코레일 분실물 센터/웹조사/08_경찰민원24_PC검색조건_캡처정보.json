@@ -1,0 +1,33 @@
+{
+  "url": "https://minwon24.police.go.kr/cvlcpt/cvlcptAply.do?cvlcptId=MW-201&keyword=",
+  "title": "습득물 검색 | 조회하기",
+  "width": 1280,
+  "height": 1000,
+  "scrollY": 1064.800048828125,
+  "targets": [
+    {
+      "selector": "#pkupPlcSeCd",
+      "label": "1. 습득장소: 기차",
+      "x": 917.4500122070312,
+      "y": 117.625,
+      "w": 260.95001220703125,
+      "h": 40
+    },
+    {
+      "selector": "#kpngPlcNm",
+      "label": "2. 보관장소: 서울역",
+      "x": 149.47500610351562,
+      "y": 169.625,
+      "w": 260.9125061035156,
+      "h": 40
+    },
+    {
+      "selector": "button[onclick=\"fn_gridSearch_4(1)\"]",
+      "label": "3. 검색하기",
+      "x": 633.9125366210938,
+      "y": 350.0249938964844,
+      "w": 77.4625015258789,
+      "h": 40
+    }
+  ]
+}

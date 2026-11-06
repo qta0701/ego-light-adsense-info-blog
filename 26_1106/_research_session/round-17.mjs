@@ -1,0 +1,10 @@
+import {mobile,capture,root} from './capture.mjs';const fs=await import('node:fs/promises');const t=await taskSpace(1);const s=t.page('p4');const q=t.page('p3');const p=t.page('p1');
+await mobile(s);await capture(s,'앱사용_카카오톡 무료 이모티콘','05_과거미니프로모션_현재접속확인',[{text:'페이지를 찾을 수 없습니다.',label:'과거 링크는 현재 이용 불가'}]);
+await p.cdp('Emulation.setDeviceMetricsOverride',{width:1280,height:1000,deviceScaleFactor:1,mobile:false});
+await p.evaluate(()=>[...document.querySelectorAll('h3,h4,h5,strong')].find(e=>e.textContent.trim()==='은반지').scrollIntoView({block:'start',behavior:'instant'}));
+await capture(p,'앱사용_코레일 분실물 센터','11_기차서울역_습득물검색결과',[{text:'은반지',label:'실제 조건 검색 결과 예시'},{text:'서울역(한국철도공사)',label:'보관 장소 확인'}]);
+await p.goto('https://minwon24.police.go.kr/cvlcpt/cvlcptGdInfo.do?cvlcptId=MW-001');await mobile(p);console.log('REPORT',await p.snapshot());
+await q.goto('https://www.korail.com/ticket/main');await mobile(q);await q.waitForSelector('button.btn-allmenu_m');
+await capture(q,'앱사용_코레일 분실물 센터','09_코레일_모바일홈',[{selector:'button.btn-allmenu_m',label:'전체 메뉴 열기'}]);
+console.log('LOST LINKS',await q.evaluate(()=>[...document.querySelectorAll('a')].filter(a=>a.textContent.trim()==='유실물').map(a=>({html:a.outerHTML}))));
+await s.goto('https://www.google.com/search?q='+encodeURIComponent('카카오 이모티콘 카드 뽑기 2026 10 12'));console.log('EVENT SEARCH',await s.evaluate(()=>({text:document.body.innerText.slice(0,4200),links:[...document.querySelectorAll('a')].filter(a=>a.querySelector('h3')).map(a=>({title:a.innerText,url:a.href}))})));

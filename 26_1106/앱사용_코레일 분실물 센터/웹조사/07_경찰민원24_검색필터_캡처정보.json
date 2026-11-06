@@ -1,0 +1,17 @@
+{
+  "url": "https://minwon24.police.go.kr/cvlcpt/cvlcptAply.do?cvlcptId=MW-201&keyword=",
+  "title": "습득물 검색 | 조회하기",
+  "width": 390,
+  "height": 844,
+  "scrollY": 1004,
+  "targets": [
+    {
+      "text": "검색 필터",
+      "label": "검색 조건 펼치기",
+      "x": 16,
+      "y": -0.30000001192092896,
+      "w": 358.3999938964844,
+      "h": 57.5
+    }
+  ]
+}

@@ -1,4 +1,6 @@
-# Chrome Agent & Ego-lite 완벽 활용 가이드라인
+# Chrome Agent · Ego-lite · agent-desktop 활용 가이드라인
+
+현재 실행 기준은 **3·4·6절 및 [agent-desktop 통합 가이드](AGENT_DESKTOP_GUIDE.md)**다.
 
 이 문서는 `ego-light-adsense-info-blog` 프로젝트에서 AI 에이전트(Antigravity, Claude Code, Codex 등) 및 개발자가 **sderosiaux/chrome-agent**, **captivus/chrome-agent**, 그리고 AI 전용 브라우저 **citrolabs/ego-lite**를 상황에 따라 최적으로 선택하고 상호 결합하여 활용하기 위한 통합 기술 지침서입니다.
 
@@ -124,85 +126,56 @@
 
 ---
 
-## 3. 세 도구의 하이브리드 결합 시나리오 (Hybrid Workflows)
+## 3. 네 도구의 하이브리드 결합 시나리오 (Hybrid Workflows)
 
-```
-       ┌────────────────────────────────────────────────────────┐
-       │                citrolabs/ego-lite                      │
-       │  (사용자의 실제 로그인 세션 상속 + 격리된 Task Space)      │
-       │  Remote Debugging Port: http://127.0.0.1:9222          │
-       └────────────────────────┬───────────────────────────────┘
-                                │
-               ┌────────────────┴────────────────┐
-               ▼                                 ▼
-┌───────────────────────────────┐ ┌───────────────────────────────┐
-│     sderosiaux/chrome-agent   │ │    captivus/chrome-agent      │
-│  (--connect 127.0.0.1:9222)   │ │  (attach / Raw CDP Input)     │
-│  - 50~500 토큰 초저비용 스크랩  │ │  - 실시간 애드센스 패킷 감시   │
-│  - Readability 기사 본문 추출 │ │  - isTrusted=true 안티봇 돌파 │
-└───────────────────────────────┘ └───────────────────────────────┘
+2026-11-06 갱신. 기존 세 브라우저 도구에 **vercel-labs/agent-desktop 1.2.0**을 네이티브 앱용 보완 도구로 추가했다. 이 절과 4·6절, [agent-desktop 가이드](AGENT_DESKTOP_GUIDE.md)를 현재 실행 기준으로 사용한다. 1·2절의 고정 포트·절대 토큰 수·90% 절감 표현은 환경에 따라 달라지는 종전 설명이며 이번 환경의 측정 결과가 아니다.
+
+```text
+정식 연결 API/도구 → 저장소·시트 등 지원되는 구조화 작업
+ego-lite TaskSpace → 로그인·웹 탐색 → observePage → 로컬 근거 → 필요한 구간만 출력
+ca-rust           → 독립 공개 페이지의 read / extract
+ca-py             → 허용된 대상의 선택적 CDP Network 진단
+agent-desktop     → 필요한 네이티브 앱/창의 UIA skeleton → subtree → 결과 확인
 ```
 
-### 시나리오 1: [ego-lite + sderosiaux] 로그인 세션 유지 + 극단적 토큰 절약 리서치
-- **상황**: 네이버 블로그 관리자, 티스토리 통계, 비공개 포털 등 로그인이 필요한 페이지에서 대량의 데이터를 수집하고 요약해야 할 때.
-- **방식**:
-  1. 사용자가 이미 로그인해 둔 `ego-lite` 브라우저의 디버깅 포트(9222)를 확인합니다.
-  2. `sderosiaux/chrome-agent`를 해당 포트에 외부 연결합니다:
-     ```bash
-     .\bin\ca-rust.cmd --connect http://127.0.0.1:9222 goto https://admin.blog.com --inspect
-     .\bin\ca-rust.cmd --connect http://127.0.0.1:9222 read
-     ```
-  3. **효과**: 2단계 인증이나 캡차 재로그인 없이, 수만 토큰짜리 관리자 화면을 200~300 토큰의 초소형 A11y 트리로 압축하여 읽어들여 LLM 비용을 90% 이상 절감합니다.
+### 시나리오 1: [ego-lite + 로컬 근거 도우미] 로그인 유지와 텍스트 출력 절감
 
-### 시나리오 2: [ego-lite + captivus] 백그라운드 애드센스 네트워크 패킷 감시 & 안티봇 우회
-- **상황**: 블로그 포스팅 페이지를 띄워두고, 실제 구글 광고 도메인(`pagead2.googlesyndication.com`)의 요청과 응답을 패킷 단위로 분석하거나 보안 챌린지를 돌파할 때.
-- **방식**:
-  1. `ego-lite`가 띄운 인스턴스에 `captivus`를 백그라운드 리스너로 연결합니다:
-     ```bash
-     .\bin\ca-py.cmd attach ego-browser-01 +Network.requestWillBeSent +Network.loadingFailed
-     ```
-  2. 만약 Cloudflare Turnstile이나 reCAPTCHA v2가 발생하면, `captivus`의 미트백 래더(CDP `Input.dispatchMouseEvent`)를 가동하여 하드웨어 수준 신뢰 이벤트(`isTrusted=true`)로 돌파합니다.
+1. 설치된 `ego-browser skill`을 읽고 기존 Space·Page를 재사용한다.
+2. 현재 DOM에서 확인한 유일한 본문 영역을 `tools/research_observe.mjs`의 `observePage`로 읽는다. 기본 본문 1,500자·링크 5개만 모델에 반환하고 전체 선택 영역은 로컬에 보존한다.
+3. 같은 내용이면 본문을 재출력하지 않는다. 추가 절은 `readPageEvidence`로 읽는다. 새 UI 조작은 현재 snapshot을 사용한다.
+4. 실제 GitHub README에서 본문 7,256자 → 첫 반환 1,500자 → 동일 재관찰 0자를 확인했다. 이는 문자 수이며 과금 토큰 절감률이 아니다.
 
-### 시나리오 3: [sderosiaux + captivus] 애드센스 블로그 전자동 파이프라인
-- **상황**: 글감 발굴부터 본문 수집, 글 작성, 애드센스 광고 태그 유효성 검증까지 원스톱 처리.
-- **방식**:
-  1. `ca-rust extract`로 IT 트렌드/뉴스 목록 10건 초고속 추출.
-  2. `tools/collect_blog_material.py`로 선정한 글감의 Readability 순수 본문을 마크다운 파일로 저장.
-  3. AI 에이전트가 블로그 SEO 지침에 맞춰 HTML 콘텐츠 생성.
-  4. `tools/check_adsense_network.py`(`ca-py` CDP Client 기반)로 페이지 내 애드센스 스크립트와 광고 슬롯 상태 검증.
+### 시나리오 2: [ego-lite + agent-desktop] 웹과 네이티브 앱의 경계 처리
 
----
+1. 웹 파일 업로드는 ego SDK의 `setInputFiles`/`waitForFileChooser`로 가능한지 먼저 확인한다.
+2. 네이티브 앱·창을 실제로 읽어야 할 때 `bin/agent-desktop.cmd list-apps`, 앱/창을 한정한 `snapshot --skeleton -i --compact`를 사용한다. 실제 반환 ref로 `snapshot --root`를 호출한다. 본문 확인 시 `-i`를 뺀다.
+3. 네이티브 조작이 필요하면 유일한 최신 ref와 동작 결과를 확인하고 같은 ego Space로 돌아온다. 읽기·정밀 조작만 필요한 작업에 전체 화면 캡처를 반복하지 않는다.
+4. **OS 접근성 트리는 ego TaskSpace와 격리되지 않는다.** 사용자의 현재 창을 읽을 수 있고 다른 도구의 ref·세션·포트를 이어받지 않는다. 자동 Space 전환·`--headed` 전환·추가 인증 우회에 사용하지 않는다.
+
+### 시나리오 3: [ca-rust + ca-py] 공개 자료와 애드센스 검증
+
+`ca-rust extract/read` 또는 `tools/collect_blog_material.py`로 공개 글감을 수집하고, 필요한 경우 `tools/check_adsense_network.py`로 광고 요청을 진단한다. 콘텐츠 추출과 Network 진단을 분리하고 선택한 결과·실패 이벤트만 출력한다. 두 도구의 기존 독립 실행 기능은 유지한다.
+
+### 시나리오 4: 외부 CDP 연결이 실제로 제공된 환경
+
+외부 CDP 결합은 해당 브라우저·런타임이 지원하고 대상 엔드포인트와 탭을 확인한 경우에만 선택한다. `127.0.0.1:9222`나 `ca-py attach ego-browser-01`을 보편적인 연결 방법으로 가정하지 않는다. 현재 ego-browser에서는 SDK 공개 API, 필요 시 문서화된 `page.cdp()`를 우선하며 raw CDP 이후 refs를 다시 관찰한다. `EgoLiteBridge`의 TCP 연결 성공은 브라우저 정체성·TaskSpace 격리 검증이 아니다.
 
 ## 4. AI 에이전트 상황별 판단 트리 (Decision Tree)
 
-AI 에이전트는 사용자의 요청을 수신했을 때 아래 판단 기준에 따라 도구를 즉시 선택하고 실행해야 합니다.
-
 ```mermaid
 flowchart TD
-    Start["사용자 브라우저 요청 접수"] --> Cond1{"로그인/사용자 세션이<br>반드시 필요한가?"}
-    
-    Cond1 -- "예" --> UseEgo["ego-lite 활용<br>- 자체 Space 작업<br>- 또는 디버깅 포트 연결"]
-    Cond1 -- "아니오" --> Cond2{"Cloudflare Turnstile,<br>reCAPTCHA, 슬라이더 퍼즐 등<br>강력한 봇 차단이 있는가?"}
-    
-    Cond2 -- "예" --> UseCaptivus1["captivus/chrome-agent<br>- ca-py launch / attach<br>- CDP Input 하드웨어 이벤트 모사<br>- VLM 비전 결합"]
-    Cond2 -- "아니오" --> Cond3{"네트워크 패킷/헤더 감시<br>또는 애드센스 광고 검증인가?"}
-    
-    Cond3 -- "예" --> UseCaptivus2["captivus/chrome-agent<br>- tools/check_adsense_network.py<br>- ca-py attach +Network.*"]
-    Cond3 -- "아니오" --> UseRust["sderosiaux/chrome-agent<br>- ca-rust goto / inspect<br>- ca-rust read 기사 본문 추출<br>- ca-rust extract 목록 추출<br>- 토큰 비용 90% 절감"]
+    A[요청] --> B{정식 연결 도구로 가능한가?}
+    B -- 예 --> API[정식 API로 필요한 범위만 처리]
+    B -- 아니오 --> C{네이티브 앱 또는 창인가?}
+    C -- 예 --> D[agent-desktop 앱/창 한정 관찰]
+    C -- 아니오 --> E{로그인 세션 또는 ego 지정?}
+    E -- 예 --> F[ego SDK + observePage]
+    E -- 아니오 --> G{Network 진단인가?}
+    G -- 예 --> H[ca-py 선택적 이벤트]
+    G -- 아니오 --> I[ca-rust read/extract]
 ```
 
-### 📋 판단 기준 체크리스트
-
-| 요청 유형 | 추천 도구 및 명령어 | 선택 이유 |
-| :--- | :--- | :--- |
-| **"이 기사/블로그 본문 읽고 요약해줘"** | `.\bin\ca-rust.cmd goto <URL>`<br>`.\bin\ca-rust.cmd read` | 광고/메뉴를 배제한 순수 본문만 500토큰 내외로 즉시 추출 (가장 저렴하고 빠름) |
-| **"뉴스/쇼핑몰 목록 10개만 뽑아줘"** | `.\bin\ca-rust.cmd goto <URL>`<br>`.\bin\ca-rust.cmd extract --limit 10` | 셀렉터 없이도 MDR 알고리즘이 표/목록 데이터를 자동 구조화 |
-| **"글감 찾아서 파일로 저장해줘"** | `.\.venv\Scripts\python.exe tools/collect_blog_material.py <URL>` | 본문(`read`)과 목록(`extract`)을 마크다운으로 원클릭 저장 |
-| **"이 사이트 캡차(Turnstile/reCAPTCHA) 뚫어줘"** | `.\bin\ca-py.cmd launch`<br>CDP `Input.dispatchMouseEvent` (미트백 래더) | `isTrusted=true` 하드웨어 마우스 이벤트 모사로 안티봇 통과 |
-| **"내 블로그 애드센스 광고 잘 뜨는지 확인해줘"** | `.\.venv\Scripts\python.exe tools/check_adsense_network.py <URL>` | `adsbygoogle.js`, 퍼블리셔 ID, 광고 슬롯, 구글 광고 네트워크 요청 진단 |
-| **"내 네이버/티스토리 블로그 관리자에서 작업해줘"** | `ego-lite` 또는 `ca-rust --connect http://127.0.0.1:9222` | 사용자 로그인 세션과 2FA 쿠키를 그대로 활용하면서 마우스 간섭 방지 |
-
----
+추가 인증·캡차·사용자 제어 전환에서는 해당 상태를 보고하고 사용자 처리를 기다린다. 새 프로필·새 Space·다른 도구를 통한 우회로 바꾸지 않는다. agent-desktop은 웹조사의 자동 기본값이 아니며 실제 필요할 때만 추가한다.
 
 ## 5. 파이썬 라이브러리 연동 코드 예시
 
@@ -223,7 +196,8 @@ inst = py_bot.launch(headless=True)
 py_bot.send_cdp(inst["name"], "Page.navigate", {"url": "https://example.com"})
 py_bot.stop(inst["name"])
 
-# 3. ego-lite 브라우저 인스턴스에 원클릭 연결
+# 3. 레거시 외부 CDP 예제: 지원된 엔드포인트를 검증한 환경에서만 사용
+# 현재 ego-browser 작업의 기본 경로는 SDK + research_observe.mjs (3절 참고)
 ego_bridge = EgoLiteBridge(port=9222)
 if ego_bridge.is_available():
     # ego-lite의 로그인 세션을 활용하여 sderosiaux로 초저비용 읽기
@@ -231,3 +205,17 @@ if ego_bridge.is_available():
     article = connected_rust.read_article("https://admin.mysite.com")
     print("인증 세션 본문:", article[:200])
 ```
+
+## 6. ego-browser 명시 요청 시 실전 보완 (2026-11-06)
+
+- 사용자가 ego-browser를 지정하면 도구 선택표의 일반 기본값보다 그 요청을 우선한다. `ego-browser skill`을 끝 표시까지 읽고 실제 브라우저 작업을 먼저 시도한다.
+- 기본은 작업 하나에 TaskSpace 하나다. **사용자가 키워드별 개별 Space 병렬 조사를 요청한 경우에는 키워드 하나당 하나**를 만들고 기본 2개, 최대 3개를 동시에 진행한다. 복합 키워드에서 두 검색어를 쓰더라도 메인 키워드의 Space는 하나다. 각 Space는 저장된 `spaceId`로 재개하며, 연결·페이지 오류를 복구한다며 Space를 계속 만들지 않는다. 자세한 실행·분량 기준은 `웹자료수집.md`를 따른다.
+- Windows PowerShell에서는 비ASCII·여러 줄 스크립트를 UTF-8 `.mjs`로 만들고 `ego-browser nodejs -e "await import('file:///.../round-01.mjs')"`처럼 실행한다. 라운드별 파일을 새로 만들어 이전 단계를 재실행하지 않는다.
+- 기본 샌드박스에서 bootstrap 연결이 차단되면 같은 명령에 대해 실행 환경의 승인·권한 절차를 따른다. 다른 브라우저나 새 사용자 프로필로 임의 대체하지 않는다.
+- CLI 공개 API를 우선한다. 외부 CDP 포트가 항상 9222라고 가정하지 않는다. 필요하면 SDK의 `page.cdp()`를 사용한다.
+- CDP 호출은 snapshot ref를 무효화할 수 있다. 이후 오래된 ref를 재사용하지 말고 새 snapshot이나 확인된 의미 기반 selector를 쓴다.
+- Google 결과는 새 탭을 열 수 있다. 클릭 반환값·popup 대기·`task.tabs()`로 새 Page를 확인한다.
+- 모바일 에뮬레이션은 라운드·탭 전환 후 PC 크기로 돌아갈 수 있다. 촬영 직전 뷰포트와 실제 이미지 크기를 확인한다. 필요하면 `Emulation.setDeviceMetricsOverride` → 렌더링 프레임 대기 → `Page.captureScreenshot`으로 원본을 저장한다.
+- smooth scroll·필터 애니메이션·팝업 닫힘을 기다린다. 실제 요소 표시·결과 변경을 대기 조건으로 삼고 변동하는 검색 건수에만 조건을 고정하지 않는다.
+- 관찰한 공식 이미지 URL만 다운로드한다. 공개 이미지의 `page.fetch` CORS 제한에는 문서화된 Node `fetch`를 사용할 수 있으며 포맷·출처를 기록한다.
+- 성공적으로 작업을 마치면 `task.finish({keep:[]})`를 정확히 한 번 호출한다. 결과는 파일로 보존하므로 조사 탭을 불필요하게 남기지 않는다.
