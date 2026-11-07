@@ -1,0 +1,1 @@
+const t=await taskSpace(2),p=t.page('p1');await p.click('[data-uia="top10-category-select-selected"]');console.log(JSON.stringify(await p.evaluate(()=>[...document.querySelectorAll('[role="option"]')].filter(e=>/Movies/.test(e.innerText)).map(e=>({text:e.innerText,html:e.outerHTML.slice(0,500)})))));

@@ -1,0 +1,10 @@
+import {capture} from '../../../tools/research_browser.mjs';
+const t3=await taskSpace(3), p3=t3.page('p1');
+await p3.cdp('Emulation.setDeviceMetricsOverride',{width:1100,height:850,deviceScaleFactor:1,mobile:false});
+await p3.evaluate(()=>document.querySelector('a[href="https://help.netflix.com/ko/node/41299"]').scrollIntoView({block:'center'}));
+console.log('search55',JSON.stringify(await capture(p3,'26_1107/앱사용_넷플릭스 성인인증 방법/웹조사','search', ['a[href="https://help.netflix.com/ko/node/41299"]'],{width:1100,height:850})));
+const tasks=await Promise.all([1,2].map(id=>taskSpace(id)));
+const q=['site:netflix.com/tudum/top10 south korea films netflix top 10','site:netflix.com/tudum/top10 netflix top 10 weekly'];
+console.log(JSON.stringify(await Promise.all(tasks.map(async(t,i)=>{let p=t.page('p1');await p.goto('https://www.google.com/search?q='+encodeURIComponent(q[i]));return {id:t.spaceId,links:await p.evaluate(()=>Array.from(document.querySelectorAll('a')).filter(a=>a.querySelector('h3')).slice(0,8).map(a=>({text:a.innerText,href:a.href})))};}))));
+await p3.goto('https://help.netflix.com/ko/node/41299');
+console.log('help',JSON.stringify({url:await p3.url(),text:await p3.evaluate(()=>document.body.innerText.slice(0,9000))}));

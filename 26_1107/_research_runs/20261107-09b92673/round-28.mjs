@@ -1,0 +1,2 @@
+const t=await taskSpace(1),p=t.page('p1');await p.goto('https://www.google.com/search?q='+encodeURIComponent('site:netflix.com "끝장수사" 한국 영화 The Ultimate Duo'));
+console.log(JSON.stringify({links:await p.evaluate(()=>[...document.querySelectorAll('a')].filter(a=>a.querySelector('h3')).slice(0,8).map(a=>({text:a.innerText,href:a.href}))),text:(await p.evaluate(()=>document.body.innerText)).slice(0,3500)}));

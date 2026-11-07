@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0%20%EA%B3%84%EC%A2%8C%EA%B1%B0%EB%9E%98",
+  "title": "번개장터 계좌거래 - Google 검색",
+  "width": 1164,
+  "height": 818,
+  "scrollX": 0,
+  "scrollY": 607.272705078125,
+  "devicePixelRatio": 1.1000000163912773,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1149.8182373046875,
+    "height": 818.1818237304688,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 14,
+    "height": 0
+  },
+  "targets": [
+    [
+      136.90908813476562,
+      450.2613830566406,
+      435.8977355957031,
+      44.806819915771484
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "boxes": [
+    [
+      150,
+      495,
+      480,
+      50
+    ]
+  ],
+  "pixelSize": {
+    "width": 1280,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0998280994155758,
+    "y": 1.0999999925401476
+  },
+  "rasterViewport": {
+    "width": 1163.8182373046875,
+    "height": 818.1818237304688
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-07T09:33:46.324Z"
+}

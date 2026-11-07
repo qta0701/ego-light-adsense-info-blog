@@ -1,0 +1,3 @@
+import {observePage} from '../../../tools/research_observe.mjs';
+const data=[{id:1,url:'https://www.netflix.com/tudum/top10/south-korea',folder:'26_1107/앱사용_11월 넷플릭스 한국영화 순위/웹조사'},{id:2,url:'https://www.netflix.com/tudum/top10',folder:'26_1107/앱사용_11월 넷플릭스 오리지널 순위/웹조사'},{id:3,url:'https://help.netflix.com/ko/node/41299',folder:'26_1107/앱사용_넷플릭스 성인인증 방법/웹조사'}];
+console.log(JSON.stringify(await Promise.all(data.map(async x=>{const t=await taskSpace(x.id),p=t.page('p1');if(x.id!==3)await p.goto(x.url);return {id:x.id,observation:await observePage(p,x.folder,'official',{selector:'body',maxChars:5000,linksLimit:8}),snapshot:(await p.snapshot()).slice(0,10000)};}))));

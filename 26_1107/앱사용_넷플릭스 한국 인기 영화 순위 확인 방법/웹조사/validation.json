@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-11-07T19:04:13.975668+09:00",
+  "errors": [],
+  "researchSha256": "21dbacbaa5baa7d9e3a85195340d75a299878ccc0de4f8da09340acc2ef00625",
+  "artifactHashes": {
+    "publish\\01_search.png": "2b4e51ba6d1501c4782396adb2222db56d95a95695ccca7a07165059f4527701",
+    "publish\\02_guide.png": "595ddb95d752ac3256e894559c56586eb52de510f53e1659bbab51635df82aa1",
+    "publish\\03_guide.png": "648548d07c65a8e9a2d6f0b262b4596f71b393f36990d7ee5341f94a87298f8b",
+    "publish\\04_guide.png": "84cd60e575e54ffc0ccfb0754189aa54b9359f62d37e6bcb73a9574517ce66b8",
+    "publish\\05_guide.png": "ffc1697f9f4311e99a8d002506ead600697b7e5be4df762e592f98101010dd42",
+    "publish\\앱사용_넷플릭스 한국 인기 영화 순위 확인 방법_웹조사결과.md": "451763d77d38e5b2384790eee4a0c3e7a94c7b5b6077aea77fbac4e900506e95"
+  },
+  "visualReviewed": true,
+  "status": "ready_for_sheet"
+}

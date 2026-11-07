@@ -1,0 +1,54 @@
+{
+  "url": "https://help.bunjang.co.kr/faq/3/629",
+  "title": "번개장터 고객센터",
+  "width": 1280,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1280,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 0,
+    "height": 0
+  },
+  "targets": [
+    [
+      340,
+      246.1999969482422,
+      600,
+      42
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "boxes": [
+    [
+      340,
+      246,
+      600,
+      43
+    ]
+  ],
+  "pixelSize": {
+    "width": 1280,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-07T09:35:22.297Z"
+}

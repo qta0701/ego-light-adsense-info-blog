@@ -1,0 +1,54 @@
+{
+  "url": "https://www.netflix.com/verifyage",
+  "title": "넷플릭스 - 온라인으로 시리즈 및 영화 시청",
+  "width": 900,
+  "height": 700,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 884.7999877929688,
+    "height": 700,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      74.125,
+      110,
+      736.5499877929688,
+      49.60000228881836
+    ]
+  ],
+  "requestedViewport": {
+    "width": 900,
+    "height": 700
+  },
+  "boxes": [
+    [
+      74,
+      110,
+      737,
+      50
+    ]
+  ],
+  "pixelSize": {
+    "width": 900,
+    "height": 700
+  },
+  "pixelScale": {
+    "x": 1.000222285185313,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 899.7999877929688,
+    "height": 700
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-07T09:43:08.387Z"
+}

@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-11-07T18:41:49.576486+09:00",
+  "errors": [],
+  "researchSha256": "e696c9cfcb8290c4fadf3213ee8248cd8e2aad59e52ec972f2b24a1cd5ca4be2",
+  "artifactHashes": {
+    "publish\\01_search.png": "5d78bd6ffd353655ee578a85cc710fc5a54eaab37c32de4de67426ace05f2d23",
+    "publish\\02_guide.png": "5630fb264d77b74028d144f06aaf8966267996bb745d1714408b7c4c7a273379",
+    "publish\\03_guide.png": "041903a9a948e1144e301c89c244f1e25272ec90d27bbdbc8275d57dc4d9f23b",
+    "publish\\04_guide.png": "7bcec7ace71b6acfa404a7be1c4e5e443e0afa6cb9628c2c22096bdaed903bdf",
+    "publish\\05_guide.png": "b238dfed6775045ab664e56f204dfcf38978551faa36e5b0f90db767626292d0",
+    "publish\\앱사용_당근마켓 전국검색_웹조사결과.md": "3660ab0a4af8611139e46d97ece704b6871ef89d88d503d2dc7a1c7994fe451f"
+  },
+  "visualReviewed": true,
+  "status": "ready_for_sheet"
+}

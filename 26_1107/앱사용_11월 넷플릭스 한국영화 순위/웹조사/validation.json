@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-11-07T18:50:57.288799+09:00",
+  "errors": [],
+  "researchSha256": "52818efebe0dba06d46d1ce30969d38d8d683fd2c6b0508aa405a7a2c132e4ee",
+  "artifactHashes": {
+    "publish\\01_search.png": "7f0b5fe0d905f4eb171b2d4de69bc867bdc1951dc8e91fc6f849891ef5e9f2ad",
+    "publish\\02_guide.png": "9ebd3011884fd5f96038d56bb900b759b596035527182dfe6f278173f31caf8e",
+    "publish\\03_guide.png": "ba0c2e7e15c166e948a1074337d69cbdd2516713d185f95316e0187a5adadcec",
+    "publish\\04_guide.png": "23e865911e7e08144e15be114d40d59bd00b8049642bddd30c49328a95526342",
+    "publish\\05_guide.png": "157b2d852b00b2494f3193ddf4f6d6c63b26ec7024c04d43b5016ce12e72bac2",
+    "publish\\앱사용_11월 넷플릭스 한국영화 순위_웹조사결과.md": "972170bebaa49894fa2b7287524687381934cf548dd9164e9870a0404b5ad181"
+  },
+  "visualReviewed": true,
+  "status": "ready_for_sheet"
+}

@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-11-07T18:50:57.241071+09:00",
+  "errors": [],
+  "researchSha256": "de09675f6f9ed90b8d7422ccff3b407b7645570bc730bdcc3db1bd18fd416112",
+  "artifactHashes": {
+    "publish\\01_search.png": "3a588f0b3eb9fb63654d490329fd908757e2fdefd7092411f8dfbe3498008aba",
+    "publish\\02_guide.png": "17e62027559e26eed96023f17c77b56e9a085385094576479dacc99a71080b75",
+    "publish\\03_guide.png": "d014814a431c37e76c67b1c3f9bad585029c39b9b4d44190d2783aa534068417",
+    "publish\\04_guide.png": "54f053c07aec7a8c1c74b6a72dcae38af5ab4e27d1c031af0792e67b35cc07be",
+    "publish\\05_guide.png": "e09f4c642decd0f45de8380b0a0e0ba0a2b59fa8046281dcc1aed6abbad628d0",
+    "publish\\06_guide.png": "c66ca6b1eff3f839f8f7acafad9bc4e3e2592334251d489d7d1287d6fd82e1e4",
+    "publish\\앱사용_넷플릭스 성인인증 방법_웹조사결과.md": "b54872f1e401ce21cf0dfb45d939300f27c8491afbd472200b6199d3f0e435c7"
+  },
+  "visualReviewed": true,
+  "status": "ready_for_sheet"
+}

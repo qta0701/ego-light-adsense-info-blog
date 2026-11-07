@@ -1,0 +1,4 @@
+import {observePage} from '../../../tools/research_observe.mjs';
+const a=[{id:1,url:'https://www.netflix.com/kr/browse/genre/5685',folder:'26_1107/앱사용_11월 넷플릭스 한국영화 순위/웹조사',name:'korean-films'},{id:2,url:'https://www.netflix.com/tudum/articles/kpop-demon-hunters-release-date-cast-news',folder:'26_1107/앱사용_11월 넷플릭스 오리지널 순위/웹조사',name:'kpop-film'}];
+console.log(JSON.stringify(await Promise.all(a.map(async j=>{const t=await taskSpace(j.id),p=t.page('p1');await p.goto(j.url);return {id:j.id,observation:await observePage(p,j.folder,j.name,{selector:'body',maxChars:3500,linksLimit:5})};}))));
+const t=await taskSpace(3),p=t.page('p1');console.log('errors',JSON.stringify(await p.evaluate(()=>[...document.querySelectorAll('p')].filter(e=>e.innerText.includes('입력하신 정보가 맞지')).map(e=>e.parentElement.outerHTML.slice(0,4000)))));

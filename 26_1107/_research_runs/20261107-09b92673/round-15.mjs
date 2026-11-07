@@ -1,0 +1,2 @@
+const t=await taskSpace(3),p=t.page('p1');
+console.log(JSON.stringify(await p.evaluate(()=>[...document.querySelectorAll('p.export-block__parent')].slice(0,10).map(e=>{let a=[],n=e;while(n&&n!==document.body){let i=1;for(let s=n.previousElementSibling;s;s=s.previousElementSibling)if(s.tagName===n.tagName)i++;a.unshift(n.tagName.toLowerCase()+':nth-of-type('+i+')');n=n.parentElement;}return {text:e.innerText.slice(0,80),selector:'body > '+a.join(' > ')};}))));

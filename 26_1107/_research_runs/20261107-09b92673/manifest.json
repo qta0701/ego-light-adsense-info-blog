@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "runId": "20261107-09b92673",
+  "date": "2026-11-07",
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "concurrency": 3,
+  "jobs": [
+    {
+      "tab": "앱사용",
+      "row": 53,
+      "keyword": "11월 넷플릭스 한국영화 순위",
+      "queries": [
+        "11월 넷플릭스 한국영화 순위"
+      ],
+      "multiIntent": false,
+      "folder": "26_1107/앱사용_11월 넷플릭스 한국영화 순위/웹조사",
+      "spaceName": "research-20261107-09b92673-53-0"
+    },
+    {
+      "tab": "앱사용",
+      "row": 54,
+      "keyword": "11월 넷플릭스 오리지널 순위",
+      "queries": [
+        "11월 넷플릭스 오리지널 순위"
+      ],
+      "multiIntent": false,
+      "folder": "26_1107/앱사용_11월 넷플릭스 오리지널 순위/웹조사",
+      "spaceName": "research-20261107-09b92673-54-1"
+    },
+    {
+      "tab": "앱사용",
+      "row": 55,
+      "keyword": "넷플릭스 성인인증 방법",
+      "queries": [
+        "넷플릭스 성인인증 방법"
+      ],
+      "multiIntent": false,
+      "folder": "26_1107/앱사용_넷플릭스 성인인증 방법/웹조사",
+      "spaceName": "research-20261107-09b92673-55-2"
+    }
+  ]
+}

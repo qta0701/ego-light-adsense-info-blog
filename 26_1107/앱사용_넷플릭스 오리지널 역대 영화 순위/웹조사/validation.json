@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-11-07T19:04:14.076604+09:00",
+  "errors": [],
+  "researchSha256": "ad266204ba282936dda2fd724a89d59b6199947170eda86ece7e8faf93545220",
+  "artifactHashes": {
+    "publish\\01_search.png": "e4d0b9093a0f7078edf0c6d478618b6f727a2b838d9c259e018d95aee4c29d1f",
+    "publish\\02_guide.png": "3a57ac62bc5b085b784a5bf9adb2b187107731dd9e949ca7fd5c87d49491b00e",
+    "publish\\03_guide.png": "34163d808972b2eebcd5a5564be6f97c43d1977fc6cc15c65d088cc6043bb463",
+    "publish\\04_guide.png": "a23b377f1c3feece609e15a2ec3b95bd642e4daf6ee661b4c872f5c248e296bb",
+    "publish\\05_guide.png": "45930bd3fb0c6d41f98826ff323e7794447152d6fcf618c8a6ac3b86a992b7de",
+    "publish\\06_guide.png": "493a8271f836d35331d06dd0e587b1232830957f101b6c70fbd015a2a5f7fdc7",
+    "publish\\앱사용_넷플릭스 오리지널 역대 영화 순위_웹조사결과.md": "1b4da66b1c1f2a7e8c6374e599d76290860a8a97764618fb679ee70b53890ba0"
+  },
+  "visualReviewed": true,
+  "status": "ready_for_sheet"
+}

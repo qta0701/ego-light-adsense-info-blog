@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "runId": "20261107-63550a20",
+  "date": "2026-11-07",
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "concurrency": 3,
+  "jobs": [
+    {
+      "tab": "앱사용",
+      "row": 50,
+      "keyword": "당근마켓 전국검색",
+      "queries": [
+        "당근마켓 전국검색"
+      ],
+      "multiIntent": false,
+      "folder": "26_1107/앱사용_당근마켓 전국검색/웹조사",
+      "spaceName": "research-20261107-63550a20-50-0"
+    },
+    {
+      "tab": "앱사용",
+      "row": 51,
+      "keyword": "번개장터 계좌거래",
+      "queries": [
+        "번개장터 계좌거래"
+      ],
+      "multiIntent": false,
+      "folder": "26_1107/앱사용_번개장터 계좌거래/웹조사",
+      "spaceName": "research-20261107-63550a20-51-1"
+    },
+    {
+      "tab": "앱사용",
+      "row": 52,
+      "keyword": "11월 넷플릭스 드라마 순위",
+      "queries": [
+        "11월 넷플릭스 드라마 순위"
+      ],
+      "multiIntent": false,
+      "folder": "26_1107/앱사용_11월 넷플릭스 드라마 순위/웹조사",
+      "spaceName": "research-20261107-63550a20-52-2"
+    }
+  ]
+}
