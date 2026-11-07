@@ -7,6 +7,9 @@ description: 애드센스 블로그스팟 HTML 스타일 및 CSS 클래스 가�
 > HTML 구조, CSS 클래스, 색상/디자인 규칙을 다룹니다.
 > 콘텐츠 작성 지침은 `/html-content-guide`를 참고하세요.
 
+> **웹조사·캡처 기반 글(2026-11-07)**: [html-content-guide.md 0절](html-content-guide.md#0-웹조사캡처-기반-blogger-콘텐츠-제작-계약-2026-11-07)의 근거·이미지 배치·출력 계약을 우선한다. 아래 고정된 표·CTA·출처 개수는 해당 작업에서 필수가 아니다. 기존 클래스와 색상은 활용하되 설명 문단 → 이미지·캡션 → 결과/주의점의 흐름을 유지한다. 대상 테마의 CSS·대표 이미지·스키마 동작은 실제 미리보기에서 확인한다.
+> 중복 검사, 독립 채팅/3개 Space 병렬 실행, 시트 D/G/H/L 상태 기록은 [Blogger 운영 가이드](../guidelines/BLOGGER_CONTENT_WORKFLOW.md)를 따른다.
+
 ---
 
 ## 개요
@@ -158,20 +161,49 @@ description: 애드센스 블로그스팟 HTML 스타일 및 CSS 클래스 가�
 
 ### ✅ 8. 이미지 (Images)
 
-**규칙**: 본문 내에 삽입되는 첫 번째 이미지는 블로그 테마에서 자동으로 **대표 이미지(Featured Image)**로 인식되어, `BlogPosting` 스키마 및 SNS 공유용 Open Graph 이미지(`og:image`, `twitter:image`)에 바인딩됩니다. 따라서 다음 규칙을 반드시 준수해야 합니다.
+**규칙**: 이미지가 설명하는 행동·조건과 가까운 곳에 배치하고 `seo-image-container`, `seo-image`, `seo-image-caption`을 사용한다. **대표 이미지와 첫 이미지의 연결은 대상 테마에서 확인**한다. 실제 테마를 확인하지 않고 `BlogPosting`·Open Graph 바인딩을 보장하지 않는다.
 
-- **대표 이미지 필수 배치**: 본문 최상단(서론 직후 또는 첫 번째 H2 이전)에 반드시 첫 번째 이미지를 고화질로 배치합니다.
-- **ALT 속성 필수 작성**: 이미지의 `alt` 속성은 검색엔진 봇에게 이미지를 설명하는 메타데이터입니다. 메인 키워드를 자연스럽게 포함하여 작성하세요. (예: `alt="청년 버팀목 전세자금대출 신청 자격 요건 안내"`).
-- **Core Web Vitals 속도 최적화**: 페이지 로딩 속도를 위해 가급적 압축률이 우수한 **WebP 포맷**을 사용하고, 해상도 대비 파일 용량을 최소화합니다.
+- **대표 이미지 추천**: 수집한 이미지 중 핵심 내용을 잘 설명하는 것을 TXT에 추천한다. 첫 이미지를 대표로 사용하는 테마라도 절차 순서를 깨거나 동일 이미지를 두 번 넣지 않는다. 별도 표지 이미지가 필요하면 보완 항목으로 기록하며 임의 이미지를 만들지 않는다.
+- **ALT 속성 필수 작성**: 화면과 강조 지점을 간결하게 설명한다. 키워드는 의미가 맞을 때 자연스럽게 포함하며 모든 이미지에 같은 키워드 나열을 반복하지 않는다. 캡션에는 독자가 확인할 동작·결과와 필요한 날짜·화면 종류를 쓴다.
+- **포맷·해상도**: PNG/JPEG/WebP 등 실제 수집 파일의 형식을 확인한다. WebP 변환은 선택 사항이며 확장자만 바꾸지 않는다. 작은 UI 글자·빨간 표식·가림 영역이 손상될 정도로 압축하거나 자르지 않는다. 파생본이 필요하면 원본을 보존하고 새 파일 경로·실제 크기를 TXT에 갱신해 재검수한다.
+- **반응형**: `max-width: 100%; height: auto; display: block;`으로 비율을 유지하고 고정 높이·`object-fit: cover`로 안내 화면을 자르지 않는다. `width`와 `height` 속성은 실제 이미지 픽셀 크기를 쓴다. 첫 주요 이미지는 지연 로딩을 강제하지 않고 하단 이미지는 `loading="lazy"`를 적용할 수 있다.
+- **가독성**: 캡션은 16px 이상으로 표시하고 모바일에서 표식·버튼명을 읽을 수 있는지 확인한다. PC 전체 화면이 너무 작으면 본문 설명을 보완하거나 별도의 검수된 상세 이미지를 사용한다. 확대 링크가 필요하면 실제 업로드된 이미지 URL을 사용한다.
 - **이미지 래퍼 (separator) 배경 규칙**: 블로거가 기본으로 삽입하는 `.separator` 클래스 영역에는 어떠한 파란색 배경(#F0F3FF)이나 추가 테두리(border), 그림자(box-shadow)를 부여하지 않고, **완전한 투명(transparent) 배경**으로 렌더링되게 리셋되어 있습니다. 이미지가 여백 공간으로 인해 가려지거나 답답하게 렌더링되지 않도록 보장합니다.
 - **스타일 규격**: 본문 개별 삽입 시 아래 캡션 컨테이너를 함께 제공합니다.
 
 ```html
 <div class="seo-image-container">
-    <img src="image.webp" alt="메인 키워드가 들어간 이미지 설명" class="seo-image">
+    <img src="{{BLOGGER_IMAGE_URL_IMG_01}}" alt="실제 화면의 강조 지점을 설명하는 문구" class="seo-image" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <p class="seo-image-caption">여기에 이미지 캡션(설명)을 입력하세요</p>
 </div>
 ```
+
+#### 8-1. 웹조사 이미지 슬롯과 본문 연결
+
+아래는 **업로드 전 초안의 형식 예시**다. 예시의 크기·문구·ID는 실제 선택 이미지와 글에 맞게 작성한다. 치환 토큰은 실제 URL이 아니므로 그대로 공개 발행하지 않는다. 이미지 경로·출처·추천 업로드 순서는 [콘텐츠 가이드 0.6절](html-content-guide.md#06-제목메타-txt-필수-구성)의 TXT에 기록한다.
+
+```html
+<h2 id="section-method">1. 지역을 바꿔 검색하는 방법</h2>
+<h3 id="step-region">지역 변경 창에서 동네 이름 입력</h3>
+<p id="step-region-intro" class="seo-text">지역 변경 창의 입력란에 찾을 동네 이름을 입력합니다.</p>
+<!-- IMAGE_SLOT:IMG_01 START -->
+<div id="img-01" data-image-id="IMG_01" class="seo-image-container" style="margin: 24px 0; background: transparent;">
+    <img src="{{BLOGGER_IMAGE_URL_IMG_01}}"
+         alt="당근 PC 웹 지역 변경 창에서 동네 이름을 입력하는 위치"
+         class="seo-image" width="1280" height="998"
+         style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <p class="seo-image-caption" style="font-size: 16px; line-height: 1.6;">지역 이름 입력란을 확인하세요. 2026년 11월 7일 PC 웹 화면 기준입니다.</p>
+</div>
+<!-- IMAGE_SLOT:IMG_01 END -->
+<p id="step-region-result" class="seo-text">검색된 동네 이름이 같다면 시·구를 구분해 원하는 지역을 선택합니다.</p>
+```
+
+- 예시 `IMG_01`은 **본문 슬롯 ID**다. 실제 파일이 `03_guide.png`여도 사용할 수 있다. TXT에는 `IMG_01 → 03_guide.png → 실제 상대경로 → step-region-intro 뒤 / step-region-result 앞`을 대응시킨다. 이미지 안의 빨간 `1`을 파일번호나 전체 절차 순서로 바꾸어 읽지 않는다.
+- 같은 글 안에서 H2/H3·문단·이미지의 `id`는 중복되지 않아야 한다. HTML 속성의 `&`, 따옴표 등은 올바르게 이스케이프한다. 실제 링크와 이미지 URL도 HTML 문법에 맞춰 넣는다.
+- HTML에 PC 절대경로나 원본 파일의 로컬 링크를 넣지 않는다. 업로드 후 슬롯의 `src`만 해당 이미지의 실제 URL로 교체하고 alt·캡션·앞뒤 문장은 유지한다. 필요하면 실제 전체 크기 이미지 링크를 추가하며 CTA 버튼 스타일을 적용하지 않는다.
+- 이미지·캡션을 분리하거나 다른 단계의 이미지와 묶지 않는다. 여러 장이 한 단계를 설명하면 이미지마다 슬롯을 만들고 사이에 화면 전환·확인 포인트를 설명한다. 이미지 블록은 `<p>` 안에 넣지 않고, 목록 안에 넣을 때는 해당 `<li>` 내부에 둔다.
+- 광고·CTA·출처 박스는 행동 설명과 해당 이미지·캡션 사이에 끼우지 않는다. 해당 단계의 결과 설명까지 끝난 뒤 배치한다. 출처 박스도 수집한 실제 근거만 넣으며 개수를 채우지 않는다.
+- Blogger 편집기가 래퍼나 속성을 변경할 수 있으므로 저장 후 실제 순서·URL·alt·캡션을 확인한다. 주석/속성이 제거되면 TXT에 기록한 소제목과 앞뒤 문장으로 슬롯을 찾아 대응을 검증한다.
 
 ---
 
@@ -201,7 +233,7 @@ description: 애드센스 블로그스팟 HTML 스타일 및 CSS 클래스 가�
 <!-- 인트로 직후 CTA 버튼 그룹 -->
 <div style="background-color: #f7fafc; padding: 24px 20px; border-radius: 12px; margin-bottom: 24px; border: 2px solid #e2e8f0;">
     <p class="seo-text" style="font-size: 18px; line-height: 1.6; color: #000000; margin: 0 0 20px 0; text-align: center; font-weight: 500;">
-        아래 버튼에서 <a href="URL입력" style="text-decoration: underline; color: #4663EB;"><strong>[주요 혜택]</strong></a> 및 <a href="URL입력" style="text-decoration: underline; color: #4663EB;"><strong>[주요 혜택2]</strong></span>를 확인하실 수 있어요.
+        아래 버튼에서 <a href="URL입력" style="text-decoration: underline; color: #4663EB;"><strong>[주요 혜택]</strong></a> 및 <a href="URL입력" style="text-decoration: underline; color: #4663EB;"><strong>[주요 혜택2]</strong></a>를 확인하실 수 있어요.
     </p>
     
     <!-- 3개 연속 배치: 블루 -> 오렌지 -> 블루 순서 추천 -->
@@ -226,16 +258,8 @@ description: 애드센스 블로그스팟 HTML 스타일 및 CSS 클래스 가�
 ### 기본 포스팅 구조
 
 ```html
-<!-- 메인 타이틀 -->
-<div class="seo-container" style="padding: 24px 16px;">
-    <!-- H1에는 seo-heading 유지 가능하나, H2부터는 태그만 사용 -->
-    <h1 class="seo-heading" style="text-align: center; margin-bottom: 20px; color: #000000; font-weight: 700;">
-        포스팅 메인 제목
-    </h1>
-    <p class="seo-text" style="text-align: center; color: #000000; margin-bottom: 32px;">
-        부제목 또는 요약 설명
-    </p>
-</div>
+<p class="seo-text">메인 키워드의 답과 중요한 이용 조건을 요약한 인트로입니다.</p>
+<!-- 글 제목은 Blogger 제목 입력란에 기재하며 본문에 H1을 중복하지 않는다. -->
 
 <!-- 섹션 1: 개요 -->
 <div class="viz-card-container" style="background-color: #f7fafc; padding: 28px 20px; margin-bottom: 40px;">
@@ -555,6 +579,10 @@ font-family: "Noto Sans KR", "Apple SD Gothic Neo", sans-serif;
 - [ ] 간격과 여백이 적절한지 확인
 - [ ] 모든 링크가 작동하는지 확인
 - [ ] 이미지 로딩 속도 확인
+- [ ] HTML 이미지 슬롯과 TXT의 파일명·상대경로·삽입 위치가 1:1로 대응
+- [ ] 모바일/PC에서 실제 이미지 비율·표식·캡션·앞뒤 단계 연결 확인
+- [ ] 파일 작성 단계의 미업로드 토큰과 업로드 완료 상태를 구분해 기록
+- [ ] 발행 전 모든 이미지 토큰·빈 src·로컬 경로 제거 및 실제 이미지 로딩 확인
 - [ ] 전체적인 톤 앤 매너 일관성 확인
 
 ---
@@ -563,7 +591,7 @@ font-family: "Noto Sans KR", "Apple SD Gothic Neo", sans-serif;
 
 ### 1. 섹션 구성 순서
 
-1. 메인 타이틀 + 요약
+1. 인트로 + 요약 (메인 타이틀은 Blogger 제목 입력란)
 2. 개요/정의
 3. 주요 정보 (비교표 등)
 4. 단계별 가이드 (프로세스)
@@ -581,8 +609,8 @@ font-family: "Noto Sans KR", "Apple SD Gothic Neo", sans-serif;
 
 ### 3. SEO 최적화
 
-- `<title>` 태그: 50자 이내
-- `<meta description>`: 150자 이내
+- 제목·메타디스크립션은 별도 TXT와 Blogger의 해당 입력란에 작성하고 본문에 `<title>`·`<meta>`를 넣지 않는다.
+- 길이와 후보 형식은 콘텐츠 가이드의 해당 작업 기준을 따르고 실제 입력란의 제한을 확인한다.
 - 제목에 키워드 포함
 - 이미지 `alt` 속성에 설명 포함
 - 내부 링크 적극 활용
