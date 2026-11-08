@@ -8,40 +8,55 @@
   "keyword": "카카오톡 무료 이모티콘",
   "folder": "26_1106/앱사용_카카오톡 무료 이모티콘",
   "stage": "B",
-  "status": "cancelled_target_changed",
-  "spaceId": 1,
+  "status": "published",
+  "spaceId": 9,
   "profileId": "Profile 2",
   "profileName": "순분",
   "blogId": "7162964317827704236",
   "blogName": "앱, 어플 사용가이드",
   "blogUrl": "https://app.supportimes.com/",
-  "postId": null,
-  "editorUrl": null,
-  "publicUrl": null,
-  "publishedAt": null,
-  "publishedAtEvidence": null,
-  "uploadedImages": [],
-  "draftSaved": false,
+  "postId": "785074844840520740",
+  "editorUrl": "https://www.blogger.com/blog/post/edit/7162964317827704236/785074844840520740?hl=ko",
+  "publicUrl": "https://app.supportimes.com/2026/11/blog-post_468.html",
+  "publishedAt": "2026-11-08T23:44:00+09:00",
+  "publishedAtEvidence": "공개 페이지 datePublished",
+  "uploadedImages": [
+    {
+      "id": "IMG_01",
+      "file": "01_월이무_모바일첫화면_가이드.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBQD6etE79_tPTY9qLHOBmOzD5A24YeSQA2QPvtqf7juYcmK4QrwaskwMsI1AVVZ-ljqWp_sd94VtRINFX0Mag6VMpi4NNg1FwVKa5HBPEmcO-scwA0kDn5hRbmpWqiOiArl4kVCqYw6IC7gEQQnpRzt17WbtatkuvadsKFnSRl2Gep0C5pn-cXK4g2pcb/s1600/01_%EC%9B%94%EC%9D%B4%EB%AC%B4_%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%B2%AB%ED%99%94%EB%A9%B4_%EA%B0%80%EC%9D%B4%EB%93%9C.png"
+    },
+    {
+      "id": "IMG_02",
+      "file": "02_이모티콘3종선택_가이드.png",
+      "path": "26_1106/앱사용_카카오톡 무료 이모티콘/웹조사/02_이모티콘3종선택_가이드.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK8Hk4jPrV9qAOZRjK3iQtkVo43CsqlwU95PwXDVkwdmXNCxURZHTK_s676oH2MjyAJ9vbF4abepht4OR2aPp4hov_CQtt4ntMbvmbFXguKqnN_PftP2b8ARU7s95plU7CdKSV_izg7XAEgQsNyH6eCBHQ8sTe3-AFHYnNSnUo8yhlPcOqAZZsoUP90Epn/s1600/02_%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%983%EC%A2%85%EC%84%A0%ED%83%9D_%EA%B0%80%EC%9D%B4%EB%93%9C.png"
+    },
+    {
+      "id": "IMG_03",
+      "file": "03_카카오계정_로그인까지만_가이드.png",
+      "path": "26_1106/앱사용_카카오톡 무료 이모티콘/웹조사/03_카카오계정_로그인까지만_가이드.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif2WQKK_TLLjfjPE1sg6BvyL1a_HGh_YiIvZbsrTEwQDFHo3BO3-c03MqN2S1Ji6tYA0Wur1gdWtd0b0PNZfyvQ3-wdz5RV8EON0RjXZAHTHybjRcPSnovZwG2mlubDL-mgRRC_XZ8HQneEyionLPlxl-d0G-RKcx3vfueNj4ahwhr88QXupobmsd73kfC/s1600/03_%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B3%84%EC%A0%95_%EB%A1%9C%EA%B7%B8%EC%9D%B8%EA%B9%8C%EC%A7%80%EB%A7%8C_%EA%B0%80%EC%9D%B4%EB%93%9C.png"
+    },
+    {
+      "id": "IMG_04",
+      "file": "04_월이무_지급시점과유의사항_가이드.png",
+      "path": "26_1106/앱사용_카카오톡 무료 이모티콘/웹조사/04_월이무_지급시점과유의사항_가이드.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Yp0t6Pdc12wMF4iTYbHHZZChYvrjOBOtG9ZiOfYeHUnKaYJ6GJR8A_0hKGouA0B3tH06pKCdSLYDCMBQX6ch4rBKHrIEjv43XyfHM7YFsFGrIIH2WDCRqOfoceTF6owRdRFODh5nVMzMeZfAQjaP906-HY9iQkRITJiDHYFULomJBZlfe0jdhq41ylzr/s1600/04_%EC%9B%94%EC%9D%B4%EB%AC%B4_%EC%A7%80%EA%B8%89%EC%8B%9C%EC%A0%90%EA%B3%BC%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_%EA%B0%80%EC%9D%B4%EB%93%9C.png"
+    },
+    {
+      "id": "IMG_05",
+      "file": "05_과거미니프로모션_현재접속확인_가이드.png",
+      "path": "26_1106/앱사용_카카오톡 무료 이모티콘/웹조사/05_과거미니프로모션_현재접속확인_가이드.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihKgw4rV2wjoj1IpTII2212CNknDPq-DuCnHfgBMMr-fpjOR4cDY9nMDQhNmcb570LLJM4rYKPRIkFWrYRgNBcmRn_rtqgmczpA2NJu6eeYqqjdxxHZ-iYlMQut5m3vqmg6cpjlXvvgySboA0qyPN0BQTt9ySw2Dhely6__rp36FXmCUliMdcd9kYDMIXP/s1600/05_%EA%B3%BC%EA%B1%B0%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98_%ED%98%84%EC%9E%AC%EC%A0%91%EC%86%8D%ED%99%95%EC%9D%B8_%EA%B0%80%EC%9D%B4%EB%93%9C.png"
+    }
+  ],
+  "draftSaved": true,
   "sheet": {
-    "headerConfirmed": true,
-    "D": {
-      "value": "ㅇ",
-      "action": "preserved"
-    },
-    "G": {
-      "empty": true,
-      "action": "not_written"
-    },
-    "H": {
-      "empty": true,
-      "action": "not_written"
-    },
-    "L": {
-      "empty": true,
-      "action": "not_written"
-    },
-    "readbackVerified": true,
-    "timeZoneChanged": false
+    "G": "ㅇ",
+    "H": "https://app.supportimes.com/2026/11/blog-post_468.html",
+    "L": "2026-11-08T23:44:00+09:00",
+    "readbackVerified": true
   },
   "contentFiles": {
     "html": [],
@@ -51,10 +66,7 @@
   },
   "duplicateCheck": {
     "search": "카카오톡 무료 이모티콘",
-    "visibleMatchingTitleFound": false,
-    "draftCount": 0,
-    "complete": false,
-    "note": "관련 제목 4건을 검색에서 확인. 본문 및 URL의 최종 중복 대조는 입력 파일 확인 후 계속."
+    "matchingTitleFound": false
   },
   "errors": [
     {
@@ -72,5 +84,33 @@
     "retained": false
   },
   "resumePoint": "사용자가 앱사용 49행으로 대상 변경",
-  "updatedAt": "2026-11-08T11:21:58.140Z"
+  "updatedAt": "2026-11-08T14:46:44.801Z",
+  "metadata": {
+    "title": "카카오톡 무료 이모티콘 받는 방법, 월이무 3종 선택과 요일별 지급 시간 총정리",
+    "description": "카카오톡 무료 이모티콘 받는 방법, 월이무 3종 선택 요령, 요일별 지급 시간 및 72시간 이용 유의사항 완벽 안내.",
+    "slug": "kakaotalk-free-emoticon-guide",
+    "labels": "카카오톡, 무료이모티콘, 월이무, 앱활용팁, 생활정보",
+    "source": "txt",
+    "customPermalinkApplied": false
+  },
+  "savedAt": "2026-11-08T14:43:26.179Z",
+  "verification": {
+    "title": true,
+    "body": true,
+    "description": true,
+    "labels": true,
+    "custom": false,
+    "images": 5,
+    "alts": 5,
+    "captions": 5,
+    "tokens": 0
+  },
+  "publishAttemptAt": "2026-11-08T14:44:36.420Z",
+  "publicVerification": {
+    "title": true,
+    "canonical": true,
+    "description": true,
+    "images": 5,
+    "loaded": true
+  }
 }

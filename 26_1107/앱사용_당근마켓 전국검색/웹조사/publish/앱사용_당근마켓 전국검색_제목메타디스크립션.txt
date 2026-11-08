@@ -7,7 +7,7 @@ runId / 담당 독립 채팅 threadId / 조정자: 20261108-content-section1 / s
 입력 웹조사 Markdown: 26_1107/앱사용_당근마켓 전국검색/웹조사/publish/앱사용_당근마켓 전국검색_웹조사결과.md
 조사 확인일 / 콘텐츠 작성일: 2026-11-07 / 2026-11-08
 HTML 파일 / TXT 파일: 26_1107/앱사용_당근마켓 전국검색/웹조사/publish/앱사용_당근마켓 전국검색_html콘텐츠.html / 26_1107/앱사용_당근마켓 전국검색/웹조사/publish/앱사용_당근마켓 전국검색_제목메타디스크립션.txt
-작업 상태: 파일 작성 완료 / 이미지 미업로드 / 미발행
+작업 상태: 이미지 5개 업로드 완료 / 공개 발행 완료
 발행 전 확인할 사실·이미지·광고 설정: 공식 웹 지역변경 UI 변경 여부 확인, 원거리 택배 거래 사기 주의 안내문 유지, H2 링크 및 앵커텍스트 target="_blank" 배제 확인
 
 [콘텐츠 개요]
@@ -71,8 +71,8 @@ HTML 위치: id="img-01" / data-image-id="IMG_01" / IMAGE_SLOT:IMG_01
 검색 이미지인 경우 실제 연 공식 결과 URL: https://www.daangn.com/kr/search/?q=%EC%A0%84%EA%B5%AD
 가림·가독성·재사용 조건 검수 결과: 개인정보 없음, 텍스트 가독성 양호, 공식 도메인 강조 표시 적절
 원래 순서와 달라진 경우 이유: 원래 순서 유지
-업로드 상태: 미업로드
-Blogger 이미지 URL: 미업로드
+업로드 상태: 업로드 완료
+Blogger 이미지 URL: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsQ5aqb-6QRay4uAxbO8Hjk2eoEXWaa3b-NjcpvI2i1cnJ8roTpMxoQIqPhwQZ8XG6UqugNa84MwLdXVzpgsDPD0q0TOA51KIKXhDdcuP3MYqdn6bXlQAUcXyyNjUr6NFuTtOatm6Y7VxR_uaKsQdDfVaCFmjO9XmLbgvlxamcPfVdc5xPtuR_1UWc7GUC/s1600/01_search.png
 확대 링크 URL(사용한 경우): 없음
 
 삽입 ID: IMG_02
@@ -94,8 +94,8 @@ HTML 위치: id="img-02" / data-image-id="IMG_02" / IMAGE_SLOT:IMG_02
 검색 이미지인 경우 실제 연 공식 결과 URL: 해당 없음
 가림·가독성·재사용 조건 검수 결과: 판매자 개인정보 및 불필요한 민감 정보 노출 없음, 검색 입력창 명확
 원래 순서와 달라진 경우 이유: 원래 순서 유지
-업로드 상태: 미업로드
-Blogger 이미지 URL: 미업로드
+업로드 상태: 업로드 완료
+Blogger 이미지 URL: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCZYOI31EV-q5hyphenhyphenEZnPAXU2dBxPF2N8bfFlkPA7BOJaE5x8hT_j2RooxvamJ68ZtaMMyf8UqEsecBBOX65eqLHuXprfq2-5hq6t0JtZu_2zdadkIHr5XHcP7o5qFpWNRZAFj8wfpmFi18KIPWF24_DPdyaKnoU68ptJC9BdrN5Blz97Qs4udQi8WloTcDQ/s1600/02_guide.png
 확대 링크 URL(사용한 경우): 없음
 
 삽입 ID: IMG_03
@@ -117,8 +117,8 @@ HTML 위치: id="img-03" / data-image-id="IMG_03" / IMAGE_SLOT:IMG_03
 검색 이미지인 경우 실제 연 공식 결과 URL: 해당 없음
 가림·가독성·재사용 조건 검수 결과: 지역 변경 대화상자 UI 및 텍스트 뚜렷함, 대표 이미지로 최적
 원래 순서와 달라진 경우 이유: 원래 순서 유지
-업로드 상태: 미업로드
-Blogger 이미지 URL: 미업로드
+업로드 상태: 업로드 완료
+Blogger 이미지 URL: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEize1GdmZElLV4YqOuoEHd_nvIVmSkAK9nsfqLPXQgWCLB-IS1-6Ez2vOUFYBcxmYSrUeeA-hbfUng1VyWFt780TN2wyIUiaA-J42YMfUoAGYTZtP_ubFORwkZAA4WapYQbdO8xl-CEnTHh24p7W5m_H44x6xeblz7A7oLm3-M5nvtcMedH8q0C609hFRMi/s1600/03_guide.png
 확대 링크 URL(사용한 경우): 없음
 
 삽입 ID: IMG_04
@@ -140,8 +140,8 @@ HTML 위치: id="img-04" / data-image-id="IMG_04" / IMAGE_SLOT:IMG_04
 검색 이미지인 경우 실제 연 공식 결과 URL: 해당 없음
 가림·가독성·재사용 조건 검수 결과: 시·구 행정구역 명칭 식별 용이, 가독성 양호
 원래 순서와 달라진 경우 이유: 원래 순서 유지
-업로드 상태: 미업로드
-Blogger 이미지 URL: 미업로드
+업로드 상태: 업로드 완료
+Blogger 이미지 URL: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgePrK8XmB7lUG2qgchdvwVCWV_Ql-4LrC1UHH6kJq-bvl_aVTH_7h3Hu9OWB8RvWy5qk5I_jDTNTAok8SvhS4QcgJLYcjgtVjuPcxNnBwHposQNnjgmm3cyY9HW9UU7qmm6b40ADwYiP7KnwWQKx9I1Y4qObTczR_dxk9kxp3HSi3wBqg-jmiovUsOape-/s1600/04_guide.png
 확대 링크 URL(사용한 경우): 없음
 
 삽입 ID: IMG_05
@@ -163,8 +163,8 @@ HTML 위치: id="img-05" / data-image-id="IMG_05" / IMAGE_SLOT:IMG_05
 검색 이미지인 경우 실제 연 공식 결과 URL: 해당 없음
 가림·가독성·재사용 조건 검수 결과: 지역 변경 후 상단 뱃지 표시 선명, 상품 예시 식별 양호
 원래 순서와 달라진 경우 이유: 원래 순서 유지
-업로드 상태: 미업로드
-Blogger 이미지 URL: 미업로드
+업로드 상태: 업로드 완료
+Blogger 이미지 URL: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzKnLm55JDtVYoucV6TdiG1Sn6y8n2ymjySqHBaaI4y7MeYfeWzap-qZIS_mpFGjeY_Lo8mDyzG4ulcLyCHGuMl2El06L4ZcGxzrhe4IXeAWzNTBlTrLoo0rsbuyJjqxahUGsyxLMG45v5-CHGwRuhd4HNtmoRoTOW5GamaAYiTX8hnwu7FDzHr6O7eNBG/s1600/05_guide.png
 확대 링크 URL(사용한 경우): 없음
 
 [제외·보류 이미지]
@@ -191,3 +191,16 @@ spaceId / blogId / postId / editorUrl: 미수행 / 7162964317827704236 / 미생�
 - 인트로 직후 및 H2 소주제별 CTA 카피라이팅, 버튼 순환 배치(블루/오렌지), 애드센스/쿠팡 파트너스 광고 코드 규격 완전 준수
 모바일/PC 미리보기 결과(미실행이면 미실행): 로컬 모바일(390px) 및 PC 렌더링 검수 통과 / Blogger 실테마는 업로드 전이므로 미실행
 미해결 사항: 없음
+
+
+[2026-11-08 B 단계 완료 기록]
+상태: 공개 발행 / 이미지 5개 업로드 완료
+제목·검색 설명·라벨: TXT 최종 추천값 적용 (source: txt)
+퍼머링크: 맞춤 슬러그 저장·공개 확인
+공개 URL: https://app.supportimes.com/2026/11/daangn-nationwide-search-guide.html
+발행 시각: 2026-11-08T23:26:00+09:00
+blogId / postId / spaceId: 7162964317827704236 / 598466543772318088 / 4
+시트 재조회: G=ㅇ / H=공개 URL / L=2026. 11. 8 오후 11:26:00 (KST 숫자형 DATE_TIME)
+본문·메타 재진입 확인: 일치, 이미지·alt·캡션 5개, 미치환 토큰 없음
+공개 페이지: 제목·canonical·검색 설명·이미지 5개 로딩 확인
+PC·모바일 미리보기: 미실행 (현재 운영 규칙)

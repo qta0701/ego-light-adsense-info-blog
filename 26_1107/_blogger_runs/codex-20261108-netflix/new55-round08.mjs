@@ -1,0 +1,1 @@
+const task=await taskSpace(13),page=task.page('p1');await page.click('loc=role:button[name="게시"]');await page.waitForSelector('loc=role:alertdialog[name="글을 게시하시겠습니까?"]',{state:'visible',timeout:10000});console.log(JSON.stringify({confirmation:'ready'}));

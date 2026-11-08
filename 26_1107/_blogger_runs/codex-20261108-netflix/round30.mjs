@@ -1,0 +1,1 @@
+for(const id of [7,8]){const task=await taskSpace(id);const page=task.page('p1');const s=await page.snapshot();console.log(JSON.stringify({id,dialog:s.split('\n').filter((line,i,all)=>line.includes('dialog')||line.includes('게시하시')||line.includes('확인')||line.includes('취소')).slice(-20)}));}

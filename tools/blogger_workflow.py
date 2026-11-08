@@ -92,8 +92,10 @@ def claim(job, root=ROOT):
         raise ValueError('owner에 실제 채팅/실행 ID를 기록하세요')
     if job.get('stage') not in ('A', 'B'):
         raise ValueError('stage는 A 또는 B')
-    keys = ['folder:' + folder.relative_to(root).as_posix().casefold(),
-            f"row:{SHEET}:{job['tab']}:{job['row']}"]
+    # Policy update: 앞으로는 구글시트에서 잠그지 않도록 stage A(또는 lockRow=False)는 행 잠금을 제외하고 로컬 폴더만 잠금
+    keys = ['folder:' + folder.relative_to(root).as_posix().casefold()]
+    if job.get('stage') == 'B' and job.get('lockRow') is not False:
+        keys.append(f"row:{SHEET}:{job['tab']}:{job['row']}")
     directory = inside(root, '.session/blogger-workflow/locks')
     directory.mkdir(parents=True, exist_ok=True)
     token = uuid.uuid4().hex

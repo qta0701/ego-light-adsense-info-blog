@@ -1,0 +1,12 @@
+const fs=await import('node:fs/promises');const root='Y:/antigravity-project/ego-light-adsense-info-blog/';const keyword='넷플릭스 오리지널 역대 영화 순위';const base=`26_1107/앱사용_${keyword}/웹조사/`;const statePath=root+base+'evidence/blogger-state.json';const pub=root+base+'publish/';
+const s=JSON.parse(await fs.readFile(statePath,'utf8'));let html=await fs.readFile(pub+`앱사용_${keyword}_html콘텐츠.html`,'utf8');const txt=await fs.readFile(pub+`앱사용_${keyword}_제목메타디스크립션.txt`,'utf8');const get=k=>{const m=txt.match(new RegExp('^'+k+': (.+)$','m'));if(!m)throw new Error(k+' missing');return m[1].trim()};
+const title=get('최종 추천 제목'),description=get('최종 추천 메타디스크립션').replace(/\s*\(\d+자\)$/,''),slug=get('최종 추천 슬러그'),labels=get('라벨 제안');
+for(const im of s.images){if(!im.url)throw new Error(im.id+' not uploaded');html=html.replace(`{{BLOGGER_IMAGE_URL_${im.id}}}`,im.url)}if(/\{\{BLOGGER_IMAGE_URL_|(?:src=["'](?:file:|blob:|data:|["']))/.test(html))throw new Error('미치환 이미지');
+const task=await taskSpace(8);const page=task.page('p1');await page.click('text="퍼머링크"');await page.waitForSelector('div[role="radio"][aria-label^="맞춤 퍼머링크"]',{state:'visible',timeout:10000});
+await page.focus('div[role="radio"][aria-label^="맞춤 퍼머링크"]');await page.press('div[role="radio"][aria-label^="맞춤 퍼머링크"]','Space');await page.waitForSelector('input[aria-label="맞춤 퍼머링크 입력"]',{state:'visible',timeout:10000});
+await page.fill('input[aria-label="맞춤 퍼머링크 입력"]',slug);await page.press('input[aria-label="맞춤 퍼머링크 입력"]','Tab');await page.fill('input[aria-label="제목"]',title);
+await page.evaluate(h=>{const e=[...document.querySelectorAll('.CodeMirror')].find(x=>x.offsetWidth&&x.CodeMirror);if(!e)throw Error('editor missing');e.CodeMirror.setValue(h);e.CodeMirror.save()},html);
+await page.click('text="검색 설명"');await page.waitForSelector('textarea[aria-label="검색 설명 입력"]',{state:'visible',timeout:10000});await page.fill('textarea[aria-label="검색 설명 입력"]',description);
+await page.click('text="라벨"');await page.waitForSelector('textarea[aria-label="쉼표로 라벨을 구분하세요."]',{state:'visible',timeout:10000});await page.fill('textarea[aria-label="쉼표로 라벨을 구분하세요."]',labels);await page.keyboard.type(',');await page.keyboard.press('Tab');
+s.metadata={title,description,slug,labels,source:'txt'};await fs.writeFile(statePath,JSON.stringify(s,null,2),'utf8');await page.click('loc=role:button[name="옵션 더보기"]');await page.waitForSelector('loc=role:menuitem[name="저장"]',{state:'visible',timeout:10000});await page.click('loc=role:menuitem[name="저장"]');
+console.log(JSON.stringify({row:54,saveClicked:true}));

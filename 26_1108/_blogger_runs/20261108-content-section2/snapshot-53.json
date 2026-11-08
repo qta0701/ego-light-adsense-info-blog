@@ -1,0 +1,52 @@
+{
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "sheetId": 2121839224,
+  "tab": "앱사용",
+  "row": 53,
+  "headerRow": 1,
+  "keyword": "넷플릭스 한국 인기 영화 순위 확인 방법",
+  "readAt": "2026-11-08T22:54:28.609819+09:00",
+  "headers": [
+    "블로그 업로드 날짜",
+    "No.",
+    "상위노출 블로그 수집여부",
+    "애드센스 블로그 작성여부",
+    "네이버 블로그 작성 갯수",
+    "외부유입 작성갯수",
+    "애드센스 임시저장 여부",
+    "애드센스 포스팅 링크",
+    "메인 키워드",
+    "PC 검색량",
+    "모바일 검색량",
+    "애드센스 포스팅 작성일"
+  ],
+  "cells": [
+    {
+      "formattedValue": "2026-11-07",
+      "userEnteredValue": {
+        "stringValue": "2026-11-07"
+      }
+    },
+    {},
+    {
+      "formattedValue": "ㅇ",
+      "userEnteredValue": {
+        "stringValue": "ㅇ"
+      }
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "formattedValue": "넷플릭스 한국 인기 영화 순위 확인 방법",
+      "userEnteredValue": {
+        "stringValue": "넷플릭스 한국 인기 영화 순위 확인 방법"
+      }
+    },
+    {},
+    {},
+    {}
+  ]
+}

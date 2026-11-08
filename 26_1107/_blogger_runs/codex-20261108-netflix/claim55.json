@@ -1,0 +1,16 @@
+{
+  "token": "d51439e71c124e75987dadb76397bcb0",
+  "job": {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "tab": "앱사용",
+    "row": 55,
+    "folder": "26_1107/앱사용_넷플릭스 성인인증 방법",
+    "stage": "B",
+    "owner": "codex-20261108-netflix"
+  },
+  "createdAt": "2026-11-08T23:38:02.153026+09:00",
+  "locks": [
+    ".session/blogger-workflow/locks/04d872dec29f0448ce2c125af6b18f8216d238fac1d4ec9898e82c3c5decba51.json",
+    ".session/blogger-workflow/locks/49dde893dd43f46387832feb62fa8c6b31cb4e2c57e48828c1748259b5b1d92f.json"
+  ]
+}

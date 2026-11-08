@@ -1,27 +1,23 @@
-# 웹조사·캡처 기반 Blogger 콘텐츠 작성 요청 프롬프트 (A)
+# HTML 및 TxT 작성 요청
 
-2026-11-08 분리 갱신. 이 프롬프트는 수집된 웹조사 결과 및 캡처 이미지를 기반으로 HTML 콘텐츠와 제목·메타 TXT를 작성하고 구글시트에 작성 완료(D열)를 기록하는 **A 프로세스 전용 요청문**이다.
-작성된 결과물의 Blogger 업로드 및 발행 인계는 [B 프롬프트(blogger-upload-request-prompt.md)](blogger-upload-request-prompt.md)를 통해 별도로 실행한다.
-운영 기준은 [BLOGGER_CONTENT_WORKFLOW.md](../guidelines/BLOGGER_CONTENT_WORKFLOW.md)를 따른다. 로컬 작업 경로는 구글시트 A열('블로그 업로드 날짜')을 조회하여 `YY_MMDD\{탭}_{키워드}\` 경로를 자동으로 탐색한다.
+.antigravity/rules.md를 참고해줘. 그리고 guidelines/AGENT_DESKTOP_GUIDE.md와 guidelines/BLOGGER_CONTENT_WORKFLOW.md를 참고해줘. 먼저 현재 프로젝트의 guidelines/에 .md 파일들이 있는지 확인하고, 없다면 잘못된 프로젝트 경로이므로 작업을 진행하지 말고 알려줘.
 
-아래 코드 블록의 입력칸을 실제 값으로 채워 복사하여 사용한다.
-
-```text
-.antigravity/rules.md를 참고해줘. 먼저 현재 프로젝트의 guidelines/에 .md 파일들이 있는지 확인하고, 없다면 잘못된 프로젝트 경로이므로 작업을 진행하지 말고 알려줘.
-guidelines/AGENT_DESKTOP_GUIDE.md를 먼저 읽고, guidelines/BLOGGER_CONTENT_WORKFLOW.md, 블로그작성_가이드라인/html-content-guide.md, 블로그작성_가이드라인/html-style-guide.md를 참고해줘.
+콘텐츠 작성에는 블로그작성_가이드라인/html-content-guide.md, 블로그작성_가이드라인/html-style-guide.md를 참고해서 반영해줘.
 실행·중복 검사·독립 채팅·시트 기록은 BLOGGER_CONTENT_WORKFLOW.md를, 콘텐츠는 html-content-guide.md 0절을 기존 범용 템플릿보다 우선 적용해줘.
 
 
 대상 구글시트는 https://docs.google.com/spreadsheets/d/1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s/edit 이야. URL의 gid를 모든 작업의 탭으로 고정하지 말고 대상 목록의 탭을 사용해줘.
 
+---
 
-[구글시트 탭 이름 및 행 번호, 메인 키워드 리스트]
+[사용자 입력 내용]
 
 
+
+---
 
 각 폴더의 자료를 바탕으로 Blogger용 가이드 콘텐츠를 작성하고, 검수 완료 후 시트의 애드센스 블로그 작성여부 열에 ㅇ를 기록해줘. 실제 Blogger 업로드는 이번 A의 범위에 포함하지 않아(후속 B 프로세스로 진행).
 
----
 
 0. 중복 방지와 독립 채팅 배정
 - 로컬 작업 경로를 찾을 때, 지정된 구글시트 탭의 행 번호에서 A열('블로그 업로드 날짜' 헤더) 값을 확인하고(예: 2026-11-06), 해당 날짜를 YY_MMDD 형식(예: 26_1106)으로 변환하여 프로젝트 루트의 날짜 폴더(26_1106\) 및 그 하위의 {탭}_{메인 키워드} 폴더(예: 26_1106\앱사용_당근마켓 채팅 걸기\웹조사\) 경로에서 웹조사결과 .md 및 이미지 자료를 찾아 인계받아줘.
@@ -30,7 +26,7 @@ guidelines/AGENT_DESKTOP_GUIDE.md를 먼저 읽고, guidelines/BLOGGER_CONTENT_W
 - 시트 metadata·헤더·실제 행 키워드를 확인해줘. D열이라고 고정하지 말고 '애드센스 블로그 작성여부' 헤더로 찾아줘. D가 이미 ㅇ인데 파일이 없으면 먼저 유실·다른 경로 여부를 확인해줘. 행이 생략되면 research.json/manifest나 지정 탭의 키워드 검색으로 유일한 행을 확인하고, 모호하면 임의 쓰기하지 마.
 - 신규 생성할 키워드 n개마다 같은 프로젝트에 실제 독립 채팅 n개를 만들어 병렬로 진행해줘. 하위 에이전트나 Space만 나누는 것으로 대체하지 마. 각 채팅은 배정된 한 키워드만 작성해줘.
 - BLOGGER_CONTENT_WORKFLOW.md 3.2절에 따라 dispatch.json을 pending으로 만들고, 모든 채팅이 준비되어 ready가 되기 전에는 파일 생성을 시작하지 마. 채팅 생성 실패나 독립 채팅 병렬 실행이 불가능하면 blocked를 기록하고 알려줘. 일부만 시작하거나 한 채팅의 순차 작성으로 대체하지 마.
-- 조정자는 tools/blogger_workflow.py claim으로 각 키워드 폴더·시트 행을 예약하고, 작업자에게 실제 채팅 ID와 범위·원래 요구사항·가이드·dispatch 경로를 전달해줘. 시작 직전 파일 부재를 재확인해줘. 시트와 공유 문서의 수정은 조정자 한 명이 담당해줘.
+- 앞으로는 구글시트에서 잠그지 않아(구글시트 행 배타 잠금 제외). 조정자는 tools/blogger_workflow.py scan 및 로컬 키워드 폴더 관리(필요 시 로컬 폴더 잠금만 적용)로 중복 여부를 점검하고, 작업자에게 실제 채팅 ID와 범위·원래 요구사항·가이드·dispatch 경로를 전달해줘. 시작 직전 파일 부재를 재확인해줘. 시트와 공유 문서의 수정은 조정자 한 명이 담당해줘.
 - 만약 독립 채팅 자동 생성이 지원되지 않는 Antigravity 환경이라면, "순차 작성 금지" 제약을 해제하고, 현재 세션에서 키워드의 HTML/TXT를 차례대로 고품질 작성 및 검수해줘. 즉 해당 섹션에서 일괄적으로 작업을 진행해줘.
 
 1. 입력 확인
@@ -95,5 +91,3 @@ TXT는 html-content-guide.md 0.6절의 구조대로 다음 정보를 빠짐없�
 ```
 
 사용자가 탭 이름, 행 번호, 메인 키워드만 지정한 경우 에이전트는 시트 A열('블로그 업로드 날짜')을 확인하여 `YY_MMDD\{탭}_{키워드}\` 경로를 자동으로 탐색하여 웹조사 자료를 인계받는다. 만약 시트 A열이 공란이거나 날짜 형식이 아니어서 폴더를 특정할 수 없는 경우, 프로젝트 내의 날짜 폴더들을 탐색하되 불명확하거나 여러 개가 존재하면 임의 선택하지 않고 사용자에게 확인을 요청한다.
-
-

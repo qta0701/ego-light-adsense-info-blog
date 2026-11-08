@@ -1,0 +1,16 @@
+﻿{
+  "token": "9cf1ab04ab7d4b119d089855e55ab5ee",
+  "job": {
+    "tab": "앱사용",
+    "row": 47,
+    "stage": "A",
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "owner": "antigravity-session-44d248aa",
+    "folder": "26_1106/앱사용_코레일 분실물 센터"
+  },
+  "createdAt": "2026-11-08T23:03:56.904169+09:00",
+  "locks": [
+    ".session/blogger-workflow/locks/f98ff0f4067033cf11e0ddf15c5daeb260535db158db9c84c91e8b05d4150d63.json",
+    ".session/blogger-workflow/locks/81f512e1bb16b9c40b220d72945fbc5d1eb266f18e91d753085d6b793fec4e2e.json"
+  ]
+}

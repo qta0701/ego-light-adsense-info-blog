@@ -1,0 +1,16 @@
+﻿{
+  "token": "24e71037c68a48b7a806d627df03f266",
+  "job": {
+    "tab": "앱사용",
+    "row": 46,
+    "stage": "A",
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "owner": "antigravity-session-44d248aa",
+    "folder": "26_1106/앱사용_카카오톡 무료 이모티콘"
+  },
+  "createdAt": "2026-11-08T23:03:56.754761+09:00",
+  "locks": [
+    ".session/blogger-workflow/locks/88edf81915a17de19e282caf0e1feb47ec4b6a44c427d65d47ac375502433c9c.json",
+    ".session/blogger-workflow/locks/107db30dcaf7f354d53792724f6a9690e41cb110fc730d96f1324dece909bc8e.json"
+  ]
+}

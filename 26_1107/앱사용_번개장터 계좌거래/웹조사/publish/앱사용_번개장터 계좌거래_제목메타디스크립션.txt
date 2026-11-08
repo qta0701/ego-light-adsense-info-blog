@@ -7,7 +7,7 @@ runId / 담당 독립 채팅 threadId / 조정자: 20261108-content-section1 / s
 입력 웹조사 Markdown: 26_1107/앱사용_번개장터 계좌거래/웹조사/publish/앱사용_번개장터 계좌거래_웹조사결과.md
 조사 확인일 / 콘텐츠 작성일: 2026-11-07 / 2026-11-08
 HTML 파일 / TXT 파일: 26_1107/앱사용_번개장터 계좌거래/웹조사/publish/앱사용_번개장터 계좌거래_html콘텐츠.html / 26_1107/앱사용_번개장터 계좌거래/웹조사/publish/앱사용_번개장터 계좌거래_제목메타디스크립션.txt
-작업 상태: 파일 작성 완료 / 이미지 미업로드 / 미발행
+작업 상태: 이미지 5개 업로드 완료 / 공개 발행 완료
 발행 전 확인할 사실·이미지·광고 설정: 번개장터 최신 안전결제 정책 및 수수료 정책 변경 여부 확인, 피싱 사기 예방 경고문 유지, H2 링크 및 앵커텍스트 target="_blank" 배제 확인
 
 [콘텐츠 개요]
@@ -71,8 +71,8 @@ HTML 위치: id="img-01" / data-image-id="IMG_01" / IMAGE_SLOT:IMG_01
 검색 이미지인 경우 실제 연 공식 결과 URL: https://help.bunjang.co.kr/faq/3/629
 가림·가독성·재사용 조건 검수 결과: 개인정보 없음, 텍스트 가독성 양호, 고객센터 FAQ 질문 제목 명확
 원래 순서와 달라진 경우 이유: 원래 순서 유지
-업로드 상태: 미업로드
-Blogger 이미지 URL: 미업로드
+업로드 상태: 업로드 완료
+Blogger 이미지 URL: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9iu2Te7Y9CsUc0Rd1mnORd0RXlm_tEv03KsXV8igJO9_jK_nZ6VAMPEFPmEO6IC8QRmJ1UFSVjP4aZAdVQhYi12FJ4gi09nzyEfpUY7MIZxSHTvutnODmFpH0HcmZhfkjpq0gps9fxg4lj5Mde7CQJbRs8bAzqqaKEqJ1XP5DKOZUNpeid1aQjvhB0Dnb/s1600/01_search.png
 확대 링크 URL(사용한 경우): 없음
 
 삽입 ID: IMG_02
@@ -94,8 +94,8 @@ HTML 위치: id="img-02" / data-image-id="IMG_02" / IMAGE_SLOT:IMG_02
 검색 이미지인 경우 실제 연 공식 결과 URL: 해당 없음
 가림·가독성·재사용 조건 검수 결과: 공식 도움말 텍스트 캡처로 개인정보 없음, 핵심 경고 문구 식별 최적
 원래 순서와 달라진 경우 이유: 원래 순서 유지
-업로드 상태: 미업로드
-Blogger 이미지 URL: 미업로드
+업로드 상태: 업로드 완료
+Blogger 이미지 URL: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhunOCJnbW_S8X-KRLxoTg0JNa-n_VJa9sXuJ5KGd7ZJoWdbXobThCCPc6oDOkSxsM38A9HiGbiAtq4ZuF11aYY5mGV-BlbE0yk2eT7_O9Ek4aR9RO6CyzMtHVXM_5kPFtF3qZzJMSBmtzp-agv6xRUVfjKrf9sXC69zz6th8kN_B1Y0vFP05_BP4BHo2hK/s1600/02_guide.png
 확대 링크 URL(사용한 경우): 없음
 
 삽입 ID: IMG_03
@@ -117,8 +117,8 @@ HTML 위치: id="img-03" / data-image-id="IMG_03" / IMAGE_SLOT:IMG_03
 검색 이미지인 경우 실제 연 공식 결과 URL: 해당 없음
 가림·가독성·재사용 조건 검수 결과: 서비스 이용제한 제재 기준 텍스트 명확, 가독성 우수
 원래 순서와 달라진 경우 이유: 원래 순서 유지
-업로드 상태: 미업로드
-Blogger 이미지 URL: 미업로드
+업로드 상태: 업로드 완료
+Blogger 이미지 URL: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSjyS1iNoH1RvBQ10umkcSvNCwYQIzhIz09TTzjh3XQosgCCpBnGyEOoa7StnisrS4aM7uSyxxH_TGfavtt62OecjoC_XpvHMObq0CKpa7i6m1NZhxNceWxjlXeCpOt0CZmBXj1DwuZGKPamMeAiJu9PBuBnDNDrNdTuiwarFLzInMxXx1CrBF9oYcpdge/s1600/03_guide.png
 확대 링크 URL(사용한 경우): 없음
 
 삽입 ID: IMG_04
@@ -140,8 +140,8 @@ HTML 위치: id="img-04" / data-image-id="IMG_04" / IMAGE_SLOT:IMG_04
 검색 이미지인 경우 실제 연 공식 결과 URL: 해당 없음
 가림·가독성·재사용 조건 검수 결과: 불릿 포인트 항목별 텍스트 또렷함, 핵심 위반 유형 식별 용이
 원래 순서와 달라진 경우 이유: 원래 순서 유지
-업로드 상태: 미업로드
-Blogger 이미지 URL: 미업로드
+업로드 상태: 업로드 완료
+Blogger 이미지 URL: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtX-KSh6eh4feiLTrKQgK-07V2ROvL-Wm7WvmKa-8uYrKKegdlBSBn6rchGoQwln58yl_Ow7e-9r8-nm3QVFy4VIHAD8aGSGDlAPYKIgAnvsTQT6_mKo-9ZA_CL39W4bPTKvfbk4isOefiLsnoSzyM3hVM-ULGZVf7HUHZh9o6bO65tYGPUkAnd2SfTxZ1/s1600/04_guide.png
 확대 링크 URL(사용한 경우): 없음
 
 삽입 ID: IMG_05
@@ -163,8 +163,8 @@ HTML 위치: id="img-05" / data-image-id="IMG_05" / IMAGE_SLOT:IMG_05
 검색 이미지인 경우 실제 연 공식 결과 URL: 해당 없음
 가림·가독성·재사용 조건 검수 결과: 안전결제 권고 문구 및 관련 질문 목록 명확
 원래 순서와 달라진 경우 이유: 원래 순서 유지
-업로드 상태: 미업로드
-Blogger 이미지 URL: 미업로드
+업로드 상태: 업로드 완료
+Blogger 이미지 URL: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLeS7hiY_JwhzrbWx7jXZOYmj-EkXXjxg1cRZEV-kARNiQPkE-qino3XmJ67by2uZDvTQhHU3LzhR4OlnCaSDwOop86yZ7Is-0Ap2V7qhyBqSzQycUG8_MCzPwuhxDq8Cy5m7C0PwHxauFV4PyV7GEFUN2Yhr9m5Q6Clre3iIPqFlxe8k5_HXTdNez14V1/s1600/05_guide.png
 확대 링크 URL(사용한 경우): 없음
 
 [제외·보류 이미지]
@@ -191,3 +191,16 @@ spaceId / blogId / postId / editorUrl: 미수행 / 7162964317827704236 / 미생�
 - 인트로 직후 및 H2 소주제별 CTA 카피라이팅, 버튼 순환 배치(블루/오렌지), 애드센스/쿠팡 파트너스 광고 코드 규격 완전 준수
 모바일/PC 미리보기 결과(미실행이면 미실행): 로컬 모바일(390px) 및 PC 렌더링 검수 통과 / Blogger 실테마는 업로드 전이므로 미실행
 미해결 사항: 없음
+
+
+[2026-11-08 B 단계 완료 기록]
+상태: 공개 발행 / 이미지 5개 업로드 완료
+제목·검색 설명·라벨: TXT 최종 추천값 적용 (source: txt)
+퍼머링크: 추천 슬러그 미유지, 자동 주소 사용
+공개 URL: https://app.supportimes.com/2026/11/blog-post_361.html
+발행 시각: 2026-11-08T23:26:00+09:00
+blogId / postId / spaceId: 7162964317827704236 / 1114382711099901872 / 6
+시트 재조회: G=ㅇ / H=공개 URL / L=2026. 11. 8 오후 11:26:00 (KST 숫자형 DATE_TIME)
+본문·메타 재진입 확인: 일치, 이미지·alt·캡션 5개, 미치환 토큰 없음
+공개 페이지: 제목·canonical·검색 설명·이미지 5개 로딩 확인
+PC·모바일 미리보기: 미실행 (현재 운영 규칙)
