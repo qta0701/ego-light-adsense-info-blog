@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "runId": "blogger-app46-20261108-root",
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "sheetId": 2121839224,
+  "tab": "앱사용",
+  "row": 46,
+  "keyword": "카카오톡 무료 이모티콘",
+  "folder": "26_1106/앱사용_카카오톡 무료 이모티콘",
+  "stage": "B",
+  "status": "cancelled_target_changed",
+  "spaceId": 1,
+  "profileId": "Profile 2",
+  "profileName": "순분",
+  "blogId": "7162964317827704236",
+  "blogName": "앱, 어플 사용가이드",
+  "blogUrl": "https://app.supportimes.com/",
+  "postId": null,
+  "editorUrl": null,
+  "publicUrl": null,
+  "publishedAt": null,
+  "publishedAtEvidence": null,
+  "uploadedImages": [],
+  "draftSaved": false,
+  "sheet": {
+    "headerConfirmed": true,
+    "D": {
+      "value": "ㅇ",
+      "action": "preserved"
+    },
+    "G": {
+      "empty": true,
+      "action": "not_written"
+    },
+    "H": {
+      "empty": true,
+      "action": "not_written"
+    },
+    "L": {
+      "empty": true,
+      "action": "not_written"
+    },
+    "readbackVerified": true,
+    "timeZoneChanged": false
+  },
+  "contentFiles": {
+    "html": [],
+    "txt": [],
+    "researchMarkdown": "26_1106/앱사용_카카오톡 무료 이모티콘/웹조사/앱사용_카카오톡 무료 이모티콘_웹조사결과.md",
+    "existingBloggerStateBeforeRun": false
+  },
+  "duplicateCheck": {
+    "search": "카카오톡 무료 이모티콘",
+    "visibleMatchingTitleFound": false,
+    "draftCount": 0,
+    "complete": false,
+    "note": "관련 제목 4건을 검색에서 확인. 본문 및 URL의 최종 중복 대조는 입력 파일 확인 후 계속."
+  },
+  "errors": [
+    {
+      "code": "CONTENT_FILES_MISSING_WITH_D_COMPLETE",
+      "message": "D=ㅇ이나 해당 HTML/TXT 없음. 다른 저장 경로 또는 명시적 재작성 의사 확인 필요."
+    },
+    {
+      "code": "BOOTSTRAP_SANDBOX_CONNECTION",
+      "resolved": true,
+      "message": "동일 Space 검색 명령을 실행 환경 권한 절차 후 재개하여 연결 성공."
+    }
+  ],
+  "reservation": {
+    "receipt": ".session/blogger-app46-20261108/claim.json",
+    "retained": false
+  },
+  "resumePoint": "사용자가 앱사용 49행으로 대상 변경",
+  "updatedAt": "2026-11-08T11:21:58.140Z"
+}

@@ -8,7 +8,7 @@ description: 애드센스 블로그스팟 HTML 스타일 및 CSS 클래스 가�
 > 콘텐츠 작성 지침은 `/html-content-guide`를 참고하세요.
 
 > **웹조사·캡처 기반 글(2026-11-07)**: [html-content-guide.md 0절](html-content-guide.md#0-웹조사캡처-기반-blogger-콘텐츠-제작-계약-2026-11-07)의 근거·이미지 배치·출력 계약을 우선한다. 아래 고정된 표·CTA·출처 개수는 해당 작업에서 필수가 아니다. 기존 클래스와 색상은 활용하되 설명 문단 → 이미지·캡션 → 결과/주의점의 흐름을 유지한다. 대상 테마의 CSS·대표 이미지·스키마 동작은 실제 미리보기에서 확인한다.
-> 중복 검사, 독립 채팅/3개 Space 병렬 실행, 시트 D/G/H/L 상태 기록은 [Blogger 운영 가이드](../guidelines/BLOGGER_CONTENT_WORKFLOW.md)를 따른다.
+> 중복 검사 및 독립 채팅·시트 D 기록은 [콘텐츠 작성 가이드](../guidelines/BLOGGER_CONTENT_WORKFLOW.md), 3개 Space 병렬 업로드 및 시트 G/H/L 기록은 [업로드 가이드](../guidelines/BLOGGER_UPLOAD_WORKFLOW.md)를 따른다.
 
 ---
 

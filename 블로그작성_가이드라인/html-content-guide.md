@@ -4,9 +4,9 @@ description: 애드센스 블로그스팟 HTML SEO 콘텐츠 작성 가이드라
 
 ## 0. 웹조사·캡처 기반 Blogger 콘텐츠 제작 계약 (2026-11-07)
 
-`YY_MMDD/{탭}_{키워드}/웹조사/`의 조사 결과로 글을 작성할 때는 **이 절을 아래 범용 템플릿보다 우선 적용**한다. 내용·이미지 대응은 이 절, 이미지 HTML은 [html-style-guide.md](html-style-guide.md)의 이미지 규칙, 수집 근거는 [웹자료수집.md](../guidelines/웹자료수집.md)를 따른다. 복사해서 사용할 요청문은 [blogger-content-request-prompt.md](blogger-content-request-prompt.md)에 있다. 명시적인 사용자 지시가 있으면 우선한다.
+`YY_MMDD/{탭}_{키워드}/웹조사/`의 조사 결과로 글을 작성할 때는 **이 절을 아래 범용 템플릿보다 우선 적용**한다. 내용·이미지 대응은 이 절, 이미지 HTML은 [html-style-guide.md](html-style-guide.md)의 이미지 규칙, 수집 근거는 [웹자료수집.md](../guidelines/웹자료수집.md)를 따른다. 복사해서 사용할 요청문은 [blogger-content-create-prompt.md](blogger-content-create-prompt.md)(A 콘텐츠 작성) 및 [blogger-upload-request-prompt.md](blogger-upload-request-prompt.md)(B Blogger 업로드)에 있다. 명시적인 사용자 지시가 있으면 우선한다.
 
-**실행 계약**: [BLOGGER_CONTENT_WORKFLOW.md](../guidelines/BLOGGER_CONTENT_WORKFLOW.md)를 함께 읽는다. A의 키워드 폴더 전체 중복 검사·키워드별 독립 채팅과 D 완료 기록, B의 ego-browser 최대 3개 Space 병렬·G/H 사전 검사·초안 G 및 발행 H/L 기록은 해당 운영 가이드를 우선한다. 아래 콘텐츠 작성 규칙이 신규 생성·업로드 허용 여부를 대신하지 않는다.
+**실행 계약**: 콘텐츠 작성 단계는 [BLOGGER_CONTENT_WORKFLOW.md](../guidelines/BLOGGER_CONTENT_WORKFLOW.md), 업로드 및 발행 단계는 [BLOGGER_UPLOAD_WORKFLOW.md](../guidelines/BLOGGER_UPLOAD_WORKFLOW.md)를 함께 읽는다. A의 키워드 폴더 전체 중복 검사·키워드별 독립 채팅과 D 완료 기록, B의 ego-browser 최대 3개 Space 병렬·G/H 사전 검사·초안 G 및 발행 H/L 기록은 해당 운영 가이드를 우선한다. 아래 콘텐츠 작성 규칙이 신규 생성·업로드 허용 여부를 대신하지 않는다.
 
 ### 0.1 대상 확인과 입력 선택
 
