@@ -59,6 +59,60 @@ def next_time(previous, minute_step=10):
             + timedelta(seconds=rounded)).isoformat()
 
 
+def schedule_from_publications(now, last_published, minute_step=10):
+    """Decide from the latest public post without inspecting scheduled posts."""
+    def aware(value):
+        parsed = datetime.fromisoformat(value.replace('Z', '+00:00'))
+        if parsed.tzinfo is None:
+            raise ValueError('KST 또는 UTC 시간대가 필요합니다')
+        return parsed.astimezone(KST)
+
+    current = aware(now)
+    anchor = aware(last_published) if last_published else None
+    if anchor is None or anchor + timedelta(hours=2) <= current:
+        return {'mode': 'current', 'publicationTime': current.isoformat(),
+                'anchor': anchor.isoformat() if anchor else None}
+    return {'mode': 'scheduled', 'publicationTime': next_time(anchor.isoformat(), minute_step),
+            'anchor': anchor.isoformat()}
+
+
+def plan_account_slots(jobs, now, last_published_by_account, minute_step=10):
+    """Reserve planned slots for this run without reading existing reservations.
+
+    The first current slot is anchored to planning time, not an observed future
+    publication. Persist and share the result before independent submission.
+    """
+    if minute_step not in (1, 5, 10, 15, 30):
+        raise ValueError('실제 UI에서 확인한 분 간격을 지정하세요')
+    groups = {}
+    identities = set()
+    for job in jobs:
+        identity = (job['tab'], job['row'])
+        if identity in identities:
+            raise ValueError('같은 행을 중복 배정할 수 없습니다')
+        identities.add(identity)
+        account = job['account']
+        groups.setdefault(account, []).append(job)
+    slots = {}
+    for account, account_jobs in groups.items():
+        if account not in last_published_by_account:
+            raise ValueError(f'{account}: 최신 공개 글 확인 결과가 필요합니다')
+        ordered = sorted(account_jobs, key=lambda job: job['indexOnProfile'])
+        if [j['indexOnProfile'] for j in ordered] != list(range(len(ordered))):
+            raise ValueError(f'{account}: 계정별 배정 순번이 중복되거나 누락됐습니다')
+        first = schedule_from_publications(now, last_published_by_account[account], minute_step)
+        planned = first['publicationTime']
+        for index, job in enumerate(ordered):
+            if index:
+                planned = next_time(planned, minute_step)
+            slots[(job['tab'], job['row'])] = {
+                **job, 'slotMode': first['mode'] if index == 0 else 'scheduled',
+                'plannedPublicationTime': planned,
+                'planningAnchor': first['anchor'], 'slotIsConfirmed': False,
+            }
+    return [slots[(job['tab'], job['row'])] for job in jobs]
+
+
 def schedule_decision(now, last_published, scheduled, minute_step=10):
     """Use live blog/list evidence, including jobs created before this run.
 
@@ -209,6 +263,9 @@ def main():
     schedule = sub.add_parser('next-time')
     schedule.add_argument('previous')
     schedule.add_argument('--minute-step', type=int, default=10)
+    slots = sub.add_parser('schedule-plan')
+    slots.add_argument('input')
+    slots.add_argument('output', help='New project-relative path; existing plans are never overwritten')
     sheet = sub.add_parser('sheet-plan')
     sheet.add_argument('input')
     sheet.add_argument('output')
@@ -225,7 +282,14 @@ def main():
         result = prepare(args.folder)
     else:
         data = json.loads(Path(args.input).read_text(encoding='utf-8-sig'))
-        result = {'jobs': allocate(data['jobs'], args.seed)} if args.command == 'plan' else sheet_plan(data)
+        if args.command == 'plan':
+            result = {'jobs': allocate(data['jobs'], args.seed)}
+        elif args.command == 'schedule-plan':
+            result = {'plannedAt': data['now'], 'lastPublishedByAccount': data['lastPublishedByAccount'],
+                      'jobs': plan_account_slots(data['jobs'], data['now'], data['lastPublishedByAccount'],
+                                                 data.get('minuteStep', 10))}
+        else:
+            result = sheet_plan(data)
     output = inside(ROOT, args.output)
     output.parent.mkdir(parents=True, exist_ok=True)
     with output.open('x', encoding='utf-8') as handle:

@@ -1,5 +1,5 @@
 import unittest
-from naver_workflow import allocate, next_time, schedule_decision, prepare, sheet_plan, PROFILES
+from naver_workflow import allocate, next_time, schedule_decision, schedule_from_publications, plan_account_slots, prepare, sheet_plan, PROFILES
 from pathlib import Path
 from uuid import uuid4
 
@@ -51,6 +51,36 @@ class NaverWorkflowTests(unittest.TestCase):
                          ['2026-11-11T02:00:00+09:00'])['publicationTime'], '2026-11-11T04:00:00+09:00')
         with self.assertRaises(ValueError):
             schedule_decision(now, None, None)
+
+    def test_schedule_uses_only_latest_public_post(self):
+        now = '2026-11-11T00:30:00+09:00'
+        self.assertEqual(schedule_from_publications(now, '2026-11-10T23:32:12+09:00')['publicationTime'],
+                         '2026-11-11T01:40:00+09:00')
+        self.assertEqual(schedule_from_publications(now, '2026-11-03T23:59:59+09:00')['mode'], 'current')
+        self.assertEqual(schedule_from_publications(now, None)['mode'], 'current')
+        with self.assertRaises(ValueError):
+            schedule_from_publications('2026-11-11T00:30:00', None)
+
+    def test_account_slots_are_independent_and_spaced(self):
+        jobs = [{'tab': '앱사용', 'row': 38, 'account': 'a', 'indexOnProfile': 0},
+                {'tab': '앱사용', 'row': 39, 'account': 'b', 'indexOnProfile': 0},
+                {'tab': '앱사용', 'row': 40, 'account': 'a', 'indexOnProfile': 1},
+                {'tab': '앱사용', 'row': 41, 'account': 'b', 'indexOnProfile': 1},
+                {'tab': '앱사용', 'row': 42, 'account': 'a', 'indexOnProfile': 2}]
+        plan = plan_account_slots(jobs, '2026-11-11T00:30:00+09:00',
+                                  {'a': '2026-11-10T20:00:00+09:00',
+                                   'b': '2026-11-11T00:20:00+09:00'})
+        self.assertEqual([(x['slotMode'], x['plannedPublicationTime']) for x in plan], [
+            ('current', '2026-11-11T00:30:00+09:00'),
+            ('scheduled', '2026-11-11T02:20:00+09:00'),
+            ('scheduled', '2026-11-11T02:30:00+09:00'),
+            ('scheduled', '2026-11-11T04:20:00+09:00'),
+            ('scheduled', '2026-11-11T04:30:00+09:00')])
+        self.assertTrue(all(x['slotIsConfirmed'] is False for x in plan))
+        with self.assertRaises(ValueError):
+            plan_account_slots(jobs, '2026-11-11T00:30:00+09:00', {'a': None})
+        with self.assertRaises(ValueError):
+            plan_account_slots([jobs[0], jobs[0]], '2026-11-11T00:30:00+09:00', {'a': None})
 
     def test_real_urls_survive_converter_input(self):
         test_root = Path(__file__).resolve().parents[1] / '.session'

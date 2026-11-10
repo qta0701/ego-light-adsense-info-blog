@@ -1,0 +1,66 @@
+{
+  "platform": "naver",
+  "tab": "앱사용",
+  "row": 39,
+  "keyword": "번개장터 계좌거래",
+  "account": "qta14",
+  "spaceId": 13,
+  "status": "published_verified",
+  "recordedAt": "2026-11-11T01:51:06.872431+09:00",
+  "source": "26_1107/앱사용_번개장터 계좌거래/웹조사/publish/앱사용_번개장터 계좌거래_네이버블로그.md",
+  "sourceSha256": "9e16a63cd19e8cbb14ad308d0ab525b60fc1e925fc49393afb5e35b1f7770616",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1107/앱사용_번개장터 계좌거래/웹조사/publish/02_guide.png",
+      "caption": "번개장터 직접 계좌이체 거래 보호 제외 공식 안내",
+      "sha256": "d275d0c40345b11d3fc90ccbaf7a943b22c4eb847ec1be176acb45b1e54f0b7c"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1107/앱사용_번개장터 계좌거래/웹조사/publish/04_guide.png",
+      "caption": "안전결제 거부로 간주되는 대표적 위반 사례",
+      "sha256": "dce23f33e858ace2936ab86b4c5b22e6225f85d8172d7936fa7716598565f359"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1107/앱사용_번개장터 계좌거래/웹조사/publish/05_guide.png",
+      "caption": "번개장터 안전결제 이용 권고 및 고객센터 안내 화면",
+      "sha256": "867fc9b13539dc5d1c0ad49b8621e8df31a7538df4b9073f7a9c77f28a2548d3"
+    }
+  ],
+  "links": [
+    {
+      "marker": "NAVEROG1",
+      "url": "https://app.supportimes.com/2026/11/blog-post_361.html"
+    },
+    {
+      "marker": "NAVEROG2",
+      "url": "https://app.supportimes.com/2026/11/blog-post_361.html"
+    }
+  ],
+  "sheetWrites": {
+    "ledgerRow": 881,
+    "contentCell": "앱사용!F39",
+    "status": "coordinator reported recorded and rechecked"
+  },
+  "claimReceipt": ".session/naver-20261111-38-43/claim-39.json",
+  "draftSaved": true,
+  "draftTitle": "번개장터 계좌거래 처벌될까? 직접 계좌이체 위험성과 안전결제 정책 총정리",
+  "preflightAudit": ".session/naver-20261111-38-43/preflight-39.json",
+  "preflightResult": "passed before save",
+  "category": "앱,PC프로그램",
+  "submission": "public",
+  "publicUrl": "https://blog.naver.com/qta14/224472388353",
+  "observedCompletionAt": "2026-11-10T17:09:39.560Z",
+  "publicationTimeSource": "observed_completion",
+  "publicAudit": "Y:/antigravity-project/ego-light-adsense-info-blog/.session/naver-20261111-38-43/public-audit-39.json",
+  "verifiedAt": "2026-11-10T17:09:39.600Z",
+  "sheetProgress": {
+    "ledger": "네이버블로그 현황 881행 기록됨",
+    "source": "앱사용 F39 기록됨",
+    "verified": "현황 881행 및 앱사용 F39 재조회 완료"
+  },
+  "observedCompletionAtKST": "2026-11-11T02:09:39.560+09:00",
+  "spaceFinished": true
+}
