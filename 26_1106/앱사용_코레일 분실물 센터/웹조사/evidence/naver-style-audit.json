@@ -1,0 +1,348 @@
+{
+  "verifiedAt": "2026-11-10T15:47:14.379Z",
+  "scope": "published",
+  "cta": [
+    {
+      "background": "rgb(255, 248, 178)",
+      "text": [
+        {
+          "text": "🔍 코레일 역별 분실물 보관 현황 및 빠른 조회 바로가기👇",
+          "weight": "700",
+          "color": "rgb(27, 27, 248)",
+          "size": "19px"
+        }
+      ]
+    },
+    {
+      "background": "rgb(255, 248, 178)",
+      "text": [
+        {
+          "text": "📞 전국 코레일 역별 유실물센터 직통 전화번호 확인 바로가기👇",
+          "weight": "700",
+          "color": "rgb(27, 27, 248)",
+          "size": "19px"
+        }
+      ]
+    }
+  ],
+  "normal": [
+    {
+      "source": "기차나 역에 소중한 물건을 두고 내리셨다면",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "코레일 분실물 센터와",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "고객센터(1588-7788)를 통해 신속하게",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "찾을 수 있어요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "골든타임을 놓치지 않고 내 물건이 보관된",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "역 위치를 확인하고 빠르게 되찾는 단계별",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "대처법을 정리해 드려요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "열차 유실물은 보관 기간이 지나면 경찰서로",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "이관되니, 지금 바로 내 물건의 보관",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "현황을 아래에서 조회해 보세요!",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "열차 안이나 역 승강장에서 물건을 두고",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "내렸다는 사실을 깨달았을 때는 발견한",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "시점에 따라 대처하는 경로가 달라져요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "1. 열차 탑승 중 분실을 알아챘다면 통로를 순회하는 열차 승무원에게 즉시 도움을 요청하세요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "2. 열차에서 내린 직후 승강장에 서 있다면 지체 없이 도착역 역무실로 뛰어가 상황을 설명해야 해요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "3. 이미 개찰구를 빠져나와 귀가한 뒤라면 코레일 철도고객센터(1588-7788)로 전화해 분실 사실을 접수하세요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "4. 상담원에게 탑승했던 열차 번호, 출발·도착역, 이용 호차 및 좌석 번호를 정확히 전달해 주시면 찾을 확률이 높아져요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "역마다 담당 부서와 직통 유선 번호가",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "다르니, 물건이 보관된 역의 직통 연락처를",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "아래에서 바로 확인해 보세요!",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "코레일 공식 홈페이지 모바일 화면의",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "'종합이용 가이드' 메뉴를 이용하면 전국",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "주요 KTX 정차역의 분실물 센터 직통",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "유선 번호를 간편하게 검색할 수 있어요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "현재 코레일의 공식 유실물 온라인 조회",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "시스템은 '경찰민원24'로 연결되어 통합",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "관리되고 있어요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "1. 처음부터 물품명을 너무 구체적으로 적으면 담당자가 등록한 키워드와 달라 검색되지 않을 수 있어요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "2. 스마트폰, 지갑, 가방처럼 굵직한 카테고리로 먼저 넓게 검색한 뒤 등록 일자순으로 확인하시는 것이 좋아요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "3. 사진이 등록된 게시물을 클릭하여 색상, 브랜드, 부착된 키링 등의 특징을 꼼꼼하게 비교해 보세요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "역 유실물 센터에 보관된 물건을 찾으러 갈",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "때는 본인 확인을 위한 증빙 서류를",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "지참해야 안전하게 돌려받을 수 있어요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "1. 각 역 분실물 센터마다 운영 시간(보통 평일 주간 운영)이 다르므로 출발 전 유선 통화로 영업 여부를 꼭 확인하세요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "2. 물건의 잠금장치 비밀번호나 케이스 내부 영수증 등 본인만 알 수 있는 고유 정보를 미리 준비해 두시면 인계가 빨라져요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "제가 직접 코레일 공식 고객센터와 유실물",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "안내 페이지를 찾아보며 확인해봤는데요,",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "역무실과 유실물 센터의 운영 프로세스가",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "생각보다 체계적으로 연계되어 있더라구요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "제가 지난번 KTX에 우산을 두고 내렸을",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "때 당황했던 기억이 있어서 직접 서울역",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "유실물센터 절차를 꼼꼼히 확인해봤는데요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "코레일톡 앱에서 승차권 영수증을 캡처해",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "두었던 덕분에 열차 번호와 좌석 번호를",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "1분 만에 상담원분께 불러드릴 수",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "있었어요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "특히 역을 벗어난 뒤라면 무작정 역으로",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "찾아가기보다는 경찰민원24에서 습득장소를",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "'기차'로 맞추고 검색해보는 것이 헛걸음을",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "막는 지름길이더라구요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "서울역 유실물 센터 유선",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "번호(02-755-7108)로 미리 연락해",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "당일 보관 여부를 확인한 뒤 방문했더니",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "신분증 대조 후 곧바로 물건을 안전하게",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "인계받을 수 있었답니다.",
+      "found": true,
+      "bold": false
+    }
+  ],
+  "images": [
+    {
+      "loaded": true,
+      "caption": "코레일 유실물 신고 안내 및 철도고객센터 번호 확인"
+    },
+    {
+      "loaded": true,
+      "caption": "코레일 웹 역별 유실물 담당 연락처 검색 화면"
+    },
+    {
+      "loaded": true,
+      "caption": "경찰민원24 기차 및 보관장소 검색 조건 입력 화면"
+    },
+    {
+      "loaded": true,
+      "caption": "유실물 본인 및 대리인 수령 준비물 안내 화면"
+    },
+    {
+      "loaded": true,
+      "caption": "경찰민원24 서울역 보관 습득물 조회 결과 화면"
+    }
+  ],
+  "og": [
+    {
+      "thumbnail": true,
+      "previousTable": true,
+      "links": [
+        "https://app.supportimes.com/2026/11/blog-post_994.html",
+        "https://app.supportimes.com/2026/11/blog-post_994.html"
+      ]
+    },
+    {
+      "thumbnail": true,
+      "previousTable": true,
+      "links": [
+        "https://app.supportimes.com/2026/11/blog-post_994.html",
+        "https://app.supportimes.com/2026/11/blog-post_994.html"
+      ]
+    }
+  ],
+  "tables": 11,
+  "markers": 0,
+  "rawUrls": 0
+}

@@ -1,0 +1,336 @@
+{
+  "verifiedAt": "2026-11-10T15:47:14.409Z",
+  "scope": "reopened_reservation",
+  "cta": [
+    {
+      "background": "rgb(255, 248, 178)",
+      "text": [
+        {
+          "text": "🎫",
+          "weight": "700",
+          "color": "rgb(27, 27, 248)",
+          "size": "19px"
+        },
+        {
+          "text": "코레일 승차권 모바일 전달하기 및 간편 발권 바로가기",
+          "weight": "700",
+          "color": "rgb(27, 27, 248)",
+          "size": "19px"
+        },
+        {
+          "text": "👇",
+          "weight": "700",
+          "color": "rgb(27, 27, 248)",
+          "size": "19px"
+        }
+      ]
+    },
+    {
+      "background": "rgb(255, 248, 178)",
+      "text": [
+        {
+          "text": "📱",
+          "weight": "700",
+          "color": "rgb(27, 27, 248)",
+          "size": "19px"
+        },
+        {
+          "text": "비회원 코레일 승차권 조회 및 수신 확인 페이지 바로가기",
+          "weight": "700",
+          "color": "rgb(27, 27, 248)",
+          "size": "19px"
+        },
+        {
+          "text": "👇",
+          "weight": "700",
+          "color": "rgb(27, 27, 248)",
+          "size": "19px"
+        }
+      ]
+    }
+  ],
+  "normal": [
+    {
+      "source": "가족이나 지인의 기차표를 대신 예매하셨다면",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "코레일의 공식 '전달하기' 기능으로",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "안전하게 티켓을 넘겨줄 수 있어요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "단순 화면 캡처의 부가운임 위험을 피하고",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "앱과 카카오톡으로 상대방에게 표를 보내는",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "핵심 절차를 정리해 드려요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "승차권 전달 방식에 따라 수신자의 확인",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "방법이 달라지니, 실패 없는 전달 수단별",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "상세 가이드를 아래에서 확인해 보세요!",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "코레일 승차권 전달 서비스는 회원이 직접",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "예매한 지정 좌석 승차권을 실제 탑승자에게",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "정식으로 넘겨주는 기능이에요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "1. 코레일 앱 전달:",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "상대방의 회원번호나 휴대폰 번호를 입력해 앱끼리 바로 주고받는 방식이에요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "2. SMS / 카카오 알림톡:",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "승차권 링크가 담긴 메시지를 발송하여 상대방이 링크를 눌러 확인해요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "3. 카카오톡 전달:",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "카카오톡 친구 목록에서 대상을 지정하고 대화방으로 승차권 카드를 공유해요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "4. 단, 좌석이 배정되지 않는 입석이나 자유석 승차권은 전달 서비스가 제한되니 유의하셔야 해요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "비회원인 부모님이나 지인도 5자리 번호로",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "쉽게 열 수 있으니, 비회원 승차권 열람",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "방법을 아래에서 미리 확인해 보세요!",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "승차권을 보낸 후 상대방이 표를 제대로",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "수령했는지 확인하려면 전달된 수단에 맞춰",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "올바른 메뉴로 안내해 주어야 해요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "2. 단순히 코레일 화면에서 전달 버튼만 눌렀다고 해서 전송이 끝난 것이 아니므로 카카오톡 창에서 최종 전송을 완료해 주세요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "3. 상대방에게 전달이 완료되면 보낸 사람의 앱 승차권에는 '전달완료' 표식이 뜨며 화면에서 승차권이 사라져요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "탑승 일정이 변경되었거나 잘못 보냈을",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "경우에는 보낸 사람이 표를 다시 회수하여",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "환불할 수 있어요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "1. 표를 회수했다고 해서 자동으로 카드 결제가 취소되는 것은 아니므로, 반드시 내 승차권 메뉴에서 '환불받기'를 실행하세요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "2. 화면 캡처 이미지는 코레일 여객운송약관상 정식 승차권으로 인정되지 않으므로 무조건 공식 전달 기능을 사용하셔야 해요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "제가 직접 코레일 공식 앱과 홈페이지",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "FAQ를 꼼꼼하게 확인해봤는데요, 앱이",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "없는 부모님께 표를 보내드릴 때도 카카오톡",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "전달을 활용하면 정말 간단하더라구요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "제가 부모님 기차표를 대신 예매해 드리고",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "직접 전달 기능을 써보며 겪었던",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "시행착오인데요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "처음에는 코레일 화면에서 전달하기를 누르고",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "끝난 줄 알았는데, 자동으로 연동된",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "카카오톡 앱에서 부모님 대화방을 고르고",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "최종 '확인'을 누르지 않아 전송이 멈춰",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "있었더라구요.",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "다시 차분하게 카카오톡에서 전송을 완료해",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "어르신들은 복잡한 앱 로그인 없이도 해당",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "버튼만 누르면 바로 열차 호차와 좌석",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "번호가 큼직하게 떠서 역무원 검표 시 아주",
+      "found": true,
+      "bold": false
+    },
+    {
+      "source": "편안하게 기차를 이용하실 수 있었답니다.",
+      "found": true,
+      "bold": false
+    }
+  ],
+  "images": [
+    {
+      "loaded": true,
+      "caption": "코레일 승차권 전달 대상 및 입석·자유석 제한 조건 안내"
+    },
+    {
+      "loaded": true,
+      "caption": "승차권 전달 시 수신자 정보 입력 및 카카오톡 최종 확인 화면"
+    },
+    {
+      "loaded": true,
+      "caption": "전달받은 승차권 앱 및 메시지 수신 확인 경로 안내"
+    },
+    {
+      "loaded": true,
+      "caption": "승차권 회수 및 취소 환불 공식 안내 화면"
+    },
+    {
+      "loaded": true,
+      "caption": "코레일 회원 로그인 및 승차권 예매 내역 조회 화면"
+    }
+  ],
+  "og": [
+    {
+      "thumbnail": true,
+      "previousTable": true,
+      "links": []
+    },
+    {
+      "thumbnail": true,
+      "previousTable": true,
+      "links": []
+    }
+  ],
+  "tables": 11,
+  "markers": 0,
+  "rawUrls": 0
+}

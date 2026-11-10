@@ -1,0 +1,73 @@
+{
+  "status": "published",
+  "verified": true,
+  "account": "chocolateelf",
+  "profileName": "박상민",
+  "tab": "앱사용",
+  "row": 35,
+  "publicUrl": "https://blog.naver.com/chocolateelf/224472333030",
+  "promotionUrl": "https://app.supportimes.com/2026/11/blog-post_994.html",
+  "publicationTime": "2026-11-11T00:34:25.164+09:00",
+  "publicationTimeSource": "observed_completion",
+  "styleAudit": {
+    "normalParagraphs": 55,
+    "boldFailures": 0,
+    "ctaVerified": 2,
+    "images": 5,
+    "og": 2,
+    "rawUrls": 0
+  },
+  "ledgerRow": 877,
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "source": "26_1106/앱사용_코레일 분실물 센터/웹조사/publish/앱사용_코레일 분실물 센터_네이버블로그.md",
+  "sourceSha256": "d916f39b4499cb4ce3d328b4d11a24bf17475334758d7e894e2728049178d7e0",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1106/앱사용_코레일 분실물 센터/웹조사/02_코레일_모바일신고안내_가이드.png",
+      "caption": "코레일 유실물 신고 안내 및 철도고객센터 번호 확인",
+      "sha256": "ee467796d18df3ddd65ce3303c30221481eed228d5b6e1db0d0290f11cbce51c"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1106/앱사용_코레일 분실물 센터/웹조사/03_역별연락처_서울검색_가이드.png",
+      "caption": "코레일 웹 역별 유실물 담당 연락처 검색 화면",
+      "sha256": "9b58a476e296dfc44e2b2431e7d9a17170b6d6a20e2c67dc308f91f032934422"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1106/앱사용_코레일 분실물 센터/웹조사/08_경찰민원24_PC검색조건_가이드.png",
+      "caption": "경찰민원24 기차 및 보관장소 검색 조건 입력 화면",
+      "sha256": "205487e3a1a1d6e4ffb91690a4fa52048390e1aa759a59dcd5cc6b52c15d52a4"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1106/앱사용_코레일 분실물 센터/웹조사/04_본인대리수령_준비물_가이드.png",
+      "caption": "유실물 본인 및 대리인 수령 준비물 안내 화면",
+      "sha256": "286ede8b3bec9c65961620952ef2762071624d064a718617db09e113efffdd0b"
+    },
+    {
+      "marker": "NAVERIMG5",
+      "path": "26_1106/앱사용_코레일 분실물 센터/웹조사/11_기차서울역_습득물검색결과_가이드.png",
+      "caption": "경찰민원24 서울역 보관 습득물 조회 결과 화면",
+      "sha256": "ba77fbb10ceb224e11cea72bdbf3915d681e79841cff379164a7c537e96e1ede"
+    }
+  ],
+  "links": [
+    {
+      "marker": "NAVEROG1",
+      "url": "https://app.supportimes.com/2026/11/blog-post_994.html"
+    },
+    {
+      "marker": "NAVEROG2",
+      "url": "https://app.supportimes.com/2026/11/blog-post_994.html"
+    }
+  ],
+  "indexOnProfile": 0,
+  "spaceId": 7,
+  "spaceStatus": "finished",
+  "finishCalls": 1,
+  "styleAuditFile": "26_1106/앱사용_코레일 분실물 센터/웹조사/evidence/naver-style-audit.json",
+  "workflowLog": "guidelines/archive/NAVER_UPLOAD_20261111.md"
+}
