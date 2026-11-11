@@ -1,0 +1,20 @@
+{
+  "keyword": "당근마켓 안심결제",
+  "row": 49,
+  "tab": "앱사용",
+  "date": "2026-11-11",
+  "spaceId": 10,
+  "bodyChars": 6413,
+  "bodyRangeCheck": false,
+  "sourcesCount": 2,
+  "officialSourceVerified": true,
+  "downloadedOfficialAssets": [
+    "raw/official-01-escrow-flow.png",
+    "raw/official-02-escrow-card.png",
+    "raw/official-03-escrow-app.jpg"
+  ],
+  "officialAssetsVisuallyInspected": true,
+  "status": "blocked_by_minimized_window",
+  "blockReason": "Capture failed: ego-lite window is minimized at OS level (Page.captureScreenshot timed out, fromSurface:false renders inactive window surface, and sandboxed agent-desktop EnumWindows is blocked). Restore ego.exe window before resuming existing Space.",
+  "resumptionPoint": "26_1111/_research_runs/20261111-6c5e992e/resume-capture.mjs (restore ego.exe window on desktop, then run resume-capture.mjs to capture 01-search and 02-step1..05-step4 in existing Space)"
+}

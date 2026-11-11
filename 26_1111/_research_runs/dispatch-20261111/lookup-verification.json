@@ -1,0 +1,89 @@
+{
+  "checkedOn": "2026-11-12",
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "popup": "전체 시트 미작성 메인 키워드 목록",
+  "spaceId": 19,
+  "totalKeywords": 14,
+  "tabCount": 1,
+  "rows": [
+    {
+      "tab": "앱사용",
+      "row": 44,
+      "keyword": "카카오톡 광고 차단 방법"
+    },
+    {
+      "tab": "앱사용",
+      "row": 45,
+      "keyword": "카카오톡 대화내용 복구"
+    },
+    {
+      "tab": "앱사용",
+      "row": 46,
+      "keyword": "코레일 내일로 패스"
+    },
+    {
+      "tab": "앱사용",
+      "row": 47,
+      "keyword": "코레일 승차권 변경"
+    },
+    {
+      "tab": "앱사용",
+      "row": 48,
+      "keyword": "당근마켓 바로구매 택배"
+    },
+    {
+      "tab": "앱사용",
+      "row": 49,
+      "keyword": "당근마켓 안심결제"
+    },
+    {
+      "tab": "앱사용",
+      "row": 50,
+      "keyword": "번개장터 반값택배"
+    },
+    {
+      "tab": "앱사용",
+      "row": 51,
+      "keyword": "번개장터 카드 결제"
+    },
+    {
+      "tab": "앱사용",
+      "row": 52,
+      "keyword": "넷플릭스 해지방법"
+    },
+    {
+      "tab": "앱사용",
+      "row": 53,
+      "keyword": "넷플릭스 로그아웃 티비"
+    },
+    {
+      "tab": "앱사용",
+      "row": 54,
+      "keyword": "타오바오 탈퇴 방법"
+    },
+    {
+      "tab": "앱사용",
+      "row": 55,
+      "keyword": "네이버회원탈퇴하는방법"
+    },
+    {
+      "tab": "앱사용",
+      "row": 56,
+      "keyword": "스팀 환불 방법"
+    },
+    {
+      "tab": "앱사용",
+      "row": 57,
+      "keyword": "애플 환불 요청"
+    }
+  ],
+  "copyButton": "iframe reference error",
+  "method": "popup summary snapshot",
+  "sections": [
+    3,
+    3,
+    3,
+    3,
+    2
+  ]
+}

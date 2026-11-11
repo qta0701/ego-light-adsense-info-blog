@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "runId": "20261111-275b6161",
+  "date": "2026-11-11",
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "concurrency": 3,
+  "jobs": [
+    {
+      "tab": "앱사용",
+      "row": 44,
+      "keyword": "카카오톡 광고 차단 방법",
+      "multiIntent": false,
+      "queries": [
+        "카카오톡 광고 차단 방법"
+      ],
+      "folder": "26_1111/앱사용_카카오톡 광고 차단 방법/웹조사",
+      "spaceName": "research-20261111-275b6161-44-0"
+    },
+    {
+      "tab": "앱사용",
+      "row": 45,
+      "keyword": "카카오톡 대화내용 복구",
+      "multiIntent": false,
+      "queries": [
+        "카카오톡 대화내용 복구"
+      ],
+      "folder": "26_1111/앱사용_카카오톡 대화내용 복구/웹조사",
+      "spaceName": "research-20261111-275b6161-45-1"
+    },
+    {
+      "tab": "앱사용",
+      "row": 46,
+      "keyword": "코레일 내일로 패스",
+      "multiIntent": false,
+      "queries": [
+        "코레일 내일로 패스"
+      ],
+      "folder": "26_1111/앱사용_코레일 내일로 패스/웹조사",
+      "spaceName": "research-20261111-275b6161-46-2"
+    }
+  ]
+}

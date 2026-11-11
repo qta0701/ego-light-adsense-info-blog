@@ -1,0 +1,173 @@
+{
+  "dispatchId": "dispatch-20261111",
+  "checkedOn": "2026-11-12",
+  "sheet": {
+    "status": "verified",
+    "tab": "앱사용",
+    "range": "44:57",
+    "A": "2026-11-12",
+    "C": "ㅇ",
+    "evidence": "sheet-verification.json"
+  },
+  "jobs": [
+    {
+      "row": 44,
+      "tab": "앱사용",
+      "keyword": "카카오톡 광고 차단 방법",
+      "folder": "26_1111/앱사용_카카오톡 광고 차단 방법/웹조사",
+      "markdown": "26_1111/앱사용_카카오톡 광고 차단 방법/웹조사/publish/앱사용_카카오톡 광고 차단 방법_웹조사결과.md",
+      "rawImages": 3,
+      "publishedImages": 3,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+    },
+    {
+      "row": 45,
+      "tab": "앱사용",
+      "keyword": "카카오톡 대화내용 복구",
+      "folder": "26_1111/앱사용_카카오톡 대화내용 복구/웹조사",
+      "markdown": "26_1111/앱사용_카카오톡 대화내용 복구/웹조사/publish/앱사용_카카오톡 대화내용 복구_웹조사결과.md",
+      "rawImages": 3,
+      "publishedImages": 3,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다. 삼성전자서비스 관련 문서는 기존 수집본을 참조했습니다. 이번 재조회에서는 시스템 점검 화면이 표시됐습니다."
+    },
+    {
+      "row": 46,
+      "tab": "앱사용",
+      "keyword": "코레일 내일로 패스",
+      "folder": "26_1111/앱사용_코레일 내일로 패스/웹조사",
+      "markdown": "26_1111/앱사용_코레일 내일로 패스/웹조사/publish/앱사용_코레일 내일로 패스_웹조사결과.md",
+      "rawImages": 3,
+      "publishedImages": 3,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+    },
+    {
+      "row": 47,
+      "tab": "앱사용",
+      "keyword": "코레일 승차권 변경",
+      "folder": "26_1111/앱사용_코레일 승차권 변경/웹조사",
+      "markdown": "26_1111/앱사용_코레일 승차권 변경/웹조사/publish/앱사용_코레일 승차권 변경_웹조사결과.md",
+      "rawImages": 2,
+      "publishedImages": 2,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+    },
+    {
+      "row": 48,
+      "tab": "앱사용",
+      "keyword": "당근마켓 바로구매 택배",
+      "folder": "26_1111/앱사용_당근마켓 바로구매 택배/웹조사",
+      "markdown": "26_1111/앱사용_당근마켓 바로구매 택배/웹조사/publish/앱사용_당근마켓 바로구매 택배_웹조사결과.md",
+      "rawImages": 1,
+      "publishedImages": 1,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+    },
+    {
+      "row": 49,
+      "tab": "앱사용",
+      "keyword": "당근마켓 안심결제",
+      "folder": "26_1111/앱사용_당근마켓 안심결제/웹조사",
+      "markdown": "26_1111/앱사용_당근마켓 안심결제/웹조사/publish/앱사용_당근마켓 안심결제_웹조사결과.md",
+      "rawImages": 3,
+      "publishedImages": 2,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+    },
+    {
+      "row": 50,
+      "tab": "앱사용",
+      "keyword": "번개장터 반값택배",
+      "folder": "26_1111/앱사용_번개장터 반값택배/웹조사",
+      "markdown": "26_1111/앱사용_번개장터 반값택배/웹조사/publish/앱사용_번개장터 반값택배_웹조사결과.md",
+      "rawImages": 8,
+      "publishedImages": 3,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다. 일반·방문택배 예시와 발송인·수취인 정보가 들어간 예시는 발행 목록에서 제외했습니다."
+    },
+    {
+      "row": 51,
+      "tab": "앱사용",
+      "keyword": "번개장터 카드 결제",
+      "folder": "26_1111/앱사용_번개장터 카드 결제/웹조사",
+      "markdown": "26_1111/앱사용_번개장터 카드 결제/웹조사/publish/앱사용_번개장터 카드 결제_웹조사결과.md",
+      "rawImages": 9,
+      "publishedImages": 7,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+    },
+    {
+      "row": 52,
+      "tab": "앱사용",
+      "keyword": "넷플릭스 해지방법",
+      "folder": "26_1111/앱사용_넷플릭스 해지방법/웹조사",
+      "markdown": "26_1111/앱사용_넷플릭스 해지방법/웹조사/publish/앱사용_넷플릭스 해지방법_웹조사결과.md",
+      "rawImages": 6,
+      "publishedImages": 6,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+    },
+    {
+      "row": 53,
+      "tab": "앱사용",
+      "keyword": "넷플릭스 로그아웃 티비",
+      "folder": "26_1111/앱사용_넷플릭스 로그아웃 티비/웹조사",
+      "markdown": "26_1111/앱사용_넷플릭스 로그아웃 티비/웹조사/publish/앱사용_넷플릭스 로그아웃 티비_웹조사결과.md",
+      "rawImages": 8,
+      "publishedImages": 3,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다. 이전에 저장된 DOM 재구성 이미지는 근거 폴더와 원본 경로에 보존하고 발행 목록에서 제외했습니다."
+    },
+    {
+      "row": 54,
+      "tab": "앱사용",
+      "keyword": "타오바오 탈퇴 방법",
+      "folder": "26_1111/앱사용_타오바오 탈퇴 방법/웹조사",
+      "markdown": "26_1111/앱사용_타오바오 탈퇴 방법/웹조사/publish/앱사용_타오바오 탈퇴 방법_웹조사결과.md",
+      "rawImages": 2,
+      "publishedImages": 1,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다. 이전에 저장된 DOM 재구성 이미지는 근거 폴더와 원본 경로에 보존하고 발행 목록에서 제외했습니다."
+    },
+    {
+      "row": 55,
+      "tab": "앱사용",
+      "keyword": "네이버회원탈퇴하는방법",
+      "folder": "26_1111/앱사용_네이버회원탈퇴하는방법/웹조사",
+      "markdown": "26_1111/앱사용_네이버회원탈퇴하는방법/웹조사/publish/앱사용_네이버회원탈퇴하는방법_웹조사결과.md",
+      "rawImages": 3,
+      "publishedImages": 3,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+    },
+    {
+      "row": 56,
+      "tab": "앱사용",
+      "keyword": "스팀 환불 방법",
+      "folder": "26_1111/앱사용_스팀 환불 방법/웹조사",
+      "markdown": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/앱사용_스팀 환불 방법_웹조사결과.md",
+      "rawImages": 5,
+      "publishedImages": 5,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+    },
+    {
+      "row": 57,
+      "tab": "앱사용",
+      "keyword": "애플 환불 요청",
+      "folder": "26_1111/앱사용_애플 환불 요청/웹조사",
+      "markdown": "26_1111/앱사용_애플 환불 요청/웹조사/publish/앱사용_애플 환불 요청_웹조사결과.md",
+      "rawImages": 5,
+      "publishedImages": 5,
+      "status": "complete_with_alternative_review",
+      "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다. Apple 공식 예시 계정의 이름·이메일·영수증 식별 정보는 발행 이미지에서 가렸습니다."
+    }
+  ],
+  "browserCleanup": {
+    "finished": 7,
+    "alreadyAbsent": 8,
+    "evidence": "space-cleanup.json"
+  }
+}

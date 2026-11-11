@@ -1,0 +1,573 @@
+[p1 "애플 환불 요청 - Google 검색" | space "research-20261111-e953372e-57-1"(12): 1 managed, 0 untracked — p1* "애플 환불 요청 - Google 검색"]
+root
+  container
+    search
+      anchor "Google 홈페이지로 이동" [ref=1, loc=css:a[aria-label="Google 홈페이지로 이동"], url=https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwi3sIuZkYCYAxUJdPUHHYHgKSoQPHoECAYQBA]
+        svg_root
+      container
+        container
+          comboboxgrouping "검색" [ref=2, loc=css:textarea[name="q"]]
+            text "애플 환불 요청"
+          container
+            text "Powered by"
+            anchor [ref=3, url=https://surferseo.com/]
+              svg_root
+        container
+          container
+            container
+              checkbox [ref=4]
+              svg_root
+            text "·"
+            container
+              container "kr flag"
+              text "1,000"
+            text "·"
+            container
+              svg_root
+              text "0.00"
+          text "·"
+        container
+          button "지우기" [ref=5, loc=role:button[name="지우기"]]
+            svg_root
+          container
+            button "입력 도구" [ref=6, loc=role:button[name="입력 도구"]]
+              svg_root
+            button "음성 검색" [ref=7, loc=role:button[name="음성 검색"]]
+              svg_root
+            button "이미지로 검색" [ref=8, loc=role:button[name="이미지로 검색"]]
+              svg_root
+    button "공유" [ref=9]
+      svg_root
+  container
+    navigation [ref=10]
+      list
+        listitem
+          anchor [ref=11, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88+%EC%9A%94%EC%B2%AD&newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDiBcu-znxxkgjnkgynkIeUEEH7i9A:1794407592558&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q32PvxYy5w5qBAy5C5d1j1tsTis7WkqDFE5yUGcgnsAQ6cn1ir4pMEou9eZb15803rXj0g7k8nq8HiAoV2PIEbxuP1MMySoDJeOVZkY8o6stVMA1bl1KHqS-N7vtiEYUxJg-WlYZbq1eNYCResTGJgDSDFaL3UqHjIxZJXWaG2FZJ29jp3cUs0lG9AaCzoyEpOpSU-GQ&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwi3sIuZkYCYAxUJdPUHHYHgKSoQ2J8OegQIFhAD]
+            text "AI 모드"
+        listitem
+          link [ref=12]
+            text "전체"
+        listitem
+          anchor [ref=13, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDiBcu-znxxkgjnkgynkIeUEEH7i9A:1794407592558&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q32PvxYy5w5qBAy5C5d1j1tsTis7WkqDFE5yUGcgnsAQ6cn1ir4pMEou9eZb15803rXj0g7k8nq8HiAoV2PIEbxuP1MMySoDJeOVZkY8o6stVMA1bl1KHqS-N7vtiEYUxJg-WlYZbq1eNYCResTGJgDSDFaL3UqHjIxZJXWaG2FZJ29jp3cUs0lG9AaCzoyEpOpSU-GQ&q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88+%EC%9A%94%EC%B2%AD&ved=1t:220175&ictx=111]
+            text "쇼핑"
+        listitem
+          anchor [ref=14, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDiBcu-znxxkgjnkgynkIeUEEH7i9A:1794407592558&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q32PvxYy5w5qBAy5C5d1j1tsTis7WkqDFE5yUGcgnsAQ6cn1ir4pMEou9eZb15803rXj0g7k8nq8HiAoV2PIEbxuP1MMySoDJeOVZkY8o6stVMA1bl1KHqS-N7vtiEYUxJg-WlYZbq1eNYCResTGJgDSDFaL3UqHjIxZJXWaG2FZJ29jp3cUs0lG9AaCzoyEpOpSU-GQ&q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88+%EC%9A%94%EC%B2%AD&sa=X&ved=2ahUKEwi3sIuZkYCYAxUJdPUHHYHgKSoQtKgLegQIGBAB]
+            text "이미지"
+        listitem
+          anchor [ref=15, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDiBcu-znxxkgjnkgynkIeUEEH7i9A:1794407592558&q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88+%EC%9A%94%EC%B2%AD&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q32PvxYy5w5qBAy5C5d1j1tsTis7WkqDFE5yUGcgnsAQ6cn1ir4pMEou9eZb15803rXj0g7k8nq8HiAoV2PIEbxuP1MMySoDJeOVZkY8o6stVMA1bl1KHqS-N7vtiEYUxJg-WlYZbq1eNYCResTGJgDSDFaL3UqHjIxZJXWaG2FZJ29jp3cUs0lG9AaCzoyEpOpSU-GQ&sa=X&ved=2ahUKEwi3sIuZkYCYAxUJdPUHHYHgKSoQ0pQJegQIGRAB]
+            text "뉴스"
+        listitem
+          anchor [ref=16, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDiBcu-znxxkgjnkgynkIeUEEH7i9A:1794407592558&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q32PvxYy5w5qBAy5C5d1j1tsTis7WkqDFE5yUGcgnsAQ6cn1ir4pMEou9eZb15803rXj0g7k8nq8HiAoV2PIEbxuP1MMySoDJeOVZkY8o6stVMA1bl1KHqS-N7vtiEYUxJg-WlYZbq1eNYCResTGJgDSDFaL3UqHjIxZJXWaG2FZJ29jp3cUs0lG9AaCzoyEpOpSU-GQ&q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88+%EC%9A%94%EC%B2%AD&sa=X&ved=2ahUKEwi3sIuZkYCYAxUJdPUHHYHgKSoQtKgLegQIGhAB]
+            text "동영상"
+        listitem
+          anchor [ref=17, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDiBcu-znxxkgjnkgynkIeUEEH7i9A:1794407592558&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q32PvxYy5w5qBAy5C5d1j1tsTis7WkqDFE5yUGcgnsAQ6cn1ir4pMEou9eZb15803rXj0g7k8nq8HiAoV2PIEbxuP1MMySoDJeOVZkY8o6stVMA1bl1KHqS-N7vtiEYUxJg-WlYZbq1eNYCResTGJgDSDFaL3UqHjIxZJXWaG2FZJ29jp3cUs0lG9AaCzoyEpOpSU-GQ&q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88+%EC%9A%94%EC%B2%AD&sa=X&ved=2ahUKEwi3sIuZkYCYAxUJdPUHHYHgKSoQs6gLegQIGxAB]
+            text "짧은 동영상"
+        listitem
+          button [ref=18]
+            container "필터 더보기"
+              text "더보기"
+              svg_root
+      button [ref=19]
+        text "도구"
+        svg_root
+    container
+      container
+        container
+          container
+            anchor [ref=20, url=https://support.apple.com/ko-kr/118223]
+              heading
+                text "Apple에서 구입한 앱 또는 콘텐츠의 환불 요청하기"
+              container
+                image
+                container
+                  text "Apple Support"
+                  container
+                    text "https://support.apple.com"
+                    text "› ko-kr"
+            container
+              container
+                svg_root
+                text "2,035,805"
+              container
+                svg_root
+                text "452"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=21]
+              svg_root
+          container
+            text "환불 요청하기 ·"
+            text "reportaproblem.apple.com 페이지에 로그인합니다"
+            text ". · '문제 선택'을 탭하거나 클릭한 후 '환불 요청'을 선택합니다. · 환불을 원하는 이유를 선택하고 ' ..."
+        container
+          container
+            container
+              anchor [ref=22, url=https://support.apple.com/ko-kr/118224]
+                heading
+                  text "Apple에서 구입한 앱 또는 콘텐츠의 환불 상태 확인하기"
+                container
+                  image
+                  container
+                    text "Apple Support"
+                    container
+                      text "https://support.apple.com"
+                      text "› ko-kr"
+              container
+                container
+                  svg_root
+                  text "2,035,805"
+                container
+                  svg_root
+                  text "290"
+                text "·"
+                container
+                  svg_root
+                  text "0"
+              button "검색결과에 관한 정보" [ref=23]
+                svg_root
+            container
+              text "reportaproblem.apple.com 페이지로 이동하여 Apple 계정에 로그인"
+              text "합니다. · '요청 상태 확인'을 선택합니다. · 상태를 확인하려면 '대기 중'을 탭하거나 클릭합니다."
+          container
+            container
+              container
+                svg_root
+                heading
+                  text "AI 개요"
+              container
+                container
+                  text "애플에서 구입한 앱, 게임, 인앱 결제 등의 환불은"
+                  container
+                    text "공식"
+                    anchor [ref=24, url=https://support.apple.com/ko-kr/118223]
+                      text "문제 신고 페이지"
+                    text "를 통해 직접 요청할 수 있습니다"
+                  text "."
+                  container
+                    anchor "Apple Support" [ref=25, url=https://support.apple.com/ko-kr/118223]
+                    button "Apple Support(+1) - 관련 검색 결과" [ref=26, loc=css:button[aria-label="Apple Support(+1) - 관련 검색 결과"]]
+                      container
+                        image
+                        container
+                          text "Apple Support"
+                          text " +1"
+                heading
+                  text "환불 요청 방법"
+                ordered_list
+                  list_item
+                    anchor [ref=27, url=https://support.apple.com/ko-kr/118223]
+                      text "reportaproblem.apple.com"
+                    text "에 접속하여 Apple ID로 로그인합니다."
+                  list_item
+                    container
+                      text "메뉴에서"
+                      text "'문제 선택'"
+                      container
+                        text "을 누르고"
+                        text "'환불 요청'"
+                        text "을 선택합니다"
+                    text "."
+                  list_item
+                    text "환불을 원하는 구체적인 사유를 고릅니다."
+                  list_item
+                    container
+                      container
+                        text "환불받을 앱이나 콘텐츠 항목을 선택한 뒤"
+                        text "'제출'"
+                        text "을 클릭합니다"
+                      text "."
+                    container
+                      anchor "Apple Support" [ref=28, url=https://support.apple.com/ko-kr/118223]
+                      button "Apple Support - 관련 검색 결과" [ref=29]
+                        container
+                          image
+                          text "Apple Support"
+                heading
+                  text "처리 기간 및 결과 확인"
+                unordered_list
+                  list_item
+                    container
+                      text "검토 기간:"
+                      text "환불 요청 처리 결과는 보통"
+                      text "24~48시간"
+                      text "안에 이메일로 안내되거나 사이트에 반영됩니다."
+                    container
+                      anchor "Apple Support" [ref=30, url=https://support.apple.com/ko-kr/118223]
+                      button "Apple Support - 관련 검색 결과" [ref=31]
+                        container
+                          image
+                          text "Apple Support"
+            button "AI 개요 더보기" [ref=32, loc=role:button[name="AI 개요 더보기"]]
+              text "더보기"
+              svg_root
+          container
+            container
+              anchor [ref=33, url=https://discussionskorea.apple.com/thread/255991459]
+                heading
+                  text "환불요청"
+                container
+                  image
+                  container
+                    text "Apple"
+                    container
+                      text "https://discussionskorea.apple.com"
+                      text "› thread"
+              container
+                container
+                  svg_root
+                  text "268,334"
+                container
+                  svg_root
+                  text "72"
+                text "·"
+                container
+                  svg_root
+                  text "0"
+              button "검색결과에 관한 정보" [ref=34]
+                svg_root
+            container
+              container
+                text "2025. 3. 2."
+                text "—"
+              container
+                text "사용자님께서는 환불에 대해 문의 주셨습니다. [환불페이지 및 환불]."
+                text "환불페이지: https://reportaproblem.apple.com/?s=6"
+                text "."
+          container
+            container
+              anchor [ref=35, loc=href:https://m.blog.naver.com/lucky_box7/224179666513, url=https://m.blog.naver.com/lucky_box7/224179666513]
+                heading
+                  text "애플 앱스토어 환불 방법, 아이폰 앱 구독 취소하기 - 네이버 블로그"
+                container
+                  image
+                  container
+                    text "블로그"
+                    container
+                      text "https://m.blog.naver.com"
+                      text "› lucky_box7"
+              container
+                container
+                  svg_root
+                  text "108,813,976"
+                container
+                  svg_root
+                  text "251"
+                text "·"
+                container
+                  svg_root
+                  text "0"
+              button "검색결과에 관한 정보" [ref=36]
+                svg_root
+            container
+              container
+                text "2026. 2. 11."
+                text "—"
+              container
+                text "최종적으로 제출 버튼을 클릭하면"
+                text "애플"
+                text "앱스토어"
+                text "환불"
+                text "신청은 완료입니다. ​. 저는 약 20시간 정도 뒤에"
+                text "환불 요청"
+                text "결과가 업데이트 되었다는 안내 이메일 ..."
+      container
+        container
+          svg_root
+          text "6.5"
+        container
+          text "Keyword ideas"
+          container
+            table
+              table_row
+                table_cell
+                  checkbox [ref=37]
+                  svg_root
+                table_cell
+                  button [ref=38]
+                    text "Keyword"
+                    svg_root
+                table_cell
+                  button [ref=39]
+                    svg_root
+                    text "Overlap"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=40]
+                  svg_root
+                table_cell
+                  anchor [ref=41, loc=href:/search?q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88]
+                    text "애플 환불"
+                    svg_root
+                table_cell
+                  text "65"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=42]
+                  svg_root
+                table_cell
+                  anchor [ref=43, loc=href:/search?q=%EC%95%A0%ED%94%8C%ED%99%98%EB%B6%88, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C%ED%99%98%EB%B6%88]
+                    text "애플환불"
+                    svg_root
+                table_cell
+                  text "60"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=44]
+                  svg_root
+                table_cell
+                  anchor [ref=45, loc=href:/search?q=%EC%95%B1+%EC%8A%A4%ED%86%A0%EC%96%B4+%ED%99%98%EB%B6%88, url=https://www.google.com/search?q=%EC%95%B1+%EC%8A%A4%ED%86%A0%EC%96%B4+%ED%99%98%EB%B6%88]
+                    text "앱 스토어 환불"
+                    svg_root
+                table_cell
+                  text "20"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=46]
+                  svg_root
+                table_cell
+                  anchor [ref=47, loc=href:/search?q=%ED%99%98%EB%B6%88+%EC%9A%94%EC%B2%AD, url=https://www.google.com/search?q=%ED%99%98%EB%B6%88+%EC%9A%94%EC%B2%AD]
+                    text "환불 요청"
+                    svg_root
+                table_cell
+                  text "13"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=48]
+                  svg_root
+                table_cell
+                  anchor [ref=49, loc=href:/search?q=%ED%99%98%EB%B6%88%EC%9A%94%EC%B2%AD, url=https://www.google.com/search?q=%ED%99%98%EB%B6%88%EC%9A%94%EC%B2%AD]
+                    text "환불요청"
+                    svg_root
+                table_cell
+                  text "10"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=50]
+                  svg_root
+                table_cell
+                  anchor [ref=51, loc=href:/search?q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88%EC%9A%94%EC%B2%AD, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88%EC%9A%94%EC%B2%AD]
+                    text "애플 환불요청"
+                    svg_root
+                table_cell
+                  text "70"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=52]
+                  svg_root
+                table_cell
+                  anchor [ref=53, loc=href:/search?q=%EC%95%A0%ED%94%8C+%EA%B5%AC%EB%8F%85+%ED%99%98%EB%B6%88, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C+%EA%B5%AC%EB%8F%85+%ED%99%98%EB%B6%88]
+                    text "애플 구독 환불"
+                    svg_root
+                table_cell
+                  text "60"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=54]
+                  svg_root
+                table_cell
+                  anchor [ref=55, loc=href:/search?q=apple+%ED%99%98%EB%B6%88, url=https://www.google.com/search?q=apple+%ED%99%98%EB%B6%88]
+                    text "apple 환불"
+                    svg_root
+                table_cell
+                  text "60"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=56]
+                  svg_root
+                table_cell
+                  anchor [ref=57, url=https://www.google.com/search?q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4+%EB%AC%BB%EC%A7%80%EB%A7%88+%ED%99%98%EB%B6%88]
+                    text "앱스토어 묻지마 환불"
+                    svg_root
+                table_cell
+                  text "30"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=58]
+                  svg_root
+                table_cell
+                  anchor [ref=59, loc=href:/search?q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88+%EC%82%AC%EC%9C%A0+%ED%8C%81, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88+%EC%82%AC%EC%9C%A0+%ED%8C%81]
+                    text "애플 환불 사유 팁"
+                    svg_root
+                table_cell
+                  text "50"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=60]
+                  svg_root
+                table_cell
+                  anchor [ref=61, loc=href:/search?q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88%EC%82%AC%EC%9C%A0+%ED%8C%81, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88%EC%82%AC%EC%9C%A0+%ED%8C%81]
+                    text "애플 환불사유 팁"
+                    svg_root
+                table_cell
+                  text "35"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=62]
+                  svg_root
+                table_cell
+                  anchor [ref=63, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C+%EB%AC%BB%EC%A7%80%EB%A7%88+%ED%99%98%EB%B6%88+%EA%B1%B0%EC%A0%88]
+                    text "애플 묻지마 환불 거절"
+                    svg_root
+                table_cell
+                  text "50"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=64]
+                  svg_root
+                table_cell
+                  anchor [ref=65, url=https://www.google.com/search?q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4+%EB%AC%BB%EC%A7%80%EB%A7%88+%ED%99%98%EB%B6%88+%EA%B8%B0%EA%B0%84]
+                    text "앱스토어 묻지마 환불 기간"
+                    svg_root
+                table_cell
+                  text "50"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=66]
+                  svg_root
+                table_cell
+                  anchor [ref=67, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C+%EB%AC%BB%EC%A7%80%EB%A7%88%ED%99%98%EB%B6%88%EA%B1%B0%EC%A0%88]
+                    text "애플 묻지마환불거절"
+                    svg_root
+                table_cell
+                  text "48"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=68]
+                  svg_root
+                table_cell
+                  anchor [ref=69, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C+%EC%95%B1+%EC%8A%A4%ED%86%A0%EC%96%B4+%ED%99%98%EB%B6%88]
+                    text "애플 앱 스토어 환불"
+                    svg_root
+                table_cell
+                  text "55"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=70]
+                  svg_root
+                table_cell
+                  anchor [ref=71, url=https://www.google.com/search?q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4+%EB%AC%BB%EC%A7%80%EB%A7%88+%ED%99%98%EB%B6%88+%ED%9A%9F%EC%88%98]
+                    text "앱스토어 묻지마 환불 횟수"
+                    svg_root
+                table_cell
+                  text "28"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=72]
+                  svg_root
+                table_cell
+                  anchor [ref=73, url=https://www.google.com/search?q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4+%ED%99%98%EB%B6%88+%EC%A1%B0%EA%B1%B4]
+                    text "앱스토어 환불 조건"
+                    svg_root
+                table_cell
+                  text "20"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=74]
+                  svg_root
+                table_cell
+                  anchor [ref=75, loc=href:/search?q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88+%EB%94%94%EC%8B%9C, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C+%ED%99%98%EB%B6%88+%EB%94%94%EC%8B%9C]
+                    text "애플 환불 디시"
+                    svg_root
+                table_cell
+                  text "13"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=76]
+                  svg_root
+                table_cell
+                  anchor [ref=77, loc=href:/search?q=%EC%95%A0%ED%94%8C%ED%99%98%EB%B6%88+%EB%94%94%EC%8B%9C, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C%ED%99%98%EB%B6%88+%EB%94%94%EC%8B%9C]
+                    text "애플환불 디시"
+                    svg_root
+                table_cell
+                  text "13"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=78]
+                  svg_root
+                table_cell
+                  anchor [ref=79, loc=href:/search?q=%EC%95%A0%ED%94%8C+%EC%95%B1+%ED%99%98%EB%B6%88, url=https://www.google.com/search?q=%EC%95%A0%ED%94%8C+%EC%95%B1+%ED%99%98%EB%B6%88]
+                    text "애플 앱 환불"
+                    svg_root
+                table_cell
+                  text "55"
+                  text "%"
+                table_cell
+            container
+              container
+                combobox [ref=80]
+                  text "20"
+                svg_root
+              text "per page"
+              container
+                text "1"
+                text "-"
+                text "20"
+                text "of"
+                text "71"
+        button [ref=81]
+          iframe
+            root
+              svg_root
+              text "Surfer Academy: What Does AI Say About Your Brand? Find Out and Fix It Live"
+              text "Watch the replay on YouTube."
+        iframe [ref=82]
+          root
+            anchor [ref=83, loc=href:https://app.surferseo.com/register?utm_source=keyword_surfer, url=https://app.surferseo.com/register?utm_source=keyword_surfer]
+              text "Get Started Now ->"
+            container
+              anchor [ref=84, loc=href:https://community.surferseo.com/feed?utm_source=keyword_surfer, url=https://community.surferseo.com/feed?utm_source=keyword_surfer]
+                svg_root
+                text "Join Community"
+              anchor [ref=85, loc=href:https://www.youtube.com/@SurferSEO?sub_confirmation=1, url=https://www.youtube.com/@SurferSEO?sub_confirmation=1]
+                svg_root
+                text "Subscribe"
+        splitter
+        container
+          container
+            text "Powered by"
+            anchor [ref=86, url=https://surferseo.com/]
+              svg_root
+          anchor [ref=87, loc=href:https://docs.surferseo.com/en/collections/3203192-keyword-surfer-extension, url=https://docs.surferseo.com/en/collections/3203192-keyword-surfer-extension]
+            svg_root
+[more content below the viewport: scrollY=0, viewport 1436 / page 2801 px; scroll or use snapshot({ scope: "full_page" })]

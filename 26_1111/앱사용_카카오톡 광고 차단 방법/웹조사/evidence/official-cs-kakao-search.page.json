@@ -1,0 +1,50 @@
+{
+  "url": "https://cs.kakao.com/helps?service=8&Query=%EC%B1%84%EB%84%90%20%EC%B0%A8%EB%8B%A8",
+  "title": "카카오톡 | kakao 고객센터",
+  "text": "본문 바로가기\n메뉴 바로가기\n카카오 고객센터\n한국어\n더보기\n더보기\n로그인\n카카오톡\n전체 서비스 펼쳐보기\n무엇을 도와드릴까요?\n검색창, 검색어 입력 후 추천검색어는 방향키로 탐색 가능\n검색\n자주 묻는 질문\niOS 기기의 카카오톡에 내가 원하는 글씨체가 없어요.\n더보기\n카카오톡에 등록된 전화번호를 바꾸고 싶어요.\n더보기\n자녀 보호 기능에 대해 알려주세요.\n더보기\n프로필에 표시되는 주황색 마스킹 이미지는 무엇인가요?\n더보기\n유명인, 은행 및 기관을 사칭하는 메시지를 수신했어요. 어떻게 대처해야 하나요?\n더보기\n부적절한 메시지를 '가리기'했는데 내용이 가려지지 않아요.\n더보기\n인증문자가 오지 않아요. 어떻게 하나요?\n더보기\n대화를 백업하고 복원하려면 어떻게 해야 하나요?\n더보기\n카카오톡을 탈퇴하면 어떻게 되나요?\n더보기\n카테고리별로 찾아보세요\n대화 백업/복원/관리\n일반채팅/비밀채팅/팀채팅\n오픈채팅\n신고/이용제한/정책\n일반 기능/이용\n로그인/인증/계정/탈퇴\n프로필/펑\n친구/알림\n보이스톡/페이스톡\nPC/태블릿/워치 이용\n톡클라우드\n카카오톡 채널\n알림톡\n이모티콘 스토어 문의\n카카오톡 지갑\n카카오톡 뷰\n카카오톡 게임플레이\n숏폼\n도움말을 통해 문제를 해결하지 못하셨나요?\n문의하기 \n간편하게 메일로 답변을 받을 수 있어요.\n회사소개\n이용약관\n개인정보처리방침\n운영정책\n청소년보호정책\n권리침해신고안내\n공지사항\n카카오 고객센터 : 1577-3754 \n카카오 고객센터 안내\n(상세보기)\n\nCopyright © Kakao Corp. \n(새창열림)\nAll rights reserved.",
+  "links": [
+    {
+      "title": "본문 바로가기",
+      "url": "https://cs.kakao.com/helps?service=8&Query=%EC%B1%84%EB%84%90%20%EC%B0%A8%EB%8B%A8#kakaoCsContent"
+    },
+    {
+      "title": "메뉴 바로가기",
+      "url": "https://cs.kakao.com/helps?service=8&Query=%EC%B1%84%EB%84%90%20%EC%B0%A8%EB%8B%A8#kakaoCsHeader"
+    },
+    {
+      "title": "카카오 고객센터",
+      "url": "https://cs.kakao.com/"
+    },
+    {
+      "title": "iOS 기기의 카카오톡에 내가 원하는 글씨체가 없어요.\n더보기",
+      "url": "https://cs.kakao.com/helps_html/1073209392"
+    },
+    {
+      "title": "카카오톡에 등록된 전화번호를 바꾸고 싶어요.\n더보기",
+      "url": "https://cs.kakao.com/helps_html/1073209394"
+    },
+    {
+      "title": "자녀 보호 기능에 대해 알려주세요.\n더보기",
+      "url": "https://cs.kakao.com/helps_html/1073212473"
+    },
+    {
+      "title": "프로필에 표시되는 주황색 마스킹 이미지는 무엇인가요?\n더보기",
+      "url": "https://cs.kakao.com/helps_html/1073209241"
+    },
+    {
+      "title": "유명인, 은행 및 기관을 사칭하는 메시지를 수신했어요. 어떻게 대처해야 하나요?\n더보기",
+      "url": "https://cs.kakao.com/helps_html/1073208479"
+    },
+    {
+      "title": "부적절한 메시지를 '가리기'했는데 내용이 가려지지 않아요.\n더보기",
+      "url": "https://cs.kakao.com/helps_html/1073210309"
+    },
+    {
+      "title": "인증문자가 오지 않아요. 어떻게 하나요?\n더보기",
+      "url": "https://cs.kakao.com/helps_html/1073209443"
+    }
+  ],
+  "selector": "body",
+  "sha256": "5ed3a396769418c283059a71dc30d0d26bb935d51bca17b7bf9077a6d812f522",
+  "checkedAt": "2026-11-11T14:50:28.713Z"
+}

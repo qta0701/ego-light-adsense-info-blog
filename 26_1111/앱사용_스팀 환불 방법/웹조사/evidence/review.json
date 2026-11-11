@@ -1,0 +1,61 @@
+{
+  "row": 56,
+  "tab": "앱사용",
+  "keyword": "스팀 환불 방법",
+  "folder": "26_1111/앱사용_스팀 환불 방법/웹조사",
+  "markdown": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/앱사용_스팀 환불 방법_웹조사결과.md",
+  "bodyChars": 4493,
+  "rawImages": 5,
+  "publishedImages": 5,
+  "imageKinds": {
+    "공식 예시 이미지에 표식 편집": 5
+  },
+  "automaticValidationErrors": [
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
+    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+  ],
+  "imageSizes": {
+    "02_guide.png": [
+      720,
+      733
+    ],
+    "03_guide.png": [
+      720,
+      486
+    ],
+    "04_guide.png": [
+      974,
+      595
+    ],
+    "05_guide.png": [
+      992,
+      621
+    ],
+    "06_guide.png": [
+      978,
+      1227
+    ]
+  },
+  "artifactHashes": {
+    "publish/02_guide.png": "43436a8035491fbc89a044067a45712513db3ab0f215219d87cd55be10d8327d",
+    "publish/03_guide.png": "82151588022307858adff5c56e5fb387a871fdf0b19081a572fe4003610f2d9d",
+    "publish/04_guide.png": "ce7d609926c3220b7c3654cddd551e5c8d8f20d040259101155971c2667f51a3",
+    "publish/05_guide.png": "6061a93f6fb8086054dae2d539a0a9f9bcf52bc20a1f41651ed85826f4847455",
+    "publish/06_guide.png": "646ac5e5e75a00dbcaf2cef5b2fa997e00b64687b0bc50a3322176cdbfc10308",
+    "publish/앱사용_스팀 환불 방법_웹조사결과.md": "6afc0e20d8e351902435a201406c6ae2b9ed4ff19a7f41399cbff529ef4c4557",
+    "publish/index.json": "b5265409933ade8a6716a1a46de13f92d6dff49740eb889200d5e1b38a80bb5a"
+  },
+  "sourceImageHashes": {
+    "raw/02-step1-purchases.png": "15b812ab62347ffd2fe71128e76f709fa36bcadb01c91c64807a69635df86daf",
+    "raw/03-step2-select-game.png": "6732565c0fd26d092493d4957e0c2974422e5fc530ab9cc5da606ea53ba75b98",
+    "raw/04-step3-select-problem.png": "3f68b01ca7c96e446b56aadf1542c9416c967c01ff3d4ec5508ade62bf3a311a",
+    "raw/05-step4-request-refund.png": "c0fc6fb1935bbefc37cc784dd62b550570c3c9b7410d9ae4a48d4cb0a92a2f8f",
+    "raw/06-step5-refund-form.png": "80a3e865a6356f4cce21693a054a36e9c65df39fd3e68d617b14e1237d8d1659"
+  },
+  "researchSha256": "37bff7a0c764c1b135b1a5f6529e4035bf73e60f38f810929ef8b6536c6c50b5",
+  "checkedOn": "2026-11-12",
+  "visualReviewed": true,
+  "markedGoogleSearch": false,
+  "status": "complete_with_alternative_review",
+  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+}

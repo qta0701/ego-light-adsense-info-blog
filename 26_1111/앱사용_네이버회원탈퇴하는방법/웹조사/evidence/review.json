@@ -1,0 +1,50 @@
+{
+  "row": 55,
+  "tab": "앱사용",
+  "keyword": "네이버회원탈퇴하는방법",
+  "folder": "26_1111/앱사용_네이버회원탈퇴하는방법/웹조사",
+  "markdown": "26_1111/앱사용_네이버회원탈퇴하는방법/웹조사/publish/앱사용_네이버회원탈퇴하는방법_웹조사결과.md",
+  "bodyChars": 839,
+  "rawImages": 3,
+  "publishedImages": 3,
+  "imageKinds": {
+    "브라우저 인쇄본 발췌": 3
+  },
+  "automaticValidationErrors": [
+    "본문 839자: 3500~5500자 필요(출처/이미지 목록 제외)",
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
+    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+  ],
+  "imageSizes": {
+    "01_official-print.png": [
+      1028,
+      894
+    ],
+    "02_official-print.png": [
+      1028,
+      604
+    ],
+    "03_official-print.png": [
+      1028,
+      1405
+    ]
+  },
+  "artifactHashes": {
+    "publish/01_official-print.png": "9f09fe85f1bdb8360d89c9abaa39b0a2be9c6de8cfc8f24b1c679f9a1370f9d3",
+    "publish/02_official-print.png": "da16b1947aa095a81994112a4676f883a6e965e81e60bd74a85afafabd1b4110",
+    "publish/03_official-print.png": "f90f20f9ca7696b0d46b0dfa5530f0dd1abaec8adea1280cae6398e76d3ecf11",
+    "publish/앱사용_네이버회원탈퇴하는방법_웹조사결과.md": "0ec5b21f8168439cede497c74543ce7792f29d4135dfeb716541143fad344c5e",
+    "publish/index.json": "7449a5acf19a69ccb964dacdc9ddeb95fc9a12137b9a0afb941cb94c69a43fa5"
+  },
+  "sourceImageHashes": {
+    "raw/print-naver-pc-2-01.png": "267adda63a290bf6ec4c24c22f0a3ce063fa63d8be690f582ef12eaeda8bdf63",
+    "raw/print-naver-mobile-1-02.png": "55cf04e9e314bdde7f5c7d5d518be67f13b5d009337f8d3e86c1a3a0ce0a978e",
+    "raw/print-naver-closure-notes-2-03.png": "53c5407f5e0687f5405a2995e40a58d088f0707b8aaf61fcf2642efdd35edba9"
+  },
+  "researchSha256": "7f90a18490e1a22cb430156ab66e22e7b232319e1e2e85c7bc574703f6dee0f9",
+  "checkedOn": "2026-11-12",
+  "visualReviewed": true,
+  "markedGoogleSearch": false,
+  "status": "complete_with_alternative_review",
+  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+}

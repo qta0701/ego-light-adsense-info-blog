@@ -1,0 +1,73 @@
+{
+  "row": 51,
+  "tab": "앱사용",
+  "keyword": "번개장터 카드 결제",
+  "folder": "26_1111/앱사용_번개장터 카드 결제/웹조사",
+  "markdown": "26_1111/앱사용_번개장터 카드 결제/웹조사/publish/앱사용_번개장터 카드 결제_웹조사결과.md",
+  "bodyChars": 4036,
+  "rawImages": 9,
+  "publishedImages": 7,
+  "imageKinds": {
+    "공식 다운로드 이미지": 7
+  },
+  "automaticValidationErrors": [
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
+    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+  ],
+  "imageSizes": {
+    "01_official_buy_btn.jpg": [
+      1199,
+      771
+    ],
+    "02_official_general_card.jpg": [
+      1199,
+      771
+    ],
+    "03_official_installment.jpg": [
+      1199,
+      771
+    ],
+    "04_official_pay_confirm.jpg": [
+      1199,
+      771
+    ],
+    "05_official_easy_register.jpg": [
+      1199,
+      771
+    ],
+    "06_official_easy_manage.jpg": [
+      1199,
+      771
+    ],
+    "07_official_easy_pay.jpg": [
+      1199,
+      771
+    ]
+  },
+  "artifactHashes": {
+    "publish/01_official_buy_btn.jpg": "1df483862b701a10c536e2016b5239178aade6e39dbfa58495f7caf696ad51f6",
+    "publish/02_official_general_card.jpg": "60fffd0d50c260515797e287f14b66d6fa8d4753092da345ab25d7df243a626b",
+    "publish/03_official_installment.jpg": "5970185748df59f6d32860ad8ca4db0d7c8331fdc18a2fbf1e1bb22b361d7319",
+    "publish/04_official_pay_confirm.jpg": "07d0e335d35a563449269e639ec8aa0900a37487ff3dd35324464f1e7ef8f5e8",
+    "publish/05_official_easy_register.jpg": "1f2aa85d3731072b68739fd846c97995192e40ba1778fb99ed437b1524b92612",
+    "publish/06_official_easy_manage.jpg": "1277ee31817405c559d4e1cf13437d7f93c4b0b5f14d306d276ef06fff5cd06a",
+    "publish/07_official_easy_pay.jpg": "3f9cf4463e23ad955620649f9b27be6cc7c33ab17056f58a10a44996cadd999c",
+    "publish/앱사용_번개장터 카드 결제_웹조사결과.md": "32330db97bf4ef6232c73bb18f4f3ef64d0220979d8e1e3ab24f3143d3ed2618",
+    "publish/index.json": "df0cb214cfdba80679e9ea2be06335cdc9a83b55e0b4ea3be0e7ff001dfc4d31"
+  },
+  "sourceImageHashes": {
+    "raw/official-490-2.jpg": "1df483862b701a10c536e2016b5239178aade6e39dbfa58495f7caf696ad51f6",
+    "raw/official-490-3.jpg": "60fffd0d50c260515797e287f14b66d6fa8d4753092da345ab25d7df243a626b",
+    "raw/official-490-4.jpg": "5970185748df59f6d32860ad8ca4db0d7c8331fdc18a2fbf1e1bb22b361d7319",
+    "raw/official-490-5.jpg": "07d0e335d35a563449269e639ec8aa0900a37487ff3dd35324464f1e7ef8f5e8",
+    "raw/official-490-6.jpg": "1f2aa85d3731072b68739fd846c97995192e40ba1778fb99ed437b1524b92612",
+    "raw/official-490-7.jpg": "1277ee31817405c559d4e1cf13437d7f93c4b0b5f14d306d276ef06fff5cd06a",
+    "raw/official-490-8.jpg": "3f9cf4463e23ad955620649f9b27be6cc7c33ab17056f58a10a44996cadd999c"
+  },
+  "researchSha256": "2a04e5781da1446a99c49819eb81964fa5561fd79bdb5644344b3af5a19c88f1",
+  "checkedOn": "2026-11-12",
+  "visualReviewed": true,
+  "markedGoogleSearch": false,
+  "status": "complete_with_alternative_review",
+  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+}

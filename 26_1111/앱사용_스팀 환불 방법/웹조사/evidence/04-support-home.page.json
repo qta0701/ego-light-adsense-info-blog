@@ -1,0 +1,50 @@
+{
+  "url": "https://help.steampowered.com/ko/",
+  "title": "Steam 고객지원",
+  "text": "상점\n커뮤니티\n정보\n지원\nSteam 설치 로그인  |  언어\nSteam 고객지원\n무엇을 도와드릴까요?\n구매 확인, 계정 상태 및 개인 설정화된 도움을 얻기 위해 Steam 계정에 로그인하세요.\nSteam에 로그인\n \n로그인 관련 문제\n인기 게임\nCounter-Strike 2\nPUBG: BATTLEGROUNDS\nDota 2\nPhantom Blade Zero\n게임 및 소프트웨어 관련\n구매\n나의 계정\n교환, 선물, 장터 및 Steam 포인트\nSteam 클라이언트\nSteam 커뮤니티\nSteam 하드웨어\nSteam에서 구매하지 않은 항목이 청구되었습니다.",
+  "links": [
+    {
+      "title": "",
+      "url": "https://store.steampowered.com/"
+    },
+    {
+      "title": "상점",
+      "url": "https://store.steampowered.com/"
+    },
+    {
+      "title": "커뮤니티",
+      "url": "https://steamcommunity.com/"
+    },
+    {
+      "title": "정보",
+      "url": "https://store.steampowered.com/about/"
+    },
+    {
+      "title": "지원",
+      "url": "https://help.steampowered.com/ko/"
+    },
+    {
+      "title": "Steam 설치",
+      "url": "https://store.steampowered.com/about/"
+    },
+    {
+      "title": "로그인",
+      "url": "https://help.steampowered.com/ko/login/"
+    },
+    {
+      "title": "Steam 고객지원",
+      "url": "https://help.steampowered.com/ko/"
+    },
+    {
+      "title": "Steam에 로그인",
+      "url": "https://help.steampowered.com/ko/wizard/Login?redir=%2Fko%2F"
+    },
+    {
+      "title": "로그인 관련 문제",
+      "url": "https://help.steampowered.com/ko/wizard/HelpWithLogin"
+    }
+  ],
+  "selector": "body",
+  "sha256": "ba48b15cf08bca8676e3c231169db4b1aeb8ed475f66b611b7eee3b689cf2e51",
+  "checkedAt": "2026-11-11T14:38:23.298Z"
+}

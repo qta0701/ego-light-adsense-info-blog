@@ -1,0 +1,44 @@
+{
+  "row": 47,
+  "tab": "앱사용",
+  "keyword": "코레일 승차권 변경",
+  "folder": "26_1111/앱사용_코레일 승차권 변경/웹조사",
+  "markdown": "26_1111/앱사용_코레일 승차권 변경/웹조사/publish/앱사용_코레일 승차권 변경_웹조사결과.md",
+  "bodyChars": 4240,
+  "rawImages": 2,
+  "publishedImages": 2,
+  "imageKinds": {
+    "공식 다운로드 이미지": 2
+  },
+  "automaticValidationErrors": [
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
+    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장",
+    "해상도 부족: raw/official-01-comparison.jpg"
+  ],
+  "imageSizes": {
+    "01_korail-comparison.png": [
+      1200,
+      318
+    ],
+    "02_official-02-app-screens.jpg": [
+      826,
+      706
+    ]
+  },
+  "artifactHashes": {
+    "publish/01_korail-comparison.png": "1842c7c4730d6725448a2dd451c3dbccc3a1d8ec022087e19e3600517e643f3f",
+    "publish/02_official-02-app-screens.jpg": "7725ad16a496be7804acfb7b20bc3f51a9a61e628c7e2fe0d3750ed9b76e50cb",
+    "publish/앱사용_코레일 승차권 변경_웹조사결과.md": "6a833807c9baf95639f706320c5caa6b5116e89b8e7dd996af2c0bf86869454d",
+    "publish/index.json": "8e0cd4cbb19cf82b5f2fb1cb2859fc6c9475ba12a39ea5897314e2c1dc5d1a3e"
+  },
+  "sourceImageHashes": {
+    "raw/official-01-comparison.jpg": "b330f753b5a25ea9645650f18727d14add68d01f764026dc284cec3a9e4f98f7",
+    "raw/official-02-app-screens.jpg": "7725ad16a496be7804acfb7b20bc3f51a9a61e628c7e2fe0d3750ed9b76e50cb"
+  },
+  "researchSha256": "414dc326ed0b99a6ba12ddcec76e30a887600f49673f26c6d9d4bd8f7bdc5d87",
+  "checkedOn": "2026-11-12",
+  "visualReviewed": true,
+  "markedGoogleSearch": false,
+  "status": "complete_with_alternative_review",
+  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+}

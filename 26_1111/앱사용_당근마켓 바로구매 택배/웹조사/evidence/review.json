@@ -1,0 +1,37 @@
+{
+  "row": 48,
+  "tab": "앱사용",
+  "keyword": "당근마켓 바로구매 택배",
+  "folder": "26_1111/앱사용_당근마켓 바로구매 택배/웹조사",
+  "markdown": "26_1111/앱사용_당근마켓 바로구매 택배/웹조사/publish/앱사용_당근마켓 바로구매 택배_웹조사결과.md",
+  "bodyChars": 3954,
+  "rawImages": 1,
+  "publishedImages": 1,
+  "imageKinds": {
+    "공식 다운로드 이미지": 1
+  },
+  "automaticValidationErrors": [
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
+    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+  ],
+  "imageSizes": {
+    "01_official-01-instant-buy.jpg": [
+      4320,
+      2430
+    ]
+  },
+  "artifactHashes": {
+    "publish/01_official-01-instant-buy.jpg": "afccc14305947d850b3c397b269455c72a435bca6dce32f18a6ec3d48814cc6d",
+    "publish/앱사용_당근마켓 바로구매 택배_웹조사결과.md": "6a72b103b7ece23cfb04fd75530aefcba208bca15976cf3554c7a9776e071c86",
+    "publish/index.json": "4f89062797a5f74495b8641e2191a8f8aa9666892cf18008263406d2ce5bf3cc"
+  },
+  "sourceImageHashes": {
+    "raw/official-01-instant-buy.jpg": "afccc14305947d850b3c397b269455c72a435bca6dce32f18a6ec3d48814cc6d"
+  },
+  "researchSha256": "38a8543125dfa2e1c95bfc8f54131aa0a70dc1b2ed3ae63857082c5398714ac4",
+  "checkedOn": "2026-11-12",
+  "visualReviewed": true,
+  "markedGoogleSearch": false,
+  "status": "complete_with_alternative_review",
+  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+}

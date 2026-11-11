@@ -1,0 +1,50 @@
+{
+  "url": "https://help.steampowered.com/ko/faqs/view/784C-923B-A4A1-C825",
+  "title": "Steam 고객지원 :: 환불 요청 방법",
+  "text": "상점\n커뮤니티\n정보\n지원\nSteam 설치 로그인  |  언어\nSteam 고객지원\n환불 요청 방법\nhelp.steampowered.com을 통해 환불을 요청하시면 Valve에서 구매일로부터 14일 이내이면서 2시간 미만으로 플레이된 타이틀을 환불해 드립니다. 환불 규정을 충족하지 못하는 경우에도 help.steampowered.com을 통해 요청을 제출할 수 있으며, Valve에서 이를 검토합니다.\n\n환불 요청과 관련된 추가 정보 및 문제 해결 방법은 환불 관련 자주 하는 질문에서 확인하실 수 있습니다.\n\n\n환불 요청 방법\nSteam 고객지원(help.steampowered.com)으로 이동하여 Steam 계정으로 로그인합니다.\n\n로그인한 후, 구매를 누릅니다.\n\n\n환불 받고자 하는 구매를 찾아 클릭합니다. 해당 구매를 목록에서 찾을 수 없는 경우, 환불을 요청할 수 있는 기간이 지나 환불을 받을 수 없습니다.\n\n\n제품에 발생한 문제를 선택합니다.\n\n\n그런 다음 환불을 요청하고 싶습니다를 클릭합니다.\n\n요청 양식을 작성하여 제출합니다.\n\n드롭다운 메뉴를 클릭한 후 Steam 지갑 또는 구매 시 사용한 결제 수단을 선택하세요.\n\n\n요청이 성공적으로 제출되었다는 확인 메일을 받아야 합니다. 참고: 환불 처리가 완료되면 이메일을 보내드립니다.\n\n\n\n도움이 필요하신가요?\nSteam 지원 마법사를 사용하여 주제를 좁히고 필요한 도움을 받으세요.\nSteam 고객지원에 문의\n커뮤니티 도움말\nSteam 토론 게시판에 질문을 올리거나 관련된 답변을 찾아서 문제를 해결하세요.\nSteam 토론 게시판 방문\n\n© 2026 Valve Corporation. All rights reserved. 모든 상표는 미국 및 기타 국가에서 해당 소유자의 재산입니다.\n해당하는 경우 모든 가격에 부가가치세가 포함되어 있습니다.\n\nSTEAM\nSteam 정보\nSteam 이용 약관\nSteamworks\nSteam 배포\n기프트 카드\nVALVE\nValve 소개\n채용 정보\n하드웨어\n재활용\n법적 고지\n개인정보 처리방침\n접근성\n고지 및 정책\n쿠키\n환불\n더 보기\nSteam 다운로드\n모바일 앱 다운로드\nSteam 고객지원\n내 계정",
+  "links": [
+    {
+      "title": "",
+      "url": "https://store.steampowered.com/"
+    },
+    {
+      "title": "상점",
+      "url": "https://store.steampowered.com/"
+    },
+    {
+      "title": "커뮤니티",
+      "url": "https://steamcommunity.com/"
+    },
+    {
+      "title": "정보",
+      "url": "https://store.steampowered.com/about/"
+    },
+    {
+      "title": "지원",
+      "url": "https://help.steampowered.com/ko/"
+    },
+    {
+      "title": "Steam 설치",
+      "url": "https://store.steampowered.com/about/"
+    },
+    {
+      "title": "로그인",
+      "url": "https://help.steampowered.com/ko/login/"
+    },
+    {
+      "title": "Steam 고객지원",
+      "url": "https://help.steampowered.com/"
+    },
+    {
+      "title": "help.steampowered.com",
+      "url": "https://help.steampowered.com/"
+    },
+    {
+      "title": "help.steampowered.com",
+      "url": "https://help.steampowered.com/"
+    }
+  ],
+  "selector": "body",
+  "sha256": "eaa7c4c7dd9225962c297c94703be2902277cc0648c6f6019d3699936d77efb0",
+  "checkedAt": "2026-11-11T14:38:18.057Z"
+}

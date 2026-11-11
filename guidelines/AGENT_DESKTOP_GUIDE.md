@@ -19,7 +19,7 @@
 .\bin\agent-desktop.cmd skills get platform
 ```
 
-설치 완료·오류 중단 시 Windows `Speech Off.wav`와 알림 풍선을 사용한다. 비대화형 검증에서는 `-NoNotify`를 쓸 수 있다. 원시 CLI 호출마다 알림을 띄우지는 않는다. 상태와 refs는 기본적으로 git에서 제외된 `.session/agent-desktop/`에 저장한다. 명시한 `AGENT_DESKTOP_HOME`은 존중한다. 래퍼는 cwd와 무관하게 프로젝트 루트에서 경로를 계산하고 종료 코드·JSON을 그대로 반환한다.
+설치 완료·오류 중단 시 Windows 알림 풍선을 표시한다. 비대화형 검증에서는 `-NoNotify`를 쓸 수 있다. 원시 CLI 호출마다 알림을 띄우지는 않는다. 상태와 refs는 기본적으로 git에서 제외된 `.session/agent-desktop/`에 저장한다. 명시한 `AGENT_DESKTOP_HOME`은 존중한다. 래퍼는 cwd와 무관하게 프로젝트 루트에서 경로를 계산하고 종료 코드·JSON을 그대로 반환한다.
 
 서로 다른 사용자·권한 토큰(샌드박스/사용자 세션 포함)은 같은 private state 파일을 공유할 수 없다. `PERM_DENIED`와 foreign principal 오류가 나면 권한을 낮추거나 파일을 삭제하지 말고, 해당 실행 컨텍스트 전용의 새 경로를 `AGENT_DESKTOP_HOME`으로 지정한다. 예: `$env:AGENT_DESKTOP_HOME = Join-Path (Get-Location) '.session/agent-desktop-sandbox'`. refs도 컨텍스트 간 공유하지 않는다.
 

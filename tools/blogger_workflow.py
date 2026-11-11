@@ -286,10 +286,11 @@ def sheet_plan(snapshot, event, root=ROOT, now=None):
 def notify(ok):
     if os.name != 'nt':
         return
-    # Fixed strings only; never interpolate user supplied content into shell code.
     message = 'Blogger workflow completed' if ok else 'Blogger workflow stopped with an error'
-    script = "$s=Join-Path $env:WINDIR 'Media/Speech Off.wav'; if(Test-Path -LiteralPath $s){(New-Object System.Media.SoundPlayer $s).PlaySync()}; Add-Type -AssemblyName System.Windows.Forms; Add-Type -AssemblyName System.Drawing; $n=New-Object System.Windows.Forms.NotifyIcon; $n.Icon=[System.Drawing.SystemIcons]::Information; $n.Visible=$true; $n.ShowBalloonTip(2500,'Blogger workflow','" + message + "',[System.Windows.Forms.ToolTipIcon]::Info); Start-Sleep -Seconds 3; $n.Dispose()"
-    subprocess.run(['powershell', '-NoProfile', '-Command', script], timeout=15, creationflags=subprocess.CREATE_NO_WINDOW, capture_output=True)
+    script = Path(__file__).resolve().with_name('show-notification.ps1')
+    subprocess.run(['powershell', '-NoProfile', '-NonInteractive', '-File', str(script),
+                    '-Title', 'Blogger workflow', '-Message', message],
+                   timeout=15, creationflags=subprocess.CREATE_NO_WINDOW, capture_output=True)
 
 
 def main():

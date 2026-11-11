@@ -1,0 +1,43 @@
+{
+  "row": 49,
+  "tab": "앱사용",
+  "keyword": "당근마켓 안심결제",
+  "folder": "26_1111/앱사용_당근마켓 안심결제/웹조사",
+  "markdown": "26_1111/앱사용_당근마켓 안심결제/웹조사/publish/앱사용_당근마켓 안심결제_웹조사결과.md",
+  "bodyChars": 4394,
+  "rawImages": 3,
+  "publishedImages": 2,
+  "imageKinds": {
+    "공식 다운로드 이미지": 2
+  },
+  "automaticValidationErrors": [
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
+    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+  ],
+  "imageSizes": {
+    "01_official-03-escrow-app.jpg": [
+      4320,
+      2430
+    ],
+    "02_official-01-escrow-flow.png": [
+      563,
+      300
+    ]
+  },
+  "artifactHashes": {
+    "publish/01_official-03-escrow-app.jpg": "c8a25e61c326af66edcf942eff60b4aa18bc0eb93ec76a209131c59048bbef65",
+    "publish/02_official-01-escrow-flow.png": "58dd3c630bc595805271161635a60429a4662a894ae7e6e12c0ad9edd216ced3",
+    "publish/앱사용_당근마켓 안심결제_웹조사결과.md": "6f78165bfdb115f3e67fdea898ccdef683a30a4feaf4bbc79e3f51baa926091b",
+    "publish/index.json": "b9931f08716908847c40b40adb04738e592636eb30d107087f04cef2bafedc05"
+  },
+  "sourceImageHashes": {
+    "raw/official-03-escrow-app.jpg": "c8a25e61c326af66edcf942eff60b4aa18bc0eb93ec76a209131c59048bbef65",
+    "raw/official-01-escrow-flow.png": "58dd3c630bc595805271161635a60429a4662a894ae7e6e12c0ad9edd216ced3"
+  },
+  "researchSha256": "ccbc0837d9936f030d70fb48f6e8a40ff1787570112589dd2716375e16e79b61",
+  "checkedOn": "2026-11-12",
+  "visualReviewed": true,
+  "markedGoogleSearch": false,
+  "status": "complete_with_alternative_review",
+  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://www.google.com/search?q=%EC%95%A0%ED%94%8C%20%ED%99%98%EB%B6%88%20%EC%9A%94%EC%B2%AD",
+  "title": "애플 환불 요청 - Google 검색",
+  "targetUrl": "https://support.apple.com/ko-kr/118223",
+  "targetText": "Apple에서 구입한 앱 또는 콘텐츠의 환불 요청하기",
+  "viewport": {
+    "width": 1164,
+    "height": 818
+  },
+  "scroll": {
+    "scrollX": 0,
+    "scrollY": 0
+  },
+  "cssBox": [
+    137,
+    222,
+    457,
+    33
+  ],
+  "checkedAt": "2026-11-11T14:57:07.170Z"
+}

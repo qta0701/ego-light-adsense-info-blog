@@ -1,0 +1,20 @@
+{
+  "name": "05-step4-mac-subscriptions",
+  "file": "raw/05-step4-mac-subscriptions.png",
+  "role": "guide",
+  "sourceId": "S1",
+  "imageSize": {
+    "width": 1400,
+    "height": 986
+  },
+  "boxes": [
+    [
+      395,
+      380,
+      610,
+      95
+    ]
+  ],
+  "sha256": "9ef27068141da1facbfee1dd838b5700224839ef9386a03f8df1c3fcadd52096",
+  "checkedAt": "2026-11-11"
+}

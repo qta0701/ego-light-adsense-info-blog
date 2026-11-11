@@ -1,0 +1,22 @@
+{
+  "keyword": "네이버회원탈퇴하는방법",
+  "row": 55,
+  "tab": "앱사용",
+  "date": "2026-11-11",
+  "queries": [
+    "네이버회원탈퇴하는방법"
+  ],
+  "multiIntent": false,
+  "body": "",
+  "sources": [],
+  "images": [],
+  "limits": {
+    "bodyMin": 3500,
+    "bodyMax": 5500,
+    "guideMax": 8,
+    "referenceMax": 3,
+    "rawMax": 12
+  },
+  "exceptionReason": "",
+  "visualReviewed": false
+}

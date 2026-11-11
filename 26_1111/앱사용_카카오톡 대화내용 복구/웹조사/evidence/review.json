@@ -1,0 +1,49 @@
+{
+  "row": 45,
+  "tab": "앱사용",
+  "keyword": "카카오톡 대화내용 복구",
+  "folder": "26_1111/앱사용_카카오톡 대화내용 복구/웹조사",
+  "markdown": "26_1111/앱사용_카카오톡 대화내용 복구/웹조사/publish/앱사용_카카오톡 대화내용 복구_웹조사결과.md",
+  "bodyChars": 4118,
+  "rawImages": 3,
+  "publishedImages": 3,
+  "imageKinds": {
+    "브라우저 인쇄본 발췌": 3
+  },
+  "automaticValidationErrors": [
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
+    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+  ],
+  "imageSizes": {
+    "01_official-print.png": [
+      1016,
+      428
+    ],
+    "02_official-print.png": [
+      1016,
+      502
+    ],
+    "03_official-print.png": [
+      1016,
+      524
+    ]
+  },
+  "artifactHashes": {
+    "publish/01_official-print.png": "b1784c64bdf178eb6c2c8b08307cfec3ccab79208d5416498fc9e0697fd8bc21",
+    "publish/02_official-print.png": "938251b2fe0dc758f1896db02d221a1f0672b474fc046310a82686517108f198",
+    "publish/03_official-print.png": "2c1b04f2482b5739e7ed35e5f865616ea38230e363c08bee56931c75305beae9",
+    "publish/앱사용_카카오톡 대화내용 복구_웹조사결과.md": "d083eff5935b7a9695d48e574a723b4ab1b3638b547bfb9e9a34a3ad1a83c926",
+    "publish/index.json": "6620aae7e85c29cb3f07d6a3d063957d469fb4b3a878c5cab1da8920a70988c5"
+  },
+  "sourceImageHashes": {
+    "raw/print-kakao-backup-1-01.png": "bbb04d98aaf7b9dff15847a33fbee756490d63f5c7b6b69527f901cf7af229c8",
+    "raw/print-kakao-backup-1-02.png": "7c61a63414c7031a1d00006b62b6f63b80e00409dcb6e7b60e55c6a0411b423d",
+    "raw/print-kakao-backup-1-03.png": "e7e32b46e59963986e77518605be1fa70984ba673271fad260de8a74683b159a"
+  },
+  "researchSha256": "82c8acb6c4b99847e142507615c219072aff5e349180b605328de795002ed6ea",
+  "checkedOn": "2026-11-12",
+  "visualReviewed": true,
+  "markedGoogleSearch": false,
+  "status": "complete_with_alternative_review",
+  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다. 삼성전자서비스 관련 문서는 기존 수집본을 참조했습니다. 이번 재조회에서는 시스템 점검 화면이 표시됐습니다."
+}

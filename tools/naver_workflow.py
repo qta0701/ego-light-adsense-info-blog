@@ -240,13 +240,9 @@ def notify(status):
     if os.name != 'nt':
         return
     message = 'Naver upload completed' if status == 'complete' else 'Naver upload paused; see saved state'
-    script = ("$s=Join-Path $env:WINDIR 'Media/Speech Off.wav'; "
-              "if(Test-Path -LiteralPath $s){(New-Object System.Media.SoundPlayer $s).PlaySync()}; "
-              "Add-Type -AssemblyName System.Windows.Forms; Add-Type -AssemblyName System.Drawing; "
-              "$n=New-Object System.Windows.Forms.NotifyIcon; $n.Icon=[System.Drawing.SystemIcons]::Information; "
-              "$n.Visible=$true; $n.ShowBalloonTip(2500,'Naver workflow','" + message +
-              "',[System.Windows.Forms.ToolTipIcon]::Info); Start-Sleep -Seconds 3; $n.Dispose()")
-    subprocess.run(['powershell', '-NoProfile', '-NonInteractive', '-Command', script],
+    script = Path(__file__).resolve().with_name('show-notification.ps1')
+    subprocess.run(['powershell', '-NoProfile', '-NonInteractive', '-File', str(script),
+                    '-Title', 'Naver workflow', '-Message', message],
                    check=True, creationflags=subprocess.CREATE_NO_WINDOW)
 
 

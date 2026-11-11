@@ -1,0 +1,54 @@
+{
+  "url": "https://help.netflix.com/ko/node/23928",
+  "title": "TCL TV에서 넷플릭스를 이용하는 방법 | 넷플릭스 고객 센터",
+  "width": 390,
+  "height": 844,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 390.3999938964844,
+    "height": 844,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 0,
+    "height": 0
+  },
+  "targets": [
+    [
+      84.80000305175781,
+      365.70001220703125,
+      252.8000030517578,
+      112
+    ]
+  ],
+  "requestedViewport": {
+    "width": 390,
+    "height": 844
+  },
+  "boxes": [
+    [
+      84,
+      365,
+      254,
+      113
+    ]
+  ],
+  "pixelSize": {
+    "width": 390,
+    "height": 844
+  },
+  "pixelScale": {
+    "x": 0.9989754254540526,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 390.3999938964844,
+    "height": 844
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-11T15:03:29.838Z"
+}

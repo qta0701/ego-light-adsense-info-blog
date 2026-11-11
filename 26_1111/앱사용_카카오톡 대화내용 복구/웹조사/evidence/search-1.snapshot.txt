@@ -1,0 +1,570 @@
+[p1 "카카오톡 대화내용 복구 - Google 검색" | space "research-20261111-275b6161-45-1"(6): 1 managed, 0 untracked — p1* "카카오톡 대화내용 복구 - Google 검색"]
+root
+  container
+    search
+      anchor "Google 홈페이지로 이동" [ref=1, loc=css:a[aria-label="Google 홈페이지로 이동"], url=https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwiR2OGUkYCYAxUAdPUHHeenClEQPHoECAYQBA]
+        svg_root
+      container
+        container
+          comboboxgrouping "검색" [ref=2, loc=css:textarea[name="q"]]
+            text "카카오톡 대화내용 복구"
+          container
+            text "Powered by"
+            anchor [ref=3, url=https://surferseo.com/]
+              svg_root
+        container
+          container
+            container
+              checkbox [ref=4]
+              svg_root
+            text "·"
+            container
+              container "kr flag"
+              text "880"
+            text "·"
+            container
+              svg_root
+              text "0.52"
+          text "·"
+        container
+          button "지우기" [ref=5, loc=role:button[name="지우기"]]
+            svg_root
+          container
+            button "입력 도구" [ref=6, loc=role:button[name="입력 도구"]]
+              svg_root
+            button "음성 검색" [ref=7, loc=role:button[name="음성 검색"]]
+              svg_root
+            button "이미지로 검색" [ref=8, loc=role:button[name="이미지로 검색"]]
+              svg_root
+    button "공유" [ref=9]
+      svg_root
+  container
+    navigation [ref=10]
+      list
+        listitem
+          anchor [ref=11, url=https://www.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%8C%80%ED%99%94%EB%82%B4%EC%9A%A9+%EB%B3%B5%EA%B5%AC&newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDipr8e_IsZbjgBkIix6DGoHAfhLuw:1794407583488&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwUuUSkl59tfOZlOhHcVr08GpLeV8J1q7LTW7rOD87XESLpIDv-smAZcRcGEiMIENxQIvVkcb9tbCckGf7F6mDMkHY4SMWlsyb_DE8I5BgHzyVm9PtwQZ4b73-oHl5z1_T3xUovA&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiR2OGUkYCYAxUAdPUHHeenClEQ2J8OegQIDhAD]
+            text "AI 모드"
+        listitem
+          link [ref=12]
+            text "전체"
+        listitem
+          anchor [ref=13, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDipr8e_IsZbjgBkIix6DGoHAfhLuw:1794407583488&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwUuUSkl59tfOZlOhHcVr08GpLeV8J1q7LTW7rOD87XESLpIDv-smAZcRcGEiMIENxQIvVkcb9tbCckGf7F6mDMkHY4SMWlsyb_DE8I5BgHzyVm9PtwQZ4b73-oHl5z1_T3xUovA&q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%8C%80%ED%99%94%EB%82%B4%EC%9A%A9+%EB%B3%B5%EA%B5%AC&sa=X&ved=2ahUKEwiR2OGUkYCYAxUAdPUHHeenClEQtKgLegQIERAB]
+            text "이미지"
+        listitem
+          anchor [ref=14, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDipr8e_IsZbjgBkIix6DGoHAfhLuw:1794407583488&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwUuUSkl59tfOZlOhHcVr08GpLeV8J1q7LTW7rOD87XESLpIDv-smAZcRcGEiMIENxQIvVkcb9tbCckGf7F6mDMkHY4SMWlsyb_DE8I5BgHzyVm9PtwQZ4b73-oHl5z1_T3xUovA&q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%8C%80%ED%99%94%EB%82%B4%EC%9A%A9+%EB%B3%B5%EA%B5%AC&sa=X&ved=2ahUKEwiR2OGUkYCYAxUAdPUHHeenClEQtKgLegQIJBAB]
+            text "동영상"
+        listitem
+          anchor [ref=15, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDipr8e_IsZbjgBkIix6DGoHAfhLuw:1794407583488&q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%8C%80%ED%99%94%EB%82%B4%EC%9A%A9+%EB%B3%B5%EA%B5%AC&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwUuUSkl59tfOZlOhHcVr08GpLeV8J1q7LTW7rOD87XESLpIDv-smAZcRcGEiMIENxQIvVkcb9tbCckGf7F6mDMkHY4SMWlsyb_DE8I5BgHzyVm9PtwQZ4b73-oHl5z1_T3xUovA&sa=X&ved=2ahUKEwiR2OGUkYCYAxUAdPUHHeenClEQ0pQJegQIIRAB]
+            text "뉴스"
+        listitem
+          anchor [ref=16, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDipr8e_IsZbjgBkIix6DGoHAfhLuw:1794407583488&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwUuUSkl59tfOZlOhHcVr08GpLeV8J1q7LTW7rOD87XESLpIDv-smAZcRcGEiMIENxQIvVkcb9tbCckGf7F6mDMkHY4SMWlsyb_DE8I5BgHzyVm9PtwQZ4b73-oHl5z1_T3xUovA&q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%8C%80%ED%99%94%EB%82%B4%EC%9A%A9+%EB%B3%B5%EA%B5%AC&ved=1t:220175&ictx=111]
+            text "쇼핑"
+        listitem
+          anchor [ref=17, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDipr8e_IsZbjgBkIix6DGoHAfhLuw:1794407583488&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwUuUSkl59tfOZlOhHcVr08GpLeV8J1q7LTW7rOD87XESLpIDv-smAZcRcGEiMIENxQIvVkcb9tbCckGf7F6mDMkHY4SMWlsyb_DE8I5BgHzyVm9PtwQZ4b73-oHl5z1_T3xUovA&q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%8C%80%ED%99%94%EB%82%B4%EC%9A%A9+%EB%B3%B5%EA%B5%AC&sa=X&ved=2ahUKEwiR2OGUkYCYAxUAdPUHHeenClEQs6gLegQIDxAB]
+            text "짧은 동영상"
+        listitem
+          button [ref=18]
+            container "필터 더보기"
+              text "더보기"
+              svg_root
+      button [ref=19]
+        text "도구"
+        svg_root
+    container
+      container
+        svg_root
+        text "지금은 AI 개요를 생성할 수 없습니다. 나중에 다시 시도해 주세요."
+      container
+        container
+          container
+            anchor [ref=20, loc=href:https://blog.naver.com/zizonhjh/223705357756, url=https://blog.naver.com/zizonhjh/223705357756]
+              heading
+                text "카카오톡 대화내용 백업, 카톡 톡서랍 복원 방법"
+              container
+                svg_root
+                container
+                  text "Naver Blog"
+                  container
+                    text "https://blog.naver.com"
+                    text "› zizonhjh"
+            container
+              container
+                svg_root
+                text "112,913,576"
+              container
+                svg_root
+                text "0"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=21]
+              svg_root
+          container
+            container
+              text "2024. 12. 26."
+              text "—"
+            container
+              text "만약, 복원하지않고 로그인을 먼저하고 추후에 복원을 하고싶다면 [설정] - [채팅] - [대화백업]을 눌러주시게되면 동일하게"
+              text "대화내용"
+              text "을"
+              text "복구"
+              text "할 수 있으니 ..."
+        container
+          container
+            anchor [ref=22, loc=href:https://wikidocs.net/blog/@openwiki/20678/, url=https://wikidocs.net/blog/@openwiki/20678/]
+              heading
+                text "카카오톡 대화 백업하고 복원하는 방법 (아이폰·안드로이드 ..."
+              container
+                image
+                container
+                  text "위키독스"
+                  container
+                    text "https://wikidocs.net"
+                    text "› blog"
+            container
+              container
+                svg_root
+                text "1,185,126"
+              container
+                svg_root
+                text "854"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=23]
+              svg_root
+          container
+            container
+              text "2026. 6. 25."
+              text "—"
+            container
+              text "카카오톡 → 더보기 → 설정 → 채팅 → 대화 백업을 선택"
+              text "한다. 백업 비밀번호를 만들고 백업한다. 새 아이폰에서 로그인 시 대화 복원 단계에서 비밀번호 ..."
+        container
+          container
+            anchor [ref=24, loc=href:https://www.clien.net/service/board/cm_iphonien/14971346, url=https://www.clien.net/service/board/cm_iphonien/14971346]
+              heading
+                text "카톡 대화내용 복구... 어찌하나요"
+              container
+                image
+                container
+                  text "클리앙"
+                  container
+                    text "https://www.clien.net"
+                    text "› 클리앙 › 아이포니앙"
+            container
+              container
+                svg_root
+                text "6,428,019"
+              container
+                svg_root
+                text "1,691"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=25]
+              svg_root
+          container
+            container
+              text "2020. 5. 16."
+              text "—"
+            container
+              text "피씨에서 백업을 지금 하시고. 핸드폰에 있는"
+              text "카톡"
+              text "지우시고. 핸드폰에 있는"
+              text "카톡"
+              text "다시 다운 받으면 방금 피씨에서 백업한거 복원하면 됩니다. 지금부터 ..."
+        container
+          container
+            anchor [ref=26, loc=href:https://www.samsungsvc.co.kr/solution/37959, url=https://www.samsungsvc.co.kr/solution/37959]
+              heading
+                text "카카오톡, 라인 메시지 앱 백업 및 복원 방법 안내"
+              container
+                image
+                container
+                  text "삼성전자서비스"
+                  container
+                    text "https://www.samsungsvc.co.kr"
+                    text "› solution"
+            container
+              container
+                svg_root
+                text "2,362,883"
+              container
+                svg_root
+                text "1,076"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=27]
+              svg_root
+          container
+            text "대화"
+            text "내용 복원"
+            text "· 1. 전화번호 인증 후 카카오계정에 로그인합니다. * 카카오계정에 로그인하지 않을 경우 신규가입으로 처리되어 기존 정보가 모두 초기화됩니다. · 2..."
+        container
+          container
+            heading
+              text "동영상"
+            button "검색결과에 관한 정보" [ref=28]
+              svg_root
+          container
+            container
+              container
+                container
+                  anchor [ref=29, url=https://www.youtube.com/watch?v=WF4X4uz6Mmc]
+                    heading
+                      text "카톡 백업 없어도 채팅 복구 가능하다? (feat. 깜짝 노하우)"
+                      container
+                        container
+                          text "YouTube"
+                          container
+                            text "·"
+                            text "Tenorshare 4DDiG Korea 테너쉐어 포디딕 코리아"
+                        text "2025. 9. 10."
+                  text "YouTube"
+                  text "·"
+                  text "Tenorshare 4DDiG Korea 테너쉐어 포디딕 코리아"
+                  button "검색결과에 관한 정보" [ref=30]
+                    svg_root
+                button "Tenorshare 4DDiG Korea 테너쉐어 포디딕 코리아님이 YouTube에 게시한 카톡 백업 없어도 채팅 복구 가능하다? (feat. 깜짝 노하우). Google에서 재생. 3:32" [ref=31]
+                  table
+                    table_row
+                      table_cell
+                        image
+                        svg_root
+                        container
+                          text "3:32"
+                          svg_root
+              button "카톡 백업 없이 삭제된 메시지나 파일을 복구하는 방법과 포디딕 데이터 리커버리, 톡서랍 플러스, 전문 업체 활용법을 소개합니다." [ref=32]
+                text "카톡"
+                text "백업 없이 삭제된 메시지나 파일을"
+                text "복구"
+                text "하는 방법과 포디딕 데이터 리커버리,"
+                text "톡"
+                text "서랍 플러스, 전문 업체 활용법을 소개합니다."
+            container
+              container
+                container
+                  anchor [ref=33, url=https://www.youtube.com/watch?v=QIMn-M5ARss]
+                    heading
+                      text "리커버릿으로 잃어버린 카카오톡 파일 한번에 복구하는 방법"
+                      container
+                        container
+                          text "YouTube"
+                          container
+                            text "·"
+                            text "쉬운 디지털"
+                        text "2025. 12. 11."
+                  text "YouTube"
+                  text "·"
+                  text "쉬운 디지털"
+                  button "검색결과에 관한 정보" [ref=34]
+                    svg_root
+                anchor "쉬운 디지털님이 YouTube에 게시한 리커버릿으로 잃어버린 카카오톡 파일 한번에 복구하는 방법. YouTube에서 재생. 8:14" [ref=35, url=https://www.youtube.com/watch?v=QIMn-M5ARss]
+                  table
+                    table_row
+                      table_cell
+                        image
+                        svg_root
+                        text "8:14"
+              anchor "카카오톡 대화 내용 복원, 파일 내보내기 및 원더쉐어 리커버릿으로 잃어버린 데이터를 복구하는 방법을 알아봅니다." [ref=36, url=https://www.youtube.com/watch?v=QIMn-M5ARss]
+                text "카카오톡 대화 내용"
+                text "복원, 파일 내보내기 및 원더쉐어 리커버릿으로 잃어버린 데이터를"
+                text "복구"
+                text "하는 방법을 알아봅니다."
+      container
+        container
+          svg_root
+          text "6.5"
+        container
+          text "Keyword ideas"
+          container
+            table
+              table_row
+                table_cell
+                  checkbox [ref=37]
+                  svg_root
+                table_cell
+                  button [ref=38]
+                    text "Keyword"
+                    svg_root
+                table_cell
+                  button [ref=39]
+                    svg_root
+                    text "Overlap"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=40]
+                  svg_root
+                table_cell
+                  anchor [ref=41, url=https://www.google.com/search?q=%EC%B9%B4%ED%86%A1+%EB%B0%B1%EC%97%85+%EC%97%86%EC%9D%B4+%EB%B3%B5%EA%B5%AC]
+                    text "카톡 백업 없이 복구"
+                    svg_root
+                table_cell
+                  text "50"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=42]
+                  svg_root
+                table_cell
+                  anchor [ref=43, url=https://www.google.com/search?q=%EC%B9%B4%ED%86%A1+%EB%B0%B1%EC%97%85%EC%97%86%EC%9D%B4+%EB%B3%B5%EA%B5%AC]
+                    text "카톡 백업없이 복구"
+                    svg_root
+                table_cell
+                  text "30"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=44]
+                  svg_root
+                table_cell
+                  anchor [ref=45, url=https://www.google.com/search?q=%EC%B9%B4%ED%86%A1+%EB%82%98%EA%B0%84%EB%8C%80%ED%99%94%EB%B0%A9%EB%B3%B5%EA%B5%AC]
+                    text "카톡 나간대화방복구"
+                    svg_root
+                table_cell
+                  text "30"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=46]
+                  svg_root
+                table_cell
+                  anchor [ref=47, url=https://www.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%8C%80%ED%99%94+%EB%82%B4%EC%9A%A9+%EB%B3%B5%EA%B5%AC]
+                    text "카카오톡 대화 내용 복구"
+                    svg_root
+                table_cell
+                  text "60"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=48]
+                  svg_root
+                table_cell
+                  anchor [ref=49, url=https://www.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%B0%B1%EC%97%85+%EB%AA%BB%ED%96%88%EC%9D%84+%EB%95%8C]
+                    text "카카오톡 백업 못했을 때"
+                    svg_root
+                table_cell
+                  text "20"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=50]
+                  svg_root
+                table_cell
+                  anchor [ref=51, url=https://www.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%B0%B1%EC%97%85+%EB%AA%BB%ED%96%88%EC%9D%84%EB%95%8C]
+                    text "카카오톡 백업 못했을때"
+                    svg_root
+                table_cell
+                  text "18"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=52]
+                  svg_root
+                table_cell
+                  anchor [ref=53, loc=href:/search?q=%EC%B9%B4%ED%86%A1%EB%B3%B5%EA%B5%AC, url=https://www.google.com/search?q=%EC%B9%B4%ED%86%A1%EB%B3%B5%EA%B5%AC]
+                    text "카톡복구"
+                    svg_root
+                table_cell
+                  text "70"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=54]
+                  svg_root
+                table_cell
+                  anchor [ref=55, url=https://www.google.com/search?q=%EC%B9%B4%ED%86%A1+%EB%82%98%EA%B0%84+%EB%8C%80%ED%99%94%EB%B0%A9+%EB%B3%B5%EA%B5%AC+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8]
+                    text "카톡 나간 대화방 복구 프로그램"
+                    svg_root
+                table_cell
+                  text "50"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=56]
+                  svg_root
+                table_cell
+                  anchor [ref=57, url=https://www.google.com/search?q=%EC%B9%B4%ED%86%A1+%EB%B0%B1%EC%97%85+%EC%97%86%EC%9D%B4+%EB%B3%B5%EA%B5%AC+%EB%94%94%EC%8B%9C]
+                    text "카톡 백업 없이 복구 디시"
+                    svg_root
+                table_cell
+                  text "50"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=58]
+                  svg_root
+                table_cell
+                  anchor [ref=59, url=https://www.google.com/search?q=%EB%AA%A8%EB%B0%94%EC%9D%BC+%EC%B9%B4%ED%86%A1+%EB%B0%B1%EC%97%85+%EC%97%86%EC%9D%B4+%EB%B3%B5%EA%B5%AC]
+                    text "모바일 카톡 백업 없이 복구"
+                    svg_root
+                table_cell
+                  text "35"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=60]
+                  svg_root
+                table_cell
+                  anchor [ref=61, loc=href:/search?q=%EC%B9%B4%ED%86%A1+%EB%B3%B5%EA%B5%AC, url=https://www.google.com/search?q=%EC%B9%B4%ED%86%A1+%EB%B3%B5%EA%B5%AC]
+                    text "카톡 복구"
+                    svg_root
+                table_cell
+                  text "23"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=62]
+                  svg_root
+                table_cell
+                  anchor [ref=63, url=https://www.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%8C%80%ED%99%94%EB%B3%B5%EC%9B%90]
+                    text "카카오톡 대화복원"
+                    svg_root
+                table_cell
+                  text "65"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=64]
+                  svg_root
+                table_cell
+                  anchor [ref=65, loc=href:/search?q=%EC%B9%B4%ED%86%A1+%EB%82%B4%EC%9A%A9+%EB%B3%B5%EA%B5%AC, url=https://www.google.com/search?q=%EC%B9%B4%ED%86%A1+%EB%82%B4%EC%9A%A9+%EB%B3%B5%EA%B5%AC]
+                    text "카톡 내용 복구"
+                    svg_root
+                table_cell
+                  text "65"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=66]
+                  svg_root
+                table_cell
+                  anchor [ref=67, url=https://www.google.com/search?q=%EC%B9%B4%ED%86%A1+%EB%8C%80%ED%99%94%EB%82%B4%EC%9A%A9+%EB%B3%B5%EA%B5%AC]
+                    text "카톡 대화내용 복구"
+                    svg_root
+                table_cell
+                  text "60"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=68]
+                  svg_root
+                table_cell
+                  anchor [ref=69, url=https://www.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%B0%B1%EC%97%85+%EB%AA%BB%ED%96%88%EC%9D%84+%EB%95%8C+%EB%94%94%EC%8B%9C]
+                    text "카카오톡 백업 못했을 때 디시"
+                    svg_root
+                table_cell
+                  text "25"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=70]
+                  svg_root
+                table_cell
+                  anchor [ref=71, url=https://www.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4+%ED%86%A1+%EB%8C%80%ED%99%94+%EB%B3%B5%EA%B5%AC]
+                    text "카카오 톡 대화 복구"
+                    svg_root
+                table_cell
+                  text "23"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=72]
+                  svg_root
+                table_cell
+                  anchor [ref=73, url=https://www.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%B0%B1%EC%97%85+%EB%AA%BB%ED%96%88%EC%9D%84%EB%95%8C+%EB%94%94%EC%8B%9C]
+                    text "카카오톡 백업 못했을때 디시"
+                    svg_root
+                table_cell
+                  text "20"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=74]
+                  svg_root
+                table_cell
+                  anchor [ref=75, url=https://www.google.com/search?q=%EA%B0%A4%EB%9F%AD%EC%8B%9C+%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%B0%B1%EC%97%85+%EC%95%88%ED%95%98%EA%B3%A0+%EB%8C%80%ED%99%94+%EB%B3%B5%EA%B5%AC]
+                    text "갤럭시 카카오톡 백업 안하고 대화 복구"
+                    svg_root
+                table_cell
+                  text "28"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=76]
+                  svg_root
+                table_cell
+                  anchor [ref=77, url=https://www.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1+%EB%B0%B1%EC%97%85+%EC%95%88%ED%95%98%EA%B3%A0+%EB%8C%80%ED%99%94+%EB%B3%B5%EA%B5%AC]
+                    text "카카오톡 백업 안하고 대화 복구"
+                    svg_root
+                table_cell
+                  text "38"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=78]
+                  svg_root
+                table_cell
+                  anchor [ref=79, url=https://www.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4+%ED%86%A1+%EB%B0%B1%EC%97%85+%EC%95%88%ED%95%98%EA%B3%A0+%EB%8C%80%ED%99%94+%EB%B3%B5%EA%B5%AC]
+                    text "카카오 톡 백업 안하고 대화 복구"
+                    svg_root
+                table_cell
+                  text "28"
+                  text "%"
+                table_cell
+            container
+              container
+                combobox [ref=80]
+                  text "20"
+                svg_root
+              text "per page"
+              container
+                text "1"
+                text "-"
+                text "20"
+                text "of"
+                text "39"
+        button [ref=81]
+          iframe
+            root
+              svg_root
+              text "Surfer Academy: What Does AI Say About Your Brand? Find Out and Fix It Live"
+              text "Watch the replay on YouTube."
+        iframe [ref=82]
+          root
+            anchor [ref=83, loc=href:https://app.surferseo.com/register?utm_source=keyword_surfer, url=https://app.surferseo.com/register?utm_source=keyword_surfer]
+              text "Get Started Now ->"
+            container
+              anchor [ref=84, loc=href:https://community.surferseo.com/feed?utm_source=keyword_surfer, url=https://community.surferseo.com/feed?utm_source=keyword_surfer]
+                svg_root
+                text "Join Community"
+              anchor [ref=85, loc=href:https://www.youtube.com/@SurferSEO?sub_confirmation=1, url=https://www.youtube.com/@SurferSEO?sub_confirmation=1]
+                svg_root
+                text "Subscribe"
+[more content below the viewport: scrollY=0, viewport 1436 / page 2878 px; scroll or use snapshot({ scope: "full_page" })]

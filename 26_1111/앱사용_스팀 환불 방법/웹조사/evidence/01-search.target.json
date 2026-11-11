@@ -1,0 +1,21 @@
+{
+  "url": "https://www.google.com/search?q=%EC%8A%A4%ED%8C%80%20%ED%99%98%EB%B6%88%20%EB%B0%A9%EB%B2%95",
+  "title": "스팀 환불 방법 - Google 검색",
+  "targetUrl": "https://help.steampowered.com/ko/faqs/view/784C-923B-A4A1-C825",
+  "targetText": "Steam 고객지원 :: 환불 요청 방법",
+  "viewport": {
+    "width": 1164,
+    "height": 818
+  },
+  "scroll": {
+    "scrollX": 0,
+    "scrollY": 258.9090881347656
+  },
+  "cssBox": [
+    137,
+    393,
+    309,
+    33
+  ],
+  "checkedAt": "2026-11-11T14:57:05.378Z"
+}

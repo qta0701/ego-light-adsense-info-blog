@@ -1,0 +1,455 @@
+[p1 "코레일 내일로 패스 - Google 검색" | space "research-20261111-275b6161-46-2"(7): 1 managed, 0 untracked — p1* "코레일 내일로 패스 - Google 검색"]
+root
+  container
+    search
+      anchor "Google 홈페이지로 이동" [ref=1, loc=css:a[aria-label="Google 홈페이지로 이동"], url=https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwjy2qKXkYCYAxWoma8BHefUI8sQPHoECAYQBA]
+        svg_root
+      container
+        container
+          comboboxgrouping "검색" [ref=2, loc=css:textarea[name="q"]]
+            text "코레일 내일로 패스"
+          container
+            text "Powered by"
+            anchor [ref=3, url=https://surferseo.com/]
+              svg_root
+        container
+          container
+            container
+              checkbox [ref=4]
+              svg_root
+            text "·"
+            container
+              container "kr flag"
+              text "0"
+            text "·"
+            container
+              svg_root
+              text "N/A"
+          text "·"
+        container
+          button "지우기" [ref=5, loc=role:button[name="지우기"]]
+            svg_root
+          container
+            button "입력 도구" [ref=6, loc=role:button[name="입력 도구"]]
+              svg_root
+            button "음성 검색" [ref=7, loc=role:button[name="음성 검색"]]
+              svg_root
+            button "이미지로 검색" [ref=8, loc=role:button[name="이미지로 검색"]]
+              svg_root
+    button "공유" [ref=9]
+      svg_root
+  container
+    navigation [ref=10]
+      list
+        listitem
+          anchor [ref=11, url=https://www.google.com/search?q=%EC%BD%94%EB%A0%88%EC%9D%BC+%EB%82%B4%EC%9D%BC%EB%A1%9C+%ED%8C%A8%EC%8A%A4&newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDgodLiwh6lE0WUuOf5l2GQKTMnivA:1794407588745&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hWdnJ1UIjHcr8ePpTHPdZ-sZ0dQo1ocEv0etUGICbycSHpYa7RcK0NB47oFQ5NSF0HDY4iW_l90k5SSeCXa9AovKmg2AeEE3kGl8I_ysTHplVsH-ho&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjy2qKXkYCYAxWoma8BHefUI8sQ2J8OegQICxAD]
+            text "AI 모드"
+        listitem
+          link [ref=12]
+            text "전체"
+        listitem
+          anchor [ref=13, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDgodLiwh6lE0WUuOf5l2GQKTMnivA:1794407588745&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hWdnJ1UIjHcr8ePpTHPdZ-sZ0dQo1ocEv0etUGICbycSHpYa7RcK0NB47oFQ5NSF0HDY4iW_l90k5SSeCXa9AovKmg2AeEE3kGl8I_ysTHplVsH-ho&q=%EC%BD%94%EB%A0%88%EC%9D%BC+%EB%82%B4%EC%9D%BC%EB%A1%9C+%ED%8C%A8%EC%8A%A4&sa=X&ved=2ahUKEwjy2qKXkYCYAxWoma8BHefUI8sQtKgLegQILRAB]
+            text "이미지"
+        listitem
+          anchor [ref=14, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDgodLiwh6lE0WUuOf5l2GQKTMnivA:1794407588745&q=%EC%BD%94%EB%A0%88%EC%9D%BC+%EB%82%B4%EC%9D%BC%EB%A1%9C+%ED%8C%A8%EC%8A%A4&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hWdnJ1UIjHcr8ePpTHPdZ-sZ0dQo1ocEv0etUGICbycSHpYa7RcK0NB47oFQ5NSF0HDY4iW_l90k5SSeCXa9AovKmg2AeEE3kGl8I_ysTHplVsH-ho&sa=X&ved=2ahUKEwjy2qKXkYCYAxWoma8BHefUI8sQ0pQJegQILBAB]
+            text "뉴스"
+        listitem
+          anchor [ref=15, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDgodLiwh6lE0WUuOf5l2GQKTMnivA:1794407588745&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hWdnJ1UIjHcr8ePpTHPdZ-sZ0dQo1ocEv0etUGICbycSHpYa7RcK0NB47oFQ5NSF0HDY4iW_l90k5SSeCXa9AovKmg2AeEE3kGl8I_ysTHplVsH-ho&q=%EC%BD%94%EB%A0%88%EC%9D%BC+%EB%82%B4%EC%9D%BC%EB%A1%9C+%ED%8C%A8%EC%8A%A4&ved=1t:220175&ictx=111]
+            text "쇼핑"
+        listitem
+          anchor [ref=16, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDgodLiwh6lE0WUuOf5l2GQKTMnivA:1794407588745&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hWdnJ1UIjHcr8ePpTHPdZ-sZ0dQo1ocEv0etUGICbycSHpYa7RcK0NB47oFQ5NSF0HDY4iW_l90k5SSeCXa9AovKmg2AeEE3kGl8I_ysTHplVsH-ho&q=%EC%BD%94%EB%A0%88%EC%9D%BC+%EB%82%B4%EC%9D%BC%EB%A1%9C+%ED%8C%A8%EC%8A%A4&sa=X&ved=2ahUKEwjy2qKXkYCYAxWoma8BHefUI8sQtKgLegQIKRAB]
+            text "동영상"
+        listitem
+          anchor [ref=17, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDgodLiwh6lE0WUuOf5l2GQKTMnivA:1794407588745&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hWdnJ1UIjHcr8ePpTHPdZ-sZ0dQo1ocEv0etUGICbycSHpYa7RcK0NB47oFQ5NSF0HDY4iW_l90k5SSeCXa9AovKmg2AeEE3kGl8I_ysTHplVsH-ho&q=%EC%BD%94%EB%A0%88%EC%9D%BC+%EB%82%B4%EC%9D%BC%EB%A1%9C+%ED%8C%A8%EC%8A%A4&sa=X&ved=2ahUKEwjy2qKXkYCYAxWoma8BHefUI8sQs6gLegQIKBAB]
+            text "짧은 동영상"
+        listitem
+          button [ref=18]
+            container "필터 더보기"
+              text "더보기"
+              svg_root
+      button [ref=19]
+        text "도구"
+        svg_root
+    container
+      container
+        container
+          container
+            anchor [ref=20, url=https://www.korail.com/tour/freeTravel/railro/passIntro]
+              heading
+                text "패스 소개"
+              container
+                image
+                container
+                  text "코레일"
+                  container
+                    text "https://www.korail.com"
+                    text "› freeTravel › railro › passIntro"
+            container
+              container
+                svg_root
+                text "510,397"
+              container
+                svg_root
+                text "103"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=21]
+              svg_root
+          container
+            text "내일로 패스 바우처 5만원권, 내일로 패스 바우처 6만원권"
+            text ". 판매대상. 전 국민 ... ※ <내일로 바우처+현금>또는<내일로 바우처+카드결제>로 내일로 혼용결제 가능 ..."
+        container
+          container
+            container
+              svg_root
+              heading
+                text "AI 개요"
+            container
+              container
+                text "코레일의"
+                text "‘내일로 두 번째 이야기’"
+                text "패스는"
+                text "나이 제한 없이 전 국민이 이용할 수 있는 철도 자유여행 패스"
+                text "입니다."
+                anchor [ref=22, url=https://www.korail.com/tour/freeTravel/railro/passIntro]
+                  text "코레일 패스 소개"
+                text "페이지나"
+                text "코레일톡"
+                text "앱에서 구매할 수 있습니다."
+                container
+                  anchor "코레일" [ref=23, loc=css:a[aria-label="코레일"], url=https://www.korail.com/tour/freeTravel/railro/passIntro]
+                  button "코레일(+2) - 관련 검색 결과" [ref=24, loc=css:button[aria-label="코레일(+2) - 관련 검색 결과"]]
+                    container
+                      image
+                      container
+                        text "코레일"
+                        text " +2"
+              heading
+                text "1. 패스 종류 및 가격"
+              unordered_list
+                list_item
+                  text "YOUTH (만 29세 이하)"
+                  unordered_list
+                    list_item
+                      text "선택 3일권"
+                      text ": 70,000원 (7일 유효기간 중 3일 선택)"
+                    list_item
+                      container
+                        text "연속 7일권"
+                        text ": 80,000원 (연속 7일간 사용)"
+                      container
+                        anchor "블로그" [ref=25, url=https://m.blog.naver.com/ggm0724/223912096477]
+                        button "블로그(+1) - 관련 검색 결과" [ref=26]
+                          container
+                            image
+                            container
+                              text "블로그"
+                              text " +1"
+                list_item
+                  text "ADULT (일반 / 만 30세 이상)"
+                  unordered_list
+                    list_item
+                      text "선택 3일권"
+                      text ": 100,000원"
+                    list_item
+                      container
+                        text "연속 7일권"
+                        text ": 110,000원"
+                      container
+                        anchor "여행픽" [ref=27, loc=css:a[aria-label="여행픽"], url=https://www.thetrippick.com/news/articleView.html?idxno=1247]
+                        button "여행픽 - 관련 검색 결과" [ref=28, loc=css:button[aria-label="여행픽 - 관련 검색 결과"]]
+                          container
+                            image
+                            text "여행픽"
+              heading
+                text "2. 이용 혜택 및 좌석 지정"
+          button "AI 개요 더보기" [ref=29, loc=role:button[name="AI 개요 더보기"]]
+            text "더보기"
+            svg_root
+        container
+          container
+            anchor [ref=30, loc=href:https://www.korail.com/tour/touristIntor/tourEvent/monthTour, url=https://www.korail.com/tour/touristIntor/tourEvent/monthTour]
+              heading
+                text "코레일 기차여행"
+              container
+                image
+                container
+                  text "코레일"
+                  container
+                    text "https://www.korail.com"
+                    text "› tour › tourEvent › monthTour"
+            container
+              container
+                svg_root
+                text "510,397"
+              container
+                svg_root
+                text "103"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=31]
+              svg_root
+          container
+            text "내일로패스. 패스 소개; 패스 예매; 패스 확인. 문화누리패스. 패스 소개; 패스 예매 ..."
+            text "내일로패스 2만원 할인 종료"
+            text ". (자유여행상품) 강원권. 삼척 여행가기."
+        container
+          container
+            anchor [ref=32, loc=href:https://namu.wiki/w/%EB%82%B4%EC%9D%BC%EB%A1%9C, url=https://namu.wiki/w/%EB%82%B4%EC%9D%BC%EB%A1%9C]
+              heading
+                text "내일로"
+              container
+                image
+                container
+                  text "나무위키"
+                  container
+                    text "https://namu.wiki"
+                    text "› 내일로"
+            container
+              container
+                svg_root
+                text "454,714,750"
+              container
+                svg_root
+                text "N/A"
+              text "·"
+              container
+                svg_root
+                text "N/A"
+            button "검색결과에 관한 정보" [ref=33]
+              svg_root
+          container
+            container
+              text "2026. 11. 2."
+              text "—"
+            container
+              text "내일로는 재래선 보통열차만 이용하여 청춘처럼 느긋느긋하게 여행하자는"
+              text "일본의 청춘 18 티켓에서 모방된 패스"
+              text "이며, 따라서 청춘 18 티켓과 비교해야 ..."
+        container
+          container
+            anchor [ref=34, url=https://m.blog.naver.com/yuddobab/223342876120]
+              heading
+                text "내일로 KTX 두 번째 이야기 3일권 7일권 정보 - 네이버 블로그"
+              container
+                image
+                container
+                  text "블로그"
+                  container
+                    text "https://m.blog.naver.com"
+                    text "› yuddobab"
+            container
+              container
+                svg_root
+                text "108,813,976"
+              container
+                svg_root
+                text "662"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=35]
+              svg_root
+          container
+            container
+              text "2024. 2. 3."
+              text "—"
+            container
+              text "코레일에서 주관하는 철도여행패스"
+              text "예요. 예매 시 정해진 기간 동안 ... 어서 짐 싸서 떠나보자고요! 2) 내일로 패스 종류. 연속 7일권. 여행 ..."
+      container
+        container
+          svg_root
+          text "6.5"
+        container
+          text "Keyword ideas"
+          container
+            table
+              table_row
+                table_cell
+                  checkbox [ref=36]
+                  svg_root
+                table_cell
+                  button [ref=37]
+                    text "Keyword"
+                    svg_root
+                table_cell
+                  button [ref=38]
+                    svg_root
+                    text "Overlap"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=39]
+                  svg_root
+                table_cell
+                  anchor [ref=40, loc=href:/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+3%EC%9D%BC%EA%B6%8C, url=https://www.google.com/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+3%EC%9D%BC%EA%B6%8C]
+                    text "내일로 3일권"
+                    svg_root
+                table_cell
+                  text "20"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=41]
+                  svg_root
+                table_cell
+                  anchor [ref=42, loc=href:/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+ktx, url=https://www.google.com/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+ktx]
+                    text "내일로 ktx"
+                    svg_root
+                table_cell
+                  text "20"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=43]
+                  svg_root
+                table_cell
+                  anchor [ref=44, loc=href:/search?q=%EC%BD%94%EB%A0%88+%EC%9D%BC+%EB%82%B4%EC%9D%BC%EB%A1%9C, url=https://www.google.com/search?q=%EC%BD%94%EB%A0%88+%EC%9D%BC+%EB%82%B4%EC%9D%BC%EB%A1%9C]
+                    text "코레 일 내일로"
+                    svg_root
+                table_cell
+                  text "20"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=45]
+                  svg_root
+                table_cell
+                  anchor [ref=46, loc=href:/search?q=%EC%BD%94%EB%A0%88%EC%9D%BC+%EB%82%B4%EC%9D%BC%EB%A1%9C, url=https://www.google.com/search?q=%EC%BD%94%EB%A0%88%EC%9D%BC+%EB%82%B4%EC%9D%BC%EB%A1%9C]
+                    text "코레일 내일로"
+                    svg_root
+                table_cell
+                  text "20"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=47]
+                  svg_root
+                table_cell
+                  anchor [ref=48, loc=href:/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+%ED%98%9C%ED%83%9D+%EC%97%AD, url=https://www.google.com/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+%ED%98%9C%ED%83%9D+%EC%97%AD]
+                    text "내일로 혜택 역"
+                    svg_root
+                table_cell
+                  text "50"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=49]
+                  svg_root
+                table_cell
+                  anchor [ref=50, loc=href:/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+%ED%98%9C%ED%83%9D%EC%97%AD, url=https://www.google.com/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+%ED%98%9C%ED%83%9D%EC%97%AD]
+                    text "내일로 혜택역"
+                    svg_root
+                table_cell
+                  text "40"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=51]
+                  svg_root
+                table_cell
+                  anchor [ref=52, url=https://www.google.com/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+%EB%91%90%EB%B2%88%EC%A7%B8+%EC%9D%B4%EC%95%BC%EA%B8%B0+%ED%98%9C%ED%83%9D+%EC%97%AD]
+                    text "내일로 두번째 이야기 혜택 역"
+                    svg_root
+                table_cell
+                  text "23"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=53]
+                  svg_root
+                table_cell
+                  anchor [ref=54, url=https://www.google.com/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+%EB%91%90%EB%B2%88%EC%A7%B8+%EC%9D%B4%EC%95%BC%EA%B8%B0+%ED%98%9C%ED%83%9D%EC%97%AD]
+                    text "내일로 두번째 이야기 혜택역"
+                    svg_root
+                table_cell
+                  text "23"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=55]
+                  svg_root
+                table_cell
+                  anchor [ref=56, url=https://www.google.com/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+%ED%98%9C%ED%83%9D+%EC%97%AD+%EB%B6%80%EC%82%B0]
+                    text "내일로 혜택 역 부산"
+                    svg_root
+                table_cell
+                  text "23"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=57]
+                  svg_root
+                table_cell
+                  anchor [ref=58, loc=href:/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+7%EC%9D%BC%EA%B6%8C, url=https://www.google.com/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+7%EC%9D%BC%EA%B6%8C]
+                    text "내일로 7일권"
+                    svg_root
+                table_cell
+                  text "20"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=59]
+                  svg_root
+                table_cell
+                  anchor [ref=60, url=https://www.google.com/search?q=%EB%82%B4%EC%9D%BC%EB%A1%9C+%ED%98%9C%ED%83%9D%EC%97%AD+%EB%B6%80%EC%82%B0]
+                    text "내일로 혜택역 부산"
+                    svg_root
+                table_cell
+                  text "20"
+                  text "%"
+                table_cell
+            container
+              container
+                combobox [ref=61]
+                  text "20"
+                svg_root
+              text "per page"
+              container
+                text "1"
+                text "-"
+                text "11"
+                text "of"
+                text "11"
+        button [ref=62]
+          iframe
+            root
+              svg_root
+              text "Surfer Academy: What Does AI Say About Your Brand? Find Out and Fix It Live"
+              text "Watch the replay on YouTube."
+        iframe [ref=63]
+          root
+            anchor [ref=64, loc=href:https://app.surferseo.com/register?utm_source=keyword_surfer, url=https://app.surferseo.com/register?utm_source=keyword_surfer]
+              text "Get Started Now ->"
+            container
+              anchor [ref=65, loc=href:https://community.surferseo.com/feed?utm_source=keyword_surfer, url=https://community.surferseo.com/feed?utm_source=keyword_surfer]
+                svg_root
+                text "Join Community"
+              anchor [ref=66, loc=href:https://www.youtube.com/@SurferSEO?sub_confirmation=1, url=https://www.youtube.com/@SurferSEO?sub_confirmation=1]
+                svg_root
+                text "Subscribe"
+        splitter
+        container
+          container
+            text "Powered by"
+            anchor [ref=67, url=https://surferseo.com/]
+              svg_root
+          anchor [ref=68, loc=href:https://docs.surferseo.com/en/collections/3203192-keyword-surfer-extension, url=https://docs.surferseo.com/en/collections/3203192-keyword-surfer-extension]
+            svg_root
+[more content below the viewport: scrollY=0, viewport 1436 / page 2801 px; scroll or use snapshot({ scope: "full_page" })]

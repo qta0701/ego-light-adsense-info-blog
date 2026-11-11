@@ -1,0 +1,50 @@
+{
+  "url": "https://daangn.com/wv/faqs/23234?from_kind=instant_buy",
+  "title": "바로구매",
+  "text": "고객센터\n홈\n / 바로구매\n판매대금은 언제 어떻게 받을 수 있나요?\n\n구매자가 물건을 잘 받고 구매확정을 누르면, 해당시점에 판매자에게 판매대금이 지급돼요. 단, 안전한 거래를 위해서 일부 거래는 실제 지급까지 최대 72시간이 걸릴 수 있어요.\n\n배송이 완료된 후 48시간이 경과하면 자동으로 구매가 확정돼요.\n\n정산 방식\n\n당근머니 또는 연결된 계좌로 받으실 수 있어요.\n\n단, 머니 보유잔액과 이번 정산금 합이 200만원을 넘는 경우에는 당근머니 정산이 불가하고, 계좌로만 정산돼요.\n\n계좌 정산 시에는 당근페이에 연결된 판매자 본인 명의의 계좌로만 받을 수 있어요.\n\n바로구매\n중고거래\n자주 묻는 질문\n\n상품권 거래 시 주의해 주세요.\n\n컨테이너, 농막 거래 시 주의하세요\n\n관리기, 경운기 등 농기계 거래 시 주의하세요\n\n문의하기\n이용약관\n개인정보처리방침\n운영정책\n청소년 보호정책\n이용자 보호 비전과 계획\n위치기반서비스 이용약관\n회사정보\n© 당근마켓",
+  "links": [
+    {
+      "title": "고객센터",
+      "url": "https://daangn.com/wv/faqs?"
+    },
+    {
+      "title": "홈",
+      "url": "https://daangn.com/wv/faqs?"
+    },
+    {
+      "title": "바로구매",
+      "url": "https://daangn.com/wv/faqs?kind=instant_buy"
+    },
+    {
+      "title": "바로구매",
+      "url": "https://daangn.com/wv/faqs?q=%EB%B0%94%EB%A1%9C%EA%B5%AC%EB%A7%A4&from_tag=true"
+    },
+    {
+      "title": "중고거래",
+      "url": "https://daangn.com/wv/faqs?q=%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98&from_tag=true"
+    },
+    {
+      "title": "상품권 거래 시 주의해 주세요.",
+      "url": "https://daangn.com/wv/faqs/6900?from_kind=instant_buy"
+    },
+    {
+      "title": "컨테이너, 농막 거래 시 주의하세요",
+      "url": "https://daangn.com/wv/faqs/8350?from_kind=instant_buy"
+    },
+    {
+      "title": "관리기, 경운기 등 농기계 거래 시 주의하세요",
+      "url": "https://daangn.com/wv/faqs/8383?from_kind=instant_buy"
+    },
+    {
+      "title": "문의하기",
+      "url": "https://daangn.com/wv/feedbacks/new?type=karrot"
+    },
+    {
+      "title": "이용약관",
+      "url": "https://www.daangn.com/policy/terms"
+    }
+  ],
+  "selector": "body",
+  "sha256": "b86cd080b54af6282e07834200f4703cb32ee9a6b776807c1a3878097db1f899",
+  "checkedAt": "2026-11-11T14:57:11.791Z"
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "row": 44,
+    "spaceId": 5,
+    "status": "finished"
+  },
+  {
+    "row": 45,
+    "spaceId": 20,
+    "status": "finished"
+  },
+  {
+    "row": 46,
+    "spaceId": 21,
+    "status": "finished"
+  },
+  {
+    "row": 47,
+    "spaceId": 8,
+    "status": "already_absent"
+  },
+  {
+    "row": 48,
+    "spaceId": 9,
+    "status": "already_absent"
+  },
+  {
+    "row": 49,
+    "spaceId": 10,
+    "status": "already_absent"
+  },
+  {
+    "row": 50,
+    "spaceId": 16,
+    "status": "already_absent"
+  },
+  {
+    "row": 51,
+    "spaceId": 17,
+    "status": "already_absent"
+  },
+  {
+    "row": 52,
+    "spaceId": 18,
+    "status": "already_absent"
+  },
+  {
+    "row": 53,
+    "spaceId": 13,
+    "status": "finished"
+  },
+  {
+    "row": 54,
+    "spaceId": 14,
+    "status": "finished"
+  },
+  {
+    "row": 55,
+    "spaceId": 22,
+    "status": "finished"
+  },
+  {
+    "row": 56,
+    "spaceId": 11,
+    "status": "already_absent"
+  },
+  {
+    "row": 57,
+    "spaceId": 12,
+    "status": "already_absent"
+  },
+  {
+    "purpose": "lookup",
+    "spaceId": 19,
+    "status": "finished"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "row": 53,
+  "tab": "앱사용",
+  "keyword": "넷플릭스 로그아웃 티비",
+  "folder": "26_1111/앱사용_넷플릭스 로그아웃 티비/웹조사",
+  "markdown": "26_1111/앱사용_넷플릭스 로그아웃 티비/웹조사/publish/앱사용_넷플릭스 로그아웃 티비_웹조사결과.md",
+  "bodyChars": 1041,
+  "rawImages": 8,
+  "publishedImages": 3,
+  "imageKinds": {
+    "브라우저 인쇄본 발췌": 3
+  },
+  "automaticValidationErrors": [
+    "본문 1041자: 3500~5500자 필요(출처/이미지 목록 제외)",
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
+    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+  ],
+  "imageSizes": {
+    "01_official-print.png": [
+      920,
+      1182
+    ],
+    "02_official-print.png": [
+      920,
+      720
+    ],
+    "03_official-print.png": [
+      920,
+      1165
+    ]
+  },
+  "artifactHashes": {
+    "publish/01_official-print.png": "d11904304cc6a0f7a4d0e7e583d47fede3d09f542bdcaa2cfcfaa5f29d33fedc",
+    "publish/02_official-print.png": "c92faa566fc39a0b03330201fd874877547410efcd7ac52e6ebb77ec5927862f",
+    "publish/03_official-print.png": "bfc2968ef8cf295c6d85b34e914de831bf2bdd54379e4d5f6e37ad9383d0af7b",
+    "publish/앱사용_넷플릭스 로그아웃 티비_웹조사결과.md": "bd1155c76e82846f3c998fd4b9f0137afa272d6e3fea3ada2f645b62578eeecf",
+    "publish/index.json": "3e08a37d4b039dbd5e746f7de13e47a0ca5fde8ef652d2397dd280f5ccc00098"
+  },
+  "sourceImageHashes": {
+    "raw/print-netflix-devices-1-01.png": "747e4841844c62755213663e6e11f8b284eb82628ef6a2bef42fffb3a4d29a13",
+    "raw/print-netflix-devices-2-02.png": "abd0bfbe6602e36abaa5e6aa4113733066a199b1042776822cf226a7ed262e94",
+    "raw/print-netflix-devices-3-03.png": "72d8e7017556d5419fd34c6e5911628af1d6f4f926b4df8c91b6007eaf3a403b"
+  },
+  "researchSha256": "9e828c7a423b2c87a1d0e997d5c9c571d53d6fe78da5d2c6d439f12e16d9d291",
+  "checkedOn": "2026-11-12",
+  "visualReviewed": true,
+  "markedGoogleSearch": false,
+  "status": "complete_with_alternative_review",
+  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다. 이전에 저장된 DOM 재구성 이미지는 근거 폴더와 원본 경로에 보존하고 발행 목록에서 제외했습니다."
+}

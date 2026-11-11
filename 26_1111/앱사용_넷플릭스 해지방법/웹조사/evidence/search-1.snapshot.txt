@@ -1,0 +1,527 @@
+[p1 "넷플릭스 해지방법 - Google 검색" | space "research-20261111-e088756e-52-2"(18): 1 managed, 0 untracked — p1* "넷플릭스 해지방법 - Google 검색"]
+root
+  container
+    search
+      anchor "Google 홈페이지로 이동" [ref=1, loc=css:a[aria-label="Google 홈페이지로 이동"], url=https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwiA6r-kkYCYAxV-n68BHW2LNa0QPHoECAYQBA]
+        svg_root
+      container
+        container
+          comboboxgrouping "검색" [ref=2, loc=css:textarea[name="q"]]
+            text "넷플릭스 해지방법"
+          container
+            text "Powered by"
+            anchor [ref=3, url=https://surferseo.com/]
+              svg_root
+        container
+          container
+            container
+              checkbox [ref=4]
+              svg_root
+            text "·"
+            container
+              container "kr flag"
+              text "0"
+            text "·"
+            container
+              svg_root
+              text "N/A"
+          text "·"
+        container
+          button "지우기" [ref=5, loc=role:button[name="지우기"]]
+            svg_root
+          container
+            button "입력 도구" [ref=6, loc=role:button[name="입력 도구"]]
+              svg_root
+            button "음성 검색" [ref=7, loc=role:button[name="음성 검색"]]
+              svg_root
+            button "이미지로 검색" [ref=8, loc=role:button[name="이미지로 검색"]]
+              svg_root
+    button "공유" [ref=9]
+      svg_root
+  container
+    navigation [ref=10]
+      list
+        listitem
+          anchor [ref=11, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%95%B4%EC%A7%80%EB%B0%A9%EB%B2%95&newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDg1N9ZKEb1gaziEPHW2bBxLtcHstQ:1794407616484&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwVNt4Qbc0j-2rZXMrGM4h3xdpc_zt2NBpEdm6MqbJxYv-ZDgea-ifg4Cu_TZx01joNyfrk-x3deulhAHt1K_JSQbngjnwlREL_icFRmkpnhY-JIqHj3_Uh_OwbdgqPDKnbLu4YszRznGJSuFf4I4SHNGdJUE&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiA6r-kkYCYAxV-n68BHW2LNa0Q2J8OegQIGRAD]
+            text "AI 모드"
+        listitem
+          link [ref=12]
+            text "전체"
+        listitem
+          anchor [ref=13, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDg1N9ZKEb1gaziEPHW2bBxLtcHstQ:1794407616484&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwVNt4Qbc0j-2rZXMrGM4h3xdpc_zt2NBpEdm6MqbJxYv-ZDgea-ifg4Cu_TZx01joNyfrk-x3deulhAHt1K_JSQbngjnwlREL_icFRmkpnhY-JIqHj3_Uh_OwbdgqPDKnbLu4YszRznGJSuFf4I4SHNGdJUE&q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%95%B4%EC%A7%80%EB%B0%A9%EB%B2%95&sa=X&ved=2ahUKEwiA6r-kkYCYAxV-n68BHW2LNa0QtKgLegQIIxAB]
+            text "이미지"
+        listitem
+          anchor [ref=14, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDg1N9ZKEb1gaziEPHW2bBxLtcHstQ:1794407616484&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwVNt4Qbc0j-2rZXMrGM4h3xdpc_zt2NBpEdm6MqbJxYv-ZDgea-ifg4Cu_TZx01joNyfrk-x3deulhAHt1K_JSQbngjnwlREL_icFRmkpnhY-JIqHj3_Uh_OwbdgqPDKnbLu4YszRznGJSuFf4I4SHNGdJUE&q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%95%B4%EC%A7%80%EB%B0%A9%EB%B2%95&sa=X&ved=2ahUKEwiA6r-kkYCYAxV-n68BHW2LNa0QtKgLegQIIhAB]
+            text "동영상"
+        listitem
+          anchor [ref=15, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDg1N9ZKEb1gaziEPHW2bBxLtcHstQ:1794407616484&q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%95%B4%EC%A7%80%EB%B0%A9%EB%B2%95&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwVNt4Qbc0j-2rZXMrGM4h3xdpc_zt2NBpEdm6MqbJxYv-ZDgea-ifg4Cu_TZx01joNyfrk-x3deulhAHt1K_JSQbngjnwlREL_icFRmkpnhY-JIqHj3_Uh_OwbdgqPDKnbLu4YszRznGJSuFf4I4SHNGdJUE&sa=X&ved=2ahUKEwiA6r-kkYCYAxV-n68BHW2LNa0Q0pQJegQIIRAB]
+            text "뉴스"
+        listitem
+          anchor [ref=16, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDg1N9ZKEb1gaziEPHW2bBxLtcHstQ:1794407616484&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwVNt4Qbc0j-2rZXMrGM4h3xdpc_zt2NBpEdm6MqbJxYv-ZDgea-ifg4Cu_TZx01joNyfrk-x3deulhAHt1K_JSQbngjnwlREL_icFRmkpnhY-JIqHj3_Uh_OwbdgqPDKnbLu4YszRznGJSuFf4I4SHNGdJUE&q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%95%B4%EC%A7%80%EB%B0%A9%EB%B2%95&sa=X&ved=2ahUKEwiA6r-kkYCYAxV-n68BHW2LNa0Qs6gLegQIIBAB]
+            text "짧은 동영상"
+        listitem
+          anchor [ref=17, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDg1N9ZKEb1gaziEPHW2bBxLtcHstQ:1794407616484&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwVNt4Qbc0j-2rZXMrGM4h3xdpc_zt2NBpEdm6MqbJxYv-ZDgea-ifg4Cu_TZx01joNyfrk-x3deulhAHt1K_JSQbngjnwlREL_icFRmkpnhY-JIqHj3_Uh_OwbdgqPDKnbLu4YszRznGJSuFf4I4SHNGdJUE&q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%95%B4%EC%A7%80%EB%B0%A9%EB%B2%95&ved=1t:220175&ictx=111]
+            text "쇼핑"
+        listitem
+          button [ref=18]
+            container "필터 더보기"
+              text "더보기"
+              svg_root
+      button [ref=19]
+        text "도구"
+        svg_root
+    container
+      container
+        container
+          container
+            svg_root
+            heading
+              text "AI 개요"
+          container
+            container
+              container
+                text "넷플릭스는"
+                container
+                  anchor [ref=20, url=https://www.netflix.com/kr/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fcancelplan]
+                    text "넷플릭스 멤버십 해지 페이지"
+                  text "에 로그인한 뒤 [멤버십 해지]를 선택"
+                text "하여 해지할 수 있습니다."
+                container
+                  anchor "Netflix" [ref=21, url=https://help.netflix.com/ko/node/407]
+                  button "Netflix(+1) - 관련 검색 결과" [ref=22]
+                    container
+                      image
+                      container
+                        text "Netflix"
+                        text " +1"
+              heading
+                text "모바일 / PC 해지 방법"
+              unordered_list
+                list_item
+                  text "로그인 및 메뉴 이동"
+                  text ": 넷플릭스 앱이나 웹사이트에 로그인한 후,"
+                  text "[나의 넷플릭스]"
+                  text "(또는 우측 상단 프로필 아이콘)에서"
+                  text "[계정]"
+                  text "메뉴를 선택합니다."
+                list_item
+                  text "멤버십 해지 선택"
+                  text ": 계정 페이지 아래쪽에 있는"
+                  text "[멤버십 해지]"
+                  text "버튼을 누릅니다."
+                list_item
+                  container
+                    text "해지 완료"
+                    text ": 안내에 따라"
+                    text "[해지]"
+                    container
+                      text "및"
+                      text "[해지 완료]"
+                      text "를 최종 확인합니다"
+                    text "."
+                  container
+                    anchor "Netflix" [ref=23, url=https://help.netflix.com/ko/node/407]
+                    button "Netflix(+3) - 관련 검색 결과" [ref=24, loc=css:button[aria-label="Netflix(+3) - 관련 검색 결과"]]
+                      container
+                        image
+                        container
+                          text "Netflix"
+                          text " +3"
+              heading
+                text "주요 유의사항"
+              unordered_list
+                list_item
+                  container
+                    text "이용 가능 기간"
+                    text ": 해지하더라도 남은 결제 주기 기간 동안은 그대로 넷플릭스를 시청할 수 있습니다."
+                  container
+                    anchor "Netflix" [ref=25, url=https://help.netflix.com/ko/node/407]
+                    button "Netflix(+1) - 관련 검색 결과" [ref=26]
+                      container
+                        image
+                        container
+                          text "Netflix"
+                          text " +1"
+            container
+              unordered_list
+                list_item
+                  anchor "넷플릭스 해지 방법 | 넷플릭스 고객 센터" [ref=27, loc=css:a[aria-label="넷플릭스 해지 방법 | 넷플릭스 고객 센터"], url=https://help.netflix.com/ko/node/407]
+                  container
+                    container
+                      image
+                      text "Netflix"
+                      button "검색 결과 정보" [ref=28]
+                        svg_root
+                    container
+                      text "넷플릭스 해지 방법 | 넷플릭스 고객 센터"
+                      text "* 해지 방법: 멤버십 관리 페이지 > 해지 > 해지 완료. 로그아웃/앱 삭제로는 해지 불가. * 청구/이용..."
+              button "관련 검색 결과 모두 보기" [ref=29, loc=role:button[name="관련 검색 결과 모두 보기"]]
+                text "모두 표시"
+        button "AI 개요 더보기" [ref=30, loc=role:button[name="AI 개요 더보기"]]
+          text "더보기"
+          svg_root
+      container
+        container
+          container
+            anchor [ref=31, url=https://help.netflix.com/ko/node/407]
+              heading
+                text "넷플릭스 해지 방법"
+              container
+                image
+                container
+                  text "Netflix"
+                  container
+                    text "https://help.netflix.com"
+                    text "› node"
+            container
+              container
+                svg_root
+                text "755,116"
+              container
+                svg_root
+                text "796"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=32]
+              svg_root
+          container
+            text "넷플릭스 해지 방법 ·"
+            text "멤버십 관리 페이지로 이동"
+            text "합니다. 로그인 상태가 아니라면 먼저 로그인해야 할 수도 있습니다. · 해지를 탭하거나 클릭합니다. 멤버십을 직접 관리 ..."
+        container
+          container
+            anchor [ref=33, url=https://www.netflix.com/kr/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fcancelplan]
+              heading
+                text "멤버십 해지"
+              container
+                image
+                container
+                  text "Netflix"
+                  container
+                    text "https://www.netflix.com"
+                    text "› login › cancelplan"
+            container
+              container
+                svg_root
+                text "6,510,145"
+              container
+                svg_root
+                text "108"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=34]
+              svg_root
+          container
+            text "Netflix"
+            text ". 멤버십"
+            text "해지"
+            text ". 아래의 양식을 작성해 로그인 및 멤버십"
+            text "해지"
+            text "를 진행하세요. 이메일 주소 또는 휴대폰 번호. 비밀번호."
+            text "해지"
+            text "시기 선택."
+            text "해지"
+            text "시기 선택 ..."
+        container
+          container
+            anchor [ref=35, url=https://blog.naver.com/aiwositai/224172968953]
+              heading
+                text "넷플릭스 해지 방법 및 환불 여부"
+              container
+                svg_root
+                container
+                  text "Naver Blog"
+                  container
+                    text "https://blog.naver.com"
+                    text "› aiwositai"
+            container
+              container
+                svg_root
+                text "112,913,576"
+              container
+                svg_root
+                text "0"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=36]
+              svg_root
+          container
+            container
+              text "2026. 2. 6."
+              text "—"
+            container
+              text "웹이나 모바일 브라우저에서"
+              text "넷플릭스"
+              text "에 로그인한 뒤 나의"
+              text "넷플릭스"
+              text "> [계정] 페이지로 이동합니다. ​. ​. 스크롤을 내려 [멤버십"
+              text "해지"
+              text "] ..."
+        container
+          container
+            anchor [ref=37, url=https://aicomeon.tistory.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%ED%95%B4%EC%A7%80-%EB%B0%A9%EB%B2%95%EA%B3%BC-%EC%9D%BC%EC%8B%9C%EC%A0%95%EC%A7%80]
+              heading
+                text "넷플릭스 해지 방법과 일시정지 - 테크업"
+              container
+                image
+                container
+                  text "티스토리"
+                  container
+                    text "https://aicomeon.tistory.com"
+                    text "› entry › 넷플릭스-해지-..."
+            container
+              container
+                svg_root
+                text "0"
+              container
+                svg_root
+                text "724"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=38]
+              svg_root
+          container
+            container
+              text "2026. 11. 1."
+              text "—"
+            container
+              text "넷플릭스에 로그인해 계정 페이지를 엽니다"
+              text ". · 멤버십 영역에서 「해지」를 탭하거나 클릭합니다. · 확인 화면의 「해지 완료」를 탭하거나 클릭합니다."
+      container
+        container
+          svg_root
+          text "6.5"
+        container
+          text "Keyword ideas"
+          table
+            table_row
+              table_cell
+                checkbox [ref=39]
+                svg_root
+              table_cell
+                button [ref=40]
+                  text "Keyword"
+                  svg_root
+              table_cell
+                button [ref=41]
+                  svg_root
+                  text "Overlap"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=42]
+                svg_root
+              table_cell
+                anchor [ref=43, loc=href:/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%95%B4%EC%A7%80, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%95%B4%EC%A7%80]
+                  text "넷플릭스 해지"
+                  svg_root
+              table_cell
+                text "20"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=44]
+                svg_root
+              table_cell
+                anchor [ref=45, loc=href:/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%99%98%EB%B6%88, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%99%98%EB%B6%88]
+                  text "넷플릭스 환불"
+                  svg_root
+              table_cell
+                text "35"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=46]
+                svg_root
+              table_cell
+                anchor [ref=47, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%95%B4%EC%A7%80+%ED%99%98%EB%B6%88]
+                  text "넷플릭스 해지 환불"
+                  svg_root
+              table_cell
+                text "50"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=48]
+                svg_root
+              table_cell
+                anchor [ref=49, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4%ED%95%B4%EC%A7%80%EB%B0%A9%EB%B2%95]
+                  text "넷플릭스해지방법"
+                  svg_root
+              table_cell
+                text "30"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=50]
+                svg_root
+              table_cell
+                anchor [ref=51, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%EA%B2%B0%EC%A0%9C+%EC%B7%A8%EC%86%8C]
+                  text "넷플릭스 결제 취소"
+                  svg_root
+              table_cell
+                text "23"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=52]
+                svg_root
+              table_cell
+                anchor [ref=53, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%EA%B2%B0%EC%A0%9C%EC%B7%A8%EC%86%8C]
+                  text "넷플릭스 결제취소"
+                  svg_root
+              table_cell
+                text "23"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=54]
+                svg_root
+              table_cell
+                anchor [ref=55, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%EA%B5%AC%EB%8F%85+%ED%95%B4%EC%A7%80]
+                  text "넷플릭스 구독 해지"
+                  svg_root
+              table_cell
+                text "18"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=56]
+                svg_root
+              table_cell
+                anchor [ref=57, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%EA%B5%AC%EB%8F%85%ED%95%B4%EC%A7%80]
+                  text "넷플릭스 구독해지"
+                  svg_root
+              table_cell
+                text "18"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=58]
+                svg_root
+              table_cell
+                anchor [ref=59, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%95%B4%EC%A7%80+%EB%B0%A9%EB%B2%95]
+                  text "넷플릭스 해지 방법"
+                  svg_root
+              table_cell
+                text "18"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=60]
+                svg_root
+              table_cell
+                anchor [ref=61, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%EB%8B%B9%EC%9D%BC+%ED%99%98%EB%B6%88]
+                  text "넷플릭스 당일 환불"
+                  svg_root
+              table_cell
+                text "20"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=62]
+                svg_root
+              table_cell
+                anchor [ref=63, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%EC%9E%90%EB%8F%99%EA%B2%B0%EC%A0%9C+%EC%B7%A8%EC%86%8C]
+                  text "넷플릭스 자동결제 취소"
+                  svg_root
+              table_cell
+                text "20"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=64]
+                svg_root
+              table_cell
+                anchor [ref=65, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%EB%A9%A4%EB%B2%84%EC%8B%AD+%ED%95%B4%EC%A7%80]
+                  text "넷플릭스 멤버십 해지"
+                  svg_root
+              table_cell
+                text "18"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=66]
+                svg_root
+              table_cell
+                anchor [ref=67, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%99%98%EB%B6%88+%EC%A1%B0%EA%B1%B4]
+                  text "넷플릭스 환불 조건"
+                  svg_root
+              table_cell
+                text "33"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=68]
+                svg_root
+              table_cell
+                anchor [ref=69, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%EA%B5%AC%EB%8F%85%EC%B7%A8%EC%86%8C]
+                  text "넷플릭스 구독취소"
+                  svg_root
+              table_cell
+                text "18"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=70]
+                svg_root
+              table_cell
+                anchor [ref=71, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%EA%B2%B0%EC%A0%9C+%EC%B7%A8%EC%86%8C+%ED%99%98%EB%B6%88]
+                  text "넷플릭스 결제 취소 환불"
+                  svg_root
+              table_cell
+                text "38"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=72]
+                svg_root
+              table_cell
+                anchor [ref=73, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%ED%99%98%EB%B6%88%EC%9A%94%EC%B2%AD]
+                  text "넷플릭스 환불요청"
+                  svg_root
+              table_cell
+                text "33"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+                checkbox [ref=74]
+                svg_root
+              table_cell
+                anchor [ref=75, url=https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4+%EB%8B%B9%EC%9D%BC+%ED%95%B4%EC%A7%80]
+                  text "넷플릭스 당일 해지"
+                  svg_root
+              table_cell
+                text "23"
+                text "%"
+              table_cell
+            table_row
+              table_cell
+              table_cell
+              table_cell
+              table_cell
+[more content below the viewport: scrollY=0, viewport 1436 / page 2766 px; scroll or use snapshot({ scope: "full_page" })]

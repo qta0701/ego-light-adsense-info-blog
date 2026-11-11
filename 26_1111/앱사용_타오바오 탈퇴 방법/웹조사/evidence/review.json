@@ -1,0 +1,38 @@
+{
+  "row": 54,
+  "tab": "앱사용",
+  "keyword": "타오바오 탈퇴 방법",
+  "folder": "26_1111/앱사용_타오바오 탈퇴 방법/웹조사",
+  "markdown": "26_1111/앱사용_타오바오 탈퇴 방법/웹조사/publish/앱사용_타오바오 탈퇴 방법_웹조사결과.md",
+  "bodyChars": 858,
+  "rawImages": 2,
+  "publishedImages": 1,
+  "imageKinds": {
+    "브라우저 인쇄본 발췌": 1
+  },
+  "automaticValidationErrors": [
+    "본문 858자: 3500~5500자 필요(출처/이미지 목록 제외)",
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
+    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+  ],
+  "imageSizes": {
+    "01_official-print.png": [
+      1028,
+      710
+    ]
+  },
+  "artifactHashes": {
+    "publish/01_official-print.png": "661ebd4621a1b89da788d13f46d55d6cef75af6400b4187806868dade088d09f",
+    "publish/앱사용_타오바오 탈퇴 방법_웹조사결과.md": "d7793ea2c7a8ad3b5ae2da8de095f13cff1e39ce807e103b12d42a7c676d8160",
+    "publish/index.json": "b6248942c46f701e3a64f20b22b517f20bb3fcfed875b2bfa0e2adee1de36187"
+  },
+  "sourceImageHashes": {
+    "raw/print-taobao-closure-terms-1-01.png": "846f132b25dffcc037822892a66e42cce213b58417797bc64d8dc0b706c13e1a"
+  },
+  "researchSha256": "8f6ffc86a738177a73db7bf05a79eed9961fc03ee3281ba98578ad1ad37c48fa",
+  "checkedOn": "2026-11-12",
+  "visualReviewed": true,
+  "markedGoogleSearch": false,
+  "status": "complete_with_alternative_review",
+  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다. 이전에 저장된 DOM 재구성 이미지는 근거 폴더와 원본 경로에 보존하고 발행 목록에서 제외했습니다."
+}

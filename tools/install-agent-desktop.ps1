@@ -22,17 +22,8 @@ try {
 } finally {
     if (-not $NoNotify) {
         try {
-            $sound = Join-Path $env:WINDIR 'Media/Speech Off.wav'
-            if (Test-Path -LiteralPath $sound) { (New-Object System.Media.SoundPlayer $sound).PlaySync() }
-            Add-Type -AssemblyName System.Windows.Forms
-            Add-Type -AssemblyName System.Drawing
-            $notice = New-Object System.Windows.Forms.NotifyIcon
-            $notice.Icon = [System.Drawing.SystemIcons]::Information
-            $notice.Visible = $true
             $message = if ($installOk) { 'Installation completed.' } else { 'Installation stopped. Check terminal output.' }
-            $notice.ShowBalloonTip(2500, 'agent-desktop', $message, [System.Windows.Forms.ToolTipIcon]::Info)
-            Start-Sleep -Seconds 3
-            $notice.Dispose()
+            & (Join-Path $PSScriptRoot 'show-notification.ps1') -Title 'agent-desktop' -Message $message
         } catch { Write-Warning 'Windows notification unavailable; see terminal result.' }
     }
 }

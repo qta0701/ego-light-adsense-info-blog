@@ -1,0 +1,449 @@
+[p1 "번개장터 반값택배 - Google 검색" | space "research-20261111-e088756e-50-0"(16): 1 managed, 0 untracked — p1* "번개장터 반값택배 - Google 검색"]
+root
+  container
+    search
+      anchor "Google 홈페이지로 이동" [ref=1, loc=css:a[aria-label="Google 홈페이지로 이동"], url=https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwjw1auikYCYAxW5bPUHHYXsHsAQPHoECAYQBA]
+        svg_root
+      container
+        container
+          comboboxgrouping "검색" [ref=2, loc=css:textarea[name="q"]]
+            text "번개장터 반값택배"
+          container
+            text "Powered by"
+            anchor [ref=3, url=https://surferseo.com/]
+              svg_root
+        container
+          container
+            container
+              checkbox [ref=4]
+              svg_root
+            text "·"
+            container
+              container "kr flag"
+              text "110"
+            text "·"
+            container
+              svg_root
+              text "0.00"
+          text "·"
+        container
+          button "지우기" [ref=5, loc=role:button[name="지우기"]]
+            svg_root
+          container
+            button "입력 도구" [ref=6, loc=role:button[name="입력 도구"]]
+              svg_root
+            button "음성 검색" [ref=7, loc=role:button[name="음성 검색"]]
+              svg_root
+            button "이미지로 검색" [ref=8, loc=role:button[name="이미지로 검색"]]
+              svg_root
+    button "공유" [ref=9]
+      svg_root
+  container
+    navigation [ref=10]
+      list
+        listitem
+          anchor [ref=11, url=https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EB%B0%98%EA%B0%92%ED%83%9D%EB%B0%B0&newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDjxwC6PhuCN6yIYlshd2ZLPvn_YQQ:1794407611961&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwUuUSkl59tfOZlOhHcVr08GpLeV8J1q7LTW7rOD87XERDTB9Y9eeUJEHlWG3-e3rF2BEjsrGFknhAQz4JjtPqxMf8uZNqb0gsSoaPTVaOyTYMEm1CPZBhEJcN-6w-fTzpAr8jZw&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjw1auikYCYAxW5bPUHHYXsHsAQ2J8OegQIDBAD]
+            text "AI 모드"
+        listitem
+          link [ref=12]
+            text "전체"
+        listitem
+          anchor [ref=13, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDjxwC6PhuCN6yIYlshd2ZLPvn_YQQ:1794407611961&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwUuUSkl59tfOZlOhHcVr08GpLeV8J1q7LTW7rOD87XERDTB9Y9eeUJEHlWG3-e3rF2BEjsrGFknhAQz4JjtPqxMf8uZNqb0gsSoaPTVaOyTYMEm1CPZBhEJcN-6w-fTzpAr8jZw&q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EB%B0%98%EA%B0%92%ED%83%9D%EB%B0%B0&sa=X&ved=2ahUKEwjw1auikYCYAxW5bPUHHYXsHsAQtKgLegQILBAB]
+            text "이미지"
+        listitem
+          anchor [ref=14, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDjxwC6PhuCN6yIYlshd2ZLPvn_YQQ:1794407611961&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwUuUSkl59tfOZlOhHcVr08GpLeV8J1q7LTW7rOD87XERDTB9Y9eeUJEHlWG3-e3rF2BEjsrGFknhAQz4JjtPqxMf8uZNqb0gsSoaPTVaOyTYMEm1CPZBhEJcN-6w-fTzpAr8jZw&q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EB%B0%98%EA%B0%92%ED%83%9D%EB%B0%B0&sa=X&ved=2ahUKEwjw1auikYCYAxW5bPUHHYXsHsAQtKgLegQIKhAB]
+            text "동영상"
+        listitem
+          anchor [ref=15, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDjxwC6PhuCN6yIYlshd2ZLPvn_YQQ:1794407611961&q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EB%B0%98%EA%B0%92%ED%83%9D%EB%B0%B0&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwUuUSkl59tfOZlOhHcVr08GpLeV8J1q7LTW7rOD87XERDTB9Y9eeUJEHlWG3-e3rF2BEjsrGFknhAQz4JjtPqxMf8uZNqb0gsSoaPTVaOyTYMEm1CPZBhEJcN-6w-fTzpAr8jZw&sa=X&ved=2ahUKEwjw1auikYCYAxW5bPUHHYXsHsAQ0pQJegQIKxAB]
+            text "뉴스"
+        listitem
+          anchor [ref=16, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDjxwC6PhuCN6yIYlshd2ZLPvn_YQQ:1794407611961&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwUuUSkl59tfOZlOhHcVr08GpLeV8J1q7LTW7rOD87XERDTB9Y9eeUJEHlWG3-e3rF2BEjsrGFknhAQz4JjtPqxMf8uZNqb0gsSoaPTVaOyTYMEm1CPZBhEJcN-6w-fTzpAr8jZw&q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EB%B0%98%EA%B0%92%ED%83%9D%EB%B0%B0&ved=1t:220175&ictx=111]
+            text "쇼핑"
+        listitem
+          anchor [ref=17, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDjxwC6PhuCN6yIYlshd2ZLPvn_YQQ:1794407611961&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7Qou-3uG2RXs9EDidi1zNwUuUSkl59tfOZlOhHcVr08GpLeV8J1q7LTW7rOD87XERDTB9Y9eeUJEHlWG3-e3rF2BEjsrGFknhAQz4JjtPqxMf8uZNqb0gsSoaPTVaOyTYMEm1CPZBhEJcN-6w-fTzpAr8jZw&q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EB%B0%98%EA%B0%92%ED%83%9D%EB%B0%B0&sa=X&ved=2ahUKEwjw1auikYCYAxW5bPUHHYXsHsAQs6gLegQIJxAB]
+            text "짧은 동영상"
+        listitem
+          button [ref=18]
+            container "필터 더보기"
+              text "더보기"
+              svg_root
+      button [ref=19]
+        text "도구"
+        svg_root
+    container
+      container
+        container
+          container
+            svg_root
+            heading
+              text "AI 개요"
+          container
+            container
+              container
+                text "번개장터에서 이용할 수 있는"
+                text "GS25 반값택배"
+                text "의 이용 방법과 주의사항은 다음과 같습니다."
+                button "관련 검색결과" [ref=20]
+                  svg_root
+              heading
+                text "이용 방법"
+              ordered_list
+                list_item
+                  text "예약 접수"
+                  text ":"
+                  anchor [ref=21, url=https://m.bunjang.co.kr/keywords/%EB%B0%98%EA%B0%92%ED%83%9D%EB%B0%B0]
+                    text "번개장터 앱"
+                  text "에서 GS25 반값택배를 신청합니다."
+                list_item
+                  text "상품 포장"
+                  text ": 택배 박스로 안전하게 포장합니다 (봉투나 쇼핑백은 접수 거부될 수 있음)."
+                list_item
+                  text "편의점 방문"
+                  text ": 포스트박스(무인 택배기)가 설치된 GS25 점포에 방문합니다."
+                list_item
+                  text "운송장 출력"
+                  text ": 무인 택배기에서"
+                  text "<쇼핑몰 거래>"
+                  text "를 선택하고 예약번호를 입력한 뒤, 운송장을 출력해 상품에 부착합니다."
+                list_item
+                  container
+                    text "접수 완료"
+                    text ": 카운터에 상품을 전달합니다."
+                  button "관련 검색결과" [ref=22]
+                    svg_root
+              heading
+                text "주요 특징 및 요금"
+            container
+              unordered_list
+                list_item
+                  container
+                    anchor "번개장터 Gs반값택배 GS25 반값택배 이용방법 - 유용한 정보와 생활리뷰" [ref=23, url=https://gujehouse.tistory.com/entry/%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0-Gs%EB%B0%98%EA%B0%92%ED%83%9D%EB%B0%B0-GS25-%EB%B0%98%EA%B0%92%ED%83%9D%EB%B0%B0-%EC%9D%B4%EC%9A%A9%EB%B0%A9%EB%B2%95]
+                    container
+                      container
+                        image
+                        text "티스토리"
+                        button "검색 결과 정보" [ref=24]
+                          svg_root
+                      container
+                        container
+                          text "번개장터 Gs반값택배 GS25 반값택배 이용방법 - 유용한 정보와 생활리뷰"
+                          text "1. 번개장터 앱에서 Gs25 반값택배를 신청합니다. 2. 발송할 상품을 포장한 후 편의점에 방문합니다. 3..."
+                        image
+                list_item
+                  anchor "번개장터 고객센터" [ref=25, loc=css:a[aria-label="번개장터 고객센터"], url=https://help.bunjang.co.kr/faq/42/569]
+                  container
+                    container
+                      image
+                      text "번개장터"
+                      button "검색 결과 정보" [ref=26]
+                        svg_root
+                    container
+                      container
+                        text "번개장터 고객센터"
+                        text "번개장터 택배서비스 비교: - 편의점택배(GS25, CU, 이마트24, 세븐일레븐): 자택 수령, 3,200..."
+                      image
+              button "관련 검색 결과 모두 보기" [ref=27]
+                text "모두 표시"
+        button "AI 개요 더보기" [ref=28, loc=role:button[name="AI 개요 더보기"]]
+          text "더보기"
+          svg_root
+      container
+        container
+          container
+            anchor [ref=29, url=https://eomisae.co.kr/fe/140189233]
+              heading
+                text "번개장터 판매하시는 분들은 절대 반값 택배 쓰지마세요"
+              container
+                image
+                container
+                  text "어미새"
+                  container
+                    text "https://eomisae.co.kr"
+                    text "› ..."
+            container
+              container
+                svg_root
+                text "268,240"
+              container
+                svg_root
+                text "N/A"
+              text "·"
+              container
+                svg_root
+                text "N/A"
+            button "검색결과에 관한 정보" [ref=30]
+              svg_root
+          container
+            container
+              text "2024. 10. 19."
+              text "—"
+            container
+              text "물건 팔았는데 (무려 9/24일 배송 도착). 9월 건이 아직도 정산 안 되고 있네요 ^^. 일반"
+              text "택배"
+              text "는 배송 완료 후 확정 안 누르면. 3일 뒤 자동 정산인데."
+        container
+          container
+            anchor [ref=31, loc=href:https://blog.naver.com/mssuny777/222529105514, url=https://blog.naver.com/mssuny777/222529105514]
+              heading
+                text "번개장터 판매자를 위한 GS 반값택배 보내는 법"
+              container
+                svg_root
+                container
+                  text "Naver Blog"
+                  container
+                    text "https://blog.naver.com"
+                    text "› mssuny777"
+            container
+              container
+                svg_root
+                text "112,913,576"
+              container
+                svg_root
+                text "0"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=32]
+              svg_root
+          container
+            container
+              text "2021. 10. 6."
+              text "—"
+            container
+              text "카테고리 이동 대충 살자 · ​ · ​ · 예약 접수하기 전에 잠깐!!!! ·"
+              text "GS반값택배는 회원 예약 접수하면 · 즉시 사용 가능한 할인쿠폰을 받을 수 있어요"
+              text "· ​."
+        container
+          container
+            anchor [ref=33, loc=href:https://help.bunjang.co.kr/faq/42/568, url=https://help.bunjang.co.kr/faq/42/568]
+              heading
+                text "[택배서비스] GS25 반값택배가 뭔가요? ..."
+              container
+                image
+                container
+                  text "번개장터"
+                  container
+                    text "https://help.bunjang.co.kr"
+                    text "› ... › 기타 이용방법"
+            container
+              container
+                svg_root
+                text "57,319"
+              container
+                svg_root
+                text "0"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=34]
+              svg_root
+          container
+            text "반값택배"
+            text "예약 시, 도착점을 GS25 편의점으로 선택 (BOX25 이용불가) ·"
+            text "번개장터"
+            text "APP에서 택배 신청 시 [예약번호] 발급 · 발급받은 [예약번호]로 포스트박스 장비가 설치된 ..."
+        container
+          container
+            anchor [ref=35, loc=href:https://gall.dcinside.com/mgallery/board/view/?id=bunjang&no=63244, url=https://gall.dcinside.com/mgallery/board/view/?id=bunjang&no=63244]
+              heading
+                text "반값택배 물렸을때 총정리 (+추가사항) - 번개장터 마이너 갤러리"
+              container
+                image
+                container
+                  text "갤러리"
+                  container
+                    text "https://gall.dcinside.com"
+                    text "› mgallery › board › view"
+            container
+              container
+                svg_root
+                text "28,444,908"
+              container
+                svg_root
+                text "2,902"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=36]
+              svg_root
+          container
+            container
+              text "2025. 9. 1."
+              text "—"
+            container
+              text "1544-4101 반값택배 고객센터"
+              text "임. 문의 넣지마 전화해. 이게 제일 빠름. 여기로 전화해서 운송장번호 불러주고 반송처리 해달라고 해라."
+      container
+        container
+          svg_root
+          text "6.5"
+        container
+          text "Keyword ideas"
+          container
+            table
+              table_row
+                table_cell
+                  checkbox [ref=37]
+                  svg_root
+                table_cell
+                  button [ref=38]
+                    text "Keyword"
+                    svg_root
+                table_cell
+                  button [ref=39]
+                    svg_root
+                    text "Overlap"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=40]
+                  svg_root
+                table_cell
+                  anchor [ref=41, url=https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%ED%8E%B8%EC%9D%98%EC%A0%90+%ED%83%9D%EB%B0%B0]
+                    text "번개장터 편의점 택배"
+                    svg_root
+                table_cell
+                  text "40"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=42]
+                  svg_root
+                table_cell
+                  anchor [ref=43, url=https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%ED%8E%B8%EC%9D%98%EC%A0%90%ED%83%9D%EB%B0%B0]
+                    text "번개장터 편의점택배"
+                    svg_root
+                table_cell
+                  text "40"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=44]
+                  svg_root
+                table_cell
+                  anchor [ref=45, url=https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EB%B0%98%EA%B0%92%ED%83%9D%EB%B0%B0+%EB%B0%9B%EB%8A%94+%EB%B2%95]
+                    text "번개장터 반값택배 받는 법"
+                    svg_root
+                table_cell
+                  text "50"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=46]
+                  svg_root
+                table_cell
+                  anchor [ref=47, url=https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EB%B0%98%EA%B0%92%ED%83%9D%EB%B0%B0+%EB%B0%9B%EB%8A%94%EB%B2%95]
+                    text "번개장터 반값택배 받는법"
+                    svg_root
+                table_cell
+                  text "45"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=48]
+                  svg_root
+                table_cell
+                  anchor [ref=49, url=https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EC%9D%BC%EB%B0%98%ED%83%9D%EB%B0%B0]
+                    text "번개장터 일반택배"
+                    svg_root
+                table_cell
+                  text "40"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=50]
+                  svg_root
+                table_cell
+                  anchor [ref=51, loc=href:/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EB%B0%98%ED%83%9D, url=https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EB%B0%98%ED%83%9D]
+                    text "번개장터 반택"
+                    svg_root
+                table_cell
+                  text "45"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=52]
+                  svg_root
+                table_cell
+                  anchor [ref=53, url=https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%ED%8E%B8%EC%9D%98%EC%A0%90+%ED%83%9D%EB%B0%B0+%EB%B0%9B%EB%8A%94+%EB%B2%95]
+                    text "번개장터 편의점 택배 받는 법"
+                    svg_root
+                table_cell
+                  text "40"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=54]
+                  svg_root
+                table_cell
+                  anchor [ref=55, url=https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%ED%8E%B8%EC%9D%98%EC%A0%90%ED%83%9D%EB%B0%B0+%EB%B0%9B%EB%8A%94+%EB%B2%95]
+                    text "번개장터 편의점택배 받는 법"
+                    svg_root
+                table_cell
+                  text "40"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=56]
+                  svg_root
+                table_cell
+                  anchor [ref=57, url=https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%ED%8E%B8%EC%9D%98%EC%A0%90%ED%83%9D%EB%B0%B0+%EB%B0%9B%EB%8A%94%EB%B2%95]
+                    text "번개장터 편의점택배 받는법"
+                    svg_root
+                table_cell
+                  text "40"
+                  text "%"
+                table_cell
+              table_row
+                table_cell
+                  checkbox [ref=58]
+                  svg_root
+                table_cell
+                  anchor [ref=59, url=https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%ED%8E%B8%EC%9D%98%EC%A0%90%ED%83%9D%EB%B0%B0+%EB%B3%B4%EB%82%B4%EB%8A%94%EB%B2%95]
+                    text "번개장터 편의점택배 보내는법"
+                    svg_root
+                table_cell
+                  text "30"
+                  text "%"
+                table_cell
+            container
+              container
+                combobox [ref=60]
+                  text "20"
+                svg_root
+              text "per page"
+              container
+                text "1"
+                text "-"
+                text "10"
+                text "of"
+                text "10"
+        button [ref=61]
+          iframe
+            root
+              svg_root
+              text "Surfer Academy: What Does AI Say About Your Brand? Find Out and Fix It Live"
+              text "Watch the replay on YouTube."
+        iframe [ref=62]
+          root
+            anchor [ref=63, loc=href:https://app.surferseo.com/register?utm_source=keyword_surfer, url=https://app.surferseo.com/register?utm_source=keyword_surfer]
+              text "Get Started Now ->"
+            container
+              anchor [ref=64, loc=href:https://community.surferseo.com/feed?utm_source=keyword_surfer, url=https://community.surferseo.com/feed?utm_source=keyword_surfer]
+                svg_root
+                text "Join Community"
+              anchor [ref=65, loc=href:https://www.youtube.com/@SurferSEO?sub_confirmation=1, url=https://www.youtube.com/@SurferSEO?sub_confirmation=1]
+                svg_root
+                text "Subscribe"
+[more content below the viewport: scrollY=0, viewport 1436 / page 3078 px; scroll or use snapshot({ scope: "full_page" })]

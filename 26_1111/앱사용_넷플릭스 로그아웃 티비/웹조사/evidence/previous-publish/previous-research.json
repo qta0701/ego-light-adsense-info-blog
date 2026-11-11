@@ -1,0 +1,22 @@
+{
+  "keyword": "넷플릭스 로그아웃 티비",
+  "row": 53,
+  "tab": "앱사용",
+  "date": "2026-11-11",
+  "queries": [
+    "넷플릭스 로그아웃 티비"
+  ],
+  "multiIntent": false,
+  "body": "",
+  "sources": [],
+  "images": [],
+  "limits": {
+    "bodyMin": 3500,
+    "bodyMax": 5500,
+    "guideMax": 8,
+    "referenceMax": 3,
+    "rawMax": 12
+  },
+  "exceptionReason": "",
+  "visualReviewed": false
+}

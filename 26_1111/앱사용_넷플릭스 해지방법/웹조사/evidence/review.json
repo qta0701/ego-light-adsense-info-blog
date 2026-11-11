@@ -1,0 +1,67 @@
+{
+  "row": 52,
+  "tab": "앱사용",
+  "keyword": "넷플릭스 해지방법",
+  "folder": "26_1111/앱사용_넷플릭스 해지방법/웹조사",
+  "markdown": "26_1111/앱사용_넷플릭스 해지방법/웹조사/publish/앱사용_넷플릭스 해지방법_웹조사결과.md",
+  "bodyChars": 4507,
+  "rawImages": 6,
+  "publishedImages": 6,
+  "imageKinds": {
+    "공식 다운로드 이미지": 6
+  },
+  "automaticValidationErrors": [
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
+    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+  ],
+  "imageSizes": {
+    "01_official_cancel_step1.webp": [
+      426,
+      366
+    ],
+    "02_official_cancel_step2.webp": [
+      426,
+      366
+    ],
+    "03_official_pause_step1.webp": [
+      420,
+      360
+    ],
+    "04_official_pause_step2.webp": [
+      420,
+      360
+    ],
+    "05_official_pause_extend.webp": [
+      420,
+      300
+    ],
+    "06_official_pause_resume.webp": [
+      420,
+      300
+    ]
+  },
+  "artifactHashes": {
+    "publish/01_official_cancel_step1.webp": "5fe916d6999609f080fce2b0d018a4de53b847b39f646a6e3c17379b0ec6a647",
+    "publish/02_official_cancel_step2.webp": "019ae2ca888c5215955e7a609184c07ff1408e6c55fc22dda6c6778104e5ecbf",
+    "publish/03_official_pause_step1.webp": "8d6cf7bfb964399f653f7cc4da2f5c586b01b16a55a53d167582f402b34ad8ba",
+    "publish/04_official_pause_step2.webp": "120a77448d749c7a7e645ca4b6144543e0f142ee824e654493f941ab54939642",
+    "publish/05_official_pause_extend.webp": "b609c2460cae67d91fdb61839ca7f4c2e871c97bcd152f0ee694a02eaaf5b48e",
+    "publish/06_official_pause_resume.webp": "8a237c99c15f96cee24222a5e8cc4f2df1bdb32bbaa5d6abf9eb9f741984380b",
+    "publish/앱사용_넷플릭스 해지방법_웹조사결과.md": "a16c76803a4fdc304ce0e39640feb1a52c33f12806740ee47098ba58ae7dd5fb",
+    "publish/index.json": "5703567221574bbb8933203ef9992deca344bcbcbfed6fc60d88a39df467a51a"
+  },
+  "sourceImageHashes": {
+    "raw/official-netflix-407-1.webp": "5fe916d6999609f080fce2b0d018a4de53b847b39f646a6e3c17379b0ec6a647",
+    "raw/official-netflix-407-2.webp": "019ae2ca888c5215955e7a609184c07ff1408e6c55fc22dda6c6778104e5ecbf",
+    "raw/official-netflix-407-4.webp": "8d6cf7bfb964399f653f7cc4da2f5c586b01b16a55a53d167582f402b34ad8ba",
+    "raw/official-netflix-407-5.webp": "120a77448d749c7a7e645ca4b6144543e0f142ee824e654493f941ab54939642",
+    "raw/official-netflix-407-7.webp": "b609c2460cae67d91fdb61839ca7f4c2e871c97bcd152f0ee694a02eaaf5b48e",
+    "raw/official-netflix-407-8.webp": "8a237c99c15f96cee24222a5e8cc4f2df1bdb32bbaa5d6abf9eb9f741984380b"
+  },
+  "researchSha256": "e590faabf56f5461260e0defb7e67a603d61a2201b26230bd62c10265079ef27",
+  "checkedOn": "2026-11-12",
+  "visualReviewed": true,
+  "markedGoogleSearch": false,
+  "status": "complete_with_alternative_review",
+  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+}

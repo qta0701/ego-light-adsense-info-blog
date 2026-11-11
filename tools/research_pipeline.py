@@ -266,11 +266,14 @@ def package(d, data):
 
 
 def notify(ok):
-    if os.name != 'nt': return
+    if os.name != 'nt':
+        return
     import subprocess
     message = '웹조사 도구 처리가 완료되었습니다.' if ok else '웹조사 도구 오류: 실행 결과를 확인하세요.'
-    script = "$s=Join-Path $env:WINDIR 'Media/Speech Off.wav'; if(Test-Path $s){(New-Object System.Media.SoundPlayer $s).PlaySync()}; Add-Type -AssemblyName System.Windows.Forms; Add-Type -AssemblyName System.Drawing; $n=New-Object System.Windows.Forms.NotifyIcon; $n.Icon=[System.Drawing.SystemIcons]::Information; $n.Visible=$true; $n.ShowBalloonTip(2500,'웹조사', '"+message+"',[System.Windows.Forms.ToolTipIcon]::Info); Start-Sleep -Seconds 3; $n.Dispose()"
-    subprocess.run(['powershell','-NoProfile','-Command',script], creationflags=0x08000000, timeout=15, capture_output=True)
+    script = Path(__file__).resolve().with_name('show-notification.ps1')
+    subprocess.run(['powershell', '-NoProfile', '-NonInteractive', '-File', str(script),
+                    '-Title', '웹조사', '-Message', message],
+                   timeout=15, creationflags=subprocess.CREATE_NO_WINDOW, capture_output=True)
 
 
 def main():

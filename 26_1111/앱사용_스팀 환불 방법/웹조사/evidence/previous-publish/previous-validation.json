@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-11-12T00:07:03.858867+09:00",
+  "errors": [
+    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+  ],
+  "researchSha256": "adec10696fa142f85ee13f6ec60d1f66a1565cc5c087fdae37c55eff71c037b5",
+  "artifactHashes": {
+    "publish/02_guide.png": "43436a8035491fbc89a044067a45712513db3ab0f215219d87cd55be10d8327d",
+    "publish/03_guide.png": "82151588022307858adff5c56e5fb387a871fdf0b19081a572fe4003610f2d9d",
+    "publish/04_guide.png": "ce7d609926c3220b7c3654cddd551e5c8d8f20d040259101155971c2667f51a3",
+    "publish/05_guide.png": "6061a93f6fb8086054dae2d539a0a9f9bcf52bc20a1f41651ed85826f4847455",
+    "publish/06_guide.png": "646ac5e5e75a00dbcaf2cef5b2fa997e00b64687b0bc50a3322176cdbfc10308",
+    "publish/앱사용_스팀 환불 방법_웹조사결과.md": "2ee059a5bf9c6cb0725e624fe31a9986f079dc559e5e1eec9813c069a17d6987"
+  },
+  "visualReviewed": true,
+  "status": "blocked_by_minimized_window",
+  "note": "본문(3,500~5,500자), 공식 출처(S1·S2), 공식 가이드 이미지 5종(02_guide.png~06_guide.png) 패키징 및 시각 검수 완료. Google 검색 결과(01-search.png) 실시간 캡처만 Ego Lite 창 비가시화(Page.captureScreenshot 타임아웃)로 대기 중."
+}

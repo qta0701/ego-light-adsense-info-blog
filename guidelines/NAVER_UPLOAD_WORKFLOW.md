@@ -189,4 +189,4 @@ node tools/test_naver_editor.mjs
 - 사용자 제어로 전환됐다는 SDK 오류가 나오면 해당 Space에서 모든 조작을 멈춘다. 사용자가 ‘계속’이라고 명시한 뒤에만 같은 ID로 `takeOverTaskSpace`한다. 그 행을 다른 도구/Space로 옮겨 우회하지 않는다. 별개 행은 자기 Space에서 독립적으로 진행하며, 이때 사용자 제어 중인 행에는 접근하지 않는다. 브라우저 또는 런타임 전체가 제어 불가라고 알리면 해당 제약을 우회하지 않는다.
 - 캡처 타임아웃이면 현재 내용과 저장 상태를 먼저 보존한다. 브라우저가 다시 정상 제어 상태일 때 같은 Space에서 재확인한다. 실제로 하지 않은 창 복원이나 인증 우회를 성공 경로에 넣지 않는다.
 - 각 키워드가 성공하고 해당 상태·시트 재조회·문서 기록이 끝나면 그 키워드의 Space에서 `task.finish({keep:[]})`를 정확히 한 번 수행한다. 오류·사용자 제어 대기 중인 Space는 finish하지 않는다. 다른 키워드의 Space나 사용자 소유 탭을 종료하지 않는다.
-- 최종 완료/중단 시 `python3.14-64.exe tools/naver_workflow.py notify complete` 또는 `notify paused`로 Windows Speech Off.wav와 알림을 발생시킨다. 알림 실패는 실제 게시 성공과 분리해서 기록한다.
+- 최종 완료/중단 시 `python3.14-64.exe tools/naver_workflow.py notify complete` 또는 `notify paused`로 Windows 알림을 표시한다. 알림 실패는 실제 게시 성공과 분리해서 기록한다.

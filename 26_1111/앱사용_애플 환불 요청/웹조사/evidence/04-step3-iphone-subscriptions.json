@@ -1,0 +1,20 @@
+{
+  "name": "04-step3-iphone-subscriptions",
+  "file": "raw/04-step3-iphone-subscriptions.png",
+  "role": "guide",
+  "sourceId": "S1",
+  "imageSize": {
+    "width": 760,
+    "height": 920
+  },
+  "boxes": [
+    [
+      110,
+      825,
+      540,
+      68
+    ]
+  ],
+  "sha256": "dddac982d3542c29971df84c92582c6d9a76ed5b22b2da314f1b83a9658fa1db",
+  "checkedAt": "2026-11-11"
+}

@@ -1,0 +1,9 @@
+{
+  "spaceId": 11,
+  "page": "p1",
+  "status": "finished",
+  "blockReason": "Capture failed for 01-search.png: ego-lite agent TaskSpace window is hidden/minimized at OS level (Page.captureScreenshot timed out, fromSurface:false captures User Space 0 instead of agent TaskSpace, and sandboxed agent-desktop EnumWindows is blocked). Official guide images 02..06 downloaded and packaged; restore ego.exe window to capture 01-search.png in existing Space.",
+  "previousStatus": "blocked",
+  "completion": "complete_with_alternative_review",
+  "cleanupStatus": "already_absent"
+}

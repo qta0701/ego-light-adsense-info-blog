@@ -1,0 +1,353 @@
+[p1 "당근마켓 바로구매 택배 - Google 검색" | space "research-20261111-6c5e992e-48-1"(9): 1 managed, 0 untracked — p1* "당근마켓 바로구매 택배 - Google 검색"]
+root
+  container
+    search
+      anchor "Google 홈페이지로 이동" [ref=1, loc=css:a[aria-label="Google 홈페이지로 이동"], url=https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwiGxPGVkYCYAxVzbPUHHUdqJt8QPHoECAYQBA]
+        svg_root
+      container
+        container
+          comboboxgrouping "검색" [ref=2, loc=css:textarea[name="q"]]
+            text "당근마켓 바로구매 택배"
+          container
+            text "Powered by"
+            anchor [ref=3, url=https://surferseo.com/]
+              svg_root
+        container
+          container
+            container
+              checkbox [ref=4]
+              svg_root
+            text "·"
+            container
+              container "kr flag"
+              text "0"
+            text "·"
+            container
+              svg_root
+              text "N/A"
+          text "·"
+        container
+          button "지우기" [ref=5, loc=role:button[name="지우기"]]
+            svg_root
+          container
+            button "입력 도구" [ref=6, loc=role:button[name="입력 도구"]]
+              svg_root
+            button "음성 검색" [ref=7, loc=role:button[name="음성 검색"]]
+              svg_root
+            button "이미지로 검색" [ref=8, loc=role:button[name="이미지로 검색"]]
+              svg_root
+    button "공유" [ref=9]
+      svg_root
+  container
+    navigation [ref=10]
+      list
+        listitem
+          anchor [ref=11, url=https://www.google.com/search?q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%EB%B0%94%EB%A1%9C%EA%B5%AC%EB%A7%A4+%ED%83%9D%EB%B0%B0&newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDistMV250sl0eCkyXfMYCUlur5fmQ:1794407585842&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q32PvxYy5w5qBAy5C5d1j1tsTis7WkqDFE5yUGcgnsAQ6cn1ir4pMEou9eZb15803rXj0g7k8nq8HiAoV2PIEbxuP1MMySoDJeOVZkY8o6stWV1Yk1goBliAHG1w8p4iPfLDDsK8IP5DNaFvMNcw_ZiHUETPldRLU_CxHJtji8xw-zGxBVTyLhLawz1nhNt-QzJFollMI1q8TgN_PCibA1iB_mvLQ&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiGxPGVkYCYAxVzbPUHHUdqJt8Q2J8OegQIGRAD]
+            text "AI 모드"
+        listitem
+          link [ref=12]
+            text "전체"
+        listitem
+          anchor [ref=13, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDistMV250sl0eCkyXfMYCUlur5fmQ:1794407585842&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q32PvxYy5w5qBAy5C5d1j1tsTis7WkqDFE5yUGcgnsAQ6cn1ir4pMEou9eZb15803rXj0g7k8nq8HiAoV2PIEbxuP1MMySoDJeOVZkY8o6stWV1Yk1goBliAHG1w8p4iPfLDDsK8IP5DNaFvMNcw_ZiHUETPldRLU_CxHJtji8xw-zGxBVTyLhLawz1nhNt-QzJFollMI1q8TgN_PCibA1iB_mvLQ&q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%EB%B0%94%EB%A1%9C%EA%B5%AC%EB%A7%A4+%ED%83%9D%EB%B0%B0&ved=1t:220175&ictx=111]
+            text "쇼핑"
+        listitem
+          anchor [ref=14, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDistMV250sl0eCkyXfMYCUlur5fmQ:1794407585842&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q32PvxYy5w5qBAy5C5d1j1tsTis7WkqDFE5yUGcgnsAQ6cn1ir4pMEou9eZb15803rXj0g7k8nq8HiAoV2PIEbxuP1MMySoDJeOVZkY8o6stWV1Yk1goBliAHG1w8p4iPfLDDsK8IP5DNaFvMNcw_ZiHUETPldRLU_CxHJtji8xw-zGxBVTyLhLawz1nhNt-QzJFollMI1q8TgN_PCibA1iB_mvLQ&q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%EB%B0%94%EB%A1%9C%EA%B5%AC%EB%A7%A4+%ED%83%9D%EB%B0%B0&sa=X&ved=2ahUKEwiGxPGVkYCYAxVzbPUHHUdqJt8QtKgLegQIIhAB]
+            text "이미지"
+        listitem
+          anchor [ref=15, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDistMV250sl0eCkyXfMYCUlur5fmQ:1794407585842&q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%EB%B0%94%EB%A1%9C%EA%B5%AC%EB%A7%A4+%ED%83%9D%EB%B0%B0&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q32PvxYy5w5qBAy5C5d1j1tsTis7WkqDFE5yUGcgnsAQ6cn1ir4pMEou9eZb15803rXj0g7k8nq8HiAoV2PIEbxuP1MMySoDJeOVZkY8o6stWV1Yk1goBliAHG1w8p4iPfLDDsK8IP5DNaFvMNcw_ZiHUETPldRLU_CxHJtji8xw-zGxBVTyLhLawz1nhNt-QzJFollMI1q8TgN_PCibA1iB_mvLQ&sa=X&ved=2ahUKEwiGxPGVkYCYAxVzbPUHHUdqJt8Q0pQJegQIIRAB]
+            text "뉴스"
+        listitem
+          anchor [ref=16, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDistMV250sl0eCkyXfMYCUlur5fmQ:1794407585842&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q32PvxYy5w5qBAy5C5d1j1tsTis7WkqDFE5yUGcgnsAQ6cn1ir4pMEou9eZb15803rXj0g7k8nq8HiAoV2PIEbxuP1MMySoDJeOVZkY8o6stWV1Yk1goBliAHG1w8p4iPfLDDsK8IP5DNaFvMNcw_ZiHUETPldRLU_CxHJtji8xw-zGxBVTyLhLawz1nhNt-QzJFollMI1q8TgN_PCibA1iB_mvLQ&q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%EB%B0%94%EB%A1%9C%EA%B5%AC%EB%A7%A4+%ED%83%9D%EB%B0%B0&sa=X&ved=2ahUKEwiGxPGVkYCYAxVzbPUHHUdqJt8QtKgLegQIIBAB]
+            text "동영상"
+        listitem
+          anchor [ref=17, url=https://www.google.com/search?newwindow=1&sca_esv=99f80a727f4aa28d&sxsrf=AKL5yDistMV250sl0eCkyXfMYCUlur5fmQ:1794407585842&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q32PvxYy5w5qBAy5C5d1j1tsTis7WkqDFE5yUGcgnsAQ6cn1ir4pMEou9eZb15803rXj0g7k8nq8HiAoV2PIEbxuP1MMySoDJeOVZkY8o6stWV1Yk1goBliAHG1w8p4iPfLDDsK8IP5DNaFvMNcw_ZiHUETPldRLU_CxHJtji8xw-zGxBVTyLhLawz1nhNt-QzJFollMI1q8TgN_PCibA1iB_mvLQ&q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%EB%B0%94%EB%A1%9C%EA%B5%AC%EB%A7%A4+%ED%83%9D%EB%B0%B0&sa=X&ved=2ahUKEwiGxPGVkYCYAxVzbPUHHUdqJt8Qs6gLegQIHxAB]
+            text "짧은 동영상"
+        listitem
+          button [ref=18]
+            container "필터 더보기"
+              text "더보기"
+              svg_root
+      button [ref=19]
+        text "도구"
+        svg_root
+    container
+      container
+        container
+          container
+            svg_root
+            heading
+              text "AI 개요"
+          container
+            container
+              container
+                text "당근마켓의"
+                text "바로구매"
+                text "는"
+                text "채팅 없이 구매자가 즉시 결제하고, 판매자가 집 문앞에 물건을 두면 택배기사가 수거해 배송하는 비대면 택배 거래 서비스"
+                text "입니다."
+                container
+                  anchor "당근" [ref=20, url=https://cs.kr.karrotmarket.com/wv/faqs/23084]
+                  button "당근(+2) - 관련 검색 결과" [ref=21]
+                    container
+                      image
+                      container
+                        text "당근"
+                        text " +2"
+              heading
+                text "주요 특징 및 이용 방법"
+              unordered_list
+                list_item
+                  container
+                    text "작동 방식"
+                    text ": 판매자가 글 작성 시 바로구매 옵션을 켜두면, 구매자가 채팅 조율 없이 바로 결제합니다. 이후 택배기사가 판매자의 집 앞(또는 지정 장소)에 방문하..."
+                  container
+                    anchor "IT동아" [ref=22, url=https://it.donga.com/108718/]
+                    button "IT동아(+2) - 관련 검색 결과" [ref=23, loc=css:button[aria-label="IT동아(+2) - 관련 검색 결과"]]
+                      container
+                        image
+                        container
+                          text "IT동아"
+                          text " +2"
+                list_item
+                  container
+                    text "배송 담당"
+                    text ":"
+                    text "CJ대한통운"
+                    text "과의 제휴를 통해 방문 수거 및 배송이 이루어집니다."
+                  container
+                    anchor "IT동아" [ref=24, url=https://it.donga.com/108718/]
+                    button "IT동아 - 관련 검색 결과" [ref=25, loc=css:button[aria-label="IT동아 - 관련 검색 결과"]]
+                      container
+                        image
+                        text "IT동아"
+                      svg_root
+                list_item
+                  container
+                    text "개인정보 보호"
+                    text ": 전용 송장을 사용하기 때문에 판매자와 구매자 간의 실제 주소나 전화번호가 노출되지 않습니다."
+                  container
+                    anchor "당근" [ref=26, url=https://cs.kr.karrotmarket.com/wv/faqs/23084]
+                    button "당근(+1) - 관련 검색 결과" [ref=27, loc=css:button[aria-label="당근(+1) - 관련 검색 결과"]]
+                      container
+                        image
+                        container
+                          text "당근"
+                          text " +1"
+                list_item
+                  container
+                    text "택배비 및 수수료"
+                    text ":"
+                  unordered_list
+                    list_item
+                      text "택배비와 안심결제 이용료는"
+                      text "구매자 부담"
+                      text "입니다."
+            container
+              unordered_list
+                list_item
+                  container
+                    anchor "당근 바로구매 설정 판매 방법 택배비 얼마? 직접해 본 후기 - 구매 취소 팁 : 네이버 블로그" [ref=28, url=https://m.blog.naver.com/griye/224037950765]
+                    container
+                      container
+                        image
+                        text "블로그"
+                        button "검색 결과 정보" [ref=29]
+                          svg_root
+                      container
+                        container
+                          text "당근 바로구매 설정 판매 방법 택배비 얼마? 직접해 본 후기 - 구매 취소 팁 : 네이버 블로그"
+                          text "개념: 당근 바로구매는 채팅 없이 구매자가 바로 구매하고 판매자가 문앞에 두면 택배기사가 픽업하는 서비스. ..."
+                        image
+                list_item
+                  anchor "당근 거래하는데 바로구매 라는 게 뭐예요? | 공항동 | 당근 동네생활" [ref=30, url=https://www.daangn.com/kr/community/%EB%8B%B9%EA%B7%BC-%EA%B1%B0%EB%9E%98%ED%95%98%EB%8A%94%EB%8D%B0-%EB%B0%94%EB%A1%9C%EA%B5%AC%EB%A7%A4-%EB%9D%BC%EB%8A%94-%EA%B2%8C-%EB%AD%90%EC%98%88%EC%9A%94-zaert4f2h788/]
+                  container
+                    container
+                      image
+                      text "당근"
+                      button "검색 결과 정보" [ref=31]
+                        svg_root
+                    container
+                      container
+                        text "당근 거래하는데 바로구매 라는 게 뭐예요? | 공항동 | 당근 동네생활"
+                        text "당근 거래하는데 바로구매 라는 게 뭐예요? 공항동 | 당근 동네생활 * 동네생활 * 캪틴큐 * 맛집 * 알바..."
+                      image
+              button "관련 검색 결과 모두 보기" [ref=32]
+                text "모두 표시"
+        button "AI 개요 더보기" [ref=33, loc=role:button[name="AI 개요 더보기"]]
+          text "더보기"
+          svg_root
+      container
+        container
+          container
+            anchor [ref=34, url=https://m.blog.naver.com/griye/224037950765]
+              heading
+                text "당근 바로구매 설정 판매 방법 택배비 얼마? 직접해 본 후기"
+              container
+                image
+                container
+                  text "블로그"
+                  container
+                    text "https://m.blog.naver.com"
+                    text "› griye"
+            container
+              container
+                svg_root
+                text "108,813,976"
+              container
+                svg_root
+                text "551"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=35]
+              svg_root
+          container
+            container
+              text "2025. 10. 20."
+              text "—"
+            container
+              text "1) 수정 버튼 누르고. 하단에"
+              text "바로구매"
+              text "가능 옆에. 버튼을 활성화해주세요.​. ​ · 2)"
+              text "택배"
+              text "를 수거해갈 위치를. 지정해주세요. (본인 집, 사무실 등 가능)."
+        container
+          container
+            anchor [ref=36, url=https://www.daangn.com/kr/community/%EB%8B%B9%EA%B7%BC-%EA%B1%B0%EB%9E%98%ED%95%98%EB%8A%94%EB%8D%B0-%EB%B0%94%EB%A1%9C%EA%B5%AC%EB%A7%A4-%EB%9D%BC%EB%8A%94-%EA%B2%8C-%EB%AD%90%EC%98%88%EC%9A%94-zaert4f2h788/]
+              heading
+                text "당근 거래하는데 바로구매 라는 게 뭐예요? | 공항동"
+              container
+                image
+                container
+                  text "당근"
+                  container
+                    text "https://www.daangn.com"
+                    text "› community › 당근-거래하..."
+            container
+              container
+                svg_root
+                text "2,680,851"
+              container
+                svg_root
+                text "875"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=37]
+              svg_root
+          container
+            container
+              text "2026. 4. 5."
+              text "—"
+            container
+              text "구매자가"
+              text "바로구매"
+              text "로 결제하기 완료후 판매자는 집에서 물건 포장하고 현관문앞에 내놓으면"
+              text "택배"
+              text "기사님이 수거해 가는 방식이에요. 직거래 서로간의 거리 ..."
+        container
+          container
+            anchor [ref=38, url=https://www.daangn.com/kr/community/%EB%8B%B9%EA%B7%BC%EC%9C%BC%EB%A1%9C-%ED%83%9D%EB%B0%B0%ED%95%B4%EB%B3%B4%EC%8B%A0%EB%B7%B0-xd6w9hg8cfnq/]
+              heading
+                text "당근으로 택배해보신뷰ㅜㅜ | 운암1동 | 당근 동네생활"
+              container
+                image
+                container
+                  text "당근"
+                  container
+                    text "https://www.daangn.com"
+                    text "› community › 당근으로-택..."
+            container
+              container
+                svg_root
+                text "2,680,851"
+              container
+                svg_root
+                text "861"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=39]
+              svg_root
+          container
+            container
+              text "2026. 4. 10."
+              text "—"
+            container
+              text "- '"
+              text "바로구매"
+              text "'"
+              text "택배"
+              text "이용 시 기사님이 물건을 수거해 가더라도 당근 채팅 알림이 즉시 오지 않아 불안해하시는 경우도 있어요. 이웃들 사이에서는"
+              text "당근마켓"
+              text " ..."
+        container
+          container
+            anchor [ref=40, url=https://m.blog.naver.com/kd8905/224236401035]
+              heading
+                text "당근 바로구매 당근마켓 채팅 없이 택배 쿨거래! 택배비 ..."
+              container
+                image
+                container
+                  text "블로그"
+                  container
+                    text "https://m.blog.naver.com"
+                    text "› ..."
+            container
+              container
+                svg_root
+                text "108,813,976"
+              container
+                svg_root
+                text "527"
+              text "·"
+              container
+                svg_root
+                text "0"
+            button "검색결과에 관한 정보" [ref=41]
+              svg_root
+          container
+            container
+              text "2026. 4. 1."
+              text "—"
+            container
+              text "택배 픽업부터 수령까지 할 수 있는 시스템"
+              text "이에요. 가격 조건: 1원 ~ 190만 원. 택배 규격: 세 변 합 120cm 이하. 제외 품목 ..."
+      container
+        container
+          svg_root
+          text "6.5"
+        container
+          text "Keyword ideas"
+          container
+            svg_root
+            text "Unlucky... No results found"
+        button [ref=42]
+          iframe
+            root
+              svg_root
+              text "Surfer Academy: What Does AI Say About Your Brand? Find Out and Fix It Live"
+              text "Watch the replay on YouTube."
+        iframe [ref=43]
+          root
+            anchor [ref=44, loc=href:https://app.surferseo.com/register?utm_source=keyword_surfer, url=https://app.surferseo.com/register?utm_source=keyword_surfer]
+              text "Get Started Now ->"
+            container
+              anchor [ref=45, loc=href:https://community.surferseo.com/feed?utm_source=keyword_surfer, url=https://community.surferseo.com/feed?utm_source=keyword_surfer]
+                svg_root
+                text "Join Community"
+              anchor [ref=46, loc=href:https://www.youtube.com/@SurferSEO?sub_confirmation=1, url=https://www.youtube.com/@SurferSEO?sub_confirmation=1]
+                svg_root
+                text "Subscribe"
+        splitter
+        container
+          container
+            text "Powered by"
+            anchor [ref=47, url=https://surferseo.com/]
+              svg_root
+          anchor [ref=48, loc=href:https://docs.surferseo.com/en/collections/3203192-keyword-surfer-extension, url=https://docs.surferseo.com/en/collections/3203192-keyword-surfer-extension]
+            svg_root
+[more content below the viewport: scrollY=0, viewport 1436 / page 2788 px; scroll or use snapshot({ scope: "full_page" })]

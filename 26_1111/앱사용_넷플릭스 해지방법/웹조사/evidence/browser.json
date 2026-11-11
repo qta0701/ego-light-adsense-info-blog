@@ -1,0 +1,9 @@
+{
+  "spaceId": 18,
+  "page": "p1",
+  "status": "finished",
+  "blockReason": "Capture failed: ego-lite window is minimized at OS level (Page.captureScreenshot timed out, fromSurface:false only captures 114x245 corner, and sandboxed agent-desktop EnumWindows is blocked). Official guide images and observePage DOM evidence collected; restore ego.exe window before resuming existing Space.",
+  "previousStatus": "blocked",
+  "completion": "complete_with_alternative_review",
+  "cleanupStatus": "already_absent"
+}
