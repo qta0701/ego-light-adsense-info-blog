@@ -1,0 +1,860 @@
+{
+  "runId": "20261112-sheet-blogger-b",
+  "runDir": "26_1111/_blogger_runs/20261112-sheet-blogger-b",
+  "stage": "B",
+  "status": "published_with_holds",
+  "queriedAt": "2026-11-12T11:03:39.3044754Z",
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "sheetId": 2121839224,
+  "tab": "앱사용",
+  "sheetTimeZone": "America/Los_Angeles",
+  "lookupSpaceId": 11,
+  "lookupSpaceFinished": true,
+  "query": "5️⃣ blogger 미작성 전체 시트 조회 (팝업)",
+  "evidence": ".session/blogger-workflow/261112-blogger-popup.txt",
+  "extraction": "중첩 iframe 복사 오류로 팝업의 전체 요약 텍스트박스 사용",
+  "total": 14,
+  "tabCount": 1,
+  "sections": [
+    {
+      "tab": "앱사용",
+      "section": 1,
+      "popupCount": 14,
+      "assigned": 1,
+      "held": 13
+    }
+  ],
+  "jobs": [
+    {
+      "order": 1,
+      "section": 1,
+      "row": 44,
+      "tab": "앱사용",
+      "keyword": "카카오톡 광고 차단 방법",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "카카오톡 광고 차단 방법"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_카카오톡 광고 차단 방법",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 44,
+        "keyword": "카카오톡 광고 차단 방법",
+        "count": 3,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_카카오톡 광고 차단 방법/웹조사/publish/01_official-print.png"
+          },
+          {
+            "id": "IMG_02",
+            "path": "26_1111/앱사용_카카오톡 광고 차단 방법/웹조사/publish/03_official-print.png"
+          },
+          {
+            "id": "IMG_03",
+            "path": "26_1111/앱사용_카카오톡 광고 차단 방법/웹조사/publish/02_official-print.png"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://kakaobusiness.gitbook.io/main/ad/ads-safety/user-guard/adspolicy/inappropriate",
+        "https://info.ad.daum.net/optoutko.do"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    },
+    {
+      "order": 2,
+      "section": 1,
+      "row": 45,
+      "tab": "앱사용",
+      "keyword": "카카오톡 대화내용 복구",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "카카오톡 대화내용 복구"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_카카오톡 대화내용 복구",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 45,
+        "keyword": "카카오톡 대화내용 복구",
+        "count": 3,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_카카오톡 대화내용 복구/웹조사/publish/01_official-print.png"
+          },
+          {
+            "id": "IMG_02",
+            "path": "26_1111/앱사용_카카오톡 대화내용 복구/웹조사/publish/02_official-print.png"
+          },
+          {
+            "id": "IMG_03",
+            "path": "26_1111/앱사용_카카오톡 대화내용 복구/웹조사/publish/03_official-print.png"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://cs.kakao.com/helps_html/1073209313"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    },
+    {
+      "order": 3,
+      "section": 1,
+      "row": 46,
+      "tab": "앱사용",
+      "keyword": "코레일 내일로 패스",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "코레일 내일로 패스"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_코레일 내일로 패스",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 46,
+        "keyword": "코레일 내일로 패스",
+        "count": 3,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_코레일 내일로 패스/웹조사/publish/01_official-print.png"
+          },
+          {
+            "id": "IMG_02",
+            "path": "26_1111/앱사용_코레일 내일로 패스/웹조사/publish/02_official-print.png"
+          },
+          {
+            "id": "IMG_03",
+            "path": "26_1111/앱사용_코레일 내일로 패스/웹조사/publish/03_official-print.png"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://www.korail.com/tour/freeTravel/railro/passIntro",
+        "https://info.korail.com/info/contents.do?key=924"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    },
+    {
+      "order": 4,
+      "section": 1,
+      "row": 47,
+      "tab": "앱사용",
+      "keyword": "코레일 승차권 변경",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "코레일 승차권 변경"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_코레일 승차권 변경",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "published",
+      "spaceId": 12,
+      "images": 0,
+      "localValidation": {
+        "row": 47,
+        "keyword": "코레일 승차권 변경",
+        "count": 0,
+        "images": [],
+        "issues": []
+      },
+      "preflight": "skip_existing_link",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": "ㅇ",
+        "H": "https://app.supportimes.com/2026/11/blog-post_12.html",
+        "L": "2026. 11. 12 오후 8:10:00"
+      },
+      "postId": "3228192716261853992",
+      "publicUrl": "https://app.supportimes.com/2026/11/blog-post_12.html",
+      "publishedAt": "2026-11-12T20:10:00+09:00",
+      "imageCount": 0,
+      "draftSaved": true,
+      "permalink": "Blogger 생성 주소",
+      "spaceClosed": true,
+      "claimReleased": true
+    },
+    {
+      "order": 5,
+      "section": 1,
+      "row": 48,
+      "tab": "앱사용",
+      "keyword": "당근마켓 바로구매 택배",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "당근마켓 바로구매 택배"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_당근마켓 바로구매 택배",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 48,
+        "keyword": "당근마켓 바로구매 택배",
+        "count": 1,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_당근마켓 바로구매 택배/웹조사/publish/01_official-01-instant-buy.jpg"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://about.daangn.com/company/pr/"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    },
+    {
+      "order": 6,
+      "section": 1,
+      "row": 49,
+      "tab": "앱사용",
+      "keyword": "당근마켓 안심결제",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "당근마켓 안심결제"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_당근마켓 안심결제",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 49,
+        "keyword": "당근마켓 안심결제",
+        "count": 2,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_당근마켓 안심결제/웹조사/publish/01_official-03-escrow-app.jpg"
+          },
+          {
+            "id": "IMG_02",
+            "path": "26_1111/앱사용_당근마켓 안심결제/웹조사/publish/02_official-01-escrow-flow.png"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://link.daangnpay.com/escrow/about"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    },
+    {
+      "order": 7,
+      "section": 1,
+      "row": 50,
+      "tab": "앱사용",
+      "keyword": "번개장터 반값택배",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "번개장터 반값택배"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_번개장터 반값택배",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 50,
+        "keyword": "번개장터 반값택배",
+        "count": 2,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_번개장터 반값택배/웹조사/publish/01_official_intro.jpg"
+          },
+          {
+            "id": "IMG_02",
+            "path": "26_1111/앱사용_번개장터 반값택배/웹조사/publish/05_official_postbox.jpg"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://bgzt.co.kr/article/522"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    },
+    {
+      "order": 8,
+      "section": 1,
+      "row": 51,
+      "tab": "앱사용",
+      "keyword": "번개장터 카드 결제",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "번개장터 카드 결제"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_번개장터 카드 결제",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 51,
+        "keyword": "번개장터 카드 결제",
+        "count": 5,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_번개장터 카드 결제/웹조사/publish/01_official_buy_btn.jpg"
+          },
+          {
+            "id": "IMG_02",
+            "path": "26_1111/앱사용_번개장터 카드 결제/웹조사/publish/02_official_general_card.jpg"
+          },
+          {
+            "id": "IMG_03",
+            "path": "26_1111/앱사용_번개장터 카드 결제/웹조사/publish/03_official_installment.jpg"
+          },
+          {
+            "id": "IMG_04",
+            "path": "26_1111/앱사용_번개장터 카드 결제/웹조사/publish/04_official_pay_confirm.jpg"
+          },
+          {
+            "id": "IMG_05",
+            "path": "26_1111/앱사용_번개장터 카드 결제/웹조사/publish/06_official_easy_manage.jpg"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://bgzt.co.kr/article/490"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    },
+    {
+      "order": 9,
+      "section": 1,
+      "row": 52,
+      "tab": "앱사용",
+      "keyword": "넷플릭스 해지방법",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "넷플릭스 해지방법"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_넷플릭스 해지방법",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 52,
+        "keyword": "넷플릭스 해지방법",
+        "count": 6,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_넷플릭스 해지방법/웹조사/publish/01_official_cancel_step1.webp"
+          },
+          {
+            "id": "IMG_02",
+            "path": "26_1111/앱사용_넷플릭스 해지방법/웹조사/publish/02_official_cancel_step2.webp"
+          },
+          {
+            "id": "IMG_03",
+            "path": "26_1111/앱사용_넷플릭스 해지방법/웹조사/publish/03_official_pause_step1.webp"
+          },
+          {
+            "id": "IMG_04",
+            "path": "26_1111/앱사용_넷플릭스 해지방법/웹조사/publish/04_official_pause_step2.webp"
+          },
+          {
+            "id": "IMG_05",
+            "path": "26_1111/앱사용_넷플릭스 해지방법/웹조사/publish/05_official_pause_extend.webp"
+          },
+          {
+            "id": "IMG_06",
+            "path": "26_1111/앱사용_넷플릭스 해지방법/웹조사/publish/06_official_pause_resume.webp"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://help.netflix.com/ko/node/407"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    },
+    {
+      "order": 10,
+      "section": 1,
+      "row": 53,
+      "tab": "앱사용",
+      "keyword": "넷플릭스 로그아웃 티비",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "넷플릭스 로그아웃 티비"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_넷플릭스 로그아웃 티비",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 53,
+        "keyword": "넷플릭스 로그아웃 티비",
+        "count": 3,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_넷플릭스 로그아웃 티비/웹조사/publish/01_official-print.png"
+          },
+          {
+            "id": "IMG_02",
+            "path": "26_1111/앱사용_넷플릭스 로그아웃 티비/웹조사/publish/02_official-print.png"
+          },
+          {
+            "id": "IMG_03",
+            "path": "26_1111/앱사용_넷플릭스 로그아웃 티비/웹조사/publish/03_official-print.png"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://help.netflix.com/ko/node/128180"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    },
+    {
+      "order": 11,
+      "section": 1,
+      "row": 54,
+      "tab": "앱사용",
+      "keyword": "타오바오 탈퇴 방법",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "타오바오 탈퇴 방법"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_타오바오 탈퇴 방법",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 54,
+        "keyword": "타오바오 탈퇴 방법",
+        "count": 1,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_타오바오 탈퇴 방법/웹조사/publish/01_official-print.png"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://terms.alicdn.com/legal-agreement/terms/common_platform_service/20240718141901967/20240718141901967.html"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    },
+    {
+      "order": 12,
+      "section": 1,
+      "row": 55,
+      "tab": "앱사용",
+      "keyword": "네이버회원탈퇴하는방법",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "네이버회원탈퇴하는방법"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_네이버회원탈퇴하는방법",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 55,
+        "keyword": "네이버회원탈퇴하는방법",
+        "count": 3,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_네이버회원탈퇴하는방법/웹조사/publish/03_official-print.png"
+          },
+          {
+            "id": "IMG_02",
+            "path": "26_1111/앱사용_네이버회원탈퇴하는방법/웹조사/publish/01_official-print.png"
+          },
+          {
+            "id": "IMG_03",
+            "path": "26_1111/앱사용_네이버회원탈퇴하는방법/웹조사/publish/02_official-print.png"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://help.naver.com/service/5640/contents/1435?osType=PC&lang=ko"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    },
+    {
+      "order": 13,
+      "section": 1,
+      "row": 56,
+      "tab": "앱사용",
+      "keyword": "스팀 환불 방법",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "스팀 환불 방법"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_스팀 환불 방법",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 56,
+        "keyword": "스팀 환불 방법",
+        "count": 5,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/02_guide.png"
+          },
+          {
+            "id": "IMG_02",
+            "path": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/03_guide.png"
+          },
+          {
+            "id": "IMG_03",
+            "path": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/04_guide.png"
+          },
+          {
+            "id": "IMG_04",
+            "path": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/05_guide.png"
+          },
+          {
+            "id": "IMG_05",
+            "path": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/06_guide.png"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://help.steampowered.com/ko/faqs/view/784C-923B-A4A1-C825"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    },
+    {
+      "order": 14,
+      "section": 1,
+      "row": 57,
+      "tab": "앱사용",
+      "keyword": "애플 환불 요청",
+      "sheetId": 2121839224,
+      "sheetValues": {
+        "A": {
+          "numberValue": 46338
+        },
+        "D": {
+          "stringValue": "ㅇ"
+        },
+        "G": null,
+        "H": null,
+        "I": {
+          "stringValue": "애플 환불 요청"
+        },
+        "L": null
+      },
+      "expectedDateFolder": "26_1112",
+      "folder": "26_1111/앱사용_애플 환불 요청",
+      "folderEvidence": "research.json과 A 실행 배정 기록 대조",
+      "scan": "skip_existing",
+      "status": "held",
+      "localValidation": {
+        "row": 57,
+        "keyword": "애플 환불 요청",
+        "count": 3,
+        "images": [
+          {
+            "id": "IMG_01",
+            "path": "26_1111/앱사용_애플 환불 요청/웹조사/publish/02_guide.png"
+          },
+          {
+            "id": "IMG_02",
+            "path": "26_1111/앱사용_애플 환불 요청/웹조사/publish/04_guide.png"
+          },
+          {
+            "id": "IMG_03",
+            "path": "26_1111/앱사용_애플 환불 요청/웹조사/publish/05_guide.png"
+          }
+        ],
+        "issues": []
+      },
+      "preflight": "eligible_new",
+      "sheetRecheck": {
+        "readAt": "2026-11-12T11:14:37.054Z",
+        "G": null,
+        "H": null,
+        "L": null
+      },
+      "reason": "HTML/TXT 인계에 기재된 채택 이미지 공개 재사용 조건을 확인할 근거가 확보되지 않음",
+      "rightsSources": [
+        "https://www.apple.com/legal/internet-services/terms/site.html"
+      ],
+      "next": "공개 블로그 사용 근거 또는 검수된 대체 이미지와 슬롯 매핑 확보 → 시트 preflight 및 기존 글 조회 → 신규 초안 저장"
+    }
+  ],
+  "finishedAt": "2026-11-12T11:14:41.630Z",
+  "counts": {
+    "published": 1,
+    "held": 13,
+    "failed": 0,
+    "excluded": 0
+  }
+}

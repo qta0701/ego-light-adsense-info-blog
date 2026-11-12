@@ -1,0 +1,1 @@
+for(const [row,id] of [[49,19],[50,20]]){const t=await taskSpace(id),p=t.page('p1');console.log('ROW',row,(await p.snapshot()).split('\n').filter(x=>/당근마켓 안심결제 방법|번개장터 반값택배 보내는|3220501223470571678|4691201057833306796/.test(x)).join('\n'));}

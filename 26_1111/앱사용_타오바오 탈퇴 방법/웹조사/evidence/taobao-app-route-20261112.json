@@ -1,0 +1,51 @@
+{
+  "row": 54,
+  "keyword": "타오바오 탈퇴 방법",
+  "title": "淘宝开放平台 - 文档中心",
+  "url": "https://developer.alibaba.com/docs/doc.htm?articleId=121398&docType=1&source=search&treeId=129",
+  "capturedAt": "2026-11-12T13:36:28.031Z",
+  "method": "ego-browser Page.captureScreenshot fromSurface:true",
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "width": 876.7999877929688,
+    "height": 1551.199951171875,
+    "scale": 1
+  },
+  "devicePixelRatio": 1.25,
+  "window": {
+    "initial": {
+      "left": 5330,
+      "top": 0,
+      "width": 918,
+      "height": 1696,
+      "windowState": "normal"
+    },
+    "current": {
+      "left": 5330,
+      "top": 0,
+      "width": 918,
+      "height": 1696,
+      "windowState": "normal"
+    }
+  },
+  "pixelSize": {
+    "width": 1115,
+    "height": 1958
+  },
+  "box": [
+    364,
+    959,
+    720,
+    22
+  ],
+  "accountRedactions": [],
+  "file": "raw/taobao-app-route-20261112.png",
+  "role": "guide",
+  "sourceId": "S1",
+  "sourceTitle": "알리바바 개발자 문서 · 타오바오 계정 해지 메뉴",
+  "targetTitle": "（1）登录手机淘宝客户端，通过“我的淘宝-设置-账户与安全-注销账户”提交账户注销申请；",
+  "targetUrl": "https://developer.alibaba.com/docs/doc.htm?articleId=121398&docType=1&source=search&treeId=129",
+  "sourceUrl": "https://developer.alibaba.com/docs/doc.htm?articleId=121398&docType=1&source=search&treeId=129",
+  "caption": "알리바바 공식 문서의 타오바오 앱 탈퇴 메뉴"
+}

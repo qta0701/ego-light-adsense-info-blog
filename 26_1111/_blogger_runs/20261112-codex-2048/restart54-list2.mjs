@@ -1,0 +1,1 @@
+const p=(await taskSpace(24)).page('p1');await p.waitForSelector('loc=css:a[href="/blog/post/edit/7162964317827704236/688946051415272150"]',{timeout:30000});console.log((await p.snapshot()).split('\n').filter(x=>/타오바오|688946|게시됨/.test(x)).slice(0,12).join('\n'));

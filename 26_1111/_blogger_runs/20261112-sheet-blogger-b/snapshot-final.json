@@ -1,0 +1,1465 @@
+[
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 44,
+    "keyword": "카카오톡 광고 차단 방법",
+    "folder": "26_1111/앱사용_카카오톡 광고 차단 방법",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "카카오톡 광고 차단 방법",
+        "userEnteredValue": {
+          "stringValue": "카카오톡 광고 차단 방법"
+        },
+        "effectiveValue": {
+          "stringValue": "카카오톡 광고 차단 방법"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 45,
+    "keyword": "카카오톡 대화내용 복구",
+    "folder": "26_1111/앱사용_카카오톡 대화내용 복구",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "카카오톡 대화내용 복구",
+        "userEnteredValue": {
+          "stringValue": "카카오톡 대화내용 복구"
+        },
+        "effectiveValue": {
+          "stringValue": "카카오톡 대화내용 복구"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 46,
+    "keyword": "코레일 내일로 패스",
+    "folder": "26_1111/앱사용_코레일 내일로 패스",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "코레일 내일로 패스",
+        "userEnteredValue": {
+          "stringValue": "코레일 내일로 패스"
+        },
+        "effectiveValue": {
+          "stringValue": "코레일 내일로 패스"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 47,
+    "keyword": "코레일 승차권 변경",
+    "folder": "26_1111/앱사용_코레일 승차권 변경",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "formattedValue": "https://app.supportimes.com/2026/11/blog-post_12.html",
+        "userEnteredValue": {
+          "stringValue": "https://app.supportimes.com/2026/11/blog-post_12.html"
+        },
+        "effectiveValue": {
+          "stringValue": "https://app.supportimes.com/2026/11/blog-post_12.html"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "코레일 승차권 변경",
+        "userEnteredValue": {
+          "stringValue": "코레일 승차권 변경"
+        },
+        "effectiveValue": {
+          "stringValue": "코레일 승차권 변경"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "2026. 11. 12 오후 8:10:00",
+        "userEnteredValue": {
+          "numberValue": 46338.84027777778
+        },
+        "effectiveValue": {
+          "numberValue": 46338.84027777778
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy. m. d AM/PM h:mm:ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 48,
+    "keyword": "당근마켓 바로구매 택배",
+    "folder": "26_1111/앱사용_당근마켓 바로구매 택배",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "당근마켓 바로구매 택배",
+        "userEnteredValue": {
+          "stringValue": "당근마켓 바로구매 택배"
+        },
+        "effectiveValue": {
+          "stringValue": "당근마켓 바로구매 택배"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 49,
+    "keyword": "당근마켓 안심결제",
+    "folder": "26_1111/앱사용_당근마켓 안심결제",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "당근마켓 안심결제",
+        "userEnteredValue": {
+          "stringValue": "당근마켓 안심결제"
+        },
+        "effectiveValue": {
+          "stringValue": "당근마켓 안심결제"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 50,
+    "keyword": "번개장터 반값택배",
+    "folder": "26_1111/앱사용_번개장터 반값택배",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "번개장터 반값택배",
+        "userEnteredValue": {
+          "stringValue": "번개장터 반값택배"
+        },
+        "effectiveValue": {
+          "stringValue": "번개장터 반값택배"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 51,
+    "keyword": "번개장터 카드 결제",
+    "folder": "26_1111/앱사용_번개장터 카드 결제",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "번개장터 카드 결제",
+        "userEnteredValue": {
+          "stringValue": "번개장터 카드 결제"
+        },
+        "effectiveValue": {
+          "stringValue": "번개장터 카드 결제"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 52,
+    "keyword": "넷플릭스 해지방법",
+    "folder": "26_1111/앱사용_넷플릭스 해지방법",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "넷플릭스 해지방법",
+        "userEnteredValue": {
+          "stringValue": "넷플릭스 해지방법"
+        },
+        "effectiveValue": {
+          "stringValue": "넷플릭스 해지방법"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 53,
+    "keyword": "넷플릭스 로그아웃 티비",
+    "folder": "26_1111/앱사용_넷플릭스 로그아웃 티비",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "넷플릭스 로그아웃 티비",
+        "userEnteredValue": {
+          "stringValue": "넷플릭스 로그아웃 티비"
+        },
+        "effectiveValue": {
+          "stringValue": "넷플릭스 로그아웃 티비"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 54,
+    "keyword": "타오바오 탈퇴 방법",
+    "folder": "26_1111/앱사용_타오바오 탈퇴 방법",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "타오바오 탈퇴 방법",
+        "userEnteredValue": {
+          "stringValue": "타오바오 탈퇴 방법"
+        },
+        "effectiveValue": {
+          "stringValue": "타오바오 탈퇴 방법"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 55,
+    "keyword": "네이버회원탈퇴하는방법",
+    "folder": "26_1111/앱사용_네이버회원탈퇴하는방법",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "네이버회원탈퇴하는방법",
+        "userEnteredValue": {
+          "stringValue": "네이버회원탈퇴하는방법"
+        },
+        "effectiveValue": {
+          "stringValue": "네이버회원탈퇴하는방법"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 56,
+    "keyword": "스팀 환불 방법",
+    "folder": "26_1111/앱사용_스팀 환불 방법",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "스팀 환불 방법",
+        "userEnteredValue": {
+          "stringValue": "스팀 환불 방법"
+        },
+        "effectiveValue": {
+          "stringValue": "스팀 환불 방법"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  },
+  {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 57,
+    "keyword": "애플 환불 요청",
+    "folder": "26_1111/앱사용_애플 환불 요청",
+    "stage": "B",
+    "owner": "20261112-sheet-blogger-b",
+    "headerRow": 1,
+    "headers": [
+      "블로그 업로드 날짜",
+      "No.",
+      "상위노출 블로그 수집여부",
+      "애드센스 블로그 작성여부",
+      "네이버 블로그 md 생성 여부",
+      "네이버 포스팅 여부",
+      "애드센스 임시저장 여부",
+      "애드센스 포스팅 링크",
+      "메인 키워드",
+      "PC 검색량",
+      "모바일 검색량",
+      "애드센스 포스팅 작성일"
+    ],
+    "cells": [
+      {
+        "formattedValue": "2026-11-12",
+        "userEnteredValue": {
+          "numberValue": 46338
+        },
+        "effectiveValue": {
+          "numberValue": 46338
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE",
+            "pattern": "yyyy-MM-dd"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "formattedValue": "ㅇ",
+        "userEnteredValue": {
+          "stringValue": "ㅇ"
+        },
+        "effectiveValue": {
+          "stringValue": "ㅇ"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "#,##0\"개\""
+          }
+        }
+      },
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {
+        "formattedValue": "애플 환불 요청",
+        "userEnteredValue": {
+          "stringValue": "애플 환불 요청"
+        },
+        "effectiveValue": {
+          "stringValue": "애플 환불 요청"
+        },
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "NUMBER",
+            "pattern": "General"
+          }
+        }
+      },
+      {},
+      {},
+      {
+        "userEnteredFormat": {
+          "numberFormat": {
+            "type": "DATE_TIME",
+            "pattern": "yyyy\"-\"mm\"-\"dd\"  /\"am/pm\" \"h\":\"mm\":\"ss"
+          }
+        }
+      }
+    ],
+    "readAt": "2026-11-12T11:14:37.054Z"
+  }
+]

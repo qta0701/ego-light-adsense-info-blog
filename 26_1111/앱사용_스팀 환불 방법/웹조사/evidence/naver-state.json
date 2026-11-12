@@ -1,0 +1,87 @@
+{
+  "status": "scheduled",
+  "verified": true,
+  "account": "supportimes001",
+  "profileName": "순분",
+  "tab": "앱사용",
+  "row": 56,
+  "keyword": "스팀 환불 방법",
+  "postId": "224475029092",
+  "promotionUrl": "https://app.supportimes.com/2026/11/142-5.html",
+  "publicationTime": "2026-11-13T07:00:00+09:00",
+  "publicationTimeSource": "confirmed_reservation_list",
+  "reservationVerifiedAt": "2026-11-13T01:07:31.339722+09:00",
+  "publicUrl": null,
+  "styleAudit": {
+    "scope": "reopened_saved_reservation",
+    "normalParagraphs": 46,
+    "boldFailures": 0,
+    "ctaVerified": 2,
+    "images": 6,
+    "og": 2,
+    "tables": 9,
+    "rawUrls": 0,
+    "markers": 0,
+    "file": ".session/naver-20261113/saved-audit-56.json",
+    "publicVerification": "pending until publication"
+  },
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "source": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/앱사용_스팀 환불 방법_네이버블로그.md",
+  "sourceSha256": "69290f78d1e41207ab0b8e39caf0b390d7ded2e26c7f90ff4db1fff1804fd33d",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/google-official-marked.png",
+      "caption": "Google 검색에서 실제로 연 공식 결과 · Steam 고객지원 :: 환불 요청 방법",
+      "sha256": "fbbed6664d887dfb7a65ddb566320bec248b310ba06e74a8ee6b4aaf6e0ec635"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/02_guide.png",
+      "caption": "Steam 고객지원에서 구매 메뉴 선택",
+      "sha256": "43436a8035491fbc89a044067a45712513db3ab0f215219d87cd55be10d8327d"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/03_guide.png",
+      "caption": "구매 목록에서 환불할 게임 선택",
+      "sha256": "82151588022307858adff5c56e5fb387a871fdf0b19081a572fe4003610f2d9d"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/04_guide.png",
+      "caption": "구매 항목의 문제 유형 선택",
+      "sha256": "ce7d609926c3220b7c3654cddd551e5c8d8f20d040259101155971c2667f51a3"
+    },
+    {
+      "marker": "NAVERIMG5",
+      "path": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/05_guide.png",
+      "caption": "환불 요청 메뉴 선택",
+      "sha256": "6061a93f6fb8086054dae2d539a0a9f9bcf52bc20a1f41651ed85826f4847455"
+    },
+    {
+      "marker": "NAVERIMG6",
+      "path": "26_1111/앱사용_스팀 환불 방법/웹조사/publish/06_guide.png",
+      "caption": "환불 수단과 사유를 확인하는 요청 양식",
+      "sha256": "646ac5e5e75a00dbcaf2cef5b2fa997e00b64687b0bc50a3322176cdbfc10308"
+    }
+  ],
+  "links": [
+    {
+      "marker": "NAVEROG1",
+      "url": "https://app.supportimes.com/2026/11/142-5.html"
+    },
+    {
+      "marker": "NAVEROG2",
+      "url": "https://app.supportimes.com/2026/11/142-5.html"
+    }
+  ],
+  "indexOnProfile": 3,
+  "spaceId": 45,
+  "spaceStatus": "finished",
+  "claimReceipt": ".session/naver-20261113/claim-56.json",
+  "savedReservationVerifiedAt": "2026-11-13T01:08:21.593550+09:00",
+  "ledgerRow": 213,
+  "claimStatus": "released"
+}

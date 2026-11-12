@@ -1,0 +1,23 @@
+[
+  {
+    "row": 44,
+    "spaceId": 15,
+    "startedAt": "2026-11-12T11:51:35.306Z",
+    "finishedAt": "2026-11-12T12:07:49.352Z",
+    "finished": true
+  },
+  {
+    "row": 45,
+    "spaceId": 16,
+    "startedAt": "2026-11-12T11:51:37.480Z",
+    "finishedAt": "2026-11-12T12:07:49.362Z",
+    "finished": true
+  },
+  {
+    "row": 46,
+    "spaceId": 17,
+    "startedAt": "2026-11-12T11:51:39.294Z",
+    "finishedAt": "2026-11-12T12:07:49.558Z",
+    "finished": true
+  }
+]

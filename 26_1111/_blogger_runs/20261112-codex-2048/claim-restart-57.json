@@ -1,0 +1,18 @@
+{
+  "token": "5abc06f96ef9451680619909c1fde731",
+  "job": {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 57,
+    "keyword": "애플 환불 요청",
+    "folder": "26_1111/앱사용_애플 환불 요청",
+    "stage": "B",
+    "owner": "20261112-codex-2048"
+  },
+  "createdAt": "2026-11-12T21:36:14.293146+09:00",
+  "locks": [
+    ".session/blogger-workflow/locks/7f440f59ad9702700c895ace23a7029a2de4980f640406d948865e8333b565b9.json",
+    ".session/blogger-workflow/locks/b59e8fdcf3434908c585ab60a52b2db0b3b8529db68870555a1a804aaa9b5a3a.json"
+  ]
+}

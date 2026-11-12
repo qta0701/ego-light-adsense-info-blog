@@ -5,14 +5,14 @@
   "folder": "26_1111/앱사용_번개장터 반값택배/웹조사",
   "markdown": "26_1111/앱사용_번개장터 반값택배/웹조사/publish/앱사용_번개장터 반값택배_웹조사결과.md",
   "bodyChars": 4539,
-  "rawImages": 8,
-  "publishedImages": 3,
+  "rawImages": 9,
+  "publishedImages": 4,
   "imageKinds": {
-    "공식 다운로드 이미지": 3
+    "공식 다운로드 이미지": 3,
+    "ego-browser 실제 캡처에 표식 편집": 1
   },
   "automaticValidationErrors": [
-    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
-    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장"
   ],
   "imageSizes": {
     "01_official_intro.jpg": [
@@ -26,24 +26,37 @@
     "05_official_postbox.jpg": [
       1199,
       771
+    ],
+    "google-official-marked.png": [
+      825,
+      372
     ]
   },
   "artifactHashes": {
+    "publish/google-official-marked.png": "06258c23d21930440ac600a3b26ea7664812fb3a82e9d2fd1e6b7c4453c5442c",
     "publish/01_official_intro.jpg": "90649db42bcf7473dbfad37cd42262d0dc6b200a0fb48683893dda3fa938fa0c",
     "publish/04_official_prepaid.jpg": "d27442b8e8649e95fe96e2a8d149e0347723bd007f7599e30c41df4b5a101b37",
     "publish/05_official_postbox.jpg": "98270797d83fa9b58ddf6ae4bf7cc3f29fcc0296a58005099052a7dffec5160e",
-    "publish/앱사용_번개장터 반값택배_웹조사결과.md": "27ce9d5c1cc039a0715a993913d764dd5b2aa1bc424c5c8de6414835d3183535",
-    "publish/index.json": "893f5d85e9e9076ca944513f7bfa1d0bfb76299029d8f4003693c99e6f30cf97"
+    "publish/앱사용_번개장터 반값택배_웹조사결과.md": "06a5ca80f37b34eb4bf248131ae985bb9d6735a8dbb054d605fb740adfa93b78",
+    "publish/index.json": "64486cfd8af6bfc09b7fad5ba39536cc8e205604e3f4b288edaa3ad3ade8afa6"
   },
   "sourceImageHashes": {
+    "raw/google-official-20261112.png": "a8dce9394079defb143aa4fd0224cfd5e1192678f56f0115e7837e7b9322297b",
     "raw/official-522-1.jpg": "90649db42bcf7473dbfad37cd42262d0dc6b200a0fb48683893dda3fa938fa0c",
     "raw/official-522-4.jpg": "d27442b8e8649e95fe96e2a8d149e0347723bd007f7599e30c41df4b5a101b37",
     "raw/official-522-5.jpg": "98270797d83fa9b58ddf6ae4bf7cc3f29fcc0296a58005099052a7dffec5160e"
   },
-  "researchSha256": "0cd25e97df62defc456bade42bf0a070d5dffb2192f72d469e2dc70898889801",
+  "researchSha256": "5bbb3c9b9cbd67e124249d9d8142c979bdfa7258d10e2b8d8130bde63d25040b",
   "checkedOn": "2026-11-12",
   "visualReviewed": true,
-  "markedGoogleSearch": false,
+  "markedGoogleSearch": true,
   "status": "complete_with_alternative_review",
-  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다. 일반·방문택배 예시와 발송인·수취인 정보가 들어간 예시는 발행 목록에서 제외했습니다."
+  "limitations": "2026-11-12에 실제 Google 검색 캡처를 추가했습니다. 기존 공식 예시 이미지와 인쇄본 발췌도 함께 제공합니다. 일반·방문택배 예시와 발송인·수취인 정보가 들어간 예시는 발행 목록에서 제외했습니다.",
+  "captureSupplement": {
+    "date": "2026-11-12",
+    "publishedFiles": [
+      "google-official-marked.png"
+    ],
+    "visualReviewed": true
+  }
 }

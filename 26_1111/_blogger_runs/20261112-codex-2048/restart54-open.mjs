@@ -1,0 +1,14 @@
+const fs=await import('node:fs/promises');
+const run='Y:/antigravity-project/ego-light-adsense-info-blog/26_1111/_blogger_runs/20261112-codex-2048';
+const profile=(await profiles()).find(p=>p.name==='순분'&&p.id==='Profile 2');
+if(!profile) throw Error('순분 Profile 2 unavailable');
+const task=await taskSpace('blogger-20261112-restart-54',{profileId:profile.id});
+await fs.writeFile(`${run}/space-restart-54.json`,JSON.stringify({row:54,spaceId:task.spaceId,startedAt:new Date().toISOString()},null,2));
+console.log('SPACE',task.spaceId);
+const page=task.page('p1');
+await page.goto('https://www.blogger.com/blog/posts/7162964317827704236?hl=ko');
+await page.waitForSelector('loc=css:input[aria-label="검색"]');
+await page.fill('loc=css:input[aria-label="검색"]','타오바오');
+await page.press('loc=css:input[aria-label="검색"]','Enter');
+console.log('URL',await page.url());
+console.log(await page.snapshot({scope:'full_page'}));

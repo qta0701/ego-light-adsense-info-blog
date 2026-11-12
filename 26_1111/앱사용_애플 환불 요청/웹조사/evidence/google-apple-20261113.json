@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=%EC%95%A0%ED%94%8C%20%ED%99%98%EB%B6%88%20%EC%9A%94%EC%B2%AD",
+  "title": "애플 환불 요청 - Google 검색",
+  "width": 1100,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1084.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      104.4000015258789,
+      206.40000915527344,
+      457.26251220703125,
+      33
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 900
+  },
+  "boxes": [
+    [
+      104,
+      206,
+      458,
+      34
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001818068403325,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1099.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-12T15:13:27.692Z"
+}

@@ -5,34 +5,61 @@
   "folder": "26_1111/앱사용_타오바오 탈퇴 방법/웹조사",
   "markdown": "26_1111/앱사용_타오바오 탈퇴 방법/웹조사/publish/앱사용_타오바오 탈퇴 방법_웹조사결과.md",
   "bodyChars": 858,
-  "rawImages": 2,
-  "publishedImages": 1,
+  "rawImages": 5,
+  "publishedImages": 4,
   "imageKinds": {
-    "브라우저 인쇄본 발췌": 1
+    "브라우저 인쇄본 발췌": 1,
+    "ego-browser 실제 캡처에 표식 편집": 3
   },
   "automaticValidationErrors": [
     "본문 858자: 3500~5500자 필요(출처/이미지 목록 제외)",
-    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
-    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장"
   ],
   "imageSizes": {
     "01_official-print.png": [
       1028,
       710
+    ],
+    "google-official-marked.png": [
+      825,
+      482
+    ],
+    "taobao-app-route-marked.png": [
+      816,
+      424
+    ],
+    "taobao-after-closure-marked.png": [
+      1160,
+      474
     ]
   },
   "artifactHashes": {
+    "publish/google-official-marked.png": "a11cf88a74062c2773bace88da0f5b2525c76cfc24e7851829979e5b985ac755",
     "publish/01_official-print.png": "661ebd4621a1b89da788d13f46d55d6cef75af6400b4187806868dade088d09f",
-    "publish/앱사용_타오바오 탈퇴 방법_웹조사결과.md": "d7793ea2c7a8ad3b5ae2da8de095f13cff1e39ce807e103b12d42a7c676d8160",
-    "publish/index.json": "b6248942c46f701e3a64f20b22b517f20bb3fcfed875b2bfa0e2adee1de36187"
+    "publish/taobao-app-route-marked.png": "4b21821678b9436ab7b248de31e7d392913d8b7008ffdd3eba1b41bc4dcf20ec",
+    "publish/taobao-after-closure-marked.png": "11bc90489400c533929e8fef52c6e39d2f5df2ceec6f927bc3a7c511ee9dcd42",
+    "publish/앱사용_타오바오 탈퇴 방법_웹조사결과.md": "711883d9f2151afd5bc91a7cfbee425c87caf93f0a0e61f256e4bee37cc42328",
+    "publish/index.json": "aefbbb8715dfbbce780c4728a2d9d3c94615406a7ea965a8949af2e6278b455b"
   },
   "sourceImageHashes": {
-    "raw/print-taobao-closure-terms-1-01.png": "846f132b25dffcc037822892a66e42cce213b58417797bc64d8dc0b706c13e1a"
+    "raw/google-official-20261112.png": "742323db38253ef219d8e6ccd9845cec9d26995fcd3ebf57bc6a1a061bf13521",
+    "raw/print-taobao-closure-terms-1-01.png": "846f132b25dffcc037822892a66e42cce213b58417797bc64d8dc0b706c13e1a",
+    "raw/taobao-app-route-20261112.png": "4de9ed2f33e232d34aa2f4e52ee53af9730ef9fa6e5a2449f582bb1c1115de95",
+    "raw/taobao-after-closure-20261112.png": "5fc1091641b4f0c0b9ee30f628dc53d929318151d4b0880bddc14c15657e9d7b"
   },
-  "researchSha256": "8f6ffc86a738177a73db7bf05a79eed9961fc03ee3281ba98578ad1ad37c48fa",
+  "researchSha256": "b1794e94b08afe321336d41c0296a2dcae3d2caa02f0c1033cd767f806e3dbe9",
   "checkedOn": "2026-11-12",
   "visualReviewed": true,
-  "markedGoogleSearch": false,
+  "markedGoogleSearch": true,
   "status": "complete_with_alternative_review",
-  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다. 이전에 저장된 DOM 재구성 이미지는 근거 폴더와 원본 경로에 보존하고 발행 목록에서 제외했습니다."
+  "limitations": "2026-11-12에 실제 Google 검색 캡처를 추가했습니다. 기존 공식 예시 이미지와 인쇄본 발췌도 함께 제공합니다. 이전에 저장된 DOM 재구성 이미지는 근거 폴더와 원본 경로에 보존하고 발행 목록에서 제외했습니다.",
+  "captureSupplement": {
+    "date": "2026-11-12",
+    "publishedFiles": [
+      "google-official-marked.png",
+      "taobao-app-route-marked.png",
+      "taobao-after-closure-marked.png"
+    ],
+    "visualReviewed": true
+  }
 }

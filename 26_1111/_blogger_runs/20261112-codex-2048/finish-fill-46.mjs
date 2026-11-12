@@ -1,0 +1,12 @@
+const fs=await import('node:fs/promises');const t=await taskSpace(17);const p=t.page('p1');
+const html=await fs.readFile('Y:/antigravity-project/ego-light-adsense-info-blog/26_1111/_blogger_runs/20261112-codex-2048/publish-46.html','utf8');
+await p.click('@168');await p.keyboard.press('ControlOrMeta+A');await p.keyboard.paste(html);
+await p.click('text="퍼머링크"');console.log('PERM', (await p.snapshot()).split('\n').slice(-35).join('\n'));
+await p.click('text="맞춤 퍼머링크"');
+await p.fill('loc=css:input[aria-label="맞춤 퍼머링크 입력"]','korail-naeilro-pass');
+await p.press('loc=css:input[aria-label="맞춤 퍼머링크 입력"]','Tab');
+await p.click('text="라벨"');
+await p.fill('loc=css:textarea[aria-label="쉼표로 라벨을 구분하세요."]','코레일, 내일로 패스, KTX, 기차여행');
+await p.press('loc=css:textarea[aria-label="쉼표로 라벨을 구분하세요."]','Comma');
+await p.press('loc=css:textarea[aria-label="쉼표로 라벨을 구분하세요."]','Tab');
+console.log((await p.snapshot()).split('\n').slice(-55).join('\n'));

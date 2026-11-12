@@ -1,0 +1,54 @@
+[네이버 블로그 제목 후보 3개]
+1. 코레일 내일로 패스 가격과 좌석 지정 방법, KTX 횟수까지
+2. 내일로 3일권·7일권 비교와 KTX 좌석 지정 조건
+3. 코레일 내일로 패스 구매부터 열차 이용권 발권까지
+
+[네이버 모바일 홈판형 제목 후보 3개]
+1. 내일로 샀다면 열차 타기 전 이것도 발권하세요
+2. KTX는 몇 번? 내일로 여행 전 확인할 좌석 횟수
+3. 3일권과 7일권, 내 여행에는 무엇이 맞을까
+
+[사용 이미지 정보 및 본문 내 추천 배치 위치]
+1. 이미지 파일명: 01_official-print.png
+   - 실제 파일: publish/01_official-print.png
+   - 원본: raw/print-korail-pass-2-01.png
+   - 화면 설명: 내일로 패스 요금·이용열차·좌석 지정 조건
+   - 권장 캡션: 내일로 패스 요금·이용열차·좌석 지정 조건
+   - 배치 위치: ## 1. 내일로 패스 가격과 권종 비교 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: 브라우저 인쇄본 발췌
+   - 출처: https://www.korail.com/tour/freeTravel/railro/passIntro
+   - 확인일: 2026-11-12
+
+2. 이미지 파일명: google-official-marked.png
+   - 실제 파일: publish/google-official-marked.png
+   - 원본: raw/google-official-20261112.png
+   - 화면 설명: Google 검색에서 실제로 연 공식 결과 · 패스 소개
+   - 권장 캡션: Google 검색에서 실제로 연 공식 결과 · 패스 소개
+   - 배치 위치: ## 2. KTX와 일반열차 좌석은 몇 번일까? 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: ego-browser 실제 캡처에 표식 편집
+   - 출처: https://www.google.com/search?q=%EC%BD%94%EB%A0%88%EC%9D%BC%20%EB%82%B4%EC%9D%BC%EB%A1%9C%20%ED%8C%A8%EC%8A%A4
+   - 확인일: 2026-11-12
+
+3. 이미지 파일명: 02_official-print.png
+   - 실제 파일: publish/02_official-print.png
+   - 원본: raw/print-korail-pass-2-02.png
+   - 화면 설명: 패스 이용 방법과 구매 기간
+   - 권장 캡션: 패스 이용 방법과 구매 기간
+   - 배치 위치: ## 3. 구매 후 열차별 이용권 발권하기 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: 브라우저 인쇄본 발췌
+   - 출처: https://www.korail.com/tour/freeTravel/railro/passIntro
+   - 확인일: 2026-11-12
+
+4. 이미지 파일명: 03_official-print.png
+   - 실제 파일: publish/03_official-print.png
+   - 원본: raw/print-korail-pass-3-03.png
+   - 화면 설명: 이용 전 확인할 내일로 패스 주의사항
+   - 권장 캡션: 이용 전 확인할 내일로 패스 주의사항
+   - 배치 위치: ## 4. 일정 변경과 반환 전 체크 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: 브라우저 인쇄본 발췌
+   - 출처: https://www.korail.com/tour/freeTravel/railro/passIntro
+   - 확인일: 2026-11-12

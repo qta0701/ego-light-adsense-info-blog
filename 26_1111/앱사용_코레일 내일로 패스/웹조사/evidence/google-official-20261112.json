@@ -1,0 +1,61 @@
+{
+  "row": 46,
+  "keyword": "코레일 내일로 패스",
+  "title": "코레일 내일로 패스 - Google 검색",
+  "url": "https://www.google.com/search?q=%EC%BD%94%EB%A0%88%EC%9D%BC%20%EB%82%B4%EC%9D%BC%EB%A1%9C%20%ED%8C%A8%EC%8A%A4",
+  "capturedAt": "2026-11-12T13:38:09.887Z",
+  "method": "ego-browser Page.captureScreenshot fromSurface:true",
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "width": 876.7999877929688,
+    "height": 1566.4000244140625,
+    "scale": 1
+  },
+  "devicePixelRatio": 1.25,
+  "window": {
+    "initial": {
+      "left": 5330,
+      "top": 0,
+      "width": 918,
+      "height": 1696,
+      "windowState": "normal"
+    },
+    "current": {
+      "left": 5330,
+      "top": 0,
+      "width": 918,
+      "height": 1696,
+      "windowState": "normal"
+    }
+  },
+  "pixelSize": {
+    "width": 1115,
+    "height": 1958
+  },
+  "box": [
+    105,
+    258,
+    109,
+    42
+  ],
+  "accountRedactions": [
+    [
+      1021,
+      39,
+      51,
+      51
+    ]
+  ],
+  "file": "raw/google-official-20261112.png",
+  "role": "search",
+  "query": "코레일 내일로 패스",
+  "sourceId": "S1",
+  "sourceTitle": "내일로 두번째 이야기 - 패스 소개 및 좌석지정안내 | 코레일 기차여행",
+  "targetTitle": "패스 소개",
+  "sourceUrl": "https://www.korail.com/tour/freeTravel/railro/passIntro",
+  "caption": "Google 검색에서 실제로 연 공식 결과 · 패스 소개",
+  "targetUrl": "https://www.korail.com/tour/freeTravel/railro/passIntro",
+  "targetPageTitle": "코레일 승차권예매",
+  "verifiedBy": "clicked matching Google result"
+}

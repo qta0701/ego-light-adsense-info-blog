@@ -1,0 +1,1 @@
+const p=(await taskSpace(26)).page('p1');await p.hover('text="스팀 환불 방법｜14일·2시간 기준과 신청 5단계"');console.log((await p.snapshot()).split('\n').filter(x=>/보기|스팀 환불 방법|8492600626028722143/.test(x)).slice(0,12).join('\n'));

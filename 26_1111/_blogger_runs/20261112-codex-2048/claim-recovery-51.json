@@ -1,0 +1,18 @@
+{
+  "token": "dde24beef9a948569b1e463395951bc8",
+  "job": {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 2121839224,
+    "tab": "앱사용",
+    "row": 51,
+    "keyword": "번개장터 카드 결제",
+    "folder": "26_1111/앱사용_번개장터 카드 결제",
+    "stage": "B",
+    "owner": "20261112-codex-2048"
+  },
+  "createdAt": "2026-11-12T21:59:20.638062+09:00",
+  "locks": [
+    ".session/blogger-workflow/locks/65615512c568534cb5f478185a4b5d0b59da76ab03a90269fdcffab9549ec7bb.json",
+    ".session/blogger-workflow/locks/3809c9f413c1c4e1466f97cc2990161cea191886946e6d7c23899e12b2d5a06e.json"
+  ]
+}

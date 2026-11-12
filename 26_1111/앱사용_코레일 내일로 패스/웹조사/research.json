@@ -33,6 +33,80 @@
   ],
   "images": [
     {
+      "row": 46,
+      "keyword": "코레일 내일로 패스",
+      "title": "코레일 내일로 패스 - Google 검색",
+      "url": "https://www.google.com/search?q=%EC%BD%94%EB%A0%88%EC%9D%BC%20%EB%82%B4%EC%9D%BC%EB%A1%9C%20%ED%8C%A8%EC%8A%A4",
+      "capturedAt": "2026-11-12T13:38:09.887Z",
+      "method": "ego-browser Page.captureScreenshot fromSurface:true",
+      "viewport": {
+        "x": 0,
+        "y": 0,
+        "width": 876.7999877929688,
+        "height": 1566.4000244140625,
+        "scale": 1
+      },
+      "devicePixelRatio": 1.25,
+      "window": {
+        "initial": {
+          "left": 5330,
+          "top": 0,
+          "width": 918,
+          "height": 1696,
+          "windowState": "normal"
+        },
+        "current": {
+          "left": 5330,
+          "top": 0,
+          "width": 918,
+          "height": 1696,
+          "windowState": "normal"
+        }
+      },
+      "pixelSize": {
+        "width": 1115,
+        "height": 1958
+      },
+      "box": [
+        105,
+        258,
+        109,
+        42
+      ],
+      "accountRedactions": [
+        [
+          1021,
+          39,
+          51,
+          51
+        ]
+      ],
+      "file": "raw/google-official-20261112.png",
+      "role": "search",
+      "query": "코레일 내일로 패스",
+      "sourceId": "S1",
+      "sourceTitle": "내일로 두번째 이야기 - 패스 소개 및 좌석지정안내 | 코레일 기차여행",
+      "targetTitle": "패스 소개",
+      "sourceUrl": "https://www.korail.com/tour/freeTravel/railro/passIntro",
+      "caption": "Google 검색에서 실제로 연 공식 결과 · 패스 소개",
+      "targetUrl": "https://www.korail.com/tour/freeTravel/railro/passIntro",
+      "targetPageTitle": "코레일 승차권예매",
+      "verifiedBy": "clicked matching Google result",
+      "publishFile": "google-official-marked.png",
+      "kind": "ego-browser 실제 캡처에 표식 편집",
+      "checkedAt": "2026-11-12",
+      "alt": "Google 검색에서 실제로 연 공식 결과 · 패스 소개",
+      "boxes": [
+        [
+          105,
+          258,
+          109,
+          42
+        ]
+      ],
+      "evidence": "evidence/google-official-20261112.json"
+    },
+    {
       "role": "reference",
       "file": "raw/print-korail-pass-2-01.png",
       "publishFile": "01_official-print.png",
@@ -79,6 +153,12 @@
     "referenceMax": 3,
     "rawMax": 12
   },
-  "exceptionReason": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다.",
-  "visualReviewed": false
+  "exceptionReason": "2026-11-12에 실제 Google 검색 캡처를 추가했습니다. 기존 공식 예시 이미지와 인쇄본 발췌도 함께 제공합니다.",
+  "visualReviewed": false,
+  "searchCaptureQueries": [
+    "코레일 내일로 패스"
+  ],
+  "initialQueries": [
+    "코레일 내일로 패스"
+  ]
 }

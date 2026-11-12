@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%20%EC%95%88%EC%8B%AC%EA%B2%B0%EC%A0%9C",
+  "title": "당근마켓 안심결제 - Google 검색",
+  "width": 1100,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1084.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      104.4000015258789,
+      636.2000122070312,
+      375.8625183105469,
+      33
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 900
+  },
+  "boxes": [
+    [
+      104,
+      636,
+      377,
+      34
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001818068403325,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1099.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-12T14:58:30.711Z"
+}

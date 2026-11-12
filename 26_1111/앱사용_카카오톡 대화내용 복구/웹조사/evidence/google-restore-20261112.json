@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%20%EB%8C%80%ED%99%94%EB%82%B4%EC%9A%A9%20%EB%B3%B5%EA%B5%AC",
+  "title": "카카오톡 대화내용 복구 - Google 검색",
+  "width": 1100,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1084.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      104.4000015258789,
+      636.2000122070312,
+      315.6625061035156,
+      33
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 900
+  },
+  "boxes": [
+    [
+      104,
+      636,
+      317,
+      34
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001818068403325,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1099.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-12T14:45:17.512Z"
+}

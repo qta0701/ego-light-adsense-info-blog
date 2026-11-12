@@ -1,0 +1,54 @@
+[네이버 블로그 제목 후보 3개]
+1. 네이버 회원 탈퇴 방법｜PC·앱 메뉴와 탈퇴 전 확인사항
+2. 네이버 아이디 탈퇴 전 메일·게시물과 재가입 조건 확인
+3. 네이버앱과 PC에서 회원 탈퇴 메뉴 찾는 법
+
+[네이버 모바일 홈판형 제목 후보 3개]
+1. 네이버 탈퇴 전, 남는 게시물부터 확인하세요
+2. 앱을 지워도 계정은 남아요: 탈퇴 메뉴 찾기
+3. 탈퇴한 네이버 아이디는 다시 쓸 수 있을까?
+
+[사용 이미지 정보 및 본문 내 추천 배치 위치]
+1. 이미지 파일명: 03_official-print.png
+   - 실제 파일: publish/03_official-print.png
+   - 원본: raw/print-naver-closure-notes-2-03.png
+   - 화면 설명: 탈퇴 후 개인형 데이터·게시물·재가입 주의사항
+   - 권장 캡션: 탈퇴 후 개인형 데이터·게시물·재가입 주의사항
+   - 배치 위치: ## 1. 탈퇴 전 자료와 게시물 확인 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: 브라우저 인쇄본 발췌
+   - 출처: https://help.naver.com/service/5640/contents/9545?lang=ko&osType=COMMONOS
+   - 확인일: 2026-11-12
+
+2. 이미지 파일명: 01_official-print.png
+   - 실제 파일: publish/01_official-print.png
+   - 원본: raw/print-naver-pc-2-01.png
+   - 화면 설명: 네이버ID 화면의 회원 탈퇴 항목과 공식 주의 문구
+   - 권장 캡션: 네이버ID 화면의 회원 탈퇴 항목과 공식 주의 문구
+   - 배치 위치: ## 2. PC에서 네이버ID 메뉴 열기 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: 브라우저 인쇄본 발췌
+   - 출처: https://help.naver.com/service/5640/contents/1435?osType=PC&lang=ko
+   - 확인일: 2026-11-12
+
+3. 이미지 파일명: 02_official-print.png
+   - 실제 파일: publish/02_official-print.png
+   - 원본: raw/print-naver-mobile-1-02.png
+   - 화면 설명: 네이버앱에서 회원 탈퇴 메뉴로 이동하는 경로
+   - 권장 캡션: 네이버앱에서 회원 탈퇴 메뉴로 이동하는 경로
+   - 배치 위치: ## 3. 네이버앱에서 탈퇴 메뉴 찾기 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: 브라우저 인쇄본 발췌
+   - 출처: https://help.naver.com/service/5630/contents/1788?osType=COMMONOS
+   - 확인일: 2026-11-12
+
+4. 이미지 파일명: google-official-marked.png
+   - 실제 파일: publish/google-official-marked.png
+   - 원본: raw/google-official-20261112.png
+   - 화면 설명: Google 검색에서 실제로 연 공식 결과 · 회원 탈퇴 방법 안내 - 네이버 고객센터
+   - 권장 캡션: Google 검색에서 실제로 연 공식 결과 · 회원 탈퇴 방법 안내 - 네이버 고객센터
+   - 배치 위치: ## 4. 연결 서비스와 재가입 조건 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: ego-browser 실제 캡처에 표식 편집
+   - 출처: https://www.google.com/search?q=%EB%84%A4%EC%9D%B4%EB%B2%84%ED%9A%8C%EC%9B%90%ED%83%88%ED%87%B4%ED%95%98%EB%8A%94%EB%B0%A9%EB%B2%95
+   - 확인일: 2026-11-12

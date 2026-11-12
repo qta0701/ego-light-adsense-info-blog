@@ -1,0 +1,1 @@
+for(const [row,id] of [[51,21],[52,22],[53,23]]) {const t=await taskSpace(id),p=t.page('p1');await p.click('loc=role:button[name="게시"]');console.log('ROW',row,(await p.snapshot()).split('\n').slice(-25).join('\n'));}

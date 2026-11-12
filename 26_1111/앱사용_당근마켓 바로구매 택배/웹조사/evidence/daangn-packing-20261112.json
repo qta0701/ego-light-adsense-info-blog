@@ -1,0 +1,51 @@
+{
+  "row": 48,
+  "keyword": "당근마켓 바로구매 택배",
+  "title": "바로구매",
+  "url": "https://daangn.com/wv/faqs/24607?from_kind=instant_buy",
+  "capturedAt": "2026-11-12T13:35:36.443Z",
+  "method": "ego-browser Page.captureScreenshot fromSurface:true",
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "width": 892,
+    "height": 1566.4000244140625,
+    "scale": 1
+  },
+  "devicePixelRatio": 1.25,
+  "window": {
+    "initial": {
+      "left": 5330,
+      "top": 0,
+      "width": 918,
+      "height": 1696,
+      "windowState": "normal"
+    },
+    "current": {
+      "left": 5330,
+      "top": 0,
+      "width": 918,
+      "height": 1696,
+      "windowState": "normal"
+    }
+  },
+  "pixelSize": {
+    "width": 1115,
+    "height": 1958
+  },
+  "box": [
+    77,
+    168,
+    961,
+    35
+  ],
+  "accountRedactions": [],
+  "file": "raw/daangn-packing-20261112.png",
+  "role": "guide",
+  "sourceId": "S1",
+  "sourceTitle": "바로구매 서비스는 무엇인가요? (택배·포장·취소·정산 공식 도움말) | 당근 고객센터",
+  "targetTitle": "바로구매 택배/포장 방법",
+  "targetUrl": "https://daangn.com/wv/faqs/24607?from_kind=instant_buy",
+  "sourceUrl": "https://daangn.com/wv/faqs/24607?from_kind=instant_buy",
+  "caption": "당근 바로구매 택배 포장 및 발송 안내"
+}

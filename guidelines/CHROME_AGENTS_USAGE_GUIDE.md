@@ -220,7 +220,7 @@ if ego_bridge.is_available():
 - CLI 공개 API를 우선한다. 외부 CDP 포트가 항상 9222라고 가정하지 않는다. 필요하면 SDK의 `page.cdp()`를 사용한다.
 - CDP 호출은 snapshot ref를 무효화할 수 있다. 이후 오래된 ref를 재사용하지 말고 새 snapshot이나 확인된 의미 기반 selector를 쓴다.
 - Google 결과는 새 탭을 열 수 있다. 클릭 반환값·popup 대기·`task.tabs()`로 새 Page를 확인한다.
-- 모바일 에뮬레이션은 라운드·탭 전환 후 PC 크기로 돌아갈 수 있다. 촬영 직전 뷰포트와 실제 이미지 크기를 확인한다. 필요하면 `Emulation.setDeviceMetricsOverride` → 렌더링 프레임 대기 → `Page.captureScreenshot`으로 원본을 저장한다.
+- ego-browser 화면 캡처가 필요하면 현재 TaskSpace의 Page에서 `tools/research_browser.mjs`의 `capture()`를 우선 사용한다. 최소화된 같은 창은 함수가 자동으로 복원한다. 모바일 에뮬레이션은 라운드·탭 전환 후 PC 크기로 돌아갈 수 있으므로 대상 화면에 맞는 뷰포트를 전달하고 실제 PNG 크기를 확인한다. 직접 CDP 복원은 `capture()`를 사용할 수 없을 때만 [웹자료수집.md 7절](웹자료수집.md#ego-taskspace-창-복원과-google-검색-결과-캡처-2026-11-12)에 따른다.
 - 캡처 좌표는 실제 `visualViewport`·배율·PNG 크기를 읽는 `capture()`의 변환값을 사용한다. 배율 차이와 캡처 중 창 크기 변경을 구분하고, 전후 화면이 달라졌으면 다시 관찰한다. 다중 채팅의 캡처는 프로세스 내 큐만으로 조정되지 않으므로 공용 워커·잠금 또는 캡처 구간 분리가 필요하다.
 - smooth scroll·필터 애니메이션·팝업 닫힘을 기다린다. 실제 요소 표시·결과 변경을 대기 조건으로 삼고 변동하는 검색 건수에만 조건을 고정하지 않는다.
 - 관찰한 공식 이미지 URL만 다운로드한다. 공개 이미지의 `page.fetch` CORS 제한에는 문서화된 Node `fetch`를 사용할 수 있으며 포맷·출처를 기록한다.

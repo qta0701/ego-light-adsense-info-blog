@@ -1,0 +1,51 @@
+{
+  "row": 49,
+  "keyword": "당근마켓 안심결제",
+  "title": "고객센터",
+  "url": "https://www.daangn.com/wv/faqs/14009",
+  "capturedAt": "2026-11-12T13:35:44.954Z",
+  "method": "ego-browser Page.captureScreenshot fromSurface:true",
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "width": 876.7999877929688,
+    "height": 1566.4000244140625,
+    "scale": 1
+  },
+  "devicePixelRatio": 1.25,
+  "window": {
+    "initial": {
+      "left": 5330,
+      "top": 0,
+      "width": 918,
+      "height": 1696,
+      "windowState": "normal"
+    },
+    "current": {
+      "left": 5330,
+      "top": 0,
+      "width": 918,
+      "height": 1696,
+      "windowState": "normal"
+    }
+  },
+  "pixelSize": {
+    "width": 1115,
+    "height": 1958
+  },
+  "box": [
+    68,
+    168,
+    961,
+    35
+  ],
+  "accountRedactions": [],
+  "file": "raw/daangn-escrow-20261112.png",
+  "role": "guide",
+  "sourceId": "S1",
+  "sourceTitle": "안심결제 서비스는 무엇인가요? (취소·정산보류·안심보상 공식 도움말) | 당근 고객센터",
+  "targetTitle": "안심결제 서비스는 무엇인가요?",
+  "targetUrl": "https://www.daangn.com/wv/faqs/14009",
+  "sourceUrl": "https://www.daangn.com/wv/faqs/14009",
+  "caption": "당근 고객센터에서 구매확정과 결제대금 전달 방식 확인"
+}

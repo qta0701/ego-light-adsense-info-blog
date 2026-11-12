@@ -1,0 +1,101 @@
+{
+  "spaceId": 29,
+  "checks": [
+    {
+      "label": "normal-surface",
+      "window": {
+        "left": 5330,
+        "top": 0,
+        "width": 918,
+        "height": 1696,
+        "windowState": "normal"
+      },
+      "viewport": {
+        "visibility": "visible",
+        "width": 892,
+        "height": 1566,
+        "dpr": 1.25
+      },
+      "width": 1115,
+      "height": 1958,
+      "bytes": 268344,
+      "elapsedMs": 122
+    },
+    {
+      "label": "minimized-surface",
+      "window": {
+        "left": 5330,
+        "top": 0,
+        "width": 918,
+        "height": 1696,
+        "windowState": "minimized"
+      },
+      "viewport": {
+        "visibility": "visible",
+        "width": 892,
+        "height": 1566,
+        "dpr": 1.25
+      },
+      "error": "Cannot capture a screenshot while the window is minimized.",
+      "elapsedMs": 1
+    },
+    {
+      "label": "minimized-view",
+      "window": {
+        "left": 5330,
+        "top": 0,
+        "width": 918,
+        "height": 1696,
+        "windowState": "minimized"
+      },
+      "viewport": {
+        "visibility": "visible",
+        "width": 892,
+        "height": 1566,
+        "dpr": 1.25
+      },
+      "error": "Cannot capture a screenshot while the window is minimized.",
+      "elapsedMs": 1
+    },
+    {
+      "label": "restored-surface",
+      "window": {
+        "left": 5330,
+        "top": 0,
+        "width": 918,
+        "height": 1696,
+        "windowState": "normal"
+      },
+      "viewport": {
+        "visibility": "visible",
+        "width": 892,
+        "height": 1566,
+        "dpr": 1.25
+      },
+      "width": 1115,
+      "height": 1958,
+      "bytes": 268344,
+      "elapsedMs": 238
+    },
+    {
+      "label": "restored-mobile-emulation",
+      "window": {
+        "left": 5330,
+        "top": 0,
+        "width": 918,
+        "height": 1696,
+        "windowState": "normal"
+      },
+      "viewport": {
+        "visibility": "visible",
+        "width": 980,
+        "height": 2119,
+        "dpr": 1.0000000149011612
+      },
+      "width": 390,
+      "height": 844,
+      "bytes": 99051,
+      "elapsedMs": 120
+    }
+  ]
+}

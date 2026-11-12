@@ -1,0 +1,65 @@
+[네이버 블로그 제목 후보 3개]
+1. 넷플릭스 해지방법｜PC·휴대폰에서 멤버십 종료하기
+2. 넷플릭스 해지 버튼이 없을 때 결제처 확인하는 법
+3. 넷플릭스 구독 취소 후 이용 종료일 확인하기
+
+[네이버 모바일 홈판형 제목 후보 3개]
+1. 넷플릭스 앱을 지웠는데 결제가 계속된다면?
+2. 해지 버튼이 안 보일 때 먼저 볼 곳
+3. 넷플릭스 해지 후 언제까지 볼 수 있을까?
+
+[사용 이미지 정보 및 본문 내 추천 배치 위치]
+1. 이미지 파일명: google-official-marked.png
+   - 실제 파일: publish/google-official-marked.png
+   - 원본: raw/google-official-20261112.png
+   - 화면 설명: Google 검색에서 실제로 연 공식 결과 · 넷플릭스 해지 방법
+   - 권장 캡션: Google 검색에서 실제로 연 공식 결과 · 넷플릭스 해지 방법
+   - 배치 위치: ## 1. 해지 전에 확인할 것 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: ego-browser 실제 캡처에 표식 편집
+   - 출처: https://www.google.com/search?q=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4%20%ED%95%B4%EC%A7%80%EB%B0%A9%EB%B2%95
+   - 확인일: 2026-11-12
+
+2. 이미지 파일명: 01_official_cancel_step1.webp
+   - 실제 파일: publish/01_official_cancel_step1.webp
+   - 원본: raw/official-netflix-407-1.webp
+   - 화면 설명: 멤버십 관리에서 해지 항목 펼치기
+   - 권장 캡션: 멤버십 관리에서 해지 항목 펼치기
+   - 배치 위치: ## 2. 멤버십 관리에서 해지 완료하기 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: 공식 다운로드 이미지
+   - 출처: https://help.netflix.com/ko/node/407
+   - 확인일: 2026-11-11
+
+3. 이미지 파일명: 02_official_cancel_step2.webp
+   - 실제 파일: publish/02_official_cancel_step2.webp
+   - 원본: raw/official-netflix-407-2.webp
+   - 화면 설명: 해지 완료하기 버튼 확인
+   - 권장 캡션: 해지 완료하기 버튼 확인
+   - 배치 위치: ## 2. 멤버십 관리에서 해지 완료하기 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: 공식 다운로드 이미지
+   - 출처: https://help.netflix.com/ko/node/407
+   - 확인일: 2026-11-11
+
+4. 이미지 파일명: 03_official_pause_step1.webp
+   - 실제 파일: publish/03_official_pause_step1.webp
+   - 원본: raw/official-netflix-407-4.webp
+   - 화면 설명: 일시정지 대상 계정의 일시정지 메뉴
+   - 권장 캡션: 일시정지 대상 계정의 일시정지 메뉴
+   - 배치 위치: ## 4. 해지 후 이용 기간과 일시정지 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: 공식 다운로드 이미지
+   - 출처: https://help.netflix.com/ko/node/407
+   - 확인일: 2026-11-11
+
+5. 이미지 파일명: 04_official_pause_step2.webp
+   - 실제 파일: publish/04_official_pause_step2.webp
+   - 원본: raw/official-netflix-407-5.webp
+   - 화면 설명: 한 달 일시정지 옵션 확인
+   - 권장 캡션: 한 달 일시정지 옵션 확인
+   - 배치 위치: ## 4. 해지 후 이용 기간과 일시정지 직후
+   - 배치 이유: 해당 소주제의 확인 대상과 절차를 시각적으로 보여줍니다.
+   - 자료 유형·편집: 공식 다운로드 이미지
+   - 출처: https://help.netflix.com/ko/node/407
+   - 확인일: 2026-11-11

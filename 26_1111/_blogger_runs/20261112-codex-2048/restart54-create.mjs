@@ -1,0 +1,10 @@
+const fs=await import('node:fs/promises');
+const root='Y:/antigravity-project/ego-light-adsense-info-blog';
+const t=await taskSpace(24),p=t.page('p1');
+await p.click('loc=role:button[name="새 글 작성"]');
+await p.waitForURL('**/blog/post/edit/**');
+const url=await p.url(),m=url.match(/\/post\/edit\/(\d+)\/(\d+)/);if(!m)throw Error('post ID missing');
+const s={row:54,keyword:'타오바오 탈퇴 방법',blogId:m[1],postId:m[2],editorUrl:url,status:'created',spaceId:24,createdAt:new Date().toISOString(),imageCounts:{uploaded:0,excluded:1,replaced:0}};
+const file=`${root}/26_1111/앱사용_타오바오 탈퇴 방법/웹조사/evidence/blogger-state.json`;
+await fs.writeFile(file,JSON.stringify(s,null,2));
+console.log(s);await p.waitForSelector('loc=css:input[aria-label="제목"]');console.log(await p.snapshot());

@@ -28,6 +28,7 @@
 - 연결된 정식 API/도구로 충분한 저장소·시트 작업은 해당 도구를 우선한다.
 - ego 웹조사 본문은 `tools/research_observe.mjs`의 `observePage`로 로컬 저장하고 기본 1,500자·링크 5개만 반환한다. 내용이 같으면 본문 재출력을 생략한다. 추가 읽기는 `readPageEvidence`의 offset 구간을 사용한다. 저장본을 현재 조작 상태로 간주하지 않는다.
 - 한 페이지의 근거가 확보된 작업과 최종 확인을 한 라운드로 묶고, 필요한 중간 판단은 유지한다. 서로 다른 도구의 refs를 섞지 않는다. 스크린샷은 결과물과 시각 검수에 필요할 때 사용한다.
+- ego-browser 화면 캡처가 필요하면 현재 TaskSpace의 Page에서 `tools/research_browser.mjs`의 `capture()`를 우선 사용한다. 최소화된 같은 창은 함수가 자동으로 복원한다. 직접 CDP 복원은 `capture()`를 사용할 수 없을 때만 [웹자료수집.md 7절](../guidelines/웹자료수집.md#ego-taskspace-창-복원과-google-검색-결과-캡처-2026-11-12)에 따른다.
 - `EgoLiteBridge`는 레거시 외부 CDP 어댑터다. 포트가 열렸다는 사실만으로 ego·로그인 세션·TaskSpace 격리를 검증했다고 처리하지 않는다.
 
 상세 기준: `guidelines/CHROME_AGENTS_USAGE_GUIDE.md` 3절, `guidelines/AGENT_DESKTOP_GUIDE.md`, `guidelines/웹자료수집.md` 7절.

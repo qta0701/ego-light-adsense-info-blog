@@ -1,0 +1,2 @@
+const fs=await import('node:fs/promises');const file='Y:/antigravity-project/ego-light-adsense-info-blog/26_1111/_blogger_runs/20261112-codex-2048/spaces.json';const entries=JSON.parse(await fs.readFile(file,'utf8'));
+for(const item of entries){const t=await taskSpace(item.spaceId);await t.finish({keep:[]});item.finishedAt=new Date().toISOString();item.finished=true;await fs.writeFile(file,JSON.stringify(entries,null,2));console.log(item);}

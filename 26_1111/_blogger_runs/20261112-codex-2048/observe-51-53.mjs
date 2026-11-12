@@ -1,0 +1,1 @@
+for(const [row,id] of [[51,21],[52,22],[53,23]]) {const t=await taskSpace(id),p=t.page('p1'); console.log('ROW',row,'URL',await p.url(),await p.evaluate(()=>({body:document.body.innerText.slice(-4000),items:[...document.querySelectorAll('[role=listitem]')].map(e=>({text:e.innerText.slice(0,300),edit:e.querySelector('a[href*="/blog/post/edit/"]')?.href}))})));}

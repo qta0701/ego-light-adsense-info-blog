@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import {pool,inside,startBatch,finishJob,capture,pngSize,screenshotGeometry} from './research_browser.mjs';
+import {pool,inside,startBatch,finishJob,capture,pngSize,screenshotGeometry,ensureSheetsMenuWidth} from './research_browser.mjs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {pathToFileURL,fileURLToPath} from 'node:url';
@@ -37,6 +37,20 @@ assert.throws(()=>screenshotGeometry(normal,{...normal,url:'https://other.exampl
 assert.throws(()=>screenshotGeometry(normal,{...normal,targets:[[101,100,200,50]]},{width:1100,height:900}),/changed/);
 assert.throws(()=>screenshotGeometry(normal,normal,{width:1100,height:700}),/aspect/);
 assert.throws(()=>pngSize(Buffer.from('invalid')),/PNG/);
+let menuWidth=888, menuWindowWidth=915;
+const menuCalls=[];
+const menuPage={
+  cdp:async(method,params)=>{
+    menuCalls.push([method,params]);
+    if(method==='Browser.getWindowForTarget')return {windowId:7,bounds:{windowState:'normal',width:menuWindowWidth}};
+    if(method==='Emulation.setDeviceMetricsOverride')menuWidth=params.width;
+  },
+  evaluate:async(fn)=>fn.toString().includes('requestAnimationFrame')?true:{width:menuWidth,height:900,outerWidth:menuWindowWidth}
+};
+assert.equal((await ensureSheetsMenuWidth(menuPage)).mode,'emulated');
+assert.equal(menuWidth,2150);
+assert.equal(menuCalls.at(-1)[0],'Emulation.setDeviceMetricsOverride');
+await assert.rejects(ensureSheetsMenuWidth(menuPage,999),/Invalid menu width/);
 const relative='.test-research-browser-'+randomUUID(), temp=inside(root,relative);
 const previous=globalThis.taskSpace, originalLog=console.log;
 let spaces=0, navigations=0, finishes=0;
@@ -46,14 +60,42 @@ try{
   // Mock CDP raster header: exercise capture's CSS-to-PNG contract and wx guard.
   const png=Buffer.alloc(24);Buffer.from([137,80,78,71,13,10,26,10]).copy(png);png.write('IHDR',12);png.writeUInt32BE(1100,16);png.writeUInt32BE(900,20);
   let states=0;
-  const mockPage={cdp:async method=>method==='Page.captureScreenshot'?{data:png.toString('base64')}:undefined,
-    evaluate:async(fn,arg)=>arg?zoomed:true};
+  const cdpCalls=[];
+  let windowState='normal', restoreWindow=true;
+  const mockPage={
+    cdp:async(method,params)=>{
+      cdpCalls.push([method,params]);
+      if(method==='Browser.getWindowForTarget')return {windowId:42,bounds:{windowState}};
+      if(method==='Browser.setWindowBounds'&&restoreWindow)windowState=params.bounds.windowState;
+      if(method==='Page.captureScreenshot')return {data:png.toString('base64')};
+    },
+    evaluate:async(fn,arg)=>arg?zoomed:true
+  };
   const captureFolder=relative+'/capture';await fs.mkdir(path.join(temp,'capture'));
   await fs.writeFile(path.join(temp,'capture/research.json'),'{}');
   const captured=await capture(mockPage,captureFolder,'zoom',[],{width:1100,height:900});
   assert.deepEqual(captured.boxes,[[110,110,220,56]]);
+  assert.deepEqual(cdpCalls.map(([method])=>method),[
+    'Browser.getWindowForTarget','Emulation.setDeviceMetricsOverride','Page.captureScreenshot'
+  ]);
   const saved=JSON.parse(await fs.readFile(path.join(temp,'capture/evidence/zoom.json')));
   assert.equal(saved.coordinateSpace,'png-pixels');assert.equal(saved.width,1000);assert.equal(saved.pixelSize.width,1100);
+  cdpCalls.length=0;windowState='minimized';
+  const restored=await capture(mockPage,captureFolder,'restored',[],{width:1100,height:900});
+  assert.deepEqual(restored.boxes,captured.boxes);
+  assert.deepEqual(cdpCalls.slice(0,3),[
+    ['Browser.getWindowForTarget',{}],
+    ['Browser.setWindowBounds',{windowId:42,bounds:{windowState:'normal'}}],
+    ['Browser.getWindowForTarget',{}]
+  ]);
+  assert.deepEqual(cdpCalls.slice(3).map(([method])=>method),[
+    'Emulation.setDeviceMetricsOverride','Page.captureScreenshot'
+  ]);
+  cdpCalls.length=0;windowState='minimized';restoreWindow=false;
+  await assert.rejects(capture(mockPage,captureFolder,'still-minimized'),/Could not restore/);
+  assert.equal(cdpCalls.length,3);
+  await assert.rejects(fs.stat(path.join(temp,'capture/raw/still-minimized.png')),/ENOENT/);
+  windowState='normal';restoreWindow=true;
   await assert.rejects(capture(mockPage,captureFolder,'zoom'),/EEXIST/);
   const unstable={...mockPage,evaluate:async(fn,arg)=>arg?(states++===0?zoomed:{...zoomed,scrollY:10}):true};
   await assert.rejects(capture(unstable,captureFolder,'moving'),/changed/);
@@ -94,4 +136,4 @@ try{
   if(path.dirname(path.resolve(temp))!==path.resolve(root)||!path.basename(temp).startsWith('.test-research-browser-'))throw Error('Unsafe cleanup');
   await fs.rm(temp,{recursive:true,force:true});
 }
-console.log('PASS: concurrency, path containment, isolated spaces, resume, queued wave, artifact integrity, finish once, zoom/DPI/mobile/scrollbar coordinates, capture metadata, motion rejection, overwrite protection');
+console.log('PASS: concurrency, path containment, isolated spaces, resume, queued wave, artifact integrity, finish once, window restoration, zoom/DPI/mobile/scrollbar coordinates, capture metadata, motion rejection, overwrite protection');

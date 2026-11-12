@@ -18,6 +18,26 @@ export async function pool(items,limit,worker){
     while(next<items.length){const i=next++;results[i]=await worker(items[i],i);}
   }));return results;
 }
+
+// Keep the same TaskSpace window; CDP may be constrained by the window manager.
+// Emulation is scoped to the current CDP session, so call again in each round.
+export async function ensureSheetsMenuWidth(page,width=2150){
+  if(!Number.isInteger(width)||width<1000||width>4000)throw Error('Invalid menu width');
+  const initial=await page.cdp('Browser.getWindowForTarget',{});
+  if(initial.bounds.windowState!=='normal'){
+    await page.cdp('Browser.setWindowBounds',{windowId:initial.windowId,bounds:{windowState:'normal'}});
+  }
+  await page.cdp('Browser.setWindowBounds',{windowId:initial.windowId,bounds:{width}});
+  await page.evaluate(()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(()=>r(true)))));
+  const actual=await page.cdp('Browser.getWindowForTarget',{});
+  if(actual.windowId!==initial.windowId)throw Error('TaskSpace window changed');
+  let viewport=await page.evaluate(()=>({width:innerWidth,height:innerHeight,outerWidth}));
+  if(viewport.width>=width)return {mode:'window',requestedWidth:width,bounds:actual.bounds,viewport};
+  await page.cdp('Emulation.setDeviceMetricsOverride',{width,height:Math.max(600,viewport.height),deviceScaleFactor:1,mobile:false});
+  viewport=await page.evaluate(()=>({width:innerWidth,height:innerHeight,outerWidth}));
+  if(viewport.width!==width)throw Error('Could not set Sheets menu viewport width');
+  return {mode:'emulated',requestedWidth:width,bounds:actual.bounds,viewport};
+}
 export async function startBatch(manifestUrl){
   const manifestPath=fileURLToPath(manifestUrl), manifest=await read(manifestPath);
   const runDir=path.dirname(manifestPath), lock=path.join(runDir,'start.lock');
@@ -116,6 +136,14 @@ export function capture(page,folder,name,selectors=[],viewport={width:390,height
     const research=await read(path.join(dir,'research.json'));
     const limit=research.multiIntent===true&&research.exceptionReason?.trim()?14:12;
     if((await fs.readdir(raw)).filter(x=>/\.(png|jpg|webp)$/i.test(x)).length>=limit)throw Error(`Capture budget ${limit} reached; curate existing evidence`);
+    const {windowId,bounds}=await page.cdp('Browser.getWindowForTarget',{});
+    if(bounds.windowState==='minimized'){
+      await page.cdp('Browser.setWindowBounds',{windowId,bounds:{windowState:'normal'}});
+      const restored=await page.cdp('Browser.getWindowForTarget',{});
+      if(restored.windowId!==windowId||restored.bounds.windowState==='minimized'){
+        throw Error('Could not restore the same TaskSpace window before capture');
+      }
+    }
     await page.cdp('Emulation.setDeviceMetricsOverride',{...viewport,deviceScaleFactor:1,mobile:viewport.width<600});
     await page.evaluate(()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(()=>r(true)))));
     const meta=await page.evaluate(captureState,selectors);

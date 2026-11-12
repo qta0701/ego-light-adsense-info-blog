@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0%20%EC%B9%B4%EB%93%9C%20%EA%B2%B0%EC%A0%9C",
+  "title": "번개장터 카드 결제 - Google 검색",
+  "width": 1100,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1084.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      104.4000015258789,
+      636.2000122070312,
+      260.5375061035156,
+      33
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 900
+  },
+  "boxes": [
+    [
+      104,
+      636,
+      262,
+      34
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001818068403325,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1099.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-12T15:02:29.955Z"
+}

@@ -1,0 +1,54 @@
+{
+  "row": 45,
+  "keyword": "카카오톡 대화내용 복구",
+  "title": "카카오톡 대화내용 복구 - Google 검색",
+  "url": "https://www.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%20%EB%8C%80%ED%99%94%EB%82%B4%EC%9A%A9%20%EB%B3%B5%EA%B5%AC",
+  "capturedAt": "2026-11-12T13:38:08.134Z",
+  "method": "ego-browser Page.captureScreenshot fromSurface:true",
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "width": 876.7999877929688,
+    "height": 1566.4000244140625,
+    "scale": 1
+  },
+  "devicePixelRatio": 1.25,
+  "window": {
+    "initial": {
+      "left": 5330,
+      "top": 0,
+      "width": 918,
+      "height": 1696,
+      "windowState": "normal"
+    },
+    "current": {
+      "left": 5330,
+      "top": 0,
+      "width": 918,
+      "height": 1696,
+      "windowState": "normal"
+    }
+  },
+  "pixelSize": {
+    "width": 1115,
+    "height": 1958
+  },
+  "box": [
+    105,
+    958,
+    395,
+    42
+  ],
+  "accountRedactions": [],
+  "file": "raw/google-official-20261112.png",
+  "role": "search",
+  "query": "카카오톡 대화내용 복구",
+  "sourceId": "S1",
+  "sourceTitle": "대화를 백업하고 복원하려면 어떻게 해야 하나요? | kakao 고객센터",
+  "targetTitle": "대화 백업·복원 - 고객센터 - 카카오",
+  "sourceUrl": "https://cs.kakao.com/helps_html/1073209313",
+  "caption": "Google 검색에서 실제로 연 공식 결과 · 대화 백업·복원 - 고객센터 - 카카오",
+  "targetUrl": "https://cs.kakao.com/helps_html/1073209313",
+  "targetPageTitle": "대화를 백업하고 복원하려면 어떻게 해야 하나요? | kakao 고객센터",
+  "verifiedBy": "clicked matching Google result"
+}

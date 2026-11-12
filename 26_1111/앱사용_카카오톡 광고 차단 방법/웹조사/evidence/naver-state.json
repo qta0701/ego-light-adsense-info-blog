@@ -1,0 +1,72 @@
+{
+  "status": "scheduled",
+  "verified": true,
+  "tab": "앱사용",
+  "row": 44,
+  "keyword": "카카오톡 광고 차단 방법",
+  "account": "supportimes001",
+  "profileName": "순분",
+  "spaceId": 33,
+  "promotionUrl": "https://app.supportimes.com/2026/11/blog-post_608.html",
+  "source": "26_1111/앱사용_카카오톡 광고 차단 방법/웹조사/publish/앱사용_카카오톡 광고 차단 방법_네이버블로그.md",
+  "sourceSha256": "12e6820947cac65ee4168e95cfedb62742bc4b2934c2d9f0e6d04e95b2f3569c",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1111/앱사용_카카오톡 광고 차단 방법/웹조사/publish/google-official-marked.png",
+      "caption": "Google 검색에서 실제로 연 공식 결과 · 카카오 맞춤형 광고 안내",
+      "sha256": "5d62607461adf2967ab045f83ebd76a64d66f979ac8e36994e0e7a18c1175f61"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1111/앱사용_카카오톡 광고 차단 방법/웹조사/publish/01_official-print.png",
+      "caption": "카카오 비즈보드 광고와 노출 빈도 조정 안내",
+      "sha256": "a6c08519f47cd0e57d07f06d1ed64cdfe2766d39f31f69e227ca5a5c5d04ded9"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1111/앱사용_카카오톡 광고 차단 방법/웹조사/publish/02_official-print.png",
+      "caption": "Android·iOS의 기기 식별자 설정 안내",
+      "sha256": "392c419d90ba3a66131f23629e035961af17793523be52e0782a4d7bb747c2fe"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1111/앱사용_카카오톡 광고 차단 방법/웹조사/publish/03_official-print.png",
+      "caption": "카카오 맞춤형 광고의 동의·거부 선택",
+      "sha256": "74f41ae42c5cee7fb1e93f17100e8b1fa9db61545fcc32b9ffabc9c3a1696782"
+    }
+  ],
+  "links": [
+    {
+      "marker": "NAVEROG1",
+      "url": "https://app.supportimes.com/2026/11/blog-post_608.html"
+    },
+    {
+      "marker": "NAVEROG2",
+      "url": "https://app.supportimes.com/2026/11/blog-post_608.html"
+    }
+  ],
+  "plannedMode": "current",
+  "plannedPublicationTime": "2026-11-13T00:53:13.169747+09:00",
+  "publicationTime": "2026-11-13T09:00:00+09:00",
+  "publicUrl": null,
+  "sheetsUpdated": true,
+  "recordedAt": "2026-11-13T01:02:27.593030+09:00",
+  "lastSuccessfulStage": "계정 및 공개 중복 검색, 로컬 claim, 원고·이미지 해시 및 변환 CTA 검증; 편집기 진입",
+  "error": "소유자를 확인할 수 없는 작성 중인 글 복구 안내가 편집기를 가림",
+  "recoveryPromptTime": "13일 오전 1시 0분",
+  "draftStatus": "제목·본문 미입력; 복구 안내 미선택",
+  "resume": "동일 Space에서 기존 작성 내용 소유자와 보존 방법을 확인한 뒤 안내를 처리하고 해당 행의 빈 편집기부터 계속",
+  "claimReceipt": ".session/naver-20261113/claim-44.json",
+  "spaceStatus": "finished",
+  "publicationTimeSource": "confirmed_reservation_list",
+  "postId": "224475048176",
+  "verification": "예약 목록 제목·계정·시각 및 저장된 글 서식 검수",
+  "savedStyleAudit": "passed",
+  "savedStyleAuditPath": ".session/naver-20261113/saved-audit-44.json",
+  "verifiedAt": "2026-11-13T01:37:31.393759+09:00",
+  "sheetStatus": "verified",
+  "sheetsVerified": true,
+  "ledgerRow": 223,
+  "claimStatus": "released"
+}

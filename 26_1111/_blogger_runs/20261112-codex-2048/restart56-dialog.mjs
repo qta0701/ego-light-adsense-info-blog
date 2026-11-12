@@ -1,0 +1,1 @@
+const p=(await taskSpace(26)).page('p1');console.log((await p.snapshot()).split('\n').filter(x=>/container "변경사항/.test(x)));await p.click('loc=role:button[name="게시"]');console.log((await p.snapshot({scope:'full_page'})).split('\n').slice(-12).join('\n'));

@@ -61,6 +61,8 @@
 1. **사전 준비**:
    - 작업을 시작하기 전 `.antigravity/rules.md`, `guidelines/CHROME_AGENTS_USAGE_GUIDE.md`, `guidelines/크롬에이전트_활용법.md`, `guidelines/AGENT_DESKTOP_GUIDE.md`를 확인한다.
    - `ego-browser skill`을 끝 표시(`[ego-browser:skill] end of guide`)까지 읽고 공개 SDK를 사용한다.
+   - Google Sheets의 사용자 지정 메뉴가 좁은 창에서 가려지면 같은 TaskSpace의 Page에서 [웹자료수집.md 8.1절](웹자료수집.md#81-팝업-조회-및-목록-저장)의 `ensureSheetsMenuWidth(page)`를 호출한다. 실제 창 2,150px 요청이 제한되면 같은 SDK 라운드에서 2,150 CSS px 뷰포트로 대체하고, 반환된 적용 방식과 새 snapshot을 확인한 후 메뉴를 조작한다. 새 라운드마다 다시 호출하며 시트 셀 확인 자체는 연결 도구/API를 우선한다.
+   - ego-browser 화면 캡처가 필요하면 현재 TaskSpace의 Page에서 `tools/research_browser.mjs`의 `capture()`를 우선 사용한다. 최소화된 같은 창은 함수가 자동으로 복원한다. 직접 CDP 복원은 `capture()`를 사용할 수 없을 때만 [웹자료수집.md 7절](웹자료수집.md#ego-taskspace-창-복원과-google-검색-결과-캡처-2026-11-12)에 따른다.
 2. **탐색 대상 범위에 따른 Space 유동적 배분**:
    - **특정 소수 카테고리 지정 시 (1~7개 내외)**:
      - 2~3개의 Space(`kw-space-1`, `kw-space-2`, `kw-space-3`)로 카테고리 헤더열을 분배한다.

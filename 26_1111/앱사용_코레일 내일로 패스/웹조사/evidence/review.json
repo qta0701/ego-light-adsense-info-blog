@@ -5,14 +5,14 @@
   "folder": "26_1111/앱사용_코레일 내일로 패스/웹조사",
   "markdown": "26_1111/앱사용_코레일 내일로 패스/웹조사/publish/앱사용_코레일 내일로 패스_웹조사결과.md",
   "bodyChars": 3859,
-  "rawImages": 3,
-  "publishedImages": 3,
+  "rawImages": 4,
+  "publishedImages": 4,
   "imageKinds": {
-    "브라우저 인쇄본 발췌": 3
+    "브라우저 인쇄본 발췌": 3,
+    "ego-browser 실제 캡처에 표식 편집": 1
   },
   "automaticValidationErrors": [
-    "안내 4~8장(복합 예외 9장), 참고 최대 3장",
-    "검색결과 이미지 검색어당 1장 필요; 발행용 기본 최대 12장, 복합 예외 최대 14장"
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장"
   ],
   "imageSizes": {
     "01_official-print.png": [
@@ -26,24 +26,37 @@
     "03_official-print.png": [
       1028,
       769
+    ],
+    "google-official-marked.png": [
+      825,
+      482
     ]
   },
   "artifactHashes": {
+    "publish/google-official-marked.png": "e7b61b9fb9bb772fca7801525461bb788abf31fd98332e81de955fe11fb2b671",
     "publish/01_official-print.png": "da711cf382270069982e8eb9e9608068a79312c147edec4b6588e1f81408dadc",
     "publish/02_official-print.png": "04b5fe374386303749ea06a9e2e171ec89f89a8e1e3c785ef7fb8cb996044017",
     "publish/03_official-print.png": "3c3c32832104b5d9c475047e369a0956cb9729cde605149c6f8c5ffa624e5338",
-    "publish/앱사용_코레일 내일로 패스_웹조사결과.md": "8171238de9d06e0deedb762e06de20fef42addc4222c7f3b747a5dc42023e274",
-    "publish/index.json": "9e7da2f4323134a3f38ced2b3c333035f78b83f12aa9deda5f30d3024f98f50d"
+    "publish/앱사용_코레일 내일로 패스_웹조사결과.md": "b5a30ed6a4a785fd8e7dcc3c96ac4dd8eddda24e6167f943b627275088600925",
+    "publish/index.json": "fa5dbe05e3e15712c46eec0e6e3692b1ddbd9853189a11464542d0df2caca8cf"
   },
   "sourceImageHashes": {
+    "raw/google-official-20261112.png": "15d0ee3be5a60a87b0fbfac7bbae43629f89ee253cf12402c33a7e15deb5ddc6",
     "raw/print-korail-pass-2-01.png": "39b2999a3eced53144b14e14d36cd2b96d05a6bf70b77a8b439e53dcf09ff968",
     "raw/print-korail-pass-2-02.png": "62cd2ca27b7701a3f939de81e8ded835f9085711504943f03a4b0466228473e9",
     "raw/print-korail-pass-3-03.png": "d22e8c6015329da2c104d0803ff07e506c8b967f5d9b16bd11308f2994555892"
   },
-  "researchSha256": "bd7afdfd383f180adb9311f93d129f535f843d9168384e35bc41610f3471e661",
+  "researchSha256": "a5cc00fabeb73b56c887a9d76a6cfb4d3f251480613f38913c492c5dbb568d99",
   "checkedOn": "2026-11-12",
   "visualReviewed": true,
-  "markedGoogleSearch": false,
+  "markedGoogleSearch": true,
   "status": "complete_with_alternative_review",
-  "limitations": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다."
+  "limitations": "2026-11-12에 실제 Google 검색 캡처를 추가했습니다. 기존 공식 예시 이미지와 인쇄본 발췌도 함께 제공합니다.",
+  "captureSupplement": {
+    "date": "2026-11-12",
+    "publishedFiles": [
+      "google-official-marked.png"
+    ],
+    "visualReviewed": true
+  }
 }

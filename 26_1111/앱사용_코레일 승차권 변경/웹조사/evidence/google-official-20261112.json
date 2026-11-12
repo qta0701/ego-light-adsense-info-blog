@@ -1,0 +1,61 @@
+{
+  "row": 47,
+  "keyword": "코레일 승차권 변경",
+  "title": "코레일 승차권 변경 - Google 검색",
+  "url": "https://www.google.com/search?q=%EC%BD%94%EB%A0%88%EC%9D%BC%20%EC%8A%B9%EC%B0%A8%EA%B6%8C%20%EB%B3%80%EA%B2%BD",
+  "capturedAt": "2026-11-12T13:38:16.830Z",
+  "method": "ego-browser Page.captureScreenshot fromSurface:true",
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "width": 876.7999877929688,
+    "height": 1566.4000244140625,
+    "scale": 1
+  },
+  "devicePixelRatio": 1.25,
+  "window": {
+    "initial": {
+      "left": 5330,
+      "top": 0,
+      "width": 918,
+      "height": 1696,
+      "windowState": "normal"
+    },
+    "current": {
+      "left": 5330,
+      "top": 0,
+      "width": 918,
+      "height": 1696,
+      "windowState": "normal"
+    }
+  },
+  "pixelSize": {
+    "width": 1115,
+    "height": 1958
+  },
+  "box": [
+    105,
+    1556,
+    487,
+    42
+  ],
+  "accountRedactions": [
+    [
+      1021,
+      39,
+      51,
+      51
+    ]
+  ],
+  "file": "raw/google-official-20261112.png",
+  "role": "search",
+  "query": "코레일 승차권 변경",
+  "sourceId": "S1",
+  "sourceTitle": "코레일, ‘코레일톡’ 승차권 변경 서비스 확대 | 한국철도공사(KORAIL) 공식 보도자료",
+  "targetTitle": "코레일, '코레일톡' 승차권 변경 서비스 확대",
+  "sourceUrl": "https://info.korail.com/info/selectBbsNttView.do?key=911&bbsNo=199&nttNo=26163&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+  "caption": "Google 검색에서 실제로 연 공식 결과 · 코레일, '코레일톡' 승차권 변경 서비스 확대",
+  "targetUrl": "https://info.korail.com/info/selectBbsNttView.do?key=911&bbsNo=199&nttNo=26163&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+  "targetPageTitle": "",
+  "verifiedBy": "clicked matching Google result"
+}

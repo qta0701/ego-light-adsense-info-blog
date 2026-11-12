@@ -1,0 +1,2 @@
+const p=(await taskSpace(27)).page('p1');
+console.log(JSON.stringify(await p.evaluate(()=>{const a=[...document.querySelectorAll('a')].find(e=>new URL(e.href).pathname==='/blog/post/edit/7162964317827704236/5702284435751296131'),item=a?.parentElement;return {url:item?.querySelector('a[aria-label="보기"]')?.href,status:item?.innerText.slice(0,350),time:item?.querySelector('[data-tooltip*="게시일"]')?.getAttribute('data-tooltip'),links:[...(item?.querySelectorAll('a')||[])].map(e=>({label:e.getAttribute('aria-label'),href:e.href}))}})));

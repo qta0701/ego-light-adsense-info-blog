@@ -54,6 +54,80 @@
   ],
   "images": [
     {
+      "row": 49,
+      "keyword": "당근마켓 안심결제",
+      "title": "당근마켓 안심결제 - Google 검색",
+      "url": "https://www.google.com/search?q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%20%EC%95%88%EC%8B%AC%EA%B2%B0%EC%A0%9C",
+      "capturedAt": "2026-11-12T13:38:30.113Z",
+      "method": "ego-browser Page.captureScreenshot fromSurface:true",
+      "viewport": {
+        "x": 0,
+        "y": 0,
+        "width": 876.7999877929688,
+        "height": 1566.4000244140625,
+        "scale": 1
+      },
+      "devicePixelRatio": 1.25,
+      "window": {
+        "initial": {
+          "left": 5330,
+          "top": 0,
+          "width": 918,
+          "height": 1696,
+          "windowState": "normal"
+        },
+        "current": {
+          "left": 5330,
+          "top": 0,
+          "width": 918,
+          "height": 1696,
+          "windowState": "normal"
+        }
+      },
+      "pixelSize": {
+        "width": 1115,
+        "height": 1958
+      },
+      "box": [
+        105,
+        795,
+        470,
+        42
+      ],
+      "accountRedactions": [
+        [
+          1021,
+          39,
+          51,
+          51
+        ]
+      ],
+      "file": "raw/google-official-20261112.png",
+      "role": "search",
+      "query": "당근마켓 안심결제",
+      "sourceId": "S2",
+      "sourceTitle": "안심결제 - 당근페이로 안전하게 거래하기 | 당근페이 공식 안내",
+      "targetTitle": "안심결제 - 당근페이로 안전하게 거래하기",
+      "sourceUrl": "https://link.daangnpay.com/escrow/about",
+      "caption": "Google 검색에서 실제로 연 공식 결과 · 안심결제 - 당근페이로 안전하게 거래하기",
+      "targetUrl": "https://link.daangnpay.com/escrow/about",
+      "targetPageTitle": "안심결제 - 당근페이로 안전하게 거래하기",
+      "verifiedBy": "clicked matching Google result",
+      "publishFile": "google-official-marked.png",
+      "kind": "ego-browser 실제 캡처에 표식 편집",
+      "checkedAt": "2026-11-12",
+      "alt": "Google 검색에서 실제로 연 공식 결과 · 안심결제 - 당근페이로 안전하게 거래하기",
+      "boxes": [
+        [
+          105,
+          795,
+          470,
+          42
+        ]
+      ],
+      "evidence": "evidence/google-official-20261112.json"
+    },
+    {
       "role": "reference",
       "file": "raw/official-03-escrow-app.jpg",
       "publishFile": "01_official-03-escrow-app.jpg",
@@ -77,6 +151,70 @@
       "alt": "구매자와 판매자의 안심결제 거래 흐름",
       "kind": "공식 다운로드 이미지",
       "checkedAt": "2026-11-11"
+    },
+    {
+      "row": 49,
+      "keyword": "당근마켓 안심결제",
+      "title": "고객센터",
+      "url": "https://www.daangn.com/wv/faqs/14009",
+      "capturedAt": "2026-11-12T13:35:44.954Z",
+      "method": "ego-browser Page.captureScreenshot fromSurface:true",
+      "viewport": {
+        "x": 0,
+        "y": 0,
+        "width": 876.7999877929688,
+        "height": 1566.4000244140625,
+        "scale": 1
+      },
+      "devicePixelRatio": 1.25,
+      "window": {
+        "initial": {
+          "left": 5330,
+          "top": 0,
+          "width": 918,
+          "height": 1696,
+          "windowState": "normal"
+        },
+        "current": {
+          "left": 5330,
+          "top": 0,
+          "width": 918,
+          "height": 1696,
+          "windowState": "normal"
+        }
+      },
+      "pixelSize": {
+        "width": 1115,
+        "height": 1958
+      },
+      "box": [
+        68,
+        168,
+        961,
+        35
+      ],
+      "accountRedactions": [],
+      "file": "raw/daangn-escrow-20261112.png",
+      "role": "guide",
+      "sourceId": "S1",
+      "sourceTitle": "고객센터 · 당근 고객센터에서 구매확정과 결제대금 전달 방식 확인",
+      "targetTitle": "안심결제 서비스는 무엇인가요?",
+      "targetUrl": "https://www.daangn.com/wv/faqs/14009",
+      "sourceUrl": "https://www.daangn.com/wv/faqs/14009",
+      "caption": "당근 고객센터에서 구매확정과 결제대금 전달 방식 확인",
+      "publishFile": "daangn-escrow-marked.png",
+      "kind": "ego-browser 실제 캡처에 표식 편집",
+      "checkedAt": "2026-11-12",
+      "alt": "당근 고객센터에서 구매확정과 결제대금 전달 방식 확인",
+      "boxes": [
+        [
+          68,
+          168,
+          961,
+          35
+        ]
+      ],
+      "evidence": "evidence/daangn-escrow-20261112.json"
     }
   ],
   "limits": {
@@ -86,6 +224,12 @@
     "referenceMax": 3,
     "rawMax": 12
   },
-  "exceptionReason": "Google 검색 결과의 화면 캡처가 타임아웃되어 결과 링크의 빨간 표식 이미지는 확보하지 못했습니다. 공식 안내의 원본 이미지 또는 브라우저 인쇄본 발췌를 첨부합니다.",
-  "visualReviewed": false
+  "exceptionReason": "2026-11-12에 실제 Google 검색 캡처를 추가했습니다. 기존 공식 예시 이미지와 인쇄본 발췌도 함께 제공합니다.",
+  "visualReviewed": false,
+  "searchCaptureQueries": [
+    "당근마켓 안심결제"
+  ],
+  "initialQueries": [
+    "당근마켓 안심결제"
+  ]
 }

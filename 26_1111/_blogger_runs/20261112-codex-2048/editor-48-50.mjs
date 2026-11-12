@@ -1,0 +1,1 @@
+for(const [row,id] of [[48,18],[49,19],[50,20]]){const t=await taskSpace(id),p=t.page('p1');await p.waitForSelector('loc=css:input[aria-label="제목"]');console.log('ROW',row,(await p.snapshot()).split('\n').slice(0,115).join('\n'));}
