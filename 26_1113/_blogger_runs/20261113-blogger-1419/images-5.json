@@ -1,0 +1,338 @@
+{
+  "order": 5,
+  "name": "노하우_코레일 승차권 조회",
+  "at": "2026-11-13T05:24:30.339Z",
+  "htmlPath": "Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/노하우_코레일 승차권 조회/웹조사/publish/노하우_코레일 승차권 조회_html콘텐츠.html",
+  "txtPath": "Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/노하우_코레일 승차권 조회/웹조사/publish/노하우_코레일 승차권 조회_제목메타디스크립션.txt",
+  "originalCount": 5,
+  "images": [
+    {
+      "id": "IMG_01",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/01_01_search.png",
+      "raw": "26_1113/노하우_코레일 승차권 조회/웹조사/raw/01_search.png",
+      "rawExists": true,
+      "file": {
+        "bytes": 15828,
+        "width": 730,
+        "height": 170,
+        "sha256": "17f05066723244c4516af8096f2d0b19e937df78e659979fb28c8c988a13488b"
+      },
+      "error": null,
+      "tokenCount": 1,
+      "htmlSlot": true,
+      "alt": "코레일 승차권 확인 로그인 공식 검색 결과",
+      "caption": "검색 결과에서 공식 코레일 주소를 확인합니다. 2026년 11월 13일 검색 화면입니다.",
+      "evidence": "S1~S3 관련 화면 / Google 검색 결과 / https://www.google.com/search?q=%EC%BD%94%EB%A0%88%EC%9D%BC%20%EC%8A%B9%EC%B0%A8%EA%B6%8C%20%EC%A1%B0%ED%9A%8C / 2026-11-13",
+      "edit": "공식 결과 제목과 주소에 빨간 테두리; 원본에서 자름",
+      "privacy": "개인정보 없음, 표식 및 화면 내용을 확인함. 모바일에서는 작은 화면 문구를 본문으로도 제공."
+    },
+    {
+      "id": "IMG_02",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/blogger-images/08_main_entry_marked.png",
+      "raw": "26_1113/노하우_코레일 승차권 조회/웹조사/raw/08_main_entry.png",
+      "rawExists": true,
+      "file": {
+        "bytes": 51678,
+        "width": 325,
+        "height": 310,
+        "sha256": "1ab7ca4b1c065921d2df1e12c9adff4c5924fb5938619779a7ec084603993dc8"
+      },
+      "error": null,
+      "tokenCount": 1,
+      "htmlSlot": true,
+      "alt": "코레일 승차권예매 메인 바로가기의 승차권 확인 메뉴",
+      "caption": "메인 화면의 승차권 확인 바로가기입니다. 2026년 11월 13일 PC 웹 화면입니다.",
+      "evidence": "S1~S3 관련 화면 / 코레일 승차권예매 메인 / https://www.korail.com/ticket/main / 2026-11-13",
+      "edit": "새 캡처의 바로가기 영역을 자르고 승차권 확인에 빨간 테두리 추가",
+      "privacy": "개인정보 없음, 표식 및 화면 내용을 확인함. 모바일에서는 작은 화면 문구를 본문으로도 제공."
+    },
+    {
+      "id": "IMG_03",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/02_02_login.png",
+      "raw": "26_1113/노하우_코레일 승차권 조회/웹조사/raw/02_login.png",
+      "rawExists": true,
+      "file": {
+        "bytes": 28122,
+        "width": 1085,
+        "height": 460,
+        "sha256": "c89320359f34b3337e9c07f3e516fe984af2a4915e44a01c1f049f9bbb6aa437"
+      },
+      "error": null,
+      "tokenCount": 1,
+      "htmlSlot": true,
+      "alt": "코레일 회원번호 이메일 휴대폰 번호 로그인 선택 화면",
+      "caption": "회원 로그인 화면에서 이용할 로그인 방식을 선택합니다. 2026년 11월 13일 PC 웹 화면입니다.",
+      "evidence": "S1~S3 관련 화면 / 코레일 회원 승차권 확인 로그인 / https://www.korail.com/ticket/login?hiddenTabNms=nonMember&redirectUrl=/ticket/myticket/list / 2026-11-13",
+      "edit": "회원번호 로그인 안내에 빨간 테두리; 원본에서 자름",
+      "privacy": "개인정보 없음, 표식 및 화면 내용을 확인함. 모바일에서는 작은 화면 문구를 본문으로도 제공."
+    },
+    {
+      "id": "IMG_04",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/03_06_method_clean.png",
+      "raw": "26_1113/노하우_코레일 승차권 조회/웹조사/raw/06_method_clean.png",
+      "rawExists": true,
+      "file": {
+        "bytes": 33885,
+        "width": 740,
+        "height": 355,
+        "sha256": "132eff7284c043aef29d11dc8405e72c68c39f43f37f41d4caf1ff52d77a0744"
+      },
+      "error": null,
+      "tokenCount": 1,
+      "htmlSlot": true,
+      "alt": "코레일 비회원 간편인증과 기존 비회원 승차권 확인 선택 화면",
+      "caption": "비회원 확인 방식 선택 화면입니다. 빨간 테두리는 기존 비회원 확인을 가리킵니다. 2026년 11월 13일 PC 웹 화면입니다.",
+      "evidence": "S1~S3 관련 화면 / 코레일 비회원 확인 방식 / https://www.korail.com/ticket/reserve/nonmember/check/menu / 2026-11-13",
+      "edit": "기존 비회원 확인에 빨간 테두리; 원본에서 자름",
+      "privacy": "개인정보 없음, 표식 및 화면 내용을 확인함. 모바일에서는 작은 화면 문구를 본문으로도 제공."
+    },
+    {
+      "id": "IMG_05",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/04_07_form_clean.png",
+      "raw": "26_1113/노하우_코레일 승차권 조회/웹조사/raw/07_form_clean.png",
+      "rawExists": true,
+      "file": {
+        "bytes": 44772,
+        "width": 1005,
+        "height": 385,
+        "sha256": "65fde07bb780b917ef533e586864d0fea0fea508ed0da4aec789150ed72d3b1a"
+      },
+      "error": null,
+      "tokenCount": 1,
+      "htmlSlot": true,
+      "alt": "코레일 기존 비회원 승차권 확인의 이름 휴대폰 번호 비밀번호 입력란",
+      "caption": "기존 비회원 승차권 확인 입력란입니다. 2026년 11월 13일 PC 웹 화면입니다.",
+      "evidence": "S1~S3 관련 화면 / 코레일 기존 비회원 승차권 확인 / https://www.korail.com/ticket/reserve/nonmember/check / 2026-11-13",
+      "edit": "입력란에 빨간 테두리; 원본에서 자름",
+      "privacy": "개인정보 없음, 표식 및 화면 내용을 확인함. 모바일에서는 작은 화면 문구를 본문으로도 제공."
+    }
+  ],
+  "research": {
+    "keyword": "코레일 승차권 조회",
+    "originalQuery": "코레일 승차권 조회",
+    "row": 35,
+    "tab": "노하우",
+    "date": "2026-11-13",
+    "queries": [
+      "코레일 승차권 조회"
+    ],
+    "multiIntent": false,
+    "body": "## 회원과 비회원의 확인 경로\n코레일 승차권을 확인할 때는 예매 당시 회원으로 로그인했는지, 비회원으로 예매했는지를 먼저 확인합니다. 코레일 공식 웹사이트의 **승차권 확인**은 회원에게 로그인을 요구하며, 비회원은 별도의 확인 화면에서 예매 당시 방식에 맞는 인증을 선택합니다. 아래 화면은 2026년 11월 13일 확인한 웹 화면입니다. [S1][S2]\n\n### 회원 승차권 확인\n1. 코레일 승차권예매 사이트에서 **승차권 → 승차권 확인**으로 이동합니다.\n2. 로그인 화면이 나타나면 회원번호, 이메일 주소 또는 휴대폰 번호 탭 등 제공되는 방법을 선택합니다.\n3. 계정 정보를 입력해 로그인하고 승차권 확인 화면으로 이동합니다. 이 조사에서는 개인 계정으로 로그인하지 않았으므로 실제 보유 승차권 목록이나 탑승 화면은 확인하지 않았습니다. [S2]\n\n회원번호나 비밀번호가 기억나지 않으면 로그인 화면의 회원번호 찾기 또는 비밀번호 찾기를 이용할 수 있습니다. 화면에는 로그인 다섯 차례 실패 시 로그인이 제한된다는 안내도 있습니다. 계정정보를 반복해서 추측하기보다 찾기 기능을 사용하세요. [S2]\n\n### 비회원 승차권 확인\n1. 코레일의 비회원 승차권 확인 메뉴로 이동합니다.\n2. **간편인증** 또는 **기존 비회원 승차권 확인** 중 예매할 때 사용한 방식에 맞는 항목을 고릅니다.\n3. 간편인증으로 예매한 승차권은 간편인증으로만 조회할 수 있다는 공식 안내를 확인합니다.\n4. 기존 비회원 확인 화면에서는 예약자 이름, 휴대폰 번호, 비밀번호 5자리를 입력하고 **비회원 승차권 확인**을 누릅니다. 전달받은 승차권의 비밀번호는 코레일 알림톡 또는 문자메시지를 확인하라는 안내가 있습니다. [S1][S3]\n\n비회원 확인 화면은 간편인증으로 예매한 승차권을 조회하지 못하므로, 이 경우 이전 화면에서 간편인증을 선택해야 합니다. 본인 인증이나 실제 승차권 조회는 진행하지 않았습니다. 정보가 맞지 않거나 확인이 어려우면 코레일 대표전화 1588-7788 또는 공식 고객센터의 안내를 확인하세요. [S1][S3]\n\n### 조회와 예매를 구분하기\n이미 구매한 표를 확인하려면 **승차권 확인**을 선택합니다. 출발역·도착역을 넣어 열차를 찾는 새 승차권 예매 화면과는 목적이 다릅니다. 이용 내역이나 영수증이 필요할 때도 해당 메뉴 명칭을 확인해 이동하세요. 사이트 구성은 변경될 수 있으므로 현재 화면의 표시를 기준으로 진행합니다. [S2]",
+    "sources": [
+      {
+        "id": "S1",
+        "title": "코레일 승차권 확인 및 비회원 확인",
+        "url": "https://www.korail.com/ticket/reserve/nonmember/check/menu",
+        "official": true,
+        "checkedAt": "2026-11-13"
+      },
+      {
+        "id": "S2",
+        "title": "코레일 회원 승차권 확인 로그인",
+        "url": "https://www.korail.com/ticket/myticket/list",
+        "official": true,
+        "checkedAt": "2026-11-13"
+      },
+      {
+        "id": "S3",
+        "title": "코레일 기존 비회원 승차권 확인",
+        "url": "https://www.korail.com/ticket/reserve/nonmember/check",
+        "official": true,
+        "checkedAt": "2026-11-13"
+      }
+    ],
+    "images": [
+      {
+        "role": "search",
+        "file": "raw/01_search.png",
+        "publish": "publish/01_01_search.png",
+        "sourceId": "S2",
+        "caption": "코레일 공식 승차권 확인 검색 결과",
+        "alt": "코레일 공식 승차권 확인 검색 결과",
+        "boxes": [
+          [
+            104,
+            181,
+            279,
+            44
+          ]
+        ],
+        "crop": [
+          80,
+          150,
+          770,
+          280
+        ],
+        "markedBox": [
+          100,
+          165,
+          420,
+          236
+        ],
+        "screenUrl": "https://www.google.com/search?q=%EC%BD%94%EB%A0%88%EC%9D%BC%20%EC%8A%B9%EC%B0%A8%EA%B6%8C%20%EC%A1%B0%ED%9A%8C",
+        "query": "코레일 승차권 조회"
+      },
+      {
+        "role": "guide",
+        "file": "raw/02_login.png",
+        "publish": "publish/02_02_login.png",
+        "sourceId": "S2",
+        "caption": "회원 승차권 확인을 위한 로그인 화면",
+        "alt": "회원 승차권 확인을 위한 로그인 화면",
+        "boxes": [
+          [
+            293,
+            370,
+            499,
+            60
+          ]
+        ],
+        "crop": [
+          15,
+          270,
+          1060,
+          690
+        ],
+        "markedBox": [
+          293,
+          370,
+          792,
+          430
+        ],
+        "screenUrl": "https://www.korail.com/ticket/login?hiddenTabNms=nonMember&redirectUrl=/ticket/myticket/list"
+      },
+      {
+        "role": "guide",
+        "file": "raw/06_method_clean.png",
+        "publish": "publish/03_06_method_clean.png",
+        "sourceId": "S1",
+        "caption": "비회원 로그인 방식 선택",
+        "alt": "비회원 로그인 방식 선택",
+        "boxes": [
+          [
+            395,
+            342,
+            295,
+            116
+          ]
+        ],
+        "crop": [
+          50,
+          170,
+          750,
+          485
+        ],
+        "markedBox": [
+          395,
+          342,
+          690,
+          458
+        ],
+        "screenUrl": "https://www.korail.com/ticket/reserve/nonmember/check/menu"
+      },
+      {
+        "role": "guide",
+        "file": "raw/07_form_clean.png",
+        "publish": "publish/04_07_form_clean.png",
+        "sourceId": "S3",
+        "caption": "기존 비회원 인증 입력 화면",
+        "alt": "기존 비회원 인증 입력 화면",
+        "boxes": [
+          [
+            354,
+            383,
+            545,
+            34
+          ]
+        ],
+        "crop": [
+          55,
+          205,
+          1020,
+          550
+        ],
+        "markedBox": [
+          175,
+          326,
+          910,
+          475
+        ],
+        "screenUrl": "https://www.korail.com/ticket/reserve/nonmember/check"
+      }
+    ],
+    "limits": {
+      "bodyMin": 3500,
+      "bodyMax": 5500,
+      "guideMax": 8,
+      "referenceMax": 3,
+      "rawMax": 12
+    },
+    "exceptionReason": "공식 검색 1장과 서로 다른 안내·조건 화면 3장으로 핵심 내용을 설명. 앱이나 인증 후 화면은 공개 공식 안내 또는 인증 전 화면으로 대체.",
+    "visualReviewed": false
+  },
+  "review": {
+    "status": "agent_alternative_review_complete",
+    "date": "2026-11-13",
+    "automatic_validation": "고정 수량 기준 미통과",
+    "automatic_errors": [
+      "본문 1209자: 3500~5500자 필요(출처/이미지 목록 제외)",
+      "중복 없는 출처 1~2개 필요",
+      "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+    ],
+    "bodyCharacters": 1209,
+    "rawImages": 7,
+    "publishedImages": 4,
+    "redMarkedImages": 4,
+    "rawFiles": [
+      "01_search.png",
+      "02_login.png",
+      "03_nonmember.png",
+      "04_inputs.png",
+      "05_method.png",
+      "06_method_clean.png",
+      "07_form_clean.png"
+    ],
+    "dimensions": {
+      "01_01_search.png": [
+        730,
+        170
+      ],
+      "02_02_login.png": [
+        1085,
+        460
+      ],
+      "03_06_method_clean.png": [
+        740,
+        355
+      ],
+      "04_07_form_clean.png": [
+        1005,
+        385
+      ]
+    },
+    "sha256": {
+      "publish/01_01_search.png": "17f05066723244c4516af8096f2d0b19e937df78e659979fb28c8c988a13488b",
+      "publish/02_02_login.png": "c89320359f34b3337e9c07f3e516fe984af2a4915e44a01c1f049f9bbb6aa437",
+      "publish/03_06_method_clean.png": "132eff7284c043aef29d11dc8405e72c68c39f43f37f41d4caf1ff52d77a0744",
+      "publish/04_07_form_clean.png": "65fde07bb780b917ef533e586864d0fea0fea508ed0da4aec789150ed72d3b1a",
+      "publish/노하우_코레일 승차권 조회_웹조사결과.md": "d7750f97ae1fba19fdf5f081bc3df7770c33f9ed4cdeeb427f28c84e5c47f983"
+    },
+    "checks": [
+      "공식 검색 결과에서 실제 공식 페이지 방문과 근거 대조",
+      "발행 이미지 4장 모두 원본 및 좌표와 직접 시각 대조",
+      "PNG 열림, 서로 다른 해시, 표식과 잘라낸 영역 경계 확인",
+      "검색 결과 및 안내 이미지 개인정보와 팝업 잔존 확인",
+      "이미지별 원본·발행 파일명, 실제 화면 URL과 확인일 대조"
+    ],
+    "adjustment": "검색 1장 및 서로 다른 진입·단계·조건 3장으로 핵심 경로를 설명해 반복 화면과 문장을 추가하지 않음. 코레일은 선택·회원 로그인·기존 비회원 폼의 실제 URL 3개를 명세.",
+    "limitations": "로그인·본인 인증 후 실제 승차권을 열지 않음. 팝업이 가린 03/04/05 원본을 보존하고 06/07을 재촬영해 발행.",
+    "completionDecision": "확인 가능한 공식 근거와 핵심 절차, 이용 조건, 4장의 발행 이미지 및 실제 URL을 검수함"
+  },
+  "htmlTokens": [
+    "IMG_01",
+    "IMG_02",
+    "IMG_03",
+    "IMG_04",
+    "IMG_05"
+  ]
+}

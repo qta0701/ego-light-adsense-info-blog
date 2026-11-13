@@ -1,0 +1,55 @@
+{
+  "status": "agent_alternative_review_complete",
+  "date": "2026-11-13",
+  "automatic_validation": "구현의 고정 분량 및 안내 이미지 수 기준 미통과",
+  "automatic_errors": [
+    "본문 1034자: 3500~5500자 필요(출처/이미지 목록 제외)",
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+  ],
+  "bodyCharacters": 1034,
+  "rawImages": 4,
+  "publishedImages": 4,
+  "redMarkedImages": 4,
+  "rawFiles": [
+    "01_search.png",
+    "02_iphone.png",
+    "03_signout.png",
+    "04_mac.png"
+  ],
+  "dimensions": {
+    "01_search.png": [
+      780,
+      99
+    ],
+    "02_guide.png": [
+      955,
+      193
+    ],
+    "03_guide.png": [
+      955,
+      193
+    ],
+    "04_guide.png": [
+      955,
+      193
+    ]
+  },
+  "sha256": {
+    "publish/01_search.png": "3e695d6425d075c0d59cc09d744ad904aa7ffefd8b2832e9fbe221dd9cb45a57",
+    "publish/02_guide.png": "152e0f40e90a0b0befa4afa72999e48c0b2ff0222a999762f31d7eaa3a89102c",
+    "publish/03_guide.png": "337166a5d0cfc2c7dd1d934c8d0af2c5c5418b4534548d8e1a727a0d7094fbb0",
+    "publish/04_guide.png": "2a6a9864c55f3783b26dca955471a2e96c69e120e55cfb2b665140197d035508",
+    "publish/이슈_앱스토어 로그아웃_웹조사결과.md": "c6c9551b187fb658f80d4b20552fd32d94bd21ebfd42e3b90d8aa088d4712a3f"
+  },
+  "checks": [
+    "공식 결과 실제 방문 및 본문 대조",
+    "원본과 발행 이미지 전체 시각 대조, 설명 대상과 표식 확인",
+    "검색 결과 URL과 계정 표시를 발행 이미지에서 제거",
+    "개인정보와 팝업 잔존 확인",
+    "파일 열림, 유일한 이미지 해시와 상대 경로 확인"
+  ],
+  "adjustment": "공식 안내로 핵심 경로와 조건이 해결되어 중복 장면이나 반복 문장으로 분량을 늘리지 않음. 검색 1장 및 서로 다른 설명을 표시한 안내 3장.",
+  "limitations": "실제 앱 또는 인증 이후 화면은 열지 않았으며 공식 설명 화면 발췌로 대체. 검색 결과 발행 이미지는 URL과 계정 표시를 제거하기 위해 실제 검색 결과 부분만 잘라 사용.",
+  "unusedRaw": [],
+  "completionDecision": "핵심 질문, 공식 근거, 이미지별 명세 및 시각 검수를 충족하여 완료"
+}

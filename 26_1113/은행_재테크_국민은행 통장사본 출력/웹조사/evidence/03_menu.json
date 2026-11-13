@@ -1,0 +1,54 @@
+{
+  "url": "https://obank.kbstar.com/quics?page=C016535",
+  "title": "뱅킹관리 ( 개인뱅킹 | 뱅킹관리 )",
+  "width": 1440,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1424.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      255.40000915527344,
+      494.8500061035156,
+      45.76250076293945,
+      16.80000114440918
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "boxes": [
+    [
+      255,
+      494,
+      47,
+      18
+    ]
+  ],
+  "pixelSize": {
+    "width": 1440,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.000138874263852,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1439.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:36:32.562Z"
+}

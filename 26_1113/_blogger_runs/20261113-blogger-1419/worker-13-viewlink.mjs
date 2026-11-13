@@ -1,0 +1,1 @@
+const task=await taskSpace(43),page=task.page('p1');await page.hover('loc=href:/blog/post/edit/3013546958093270596/6771303869321967945');await page.waitForTimeout(300);const s=await page.snapshot();let n=s.indexOf('신한은행 간편조회 방법:');console.log(s.slice(n,n+2600));

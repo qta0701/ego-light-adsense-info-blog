@@ -1,0 +1,21 @@
+[네이버 블로그 제목 후보 3개]
+1. 테무 회원탈퇴 방법: 앱과 웹 계정 삭제 및 취소 안내
+2. 테무 회원탈퇴 앱과 PC 웹에서 계정 삭제하는 방법
+3. 테무 회원탈퇴 후 삭제 기간과 취소 전 확인할 점
+
+[네이버 모바일 홈판형 제목 후보 3개]
+1. 테무 계정 삭제 전, 주문과 환불부터 확인하세요
+2. 앱과 웹에서 테무 탈퇴 메뉴 찾는 순서
+3. 테무 탈퇴 요청 후 마음이 바뀌었다면?
+
+[사용 이미지 정보 및 본문 내 추천 배치 위치]
+1. 01_search.png / 웹조사/publish/01_search.png / 1번 H2 / 실제로 연 Temu 도움말 검색 결과 / 공식 안내 찾기 / 캡션: Temu 공식 고객센터의 계정 삭제 안내 / 출처: Google 검색 및 https://www.temu.com/kr/support/c3/support-f-54-s-124.html / 2026-11-13 확인
+2. 02_guide.png / 웹조사/publish/02_guide.png / 2번 H2 / 공식 도움말의 앱 설정 경로 발췌 / 앱 진입 설명 / 캡션: Temu 앱의 설정과 계정 보안 경로 / 출처: https://www.temu.com/kr/support/c3/support-f-54-s-124.html / 2026-11-13 확인
+3. 03_guide.png / 웹조사/publish/03_guide.png / 2번 H2 / 공식 도움말의 웹 경로 발췌 / 앱과 웹 구분 / 캡션: Temu 웹사이트의 계정 보안 경로 / 출처: https://www.temu.com/kr/support/c3/support-f-54-s-124.html / 2026-11-13 확인
+4. 04_guide.png / 웹조사/publish/04_guide.png / 3번 H2 / 공식 도움말의 삭제 기한과 취소 문구 발췌 / 요청 후 유의점 / 캡션: Temu 계정 삭제 처리와 취소 안내 / 출처: https://www.temu.com/kr/support/c3/support-f-54-s-124.html / 2026-11-13 확인
+
+[제외·보류 이미지]
+- 웹조사/raw/01_search.png, 02_app.png, 03_web.png, 04_term.png: 대응 발행 편집본 사용.
+- 웹조사/raw/05_official.png: 고객센터 목록으로 삭제 절차가 보이지 않아 제외.
+- 웹조사/raw/06_recheck.png: 2026-11-13 Google 키워드 검색 후 공식 페이지를 다시 열어 캡처했으나 삭제 안내가 화면 밖에 있어 제외.
+- 최종 4개 이미지. 로그인 후 실제 삭제 확인 화면은 미확인. 본인 계정에서 해당 화면을 확인하고 개인정보를 가린 뒤 보완할 수 있음.

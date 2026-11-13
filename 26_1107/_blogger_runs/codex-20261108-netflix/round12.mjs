@@ -1,1 +1,0 @@
-for(const id of [8,12]){const task=await taskSpace(id);const page=task.page('p1');const s=await page.snapshot();console.log(JSON.stringify({spaceId:id,snapshot:id===12?s.slice(s.lastIndexOf('listbox "글/페이지 상태 선택"')):s.slice(-4000)}));}

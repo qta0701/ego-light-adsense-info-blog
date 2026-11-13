@@ -1,2 +1,0 @@
-const t=await taskSpace(3),p=t.page('p1');await p.goto('https://www.netflix.com/verifyage');
-console.log(JSON.stringify({url:await p.url(),title:await p.title(),headings:await p.evaluate(()=>[...document.querySelectorAll('h1,h2,h3')].map(e=>e.innerText).slice(0,10)),controls:await p.evaluate(()=>[...document.querySelectorAll('input,button,label')].map(e=>({tag:e.tagName,type:e.getAttribute('type'),label:e.getAttribute('aria-label')||e.innerText?.slice(0,80)})).slice(0,15))}));

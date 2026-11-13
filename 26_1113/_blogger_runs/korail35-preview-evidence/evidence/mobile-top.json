@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8765/26_1113/_blogger_runs/korail35-preview.html",
+  "title": "",
+  "width": 390,
+  "height": 844,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 390.3999938964844,
+    "height": 844,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 0,
+    "height": 0
+  },
+  "targets": [],
+  "requestedViewport": {
+    "width": 390,
+    "height": 844
+  },
+  "boxes": [],
+  "pixelSize": {
+    "width": 390,
+    "height": 844
+  },
+  "pixelScale": {
+    "x": 0.9989754254540526,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 390.3999938964844,
+    "height": 844
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T05:07:51.168Z"
+}

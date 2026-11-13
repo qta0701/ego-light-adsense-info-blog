@@ -1,2 +1,0 @@
-[p1 "번개장터 계좌거래 - Google 검색" | space "research-20261107-63550a20-51-1"(5): 1 managed, 0 untracked — p1* "번개장터 계좌거래 - Google 검색"]
-root

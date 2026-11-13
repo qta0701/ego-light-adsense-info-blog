@@ -1,3 +1,0 @@
-const task=await taskSpace(21); const page=await task.newPage();
-await page.goto('https://app.supportimes.com/2026/11/blog-post_565.html',{waitUntil:'domcontentloaded',timeout:30000});
-console.log(await page.evaluate(()=>({url:location.href,title:document.title,canonical:document.querySelector('link[rel=canonical]')?.href,h1:[...document.querySelectorAll('h1')].map(x=>x.innerText),descriptions:[...document.querySelectorAll('meta[name=description]')].map(e=>e.content),times:[...document.querySelectorAll('time')].map(e=>e.outerHTML),images:[...document.querySelectorAll('article img,.post-body img')].map(e=>({src:e.src,complete:e.complete,naturalWidth:e.naturalWidth}))})));

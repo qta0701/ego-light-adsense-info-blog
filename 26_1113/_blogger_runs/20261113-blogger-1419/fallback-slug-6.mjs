@@ -1,0 +1,3 @@
+const task=await taskSpace(48),page=task.page('p1');
+await page.click('text="퍼머링크"');await page.waitForSelector('div[role=radio][aria-label^="자동 퍼머링크"]',{state:'attached'});await page.focus('div[role=radio][aria-label^="자동 퍼머링크"]');await page.press('div[role=radio][aria-label^="자동 퍼머링크"]','Space');
+await page.click('loc=role:button[name="옵션 더보기"]');await page.waitForSelector('loc=role:menuitem[name="저장"]',{state:'visible'});await page.click('loc=role:menuitem[name="저장"]');await page.waitForFunction(()=>!!document.querySelector('[aria-label="변경사항이 저장되었습니다."]'),undefined,{timeout:30000});console.log(JSON.stringify({auto:await page.evaluate(()=>document.querySelector('div[role=radio][aria-label^="자동 퍼머링크"]').getAttribute('aria-checked')),at:new Date().toISOString()}));

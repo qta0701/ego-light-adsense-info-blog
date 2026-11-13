@@ -1,0 +1,180 @@
+[작업 정보]
+메인 키워드: 부산은행 환전
+탭 / 대상 폴더: 은행_재테크 / 26_1113/은행_재테크_부산은행 환전
+spreadsheetId / sheetId / 실제 시트 행 번호: 1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s / 1126487498 / 14
+runId / 담당 독립 채팅 threadId / 조정자: 20261113-content-1401 / 01a1d34a-2169-7013-a290-82f30cc1056c / 배정 조정자
+D열 반영 상태: ㅇ 입력 및 키워드·셀 재조회 확인 (2026-11-13T14:14:08+09:00, KST)
+입력 웹조사 Markdown: 26_1113/은행_재테크_부산은행 환전/웹조사/publish/은행_재테크_부산은행 환전_웹조사결과.md
+조사 확인일 / 콘텐츠 작성일: 2026-11-13 / 2026-11-13
+HTML 파일 / TXT 파일: 26_1113/은행_재테크_부산은행 환전/웹조사/publish/은행_재테크_부산은행 환전_html콘텐츠.html / 26_1113/은행_재테크_부산은행 환전/웹조사/publish/은행_재테크_부산은행 환전_제목메타디스크립션.txt
+작업 상태: 파일 작성 완료 / 이미지 미업로드 / 미발행
+발행 전 확인: 실제 적용환율·우대율·한도·재고·수령일 및 대상 블로그 광고·제휴 설정
+
+[콘텐츠 개요]
+ONE환전의 이용대상과 로그인별 조건을 먼저 확인합니다.
+공식 안내를 따라 수령 방식과 기한, 배달 조건을 비교합니다.
+
+[제목 후보 7개]
+최종 추천 제목: 부산은행 환전 방법과 ONE환전 한도·수령 조건
+1. 부산은행 환전 방법과 ONE환전 한도·수령 조건
+2. 부산은행 환전 신청 전 확인할 한도와 수령 방법
+3. 부산은행 ONE환전 이용대상과 외화 수령 안내
+4. 부산은행 환전 수령·현찰배달 조건 알아보기
+5. 부산은행 환전 로그인과 비로그인 차이 정리
+6. 부산은행 환전 가능 통화와 영업점 수령 기한
+7. 부산은행 ONE환전 현찰배달과 유의사항
+
+[후킹 문구 후보 7개]
+1. 로그인 여부에 따라 환전 한도가 달라집니다.
+2. 원하는 지점의 외화 보유 여부부터 확인하세요.
+3. 현찰배달에는 금액과 배송비 조건이 있습니다.
+4. 수령 예정일과 유효기간을 함께 살펴보세요.
+5. 금고보관과 비로그인 입금 시간에는 예외가 있습니다.
+6. 환전 가능 통화와 지점 보유 권종은 다를 수 있습니다.
+7. 최종 환율과 우대율은 신청 화면에서 확인하세요.
+
+[메타디스크립션 후보 3개]
+최종 추천 메타디스크립션: 부산은행 ONE환전의 이용대상과 한도, 영업점 수령 및 현찰배달 조건을 확인하세요. (46자)
+1. 부산은행 ONE환전의 이용대상과 한도, 영업점 수령 및 현찰배달 조건을 확인하세요. (공백 포함 46자)
+2. 부산은행 환전 전 로그인별 한도와 통화, 수령 기한 및 배달 조건을 정리했습니다. (공백 포함 45자)
+3. 부산은행 환전 신청 전 필요한 이용시간과 수령 방법, 유효기간을 살펴보세요. (공백 포함 42자)
+
+[영문 퍼머링크 후보 3개]
+최종 추천 슬러그: busan-bank-currency-exchange
+1. busan-bank-currency-exchange
+2. busan-bank-one-exchange-guide
+3. busan-bank-foreign-currency-pickup
+한글 참고 문구: 부산은행 환전 방법
+라벨 제안: 부산은행, 환전, 외화
+
+[Blogger 이미지 업로드 추천 순서와 삽입 위치]
+채택 이미지 5개 / 제외·보류 1개
+대표 이미지 추천: IMG_01 / 02_guide.png / ONE환전의 서비스 개요를 보여줌
+업로드 순서: IMG_01 → 02_guide.png / IMG_02 → 03_guide.png / IMG_03 → 04_guide.png / IMG_04 → 05_guide.png / IMG_05 → 06_delivery_marked.png
+
+삽입 ID: IMG_01
+추천 업로드 순서 / 본문 노출 순서: 1 / 1
+원래 파일번호 / 원본 경로: 02 / 26_1113/은행_재테크_부산은행 환전/웹조사/raw/02_intro.png
+업로드 파일 경로: 26_1113/은행_재테크_부산은행 환전/웹조사/publish/02_guide.png
+이미지 내부 표식 번호 / 본문 절차 번호: 1 / 해당 없음
+역할: reference / 부산은행 PC 웹; 해당 조건을 공식 화면으로 확인
+삽입 소제목: H2 1. 부산은행 ONE환전은 무엇인가요 / id=one
+직전 문단: id=one-intro / 부산은행 PC 웹의 ONE환전 개요에서 서비스 범위를 확인합니다.
+직후 문단: id=one-result / 화면의 개인용 ONE환전과 기업용 ONE금고는 서로 구분해 확인하세요.
+HTML 위치: id=img-01 / data-image-id=IMG_01 / IMAGE_SLOT:IMG_01 START 및 END
+치환 토큰: {{BLOGGER_IMAGE_URL_IMG_01}}
+권장 alt: 공식 ONE환전 서비스 개요
+권장 캡션: ONE환전 개요와 수령·배달·보관 안내 화면입니다. 2026년 11월 13일 확인.
+실제 이미지 크기 / 표시 원칙: 1440×900px / 가로 100% 이내, 비율 유지
+출처 S1: 부산은행 ONE환전 이용안내 / https://www.busanbank.co.kr/ib20/mnu/FPMFRX189002011 / 2026-11-13
+편집·가림·가독성: 기존 발행본의 빨간 테두리와 화살표, 가림 없음; PC 원본 확인, 모바일에서는 작은 글씨 확대 필요
+순서: 조사 자료의 서비스·대상·한도·수령 순서 유지; 배달 화면 추가
+업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음
+
+삽입 ID: IMG_02
+추천 업로드 순서 / 본문 노출 순서: 2 / 2
+원래 파일번호 / 원본 경로: 03 / 26_1113/은행_재테크_부산은행 환전/웹조사/raw/03_target.png
+업로드 파일 경로: 26_1113/은행_재테크_부산은행 환전/웹조사/publish/03_guide.png
+이미지 내부 표식 번호 / 본문 절차 번호: 1 / 해당 없음
+역할: reference / 부산은행 PC 웹; 해당 조건을 공식 화면으로 확인
+삽입 소제목: H2 2. 대상과 시간, 한도를 먼저 확인하세요 / id=conditions
+직전 문단: id=conditions-intro / 이용대상 항목에 국민인 거주자 개인이라고 표시되어 있습니다.
+직후 문단: id=conditions-result / 이용시간 아래에는 금고보관과 비로그인 입금의 예외가 따로 적혀 있습니다.
+HTML 위치: id=img-02 / data-image-id=IMG_02 / IMAGE_SLOT:IMG_02 START 및 END
+치환 토큰: {{BLOGGER_IMAGE_URL_IMG_02}}
+권장 alt: ONE환전 개인 이용대상 안내
+권장 캡션: 이용대상과 이용시간을 보여주는 부산은행 PC 웹 화면입니다. 2026년 11월 13일 확인.
+실제 이미지 크기 / 표시 원칙: 1440×900px / 가로 100% 이내, 비율 유지
+출처 S1: 부산은행 ONE환전 이용안내 / https://www.busanbank.co.kr/ib20/mnu/FPMFRX189002011 / 2026-11-13
+편집·가림·가독성: 기존 발행본의 빨간 테두리와 화살표, 가림 없음; PC 원본 확인, 모바일에서는 작은 글씨 확대 필요
+순서: 조사 자료의 서비스·대상·한도·수령 순서 유지; 배달 화면 추가
+업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음
+
+삽입 ID: IMG_03
+추천 업로드 순서 / 본문 노출 순서: 3 / 3
+원래 파일번호 / 원본 경로: 04 / 26_1113/은행_재테크_부산은행 환전/웹조사/raw/04_limits.png
+업로드 파일 경로: 26_1113/은행_재테크_부산은행 환전/웹조사/publish/04_guide.png
+이미지 내부 표식 번호 / 본문 절차 번호: 1 / 해당 없음
+역할: reference / 부산은행 PC 웹; 해당 조건을 공식 화면으로 확인
+삽입 소제목: H3 환전 가능 한도 확인 / id=limit
+직전 문단: id=limit-intro / 환전 가능 한도에서 로그인과 비로그인의 기준을 나누어 봅니다.
+직후 문단: id=limit-result / 로그인 한도는 기존 비대면 신청액과 미수령 잔액을 합산하는 조건입니다.
+HTML 위치: id=img-03 / data-image-id=IMG_03 / IMAGE_SLOT:IMG_03 START 및 END
+치환 토큰: {{BLOGGER_IMAGE_URL_IMG_03}}
+권장 alt: 로그인과 비로그인의 환전 가능 한도
+권장 캡션: 로그인 여부에 따른 환전 한도 안내 화면입니다. 2026년 11월 13일 확인.
+실제 이미지 크기 / 표시 원칙: 1440×900px / 가로 100% 이내, 비율 유지
+출처 S1: 부산은행 ONE환전 이용안내 / https://www.busanbank.co.kr/ib20/mnu/FPMFRX189002011 / 2026-11-13
+편집·가림·가독성: 기존 발행본의 빨간 테두리와 화살표, 가림 없음; PC 원본 확인, 모바일에서는 작은 글씨 확대 필요
+순서: 조사 자료의 서비스·대상·한도·수령 순서 유지; 배달 화면 추가
+업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음
+
+삽입 ID: IMG_04
+추천 업로드 순서 / 본문 노출 순서: 4 / 4
+원래 파일번호 / 원본 경로: 05 / 26_1113/은행_재테크_부산은행 환전/웹조사/raw/05_pickup.png
+업로드 파일 경로: 26_1113/은행_재테크_부산은행 환전/웹조사/publish/05_guide.png
+이미지 내부 표식 번호 / 본문 절차 번호: 1 / 해당 없음
+역할: reference / 부산은행 PC 웹; 해당 조건을 공식 화면으로 확인
+삽입 소제목: H2 3. 신청과 외화 수령 방법 / id=pickup
+직전 문단: id=pickup-intro / 공식 안내의 환전 수령 방법 표에서 로그인 여부에 따른 차이를 확인합니다.
+직후 문단: id=pickup-result / 표에는 영업점 수령과 외화 ATM 이용 조건도 구분되어 있습니다.
+HTML 위치: id=img-04 / data-image-id=IMG_04 / IMAGE_SLOT:IMG_04 START 및 END
+치환 토큰: {{BLOGGER_IMAGE_URL_IMG_04}}
+권장 alt: 환전수령과 현찰배달, 금고보관 비교표
+권장 캡션: 환전 수령 방법별 비교표의 시작 부분입니다. 2026년 11월 13일 확인.
+실제 이미지 크기 / 표시 원칙: 1440×900px / 가로 100% 이내, 비율 유지
+출처 S1: 부산은행 ONE환전 이용안내 / https://www.busanbank.co.kr/ib20/mnu/FPMFRX189002011 / 2026-11-13
+편집·가림·가독성: 기존 발행본의 빨간 테두리와 화살표, 가림 없음; PC 원본 확인, 모바일에서는 작은 글씨 확대 필요
+순서: 조사 자료의 서비스·대상·한도·수령 순서 유지; 배달 화면 추가
+업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음
+
+삽입 ID: IMG_05
+추천 업로드 순서 / 본문 노출 순서: 5 / 5
+원래 파일번호 / 원본 경로: 06 / 26_1113/은행_재테크_부산은행 환전/웹조사/raw/06_delivery.png
+업로드 파일 경로: 26_1113/은행_재테크_부산은행 환전/웹조사/publish/blogger-images/06_delivery_marked.png
+이미지 내부 표식 번호 / 본문 절차 번호: 번호 없음 / 해당 없음
+역할: reference / 부산은행 PC 웹; 배달 조건과 배송비 보강
+삽입 소제목: H2 4. 현찰배달과 수령 기한의 주의점 / id=delivery
+직전 문단: id=delivery-intro / 현찰배달 항목에서 이용 가능 금액과 배송비를 확인합니다.
+직후 문단: id=delivery-result / 표의 빨간 테두리는 배송 건당 비용을 강조한 표시입니다.
+HTML 위치: id=img-05 / data-image-id=IMG_05 / IMAGE_SLOT:IMG_05 START 및 END
+치환 토큰: {{BLOGGER_IMAGE_URL_IMG_05}}
+권장 alt: 현찰배달 금액과 배송비 안내
+권장 캡션: 현찰배달 조건과 배송비를 보여주는 부산은행 PC 웹 화면입니다. 2026년 11월 13일 확인.
+실제 이미지 크기 / 표시 원칙: 1440×900px / 가로 100% 이내, 비율 유지
+출처 S1: 부산은행 ONE환전 이용안내 / https://www.busanbank.co.kr/ib20/mnu/FPMFRX189002011 / 2026-11-13
+편집·가림·가독성: 원본에 배송비 행 빨간 테두리 추가, 가림 없음; PC 원본 확인, 모바일에서는 작은 글씨 확대 필요
+순서: 조사 자료의 서비스·대상·한도·수령 순서 유지; 배달 화면 추가
+업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음
+
+[제외·보류 이미지]
+26_1113/은행_재테크_부산은행 환전/웹조사/publish/01_search.png 및 26_1113/은행_재테크_부산은행 환전/웹조사/raw/01_search.png: 검색 결과의 첫 공식 링크가 오류이므로 제외.
+추가 시도: raw 후보 확인 후 Google 검색과 실제 부산은행 ONE환전 안내 방문, 현찰배달 화면 추가.
+미확보 장면: 로그인 이후 신청 입력 및 거래 완료 화면. 실제 절차 확인 시 보강.
+
+[업로드 담당 에이전트 전달사항]
+대상 블로그·글 식별 정보: 지정되지 않음
+허용 작업: 파일 작성만; 이미지 업로드·초안 저장·발행 미수행
+제목·메타·슬러그·라벨: 위 추천값 사용 여부 및 현재 입력 제한 확인
+이미지 업로드 후 각 ID별 URL 매핑 및 토큰 치환, Blogger 테마에서 모바일·PC 확인
+광고·제휴 설정 미확인: 예시 광고 ID 삽입하지 않음
+저장 또는 발행 URL·상태·시각, spaceId/blogId/postId/editorUrl: 미수행
+G/H/L 시트 반영·재조회: 범위 밖, 미수행
+
+[검수 결과]
+파일·이미지·출처·슬롯 대응: UTF-8, 중복 ID 없음, 5개 슬롯·토큰·alt·캡션 및 실제 파일 1:1 확인; H2 5개 모두 공식 링크 연결
+모바일/PC 로컬 미리보기: 임시 사본과 별도 CSS 사용, 390px 및 1280px에서 이미지 5개 로드·비율·순서·캡션 및 가로 넘침 확인. 모바일에서 PC 원본 이미지의 작은 글씨는 확대 필요.
+실제 Blogger 테마 미리보기: 미수행
+미해결 사항: 로그인 이후 실제 신청 과정, 최신 환율·우대율·지점 재고, 광고 설정 확인 필요
+
+
+[Blogger 발행 결과 — B 실행 기록]
+postId: 2635303107992071336
+실제 URL: https://bank.supportimes.com/2026/11/one.html
+발행 시각: 2026-11-13T14:43:00+09:00
+주소: 자동 퍼머링크 (추천값 저장 후 미유지)
+IMG_01 / 26_1113/은행_재테크_부산은행 환전/웹조사/publish/02_guide.png / https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtVougJGytsG4Mn9503X-RTyxSYA4-EKugmC8vZMylZnZhGquW5QNhtFWWiGq4FTuGunAPVBrbKYrvyfoHfzEvyQkMEGD4RDg78wHQ0bljNLTE7aE1zH5MG_UrZ4eyK1pjL0sv-1BSg0pp8A5LW-L0Nc4mLmyBjdl9Cqp6O_GTdTgGAZmr0Qo0EOIhGYLl/s1600/02_guide.png
+IMG_02 / 26_1113/은행_재테크_부산은행 환전/웹조사/publish/03_guide.png / https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqCekYAsIFApHcWG4fTI_uf3NQoHOEfDuxK5PM4UFl07SNR_OsS5mnxUHpWhYIXv81VjpPZrgmTdFAa56g458fIv8NV1zCzTDLNnH3C_c5It4wdgIMyW2GyKM6mAaOMjEXi6MAfKYR4EQ1moed55NNJdBLDKqYvq8QYvY7f6lpTxHansejmIyWpLMTWZyM/s1600/03_guide.png
+IMG_03 / 26_1113/은행_재테크_부산은행 환전/웹조사/publish/04_guide.png / https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ1BlFgxi4Eqy2YtPNQybbExFdd19HLDWG8Oy6ixFNPzGlmdvhADAMa4_OPtLcoxtTDHOPeIBiGZwL-CKo0KONKMKko7qXOqHSkWuVexXy2emn8s11vdRNm3sWX8kNoIFLEeEq1tvZd-fPMWVw0N1kR8bkY_XkZ_QSvKbU4XvPkqJJgLQcwIYHx4FoTbmd/s1600/04_guide.png
+IMG_04 / 26_1113/은행_재테크_부산은행 환전/웹조사/publish/05_guide.png / https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT03gSrHt6ZGskr79dEiv7NzhyphenhyphenvVNtcUVRh62gnSsMt9O5Cat6Jb93tGMBA8mcLmBQRExRByex7lgeuHS8EugPrVWi9VhG_f3sMWaIix-8pzF1fPlhoWT2GGvtLTeft2XdtbiRTjdfAqDykHTzdCW9Y4ioezDSCm4xnfnDevq322Kn6CzOCNxAfi9gJ-NT/s1600/05_guide.png
+IMG_05 / 26_1113/은행_재테크_부산은행 환전/웹조사/publish/blogger-images/06_delivery_marked.png / https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGjf5PsjziwYjLVZruxvBSmhkewsWyDi7KehUOfI-uIxERq2hrazcRfCLUxjbAHti5QtmpwB-k9X06h2UBMSHc1O0IMh64OJVsAJNJ3pWpRVmwpHFEiRzXQHF3HNc8WBSyvoJM9x8a5lXMLxT1VrepoLScYAFEpjgsjAGd_fOMKm4Hs6LgeV4niE99s7jY/s1600/06_delivery_marked.png

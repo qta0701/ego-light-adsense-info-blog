@@ -1,0 +1,269 @@
+[p1 "앱스토어 로그아웃 - Google 검색" | space "research-20261113-992e177a-30-0"(2): 2 managed, 0 untracked — p1* "앱스토어 로그아웃 - Google 검색", p2 "OneTab"]
+root
+  container
+    search
+      anchor "Google 홈페이지로 이동" [ref=1, loc=css:a[aria-label="Google 홈페이지로 이동"], url=https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwiTjvyQhYSYAxXam68BHahaHPcQPHoECAYQBA]
+        svg_root
+      container
+        comboboxgrouping "검색" [ref=2, loc=css:textarea[name="q"]]
+          text "앱스토어 로그아웃"
+        container
+          button "지우기" [ref=3, loc=role:button[name="지우기"]]
+            svg_root
+          container
+            button "입력 도구" [ref=4, loc=role:button[name="입력 도구"]]
+              svg_root
+            button "음성 검색" [ref=5, loc=role:button[name="음성 검색"]]
+              svg_root
+            button "이미지로 검색" [ref=6, loc=role:button[name="이미지로 검색"]]
+              svg_root
+    container
+      button "공유" [ref=7]
+        svg_root
+      container
+        button "Google 앱" [ref=8, loc=css:a[aria-label="Google 앱"], url=https://www.google.co.kr/intl/ko/about/products?tab=wh]
+          svg_root
+        button "Google 계정: 순분 (soonboon3265@gmail.com)" [ref=9, loc=css:a[aria-label="Google 계정: 순분
+(soonboon3265@gmail.com)"], url=https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EC%2595%25B1%25EC%258A%25A4%25ED%2586%25A0%25EC%2596%25B4%2520%25EB%25A1%259C%25EA%25B7%25B8%25EC%2595%2584%25EC%259B%2583&ec=futura_srp_og_si_72236_p]
+  image
+  container
+    navigation [ref=10]
+      list
+        listitem
+          anchor [ref=11, url=https://www.google.com/search?q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4+%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83&newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDhoLzdrsOhI0eCOiK4h0QlRq7yWZg:1794541793258&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUJUKCeUk9GJfh1qhqCw7VAe1aJI4xBbXvzXsW9-bVnWCCT5HS4PVC0kXn9okS3a58MV6TlIGlAq58AtxLoUTxvnPsgsbTt_gsKHFcqs0lVo8WnyTKpC2UcTU_kIqguuAsDLBvnVSNHRcY5jNtZkQ-h5Rpij8A&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiTjvyQhYSYAxXam68BHahaHPcQ2J8OegQIDBAD]
+            text "AI 모드"
+        listitem
+          link [ref=12]
+            text "전체"
+        listitem
+          anchor [ref=13, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDhoLzdrsOhI0eCOiK4h0QlRq7yWZg:1794541793258&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUJUKCeUk9GJfh1qhqCw7VAe1aJI4xBbXvzXsW9-bVnWCCT5HS4PVC0kXn9okS3a58MV6TlIGlAq58AtxLoUTxvnPsgsbTt_gsKHFcqs0lVo8WnyTKpC2UcTU_kIqguuAsDLBvnVSNHRcY5jNtZkQ-h5Rpij8A&q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4+%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83&sa=X&ved=2ahUKEwiTjvyQhYSYAxXam68BHahaHPcQtKgLegQILBAB]
+            text "이미지"
+        listitem
+          anchor [ref=14, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDhoLzdrsOhI0eCOiK4h0QlRq7yWZg:1794541793258&q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4+%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUJUKCeUk9GJfh1qhqCw7VAe1aJI4xBbXvzXsW9-bVnWCCT5HS4PVC0kXn9okS3a58MV6TlIGlAq58AtxLoUTxvnPsgsbTt_gsKHFcqs0lVo8WnyTKpC2UcTU_kIqguuAsDLBvnVSNHRcY5jNtZkQ-h5Rpij8A&sa=X&ved=2ahUKEwiTjvyQhYSYAxXam68BHahaHPcQ0pQJegQILhAB]
+            text "뉴스"
+        listitem
+          anchor [ref=15, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDhoLzdrsOhI0eCOiK4h0QlRq7yWZg:1794541793258&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUJUKCeUk9GJfh1qhqCw7VAe1aJI4xBbXvzXsW9-bVnWCCT5HS4PVC0kXn9okS3a58MV6TlIGlAq58AtxLoUTxvnPsgsbTt_gsKHFcqs0lVo8WnyTKpC2UcTU_kIqguuAsDLBvnVSNHRcY5jNtZkQ-h5Rpij8A&q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4+%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83&sa=X&ved=2ahUKEwiTjvyQhYSYAxXam68BHahaHPcQtKgLegQILxAB]
+            text "동영상"
+        listitem
+          anchor [ref=16, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDhoLzdrsOhI0eCOiK4h0QlRq7yWZg:1794541793258&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUJUKCeUk9GJfh1qhqCw7VAe1aJI4xBbXvzXsW9-bVnWCCT5HS4PVC0kXn9okS3a58MV6TlIGlAq58AtxLoUTxvnPsgsbTt_gsKHFcqs0lVo8WnyTKpC2UcTU_kIqguuAsDLBvnVSNHRcY5jNtZkQ-h5Rpij8A&q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4+%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83&ved=1t:220175&ictx=111]
+            text "쇼핑"
+        listitem
+          anchor [ref=17, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDhoLzdrsOhI0eCOiK4h0QlRq7yWZg:1794541793258&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUJUKCeUk9GJfh1qhqCw7VAe1aJI4xBbXvzXsW9-bVnWCCT5HS4PVC0kXn9okS3a58MV6TlIGlAq58AtxLoUTxvnPsgsbTt_gsKHFcqs0lVo8WnyTKpC2UcTU_kIqguuAsDLBvnVSNHRcY5jNtZkQ-h5Rpij8A&q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4+%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83&sa=X&ved=2ahUKEwiTjvyQhYSYAxXam68BHahaHPcQs6gLegQIKxAB]
+            text "짧은 동영상"
+        listitem
+          button [ref=18]
+            container "필터 더보기"
+              text "더보기"
+              svg_root
+      button [ref=19]
+        text "도구"
+        svg_root
+    container
+      container
+        container
+          container
+            svg_root
+            heading
+              text "AI 개요"
+          container
+            container
+              text "아이폰 앱스토어에서 계정만 로그아웃하려면"
+              container
+                anchor [ref=20, url=https://www.google.com/goto?url=CAESdQHEIkXXKi7QiXhy0xKBx_AaPD9c4SOAW5CtctMh6yygdTYsWnyhIOzHh4FNlvuPLsOy5g7saIgOltnX9A_ASbx8Rz1VqzIdZO15q4pdIC4Mz3pOn_dAK7koiLg5zLieambgtw4ap5DurXLPG_IoECOsYHkBNw]
+                  text "클리앙"
+                text "및 최신 iOS 버전 기준 아래의 경로로 진행할 수 있습니다"
+              text "."
+              button "관련 검색결과" [ref=21]
+                svg_root
+            heading
+              text "앱스토어만 개별 로그아웃하는 방법 (iCloud 유지)"
+            container
+              text "최신 iOS 업데이트로 앱스토어 앱 내 프로필에 있던 로그아웃 버튼이 사라진 경우, 설정 메뉴를 이용해야 합니다:"
+              button "관련 검색결과" [ref=22]
+                svg_root
+            ordered_list
+              list_item
+                text "아이폰의"
+                text "[설정]"
+                text "앱을 엽니다."
+              list_item
+                container
+                  container
+                    text "화면 최상단에 있는"
+                    text "[본인 이름(Apple 계정)]"
+                    text "을 누릅니다"
+                  text "."
+              list_item
+                container
+                  container
+                    text "[미디어 및 구입 항목]"
+                    text "을 누릅니다"
+                  text "."
+              list_item
+                container
+                  container
+                    text "팝업창이나 메뉴에서"
+                    text "[로그아웃]"
+                    text "을 선택합니다"
+                  text "."
+                button "관련 검색결과" [ref=23]
+                  svg_root
+            text "이 방법을 사용하면 사진, 연락처, 아이클라우드(iCloud) 등 전체 기기 계정은 유지한 채 앱스토어 계정만 로그아웃됩니다."
+        button "AI 개요 더보기" [ref=24, loc=role:button[name="AI 개요 더보기"]]
+          text "더보기"
+          svg_root
+      container
+        container
+          container
+            anchor [ref=25, url=https://www.google.com/goto?url=CAESawHEIkXX_UrXBCqQifrW4OuWvghH03F8t6mJ0iHtHjKmcGMjvwGFg8X3Sl5c44lH4tNnaq12lKhffRXEwTNw9qr31ioMS6268bA__RcJfwYzRphM4XngY5l1BJkWWbjY59ZukuOj6BMsb9mB&gsessionid=R2lvwnuxHi72P7o6iznemINvgjNXi-sMQFmi8RLeePFSBbEfpPuEBA]
+              heading
+                text "[iOS] iOS 26 이상 버전에서 앱스토어만 로그아웃 하기"
+              container
+                image
+                container
+                  text "티스토리"
+                  container
+                    text "https://tars.tistory.com"
+                    text "› entry › appstoresignout"
+            button "검색결과에 관한 정보" [ref=26]
+              svg_root
+          container
+            container
+              text "2026. 8. 7."
+              text "—"
+            container
+              text "[iOS] iOS 26 이상 버전에서 앱스토어만 로그아웃 하기 ·"
+              text "1. 설정 실행 · 2. 내 계정 클릭 · 3. 미디어 및 구입 항목 클릭 · 4. 로그아웃 클릭"
+              text "· 5. 로그 ..."
+        container
+          container
+            anchor [ref=27, url=https://www.google.com/goto?url=CAESdQHEIkXXgjp8ceTLhwU7ZCJP3P40TnJOPUZOW_RT6HAPevQmWYXsuGqXQdLnfU9CQNf0z56WzkSL4XTlxYgQq3DSfVhUpNJUKZ-_RmUpGS2eUif91UL7t1Etcl98jPMykuagBsgIxOfZmdIcCNp43Bw8BMs9HQ&gsessionid=R2lvwnuxHi72P7o6iznemINvgjNXi-sMQFmi8RLeePFSBbEfpPuEBA]
+              heading
+                text "앱스토어 로그아웃이 어디로 간 거죠?"
+              container
+                image
+                container
+                  text "클리앙"
+                  container
+                    text "https://www.clien.net"
+                    text "› 클리앙 › 아이포니앙"
+            button "검색결과에 관한 정보" [ref=28]
+              svg_root
+          container
+            container
+              text "2026. 6. 30."
+              text "—"
+            container
+              text "ios26 아이폰/패드 모두"
+              text "앱스토어 로그아웃"
+              text "버튼이 갑자기 안 보이는데 저만 그런 걸까요? 한국 계정 로그인해야 되는데 이게 어떻게 된 건지..."
+          container
+            container
+              anchor [ref=29, url=https://www.google.com/goto?url=CAESdQHEIkXXO8BxIDj-SGz1t7LbyGXUa1TouDIgntFpdG7AwNuP9t8aqGJ6yewHo2hxkfj6G5Smm8Pusn6MXHCC8kDoABo9B8k8g4zDx4E2V25lRB6ixGtucqBw5pKORFUaBYDIS0OajbsGLCz-Hu4icaJwPmhjYw&gsessionid=R2lvwnuxHi72P7o6iznemINvgjNXi-sMQFmi8RLeePFSBbEfpPuEBA]
+                text "Apple store"
+                text "앱 로그아웃"
+                text "방법 아시는분 - 클리앙"
+              text "게시물 6개"
+              text "2023년 9월 13일"
+            container
+              anchor [ref=30, url=https://www.google.com/goto?url=CAESdQHEIkXX7TV5JZHDlDSAyBhXQjl7AwyM2hgmBYq6ydfHa0139eSdvy2D31tpXORsepgiMerzfPjRSd05OpaxNbptDFnFn3m_RlXVGjwPaZhn6hpdVzbV4TvGW9ipvU5U1n8RPAMOtthoNhtlgJNZeHpnLzp00g&gsessionid=R2lvwnuxHi72P7o6iznemINvgjNXi-sMQFmi8RLeePFSBbEfpPuEBA]
+                text "앱스토어 로그아웃"
+                text "창이 없네요;;; : 클리앙"
+              text "게시물 3개"
+              text "2023년 6월 24일"
+            table
+              table_row
+                table_cell
+                  anchor [ref=31, url=https://www.google.com/search?q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4+%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83+site:www.clien.net&newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDhoLzdrsOhI0eCOiK4h0QlRq7yWZg:1794541793258&sa=X&ved=2ahUKEwiTjvyQhYSYAxXam68BHahaHPcQrQIoAnoECBYQAw]
+                    text "www.clien.net 검색결과 더보기"
+        container
+          container
+            anchor [ref=32, url=https://www.google.com/goto?url=CAESbAHEIkXX-o0jC9dDAbGGU2QwoNQv61j7zaP_M-A2cU203rB4dGWG42S2v6YlvhktLzS3P6FZjWPfCrzmRDG0zf3JnxBgTQ_umQJIAGgLtPT2nkvTUJRwkJNPNOioxvBjzlcZRsfZTARD2RNPQw&gsessionid=R2lvwnuxHi72P7o6iznemINvgjNXi-sMQFmi8RLeePFSBbEfpPuEBA]
+              heading
+                text "아이폰 애플 앱스토어 로그아웃 계정 전환 방법 기존 구입 앱은?"
+              container
+                image
+                container
+                  text "블로그"
+                  container
+                    text "https://m.blog.naver.com"
+                    text "› hypoid613"
+            button "검색결과에 관한 정보" [ref=33]
+              svg_root
+          container
+            container
+              text "2026. 7. 31."
+              text "—"
+            container
+              text "앱스토어"
+              text "에서"
+              text "로그아웃"
+              text "을 하는 것이 아니라 설정 메뉴에서 진행합니다. 설정 최상단에 본인 계정 이름을 클릭해 주시고 스크롤을 내려서 미디어 및 구입 ..."
+        container
+          container
+            anchor [ref=34, url=https://www.google.com/goto?url=CAESigEBxCJF1z3UwMP8VNvsZGYQgvKHI1EwBT_Zk62voEgw3n96a6rP6KVl3RbhT2yGYMB0DtQZlHtGG5I9j19hBumwsc_T4LdEhArsP6dWXm3lEL20GzYuAqtbL6sXCWFlTijOkyV9qA9PTnmriHA7lIYWPxhMLPEZpP9-VppU9RzB4yA-StM7RYon-Nc&gsessionid=R2lvwnuxHi72P7o6iznemINvgjNXi-sMQFmi8RLeePFSBbEfpPuEBA]
+              heading
+                text "App Store 로그아웃? : r/applehelp"
+              container
+                image
+                container
+                  text "Reddit · r/applehelp"
+                  text "댓글 30개 이상 · 8개월 전"
+            button "검색결과에 관한 정보" [ref=35]
+              svg_root
+          text "Apple Store에서 로그아웃 옵션이 왜 사라졌지? 보통은 상단에 있는 내 아이콘 누르고 로그아웃 눌렀었거든. 근데 ..."
+          container
+            anchor [ref=36, url=https://www.google.com/goto?url=CAESkgEBxCJF16HHSr0Ud1UuE0fO3qpyDKNGDejWfgkVjMeJPEtTB-uWmwnvABT3SChcOl1KPNZte9PttaNZ8znTuPEiig-3LAKLjMr-4AYHJbvQ8xFN1ycDpt7j_7gw7Tjcg6avagpO5rx_pU56vU-BiHJDWV59sWQ4zZjKcRi6kiaTkYJiiSi2eTLfFctIuoNL_58YYQ&gsessionid=R2lvwnuxHi72P7o6iznemINvgjNXi-sMQFmi8RLeePFSBbEfpPuEBA]
+              text "답변 30개"
+            text "·"
+            text "인기 답변: "
+            text "설정 > 이름 > 미디어 및 구입 항목 > 앱 스토어 얘기하는 거면 로그아웃해 ..."
+        container
+          container
+            anchor [ref=37, url=https://www.google.com/goto?url=CAESagHEIkXX9Kq1IBemUby4re7rqai2WLh4CumCRPQ7ZI9WLZNRSC7ypJ0uYSxjGC5p2RnC4lX8Sgp24ztPCzFlDChEFBeoypOL-dYTqEcd3mUx1TrPQHxS7lo8CIj9Hs1vHu6MDYXmHsjk5DU&gsessionid=R2lvwnuxHi72P7o6iznemINvgjNXi-sMQFmi8RLeePFSBbEfpPuEBA]
+              heading
+                text "아이폰 앱스토어 로그아웃 방법 두가지 계정 전환 쉬워"
+              container
+                image
+                container
+                  text "블로그"
+                  container
+                    text "https://m.blog.naver.com"
+                    text "› rywls92"
+            button "검색결과에 관한 정보" [ref=38]
+              svg_root
+          container
+            container
+              text "2025. 1. 6."
+              text "—"
+            container
+              text "맥북 앱스토어 로그아웃 방법은 조금 더 간단합니다."
+              text "맥북에서 App Store를 실행한 후 '스토어' - '로그아웃' 순서로 클릭"
+              text "하면 끝."
+        container
+          container
+            anchor [ref=39, url=https://www.google.com/goto?url=CAESXgHEIkXXsz7lwq2qz9piG3FfLKoeNHyj1TsXapjs3YOLMhFgR1ykVveCHuKRWYY9k3z0XSqKccivaURISwJGePx5XgiWMOOUKnFMLKcMQZ-zedoZKr2EFXWNyNrfgs8&gsessionid=R2lvwnuxHi72P7o6iznemINvgjNXi-sMQFmi8RLeePFSBbEfpPuEBA]
+              heading
+                text "[Mac] AppStore 로그인, 로그아웃"
+              container
+                image
+                container
+                  text "티스토리"
+                  container
+                    text "https://openarisu.tistory.com"
+                    text "› ..."
+            button "검색결과에 관한 정보" [ref=40]
+              svg_root
+          container
+            container
+              text "2023. 12. 13."
+              text "—"
+            container
+              text "사용환경"
+              text "AppStore"
+              text "열고, 상단 메뉴에서 스토어 -"
+              text "로그아웃"
+              text "하면 된다. 보통"
+              text "로그아웃"
+              text "을 하는 이유는 다른 계정으로 접속하기 위한 것."
+[more content below the viewport: scrollY=0, viewport 1566 / page 2663 px; scroll or use snapshot({ scope: "full_page" })]

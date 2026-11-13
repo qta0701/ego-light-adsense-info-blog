@@ -1,1 +1,0 @@
-for(const [row,id] of [[51,21],[52,22],[53,23]]) {const t=await taskSpace(id),p=t.page('p1'); const s=await p.snapshot(); console.log('ROW',row,s.split('\n').filter(x=>/listitem|text "(번개장터|넷플릭스)|post\/edit|검색결과|검색 결과/.test(x)).join('\n'));}

@@ -1,0 +1,1 @@
+const task=await taskSpace(34),page=task.page('p1');await page.waitForFunction(()=>document.body.innerText.includes('진학어플라이 회원가입 방법: 통합회원 선택부터 입력까지')&&document.querySelector('a[href*="7209337448122097859"]'),undefined,{timeout:30000});console.log((await page.snapshot()).slice(-6000));

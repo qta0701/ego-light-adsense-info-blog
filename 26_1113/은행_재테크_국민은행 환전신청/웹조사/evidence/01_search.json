@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89%20%ED%99%98%EC%A0%84%EC%8B%A0%EC%B2%AD",
+  "title": "국민은행 환전신청 - Google 검색",
+  "width": 1280,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1264.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      104,
+      181.22500610351562,
+      289.9875183105469,
+      43.17499923706055
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "boxes": [
+    [
+      104,
+      181,
+      291,
+      44
+    ]
+  ],
+  "pixelSize": {
+    "width": 1280,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001562362589829,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1279.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:22:49.594Z"
+}

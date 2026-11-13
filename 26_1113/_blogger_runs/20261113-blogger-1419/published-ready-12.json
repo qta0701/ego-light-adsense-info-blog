@@ -1,0 +1,61 @@
+{
+  "runId": "20261113-blogger-1419",
+  "order": 12,
+  "tab": "은행_재테크",
+  "row": 16,
+  "keyword": "국민은행 통장사본 출력",
+  "spaceId": 42,
+  "blogId": "3013546958093270596",
+  "startedAt": "2026-11-13T05:23:12.105Z",
+  "stage": "published",
+  "expectedImages": 3,
+  "images": [
+    {
+      "id": "IMG_01",
+      "path": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/blogger-images/02_guide_detail.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMY12xaxZ81OsvILwiOd0o22PehEElSJqcMmtEhAxBsevubCzpX-TVpPYVzvcyeunnV1u1RO8gdwanLa5JwQFJ6nAzO9l31xxr7dKF4UrsMps9uZ_bCSLFC5wZTGMTIypsZEnJ6LRs4pNvBrvpX24PIZQMt64RkzBnjAIvTlxO4cLJMF70Tvt7plutRTs-/s1600/02_guide_detail.png",
+      "uploadedAt": "2026-11-13T05:29:49.233Z",
+      "order": 1,
+      "alt": "국민은행 뱅킹관리 제증명발급의 통장사본 메뉴",
+      "caption": "PC 뱅킹관리 화면에서 통장사본 메뉴를 표시했습니다. 2026년 11월 13일 확인."
+    },
+    {
+      "id": "IMG_02",
+      "path": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/blogger-images/03_guide_detail.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcNFlNpLFQcVBVgopGa3RXZtO-RrOnyBaxixlUUDHuIr8FKYywWwahFCjmPmulVIF7NH6FQBcE990igbcaAqIhhBeT1IC5MY_VT8D-3Nyb-LdffVLuokCqQz1QZBd6NuEUkzyIka0jh2Ui8fFtvmjYE4813FxyMQ9W6V6AP4IUT89m9ypQ4mBWSUnUnHfE/s1600/03_guide_detail.png",
+      "uploadedAt": "2026-11-13T05:31:54.688Z",
+      "order": 2,
+      "alt": "국민은행 로그인 화면의 세 가지 로그인 탭",
+      "caption": "로그인 방식 선택 화면이며 실제 로그인과 계좌 조회는 진행하지 않았습니다. 2026년 11월 13일 확인."
+    },
+    {
+      "id": "IMG_03",
+      "path": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/blogger-images/04_guide_detail.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9J6etc1iiYbLTS2hSlRpi56CywXi-Dove_PVUadZAhQIp5gzYiQc4IF27WLZpHGMqbk5CMWr878kvtPzzFZO8Bh1lMg1Iz_PcycqYhTqHp2hpj5CA9r-XK-OLTgUUeJk-SRGFeIGQrHnmm0PMdpT-hbaIwuesXC_1fUJ02KtmOFdrfw1CkFAg69xfkfOE/s1600/04_guide_detail.png",
+      "uploadedAt": "2026-11-13T05:32:02.000Z",
+      "order": 3,
+      "alt": "국민은행 STM 주요 가능 업무 중 통장 사본 출력 안내",
+      "caption": "STM 주요 가능 업무 표의 기타업무를 표시했습니다. 2026년 11월 13일 확인."
+    }
+  ],
+  "duplicateEvidence": "duplicate-final-12.txt",
+  "imageEvidence": "images-12.json",
+  "updatedAt": "2026-11-13T05:32:02.000Z",
+  "postId": "3094712966010604409",
+  "editorUrl": "https://www.blogger.com/blog/post/edit/3013546958093270596/3094712966010604409?hl=ko",
+  "createdAt": "2026-11-13T05:26:00.321Z",
+  "draftSavedAt": "2026-11-13T05:36:54.489461+00:00",
+  "verified": true,
+  "title": "국민은행 통장사본 출력 방법: PC·모바일 저장과 STM 안내",
+  "description": "국민은행 통장사본 출력의 PC 메뉴와 모바일 저장 안내, STM 대안 및 제출 전 확인사항을 정리했습니다.",
+  "labels": "국민은행,은행,통장사본,",
+  "permalink": "automatic",
+  "permalinkNote": "추천 슬러그 저장 후 미유지 확인, 자동 주소로 전환",
+  "verification": "같은 편집기 재진입 후 본문 원문과 URL 치환 결과 완전 일치; 이미지 ID/URL/순서/alt/캡션 및 잔여 토큰 확인",
+  "publishRequestedAt": "2026-11-13T05:50:22.583Z",
+  "url": "https://bank.supportimes.com/2026/11/pc-stm.html",
+  "urlObservedAt": "2026-11-13T05:51:01.687Z",
+  "publishedAt": "2026-11-13T14:50:00+09:00",
+  "publicVerifiedAt": "2026-11-13T05:51:08.693415+00:00",
+  "publicEvidence": "public-12.json"
+}

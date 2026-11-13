@@ -1,0 +1,54 @@
+{
+  "url": "https://info.korail.com/info/contents.do?key=818",
+  "title": "고객참여 > 고객의소리 > 고객의소리 안내 및 신청 - 한국철도공사",
+  "width": 1000,
+  "height": 700,
+  "scrollX": 0,
+  "scrollY": 297.6000061035156,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 984.7999877929688,
+    "height": 700,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      219.53750610351562,
+      280,
+      187.60000610351562,
+      40
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1000,
+    "height": 700
+  },
+  "boxes": [
+    [
+      219,
+      280,
+      189,
+      40
+    ]
+  ],
+  "pixelSize": {
+    "width": 1000,
+    "height": 700
+  },
+  "pixelScale": {
+    "x": 1.0002000522199173,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 999.7999877929688,
+    "height": 700
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T03:51:46.675Z"
+}

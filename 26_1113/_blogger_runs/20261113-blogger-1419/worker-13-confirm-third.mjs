@@ -1,0 +1,5 @@
+const fs=await import('node:fs/promises'),root='Y:/antigravity-project/ego-light-adsense-info-blog',base=`${root}/26_1113/_blogger_runs/20261113-blogger-1419`;
+const task=await taskSpace(43),page=task.page('p1');await page.click('text="원본 크기"');await page.click('@299');
+await page.waitForFunction(()=>[...document.querySelectorAll('.CodeMirror')].some(x=>x.CodeMirror?.getValue().includes('02_guide.png')),undefined,{timeout:30000});
+const val=await page.evaluate(()=>[...document.querySelectorAll('.CodeMirror')].find(x=>x.CodeMirror)?.CodeMirror.getValue());const url=[...val.matchAll(/src="(https:\/\/blogger\.googleusercontent\.com\/[^"]+)"/g)].map(x=>x[1]).find(x=>x.endsWith('/02_guide.png'));if(!url)throw Error('missing URL');
+const path=`${root}/26_1113/은행_재테크_신한은행 간편조회/웹조사/evidence/blogger-state.json`,state=JSON.parse(await fs.readFile(path,'utf8'));state.images.push({id:'IMG_03',file:'02_guide.png',url,uploadedAt:new Date().toISOString()});await fs.writeFile(path,JSON.stringify(state,null,2));await fs.writeFile(`${base}/state-13.json`,JSON.stringify(state,null,2));console.log(JSON.stringify({url}));

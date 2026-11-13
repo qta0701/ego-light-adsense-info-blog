@@ -1,0 +1,1 @@
+const task=await taskSpace(46),page=task.page('p1');console.log((await page.snapshot()).slice(0,5000));console.log(JSON.stringify(await page.evaluate(()=>{const a=document.querySelector('a[href*="/blog/post/edit/1872124715220437079/7673303939056881825"]');return {parent:a?.parentElement?.outerHTML.slice(0,12000)}})));

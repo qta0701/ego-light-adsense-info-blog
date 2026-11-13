@@ -1,0 +1,30 @@
+{
+  "status": "agent_review_complete",
+  "checkedAt": "2026-11-13 Asia/Seoul",
+  "automaticValidation": {
+    "exitCode": 1,
+    "errors": [
+      "본문 1981자: 3500~5500자 필요(출처/이미지 목록 제외)",
+      "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+    ]
+  },
+  "quantityAdjustment": "구 도구의 3500자 및 안내 4장 고정 기준과 현재 권장 기준 차이. 로그인 경계와 공개 화면의 정보 범위에 맞췄고 중복 화면을 늘리지 않음.",
+  "manualChecks": [
+    "원본과 발행 이미지 전체 시각 비교: 표식, 캡션, 단계, 가독성, 팝업, 검색 주소와 계정 가림 확인",
+    "PNG 열림, 픽셀 크기, 원본 및 발행 SHA-256, 중복 원본, 이미지별 실제 URL과 Markdown 상대 경로 확인",
+    "공식 본문과 요약을 대조하고 로그인 이후 미확인과 시점 의존 조건 명시"
+  ],
+  "limitations": "USD 선택 후 조회했으나 단일 통화로 결과 갱신 여부 미확인; 캡처 값은 당시 예시",
+  "contentDecision": "핵심 의도에 대한 공식 진입·범위·확인 방법과 활용 가능한 실제 이미지 확보. 미확인 경계 명시.",
+  "rawImages": 4,
+  "publishedImages": 4,
+  "artifactHashes": {
+    "publish\\01_search.png": "04534ff181ae87e5021deb503cd5d851bdcad805e44c252365f8fd625696d02f",
+    "publish\\02_guide.png": "a49fd005793980728ea275d48103771555b0c169fc956f859e959bb8f95421a8",
+    "publish\\03_guide.png": "34a17554eb3efc03be6930268ec6ca0870a2c47017fbf87cbe26ea086ee60adf",
+    "publish\\04_guide.png": "dd5b613446f352be084f21ff64962155d7bfc79c1d71201aadbad96ef65c0854",
+    "publish\\은행_재테크_하나은행 환율조회_웹조사결과.md": "b2535229700358a5a23150e6d9e6bbe4aedb237fff0d6b7181077b33d5a0dd4a"
+  },
+  "researchSha256": "d909154f63ada44bb823e7427ffa003ca7e8a700a08a5f479e6f0783d5210fc6",
+  "unusedRaw": []
+}

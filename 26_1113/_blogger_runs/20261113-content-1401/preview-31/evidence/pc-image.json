@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:18771/26_1113/_blogger_runs/20261113-content-1401/preview-31/preview.html",
+  "title": "",
+  "width": 1200,
+  "height": 800,
+  "scrollX": 0,
+  "scrollY": 3068.800048828125,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1184.800048828125,
+    "height": 800,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [],
+  "requestedViewport": {
+    "width": 1200,
+    "height": 800
+  },
+  "boxes": [],
+  "pixelSize": {
+    "width": 1200,
+    "height": 800
+  },
+  "pixelScale": {
+    "x": 1.0001666537454055,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1199.800048828125,
+    "height": 800
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T05:07:50.958Z"
+}

@@ -1,0 +1,85 @@
+{
+  "section": "knowhow-1",
+  "tab": "노하우",
+  "thread": "01a1d30f-7f36-7783-b692-7299379c3900",
+  "status": "complete",
+  "rows": [
+    {
+      "row": 34,
+      "keyword": "앱스토어 국가변경",
+      "space": 5,
+      "status": "complete",
+      "resultPath": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/노하우_앱스토어 국가변경_웹조사결과.md",
+      "rawImages": 4,
+      "publishImages": 4,
+      "markedImages": 4,
+      "sheet": {
+        "before": "I 키워드 일치, A·C 공란 및 서식·검증 확인",
+        "write": "A 날짜값 46339, C 한글 ㅇ",
+        "verify": "A 2026-11-13(날짜값 46339), C ㅇ, I 키워드 일치",
+        "verifiedAtKST": "2026-11-13T13:08:19+09:00"
+      },
+      "automaticErrors": [
+        "본문 1276자: 3500~5500자 필요(출처/이미지 목록 제외)",
+        "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+      ],
+      "failure": "Apple 실제 기기 조작 대신 공식 지원 문서 화면. 로그인·결제·변경은 수행하지 않음.",
+      "resume": null,
+      "spaceCleanup": "finish closedSpace=true, 후속 목록에 없음"
+    },
+    {
+      "row": 35,
+      "keyword": "코레일 승차권 조회",
+      "space": 6,
+      "status": "complete",
+      "resultPath": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/노하우_코레일 승차권 조회_웹조사결과.md",
+      "rawImages": 7,
+      "publishImages": 4,
+      "markedImages": 4,
+      "sheet": {
+        "before": "I 키워드 일치, A·C 공란 및 서식·검증 확인",
+        "write": "A 날짜값 46339, C 한글 ㅇ",
+        "verify": "A 2026-11-13(날짜값 46339), C ㅇ, I 키워드 일치",
+        "verifiedAtKST": "2026-11-13T13:08:19+09:00"
+      },
+      "automaticErrors": [
+        "본문 1209자: 3500~5500자 필요(출처/이미지 목록 제외)",
+        "중복 없는 출처 1~2개 필요",
+        "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+      ],
+      "failure": "로그인·본인 인증 후 실제 승차권을 열지 않음. 팝업이 가린 03/04/05 원본을 보존하고 06/07을 재촬영해 발행.",
+      "resume": null,
+      "spaceCleanup": "finish closedSpace=true, 후속 목록에 없음"
+    },
+    {
+      "row": 36,
+      "keyword": "모바일 티머니 환불",
+      "space": 7,
+      "status": "complete",
+      "resultPath": "26_1113/노하우_모바일 티머니 환불/웹조사/publish/노하우_모바일 티머니 환불_웹조사결과.md",
+      "rawImages": 4,
+      "publishImages": 4,
+      "markedImages": 4,
+      "sheet": {
+        "before": "I 키워드 일치, A·C 공란 및 서식·검증 확인",
+        "write": "A 날짜값 46339, C 한글 ㅇ",
+        "verify": "A 2026-11-13(날짜값 46339), C ㅇ, I 키워드 일치",
+        "verifiedAtKST": "2026-11-13T13:08:19+09:00"
+      },
+      "automaticErrors": [
+        "본문 1252자: 3500~5500자 필요(출처/이미지 목록 제외)",
+        "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+      ],
+      "failure": "실제 앱·환불은 실행하지 않음. LG유플러스 USIM 교체 관련 Android FAQ의 적용 범위를 명시. 수수료·처리 시간은 공식 근거가 없어 단정하지 않음. 02/04 대상의 블록 폭이 화면 밖이어서 텍스트 영역 재측정 후 캡처.",
+      "resume": null,
+      "spaceCleanup": "finish closedSpace=true, 후속 목록에 없음"
+    }
+  ],
+  "sheetId": 799022458,
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s/edit",
+  "concurrency": 3,
+  "threadCreated": "01a1d30f-7f36-7783-b692-7299379c3900",
+  "completedAtKST": "2026-11-13T13:08:19+09:00",
+  "spaceCleanup": "Space 5, 6, 7 각각 finish({keep: []}) closedSpace=true; 후속 listTaskSpaces 결과 비어 있음",
+  "sheetVisualVerification": "연결 도구의 서식 및 표시값 재조회; Google 렌더 화면은 별도 검수하지 않음"
+}

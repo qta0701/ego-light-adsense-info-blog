@@ -1,3 +1,0 @@
-import {observePage} from '../../../tools/research_observe.mjs';
-const jobs=[{id:3,folder:'26_1106/앱사용_코레일 승차권 전달/웹조사',q:'site:korail.com 승차권 전달하기 받는 방법'}, {id:4,folder:'26_1106/앱사용_당근마켓 채팅 걸기/웹조사',q:'site:daangn.com/wv/faqs 채팅 시작 동네생활'}];
-await Promise.all(jobs.map(async j=>{const p=(await taskSpace(j.id)).page('p1');await p.goto('https://www.google.com/search?q='+encodeURIComponent(j.q));console.log(JSON.stringify({id:j.id,obs:await observePage(p,j.folder,'supplement-search',{selector:'body',maxChars:1800,linksLimit:3}),links:await p.evaluate(()=>[...document.querySelectorAll('a')].filter(a=>a.querySelector('h3')).map(a=>({title:a.innerText.slice(0,150),url:a.href})).slice(0,8))}));}));

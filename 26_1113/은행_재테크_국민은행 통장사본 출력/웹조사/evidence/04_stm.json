@@ -1,0 +1,54 @@
+{
+  "url": "https://obank.kbstar.com/quics?page=C058772",
+  "title": "STM(Smart Teller Machine) 이용안내 ( 고객센터 | 금융서비스 | 전자금융서비스 | STM(Smart Teller Machine) | STM(Smart Teller Machine) 이용안내 )",
+  "width": 1440,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 523.2000122070312,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1424.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      482.3999938964844,
+      414.6000061035156,
+      720,
+      70.20000457763672
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "boxes": [
+    [
+      482,
+      414,
+      721,
+      71
+    ]
+  ],
+  "pixelSize": {
+    "width": 1440,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.000138874263852,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1439.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:36:32.772Z"
+}

@@ -1,0 +1,54 @@
+{
+  "url": "https://support.apple.com/ko-kr/118283",
+  "title": "Apple 계정 국가 또는 지역 변경하기 - Apple 지원 (KR)",
+  "width": 1100,
+  "height": 800,
+  "scrollX": 0,
+  "scrollY": 2793.60009765625,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1084.800048828125,
+    "height": 800,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      154.0500030517578,
+      336,
+      796.6749877929688,
+      128.40000915527344
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 800
+  },
+  "boxes": [
+    [
+      154,
+      336,
+      797,
+      129
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 800
+  },
+  "pixelScale": {
+    "x": 1.0001818068403325,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1099.800048828125,
+    "height": 800
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T05:04:30.158Z"
+}

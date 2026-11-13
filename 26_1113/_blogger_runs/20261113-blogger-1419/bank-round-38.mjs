@@ -1,0 +1,1 @@
+const p=(await taskSpace(42)).page('p1');await p.hover('loc=href:/blog/post/edit/3013546958093270596/3094712966010604409');const s=await p.snapshot();const i=s.indexOf('국민은행 통장사본 출력 방법:');console.log(s.slice(i,i+2000));

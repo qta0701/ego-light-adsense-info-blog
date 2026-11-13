@@ -1,0 +1,2 @@
+const fs=await import('node:fs/promises');const task=await taskSpace(34),page=task.page('p1');await page.click('text="확인"');await page.waitForURL('**/blog/posts/**',{timeout:30000});
+const file='Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/노하우2_진학어플라이 회원가입/웹조사/evidence/blogger-state.json';const state=JSON.parse(await fs.readFile(file,'utf8'));state.status='publish_requested';state.publishRequestedAt=new Date().toISOString();await fs.writeFile(file,JSON.stringify(state,null,2),'utf8');console.log((await page.snapshot()).slice(-5000));

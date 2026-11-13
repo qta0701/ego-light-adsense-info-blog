@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "runId": "20261113-d4faea6e",
+  "date": "2026-11-13",
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "concurrency": 3,
+  "jobs": [
+    {
+      "tab": "은행_재테크",
+      "row": 14,
+      "keyword": "부산은행 환전",
+      "queries": [
+        "부산은행 환전"
+      ],
+      "multiIntent": false,
+      "folder": "26_1113/은행_재테크_부산은행 환전/웹조사",
+      "spaceName": "research-20261113-d4faea6e-14-0"
+    },
+    {
+      "tab": "은행_재테크",
+      "row": 15,
+      "keyword": "국민은행 환전신청",
+      "queries": [
+        "국민은행 환전신청"
+      ],
+      "multiIntent": false,
+      "folder": "26_1113/은행_재테크_국민은행 환전신청/웹조사",
+      "spaceName": "research-20261113-d4faea6e-15-1"
+    },
+    {
+      "tab": "은행_재테크",
+      "row": 16,
+      "keyword": "국민은행 통장사본 출력",
+      "queries": [
+        "국민은행 통장사본 출력"
+      ],
+      "multiIntent": false,
+      "folder": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사",
+      "spaceName": "research-20261113-d4faea6e-16-2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+const fs=await import('node:fs/promises'),base='Y:/antigravity-project/ego-light-adsense-info-blog',run=`${base}/26_1113/_blogger_runs/20261113-blogger-1419`,name='노하우_앱스토어 국가변경',p=`${base}/26_1113/${name}/웹조사/evidence/blogger-state.json`;
+const s=JSON.parse(await fs.readFile(p,'utf8')),info=JSON.parse(await fs.readFile(`${run}/images-4.json`,'utf8')); if(s.images.some(x=>!x.url))throw Error('Missing URLs');
+const txt=await fs.readFile(info.txtPath,'utf8'), title=txt.match(/최종 추천 제목:\s*(.+)/)[1], description=txt.match(/최종 추천 메타디스크립션:\s*(.+)/)[1],labels=txt.match(/라벨 제안:\s*(.+)/)[1],slug=txt.match(/최종 추천 슬러그:\s*(.+)/)[1];
+let html=await fs.readFile(info.htmlPath,'utf8');for(const img of s.images) html=html.replaceAll(`{{BLOGGER_IMAGE_URL_${img.id}}}`,img.url); if(html.includes('{{BLOGGER_IMAGE_URL_'))throw Error('Remaining token'); await fs.writeFile(`${run}/completed-4.html`,html);
+const task=await taskSpace(s.spaceId),page=task.page('p1'); await page.fill('input[aria-label="제목"]',title);
+await page.click('text="검색 설명"'); await page.waitForSelector('textarea[aria-label="검색 설명 입력"]',{state:'visible',timeout:10000}); await page.fill('textarea[aria-label="검색 설명 입력"]',description);
+await page.click('text="라벨"'); await page.waitForSelector('textarea[aria-label="쉼표로 라벨을 구분하세요."]',{state:'visible',timeout:10000}); await page.fill('textarea[aria-label="쉼표로 라벨을 구분하세요."]',labels); await page.keyboard.type(','); await page.keyboard.press('Tab');
+await page.evaluate((value)=>{const el=[...document.querySelectorAll('.CodeMirror')].find(x=>x.CodeMirror&&x.offsetParent!==null); if(!el)throw Error('No editor'); el.CodeMirror.setValue(value);el.CodeMirror.save();},html);
+await page.click('loc=role:button[name="옵션 더보기"]'); console.log((await page.snapshot()).slice(0,3000));
+Object.assign(s,{metadata:{title,description,labels,slug,source:'txt'},stage:'content-entered',updatedAt:new Date().toISOString()});await fs.writeFile(p,JSON.stringify(s,null,2));

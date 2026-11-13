@@ -1,0 +1,86 @@
+{
+  "section": "issue-1",
+  "tab": "이슈",
+  "thread": "01a1d305-eefe-7150-97fd-cfec0e5472b9",
+  "status": "complete",
+  "rows": [
+    {
+      "row": 30,
+      "keyword": "앱스토어 로그아웃",
+      "space": 2,
+      "status": "complete",
+      "resultPath": "26_1113/이슈_앱스토어 로그아웃/웹조사/publish/이슈_앱스토어 로그아웃_웹조사결과.md",
+      "rawImages": 4,
+      "publishImages": 4,
+      "markedImages": 4,
+      "sheet": {
+        "before": "I 키워드 일치, A와 C 공란; 셀 서식·검증 확인",
+        "write": "A 날짜값 46339, C 한글 ㅇ",
+        "verify": "A 2026-11-13 (날짜값 46339), C ㅇ, I 키워드 일치",
+        "verifiedAtKST": "2026-11-13T12:58:38+09:00"
+      },
+      "automaticErrors": [
+        "본문 1034자: 3500~5500자 필요(출처/이미지 목록 제외)",
+        "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+      ],
+      "failure": "없음; 공식 화면 발췌 대안 사용",
+      "resume": null,
+      "spaceCleanup": "finished; closedSpace=true; 후속 목록에서 없음"
+    },
+    {
+      "row": 31,
+      "keyword": "코레일 민원접수",
+      "space": 3,
+      "status": "complete",
+      "resultPath": "26_1113/이슈_코레일 민원접수/웹조사/publish/이슈_코레일 민원접수_웹조사결과.md",
+      "rawImages": 5,
+      "publishImages": 4,
+      "markedImages": 4,
+      "sheet": {
+        "before": "I 키워드 일치, A와 C 공란; 셀 서식·검증 확인",
+        "write": "A 날짜값 46339, C 한글 ㅇ",
+        "verify": "A 2026-11-13 (날짜값 46339), C ㅇ, I 키워드 일치",
+        "verifiedAtKST": "2026-11-13T12:58:38+09:00"
+      },
+      "automaticErrors": [
+        "본문 1056자: 3500~5500자 필요(출처/이미지 목록 제외)",
+        "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+      ],
+      "failure": "없음; 공식 화면 발췌 대안 사용",
+      "resume": null,
+      "spaceCleanup": "finished; closedSpace=true; 후속 목록에서 없음"
+    },
+    {
+      "row": 32,
+      "keyword": "테무 회원탈퇴",
+      "space": 4,
+      "status": "complete",
+      "resultPath": "26_1113/이슈_테무 회원탈퇴/웹조사/publish/이슈_테무 회원탈퇴_웹조사결과.md",
+      "rawImages": 4,
+      "publishImages": 4,
+      "markedImages": 4,
+      "sheet": {
+        "before": "I 키워드 일치, A와 C 공란; 셀 서식·검증 확인",
+        "write": "A 날짜값 46339, C 한글 ㅇ",
+        "verify": "A 2026-11-13 (날짜값 46339), C ㅇ, I 키워드 일치",
+        "verifiedAtKST": "2026-11-13T12:58:38+09:00"
+      },
+      "automaticErrors": [
+        "본문 877자: 3500~5500자 필요(출처/이미지 목록 제외)",
+        "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+      ],
+      "failure": "없음; 공식 화면 발췌 대안 사용",
+      "resume": null,
+      "spaceCleanup": "finished; closedSpace=true; 후속 목록에서 없음"
+    }
+  ],
+  "runManifest": "26_1113/_research_runs/20261113-992e177a/manifest.json",
+  "threadCreated": "01a1d305-eefe-7150-97fd-cfec0e5472b9",
+  "concurrency": 3,
+  "captureConcurrency": 1,
+  "captureCoordination": "이 채팅의 캡처는 순차 실행. 다른 독립 채팅과 공유되는 프로세스 간 잠금은 사용하지 않았으며 실제 겹침 여부는 확인하지 못함; 저장된 발행 이미지 전부를 원본과 대조함.",
+  "completedAtKST": "2026-11-13T12:58:38+09:00",
+  "sheetId": 448262533,
+  "spaceCleanup": "각 Space finish({keep:[]}) 반환 closedSpace=true; 후속 목록에서 2, 3, 4 없음",
+  "spaceListTransient": "첫 종료 직후 목록에 4가 잠시 표시되었으나 재조회에서 없음"
+}

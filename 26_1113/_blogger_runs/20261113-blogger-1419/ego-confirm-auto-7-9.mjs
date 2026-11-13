@@ -1,0 +1,3 @@
+for(const [order,space] of [[7,34],[8,36],[9,39]]) {
+ const task=await taskSpace(space),page=task.page('p1');await page.reload({waitUntil:'domcontentloaded',timeout:30000});await page.waitForFunction(()=>document.querySelector('input[aria-label="제목"]')?.value,undefined,{timeout:30000});await page.click('text="퍼머링크"');await page.waitForSelector('div[role=radio][aria-label^="자동 퍼머링크"]',{timeout:10000});const p=await page.evaluate(()=>({auto:document.querySelector('div[role=radio][aria-label^="자동 퍼머링크"]')?.getAttribute('aria-checked'),custom:document.querySelector('div[role=radio][aria-label^="맞춤 퍼머링크"]')?.getAttribute('aria-checked')}));console.log(JSON.stringify({order,...p}));if(p.auto!=='true')throw new Error(`auto not retained ${order}`);
+}

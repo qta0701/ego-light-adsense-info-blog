@@ -1,0 +1,54 @@
+{
+  "url": "https://terms.baemin.com/content/BAEMINCLUB_658",
+  "title": "배민클럽 이용약관",
+  "width": 1100,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 3290.39990234375,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1084.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      55,
+      411.6000061035156,
+      1014.7999877929688,
+      76.80000305175781
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 900
+  },
+  "boxes": [
+    [
+      55,
+      411,
+      1015,
+      78
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001818068403325,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1099.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:13:06.514Z"
+}

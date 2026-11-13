@@ -1,0 +1,55 @@
+{
+  "order": 9,
+  "row": 36,
+  "keyword": "배민클럽 환불",
+  "spaceId": 39,
+  "blogId": "3087664879020853782",
+  "postId": "3381787049473391331",
+  "editorUrl": "https://www.blogger.com/blog/post/edit/3087664879020853782/3381787049473391331?hl=ko",
+  "at": "2026-11-13T14:36:57.519326+09:00",
+  "originalCount": 4,
+  "uploadedCount": 4,
+  "substitutedCount": 0,
+  "excludedCount": 0,
+  "images": [
+    {
+      "id": "IMG_01",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbeb9BBddgS2XxHZ2gIw3sLns7J05O0unUDYGIYdUFDyQ2Z94y0-eQYAbavzw9tNzOa21oRm9c4wApfUu0pTnpnKNLKtUicK88V_W8CRtY2V2owK1ziG0H6PdQ0H7bwPNOkvPMaaF6Z6gS4jQE8RFIAYXGQcuEPgj5FPnLqAHQzF1yJxOXlwIPdORDEeEE/s1600/03_01_refund.png",
+      "alt": "배민클럽 이용약관 제11조의 전액 환불 요건을 강조한 화면",
+      "caption": "전액 환불 요건을 표시한 공식 약관 화면입니다. 2026년 11월 13일 확인."
+    },
+    {
+      "id": "IMG_02",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGOXGJX9-p5zoc9CN5qrMOTqUCJfLm6UFb3cHHTDh1TtnuK4yGKv8jorphInnIr4dfFVZloOXedaB-pVdDChiv94q2OVq2V_fGsxjZ6wmr0SAyPBzhTKcsVKcbia7G3jM1eFmKDVc8X_qDzuVmSYCkvVzrlcCpZPR-DwNZysvuY8-5LhvYgM_mt9_mt9IX/s1600/02_06_entry.png",
+      "alt": "외부 안내 글에 정리된 마이배민부터 해지 예약까지의 경로",
+      "caption": "외부 안내의 절차 요약입니다. 실제 앱 화면이 아니며 2026년 11월 13일 확인했습니다."
+    },
+    {
+      "id": "IMG_03",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7qEQLwrlcRa31qem1lrJBBdghW-qqmujkM89NTofBvbFW-Neud8CY-TlweW9C4xw500PCwgREobguotOf9w1zlLW8J4-qiLLWvLR-WxqBLDDKK-t8volm9ndjOYoP3JN_yzflN19q1m4JorB7yfaL__I7I2Qtpl4ztFCkiz1jxsu93BpGx_RI5MljPp7F/s1600/02_cancel_detail.png",
+      "alt": "배민클럽 약관에서 정기결제 해지와 이용기간 종료 조항을 강조한 화면",
+      "caption": "정기결제 해지 후 이용기간에 관한 공식 약관 발췌입니다. 2026년 11월 13일 확인."
+    },
+    {
+      "id": "IMG_04",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXleMjg6N1QRFzEeFEPaKA1TMH_M1_nV7Bo5oO0KR6HjvvV99FYqtes2LRFNwY7ZezW3vl5Pffx4o_RdgXzgbmNjI2LDTFjINQ5_YXZ4HARsneoFAqTrw-MdNK9J-u4z4hsWHuGz5HfW-gAtymMQYXWhsVQ0YV5tJhDLDdgPH50ypYLaiT7jnutPNMrrAG/s1600/04_03_long.png",
+      "alt": "배민클럽 약관 제11조의 장기 구독상품 공제 규정을 강조한 화면",
+      "caption": "장기 구독상품의 별도 규정을 표시한 공식 약관 화면입니다. 2026년 11월 13일 확인."
+    }
+  ],
+  "verification": {
+    "bodyMatched": true,
+    "title": "배민클럽 환불 조건과 해지 방법, 전액 환불 기준 확인",
+    "permalink": {
+      "mode": "auto",
+      "reason": "custom slug not retained on reload"
+    },
+    "desc": "배민클럽 환불의 전액 환불 요건과 앱 해지 경로, 장기 구독 및 프로모션 예외를 확인하세요.",
+    "labels": [
+      "배민클럽",
+      "환불",
+      "구독 해지"
+    ]
+  },
+  "evidence": "stored CodeMirror HTML matched final HTML on editor reload; title, description, labels checked"
+}

@@ -1,1 +1,0 @@
-const p=(await taskSpace(4)).page('p1');await p.goto('https://www.google.com/search?q='+encodeURIComponent('당근마켓 채팅 걸기'));await p.cdp('Emulation.setDeviceMetricsOverride',{width:1100,height:900,deviceScaleFactor:1,mobile:false});await p.keyboard.press('Control+-');console.log(JSON.stringify(await p.evaluate(()=>({width:innerWidth,height:innerHeight,dpr:devicePixelRatio}))));

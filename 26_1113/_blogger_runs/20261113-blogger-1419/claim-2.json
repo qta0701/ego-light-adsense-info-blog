@@ -1,0 +1,16 @@
+{
+  "token": "38ac21fb75c145f68834a6379b59dbd0",
+  "job": {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "tab": "이슈",
+    "row": 31,
+    "folder": "26_1113/이슈_코레일 민원접수",
+    "stage": "B",
+    "owner": "20261113-blogger-1419"
+  },
+  "createdAt": "2026-11-13T14:20:41.635125+09:00",
+  "locks": [
+    ".session/blogger-workflow/locks/8ece1216b1ec4b59a73d8e5c9208a8b8fca0afda6135e96254f5607f476a5464.json",
+    ".session/blogger-workflow/locks/49a7f3f4557499b9f4f391cd561b71db2bbe785ac7ecf26cccb6643c69718fae.json"
+  ]
+}

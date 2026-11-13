@@ -1,0 +1,54 @@
+{
+  "url": "https://obank.kbstar.com/quics?page=C102233&cc=b028364:b105107&QSL=F",
+  "title": "[외환_팝업]환전/환율 ( 개인뱅킹 | 외환 | 외환공통팝업 | [외환_팝업]환전/환율 )",
+  "width": 1200,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1184.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      40.79999923706055,
+      206.1999969482422,
+      1088,
+      39.60000228881836
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1200,
+    "height": 900
+  },
+  "boxes": [
+    [
+      40,
+      206,
+      1089,
+      40
+    ]
+  ],
+  "pixelSize": {
+    "width": 1200,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001666537454055,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1199.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:32:56.670Z"
+}

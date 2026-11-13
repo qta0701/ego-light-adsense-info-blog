@@ -1,1 +1,0 @@
-const fs=await import('node:fs/promises');const t=await taskSpace(15),p=t.page('p1');await p.click('loc=role:button[name="게시"]');const snap=await p.snapshot();console.log(snap.split('\n').slice(-15).join('\n'));

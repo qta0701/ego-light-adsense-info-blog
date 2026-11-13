@@ -1,0 +1,2 @@
+const fs=await import('node:fs/promises'),base='Y:/antigravity-project/ego-light-adsense-info-blog',run=`${base}/26_1113/_blogger_runs/20261113-blogger-1419`,p=`${base}/26_1113/노하우_앱스토어 국가변경/웹조사/evidence/blogger-state.json`,s=JSON.parse(await fs.readFile(p,'utf8')),ok=JSON.parse(await fs.readFile(`${run}/publish-ok-4.json`,'utf8'));
+if(ok.postId!==s.postId||!ok.serialized||ok.H!=='blank')throw Error('Approval mismatch');const task=await taskSpace(s.spaceId),page=task.page('p1');await page.click('loc=role:button[name="게시"]');console.log((await page.snapshot()).slice(-2000));

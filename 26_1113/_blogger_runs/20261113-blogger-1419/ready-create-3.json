@@ -1,0 +1,63 @@
+{
+  "order": 3,
+  "row": 32,
+  "tab": "이슈",
+  "keyword": "테무 회원탈퇴",
+  "spaceId": 38,
+  "blogId": "694192108971227039",
+  "preparedAt": "2026-11-13T05:24:47.721257+00:00",
+  "originalImageCount": 4,
+  "images": [
+    {
+      "id": "IMG_01",
+      "order": 1,
+      "original": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_테무 회원탈퇴\\웹조사\\raw\\01_search.png",
+      "upload": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_테무 회원탈퇴\\웹조사\\publish\\01_search.png",
+      "sha256": "acf66e4386fb95320bbb6482470547d9a80cd026c37a00c3587f967c986b109e",
+      "alt": "테무 계정 영구 삭제 공식 도움말 검색 결과 제목 강조",
+      "caption": "공식 도움말 검색 결과 예시, 2026년 11월 13일 확인",
+      "sourceAndEditEvidence": "추천 업로드 순서 / 본문 노출 순서: 1 / 1\n원래 파일번호 / 원본 파일명과 경로: 01 / 26_1113/이슈_테무 회원탈퇴/웹조사/raw/01_search.png\n업로드 파일 경로: 26_1113/이슈_테무 회원탈퇴/웹조사/publish/01_search.png\n이미지 내부 표식 번호 / 본문 절차 번호: 1 / 해당 없음 (안내 경로에 배치)\n역할: search\n설명하는 내용 / 실제 화면 종류: 테무 계정 영구 삭제 공식 도움말 검색 결과 제목 강조 / Google 검색 결과 발췌\n삽입 소제목: H2 공식 안내와 탈퇴 전 확인 / id=official\n직전 문단: id=official-intro / 공식 도움말을 찾을 때는 검색 결과의 Temu 고객센터 제목을 확인하세요.\n직후 문단: id=official-result / 검색 결과의 표시 내용은 바뀔 수 있으므로 열리는 주소가 Temu 공식 사이트인지 확인하세요.\nHTML 위치: id=img-01 / data-image-id=IMG_01 / IMAGE_SLOT:IMG_01 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_01}}\n권장 alt: 테무 계정 영구 삭제 공식 도움말 검색 결과 제목 강조\n권장 캡션: 공식 도움말 검색 결과 예시, 2026년 11월 13일 확인\n실제 이미지 크기 / 표시 원칙: 780×100px / 가로 100% 이내, 비율 유지\n출처 ID·출처명 / 실제 화면 URL / 확인일: S1 / Google 검색 결과 / 실제로 연 Temu 고객센터 / https://www.google.com/search?q=%ED%85%8C%EB%AC%B4%20%ED%9A%8C%EC%9B%90%ED%83%88%ED%87%B4 / 2026-11-13\n검색 이미지의 실제 연 공식 결과 URL: https://www.temu.com/kr/support/c3/support-f-54-s-124.html\n채택 사유·편집: 해당 설명의 공식 근거를 보완 / 조사 단계에서 발췌와 빨간 테두리·번호 적용, 원본 보존\n가림·가독성: 발행본에서 계정 표시 없음, 원본 대비 직접 확인. 모바일 축소 시 작은 글자는 본문 텍스트로도 제공.\n원래 순서와 변경: 없음\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음",
+      "status": "ready_original"
+    },
+    {
+      "id": "IMG_02",
+      "order": 2,
+      "original": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_테무 회원탈퇴\\웹조사\\raw\\02_app.png",
+      "upload": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_테무 회원탈퇴\\웹조사\\publish\\02_guide.png",
+      "sha256": "dd3e12535a25ef5485b05f76a4a86d43734851aa47c62fbd089f7e077987f849",
+      "alt": "Temu 공식 도움말에서 앱 설정과 계정 보안 경로 강조",
+      "caption": "앱 조작 화면이 아닌 공식 도움말 발췌, 2026년 11월 13일 확인",
+      "sourceAndEditEvidence": "추천 업로드 순서 / 본문 노출 순서: 2 / 2\n원래 파일번호 / 원본 파일명과 경로: 02 / 26_1113/이슈_테무 회원탈퇴/웹조사/raw/02_app.png\n업로드 파일 경로: 26_1113/이슈_테무 회원탈퇴/웹조사/publish/02_guide.png\n이미지 내부 표식 번호 / 본문 절차 번호: 2 / 해당 없음 (안내 경로에 배치)\n역할: guide\n설명하는 내용 / 실제 화면 종류: Temu 공식 도움말에서 앱 설정과 계정 보안 경로 강조 / Temu 공식 고객센터 안내문 발췌, 실제 앱·웹 계정 화면 아님\n삽입 소제목: H2 앱에서 테무 회원탈퇴 요청하기 / id=app\n직전 문단: id=app-intro / 아래는 앱의 설정과 계정 보안 경로를 표시한 공식 도움말 발췌입니다.\n직후 문단: id=app-result / 계정 보안 메뉴 하단에서 Temu 계정 삭제를 선택하고 이어지는 안내를 확인하세요.\nHTML 위치: id=img-02 / data-image-id=IMG_02 / IMAGE_SLOT:IMG_02 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_02}}\n권장 alt: Temu 공식 도움말에서 앱 설정과 계정 보안 경로 강조\n권장 캡션: 앱 조작 화면이 아닌 공식 도움말 발췌, 2026년 11월 13일 확인\n실제 이미지 크기 / 표시 원칙: 755×90px / 가로 100% 이내, 비율 유지\n출처 ID·출처명 / 실제 화면 URL / 확인일: S1 / Temu 고객센터 S1 / https://www.temu.com/kr/support/c3/support-f-54-s-124.html / 2026-11-13\n검색 이미지의 실제 연 공식 결과 URL: 해당 없음\n채택 사유·편집: 해당 설명의 공식 근거를 보완 / 조사 단계에서 발췌와 빨간 테두리·번호 적용, 원본 보존\n가림·가독성: 발행본에서 계정 표시 없음, 원본 대비 직접 확인. 모바일 축소 시 작은 글자는 본문 텍스트로도 제공.\n원래 순서와 변경: 없음\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음",
+      "status": "ready_original"
+    },
+    {
+      "id": "IMG_03",
+      "order": 3,
+      "original": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_테무 회원탈퇴\\웹조사\\raw\\03_web.png",
+      "upload": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_테무 회원탈퇴\\웹조사\\publish\\03_guide.png",
+      "sha256": "d95b4d26f55aa30f943cef9a628f8df04930e1b00b1820bd5aded19ac46fe168",
+      "alt": "Temu 공식 도움말에서 웹 로그인과 우측 상단 아바타 안내 강조",
+      "caption": "웹 조작 화면이 아닌 공식 도움말 발췌, 2026년 11월 13일 확인",
+      "sourceAndEditEvidence": "추천 업로드 순서 / 본문 노출 순서: 3 / 3\n원래 파일번호 / 원본 파일명과 경로: 03 / 26_1113/이슈_테무 회원탈퇴/웹조사/raw/03_web.png\n업로드 파일 경로: 26_1113/이슈_테무 회원탈퇴/웹조사/publish/03_guide.png\n이미지 내부 표식 번호 / 본문 절차 번호: 3 / 해당 없음 (안내 경로에 배치)\n역할: guide\n설명하는 내용 / 실제 화면 종류: Temu 공식 도움말에서 웹 로그인과 우측 상단 아바타 안내 강조 / Temu 공식 고객센터 안내문 발췌, 실제 앱·웹 계정 화면 아님\n삽입 소제목: H2 웹에서 테무 계정 삭제 요청하기 / id=web\n직전 문단: id=web-intro / 아래 공식 도움말 발췌는 웹에서 로그인 후 우측 상단 아바타를 선택하는 경로를 보여줍니다.\n직후 문단: id=web-result / 웹에서는 계정 보안을 열고 화면 하단의 Temu 계정 삭제를 선택하세요.\nHTML 위치: id=img-03 / data-image-id=IMG_03 / IMAGE_SLOT:IMG_03 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_03}}\n권장 alt: Temu 공식 도움말에서 웹 로그인과 우측 상단 아바타 안내 강조\n권장 캡션: 웹 조작 화면이 아닌 공식 도움말 발췌, 2026년 11월 13일 확인\n실제 이미지 크기 / 표시 원칙: 755×86px / 가로 100% 이내, 비율 유지\n출처 ID·출처명 / 실제 화면 URL / 확인일: S1 / Temu 고객센터 S1 / https://www.temu.com/kr/support/c3/support-f-54-s-124.html / 2026-11-13\n검색 이미지의 실제 연 공식 결과 URL: 해당 없음\n채택 사유·편집: 해당 설명의 공식 근거를 보완 / 조사 단계에서 발췌와 빨간 테두리·번호 적용, 원본 보존\n가림·가독성: 발행본에서 계정 표시 없음, 원본 대비 직접 확인. 모바일 축소 시 작은 글자는 본문 텍스트로도 제공.\n원래 순서와 변경: 없음\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음",
+      "status": "ready_original"
+    },
+    {
+      "id": "IMG_04",
+      "order": 4,
+      "original": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_테무 회원탈퇴\\웹조사\\raw\\04_term.png",
+      "upload": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_테무 회원탈퇴\\웹조사\\publish\\04_guide.png",
+      "sha256": "3670e51dd0136ad27bb5bd4c132b84d1a32e5294ed1009eb85f2187fe6f858d1",
+      "alt": "Temu 공식 도움말의 자동 로그아웃과 7영업일 이내 삭제 안내 강조",
+      "caption": "삭제 처리와 취소에 관한 공식 도움말 발췌, 2026년 11월 13일 확인",
+      "sourceAndEditEvidence": "추천 업로드 순서 / 본문 노출 순서: 4 / 4\n원래 파일번호 / 원본 파일명과 경로: 04 / 26_1113/이슈_테무 회원탈퇴/웹조사/raw/04_term.png\n업로드 파일 경로: 26_1113/이슈_테무 회원탈퇴/웹조사/publish/04_guide.png\n이미지 내부 표식 번호 / 본문 절차 번호: 4 / 해당 없음 (안내 경로에 배치)\n역할: reference\n설명하는 내용 / 실제 화면 종류: Temu 공식 도움말의 자동 로그아웃과 7영업일 이내 삭제 안내 강조 / Temu 공식 고객센터 안내문 발췌, 실제 앱·웹 계정 화면 아님\n삽입 소제목: H2 삭제 처리와 취소는 어떻게 되나요? / id=after\n직전 문단: id=after-intro / 공식 도움말은 삭제 요청 후 처리와 취소에 관해 다음과 같이 안내합니다.\n직후 문단: id=after-result / 요청과 삭제 완료는 다른 시점이므로 계정을 유지하려면 기한 전에 로그인해 취소 안내를 확인하세요.\nHTML 위치: id=img-04 / data-image-id=IMG_04 / IMAGE_SLOT:IMG_04 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_04}}\n권장 alt: Temu 공식 도움말의 자동 로그아웃과 7영업일 이내 삭제 안내 강조\n권장 캡션: 삭제 처리와 취소에 관한 공식 도움말 발췌, 2026년 11월 13일 확인\n실제 이미지 크기 / 표시 원칙: 755×145px / 가로 100% 이내, 비율 유지\n출처 ID·출처명 / 실제 화면 URL / 확인일: S1 / Temu 고객센터 S1 / https://www.temu.com/kr/support/c3/support-f-54-s-124.html / 2026-11-13\n검색 이미지의 실제 연 공식 결과 URL: 해당 없음\n채택 사유·편집: 해당 설명의 공식 근거를 보완 / 조사 단계에서 발췌와 빨간 테두리·번호 적용, 원본 보존\n가림·가독성: 발행본에서 계정 표시 없음, 원본 대비 직접 확인. 모바일 축소 시 작은 글자는 본문 텍스트로도 제공.\n원래 순서와 변경: 없음\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음",
+      "status": "ready_original"
+    }
+  ],
+  "html": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_테무 회원탈퇴\\웹조사\\publish\\이슈_테무 회원탈퇴_html콘텐츠.html",
+  "txt": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_테무 회원탈퇴\\웹조사\\publish\\이슈_테무 회원탈퇴_제목메타디스크립션.txt",
+  "backup": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\_blogger_runs\\20261113-blogger-1419\\original-3",
+  "duplicateEvidence": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\_blogger_runs\\20261113-blogger-1419\\duplicate-settled-3.txt",
+  "duplicateFinding": "keyword search contained no corresponding title; no matching draft observed",
+  "visualEvidence": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\_blogger_runs\\20261113-blogger-1419\\images-contact.png",
+  "next": "wait for create-ok"
+}

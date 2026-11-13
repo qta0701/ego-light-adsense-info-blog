@@ -1,0 +1,18 @@
+{
+  "url": "https://info.korail.com/mbs/www/jsp/voc/fe/login/NR_loginForm.do",
+  "title": "로그인 | KORAIL 한국철도공사",
+  "text": "한국철도공사 고객의 소리 신청 서비스는 로그인 후 이용하실 수 있습니다.\n\n회원 로그인\n회원 로그인 폼\n방법선택\t\n맴버십번호 로그인\n이메일 로그인\n휴대번호 로그인\n\n아이디\t\n\n비밀번호\t\n로그인\n회원가입\t회원번호/비밀번호찾기\n비회원 실명인증\n휴대폰 본인인증\n\n제공된 본인 확인 방법으로 본인확인 절차가 불가능하신 경우 고객센터(1588-7788)로 문의하여 주시기 바랍니다.\n\n한국철도공사 / 34618 대전광역시 동구 중앙로 240 / 대표전화 1588-7788 / 팩스번호 02-361-8385\n\nCOPYRIGHT © KOREA RAILROAD. ALL RIGHT RESERVED.",
+  "links": [
+    {
+      "title": "회원가입",
+      "url": "http://www.korail.com/ticket/membership/ageCheck"
+    },
+    {
+      "title": "회원번호/비밀번호찾기",
+      "url": "http://www.korail.com/ticket/membership/findMember"
+    }
+  ],
+  "selector": "body",
+  "sha256": "6ee07c2bac2bb3b0d9f06ceae2f542595d425ed24f13ec0974d91551db414b08",
+  "checkedAt": "2026-11-13T03:51:47.231Z"
+}

@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=%EC%A7%84%ED%95%99%EC%96%B4%ED%94%8C%EB%9D%BC%EC%9D%B4%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85",
+  "title": "진학어플라이 회원가입 - Google 검색",
+  "width": 1280,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1264.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      104,
+      206,
+      275.4750061035156,
+      33
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "boxes": [
+    [
+      104,
+      206,
+      276,
+      33
+    ]
+  ],
+  "pixelSize": {
+    "width": 1280,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001562362589829,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1279.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:10:29.815Z"
+}

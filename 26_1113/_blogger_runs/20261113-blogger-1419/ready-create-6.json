@@ -1,0 +1,43 @@
+{
+  "runId": "20261113-blogger-1419",
+  "order": 6,
+  "tab": "노하우",
+  "row": 36,
+  "keyword": "모바일 티머니 환불",
+  "blogId": "1872124715220437079",
+  "spaceId": 48,
+  "startedAt": "2026-11-13T05:23:26.496Z",
+  "postId": null,
+  "images": [
+    {
+      "id": "IMG_01",
+      "path": "26_1113/노하우_모바일 티머니 환불/웹조사/publish/02_02_refund.png",
+      "raw": "26_1113/노하우_모바일 티머니 환불/웹조사/raw/02_refund.png",
+      "alt": "Android 선불충전형 환불 신청 경로를 표시한 티머니 공식 FAQ",
+      "caption": "티머니 공식 FAQ의 선불충전형 환불 경로",
+      "url": null
+    },
+    {
+      "id": "IMG_02",
+      "path": "26_1113/노하우_모바일 티머니 환불/웹조사/publish/03_03_postpaid.png",
+      "raw": "26_1113/노하우_모바일 티머니 환불/웹조사/raw/03_postpaid.png",
+      "alt": "USIM 교체 전 후불청구형 해지 경로를 표시한 티머니 공식 FAQ",
+      "caption": "티머니 공식 FAQ의 후불청구형 해지 안내",
+      "url": null
+    },
+    {
+      "id": "IMG_03",
+      "path": "26_1113/노하우_모바일 티머니 환불/웹조사/publish/04_04_usim.png",
+      "raw": "26_1113/노하우_모바일 티머니 환불/웹조사/raw/04_usim.png",
+      "alt": "이전 USIM 실물과 잔액 환불의 관계를 표시한 티머니 공식 FAQ",
+      "caption": "티머니 공식 FAQ의 이전 USIM 보관 안내",
+      "url": null
+    }
+  ],
+  "originalCount": 3,
+  "stage": "ready-create",
+  "duplicateCheckedAt": "2026-11-13T05:24:03.816Z",
+  "updatedAt": "2026-11-13T05:25:06.564Z",
+  "duplicateEvidence": "duplicate-6.json",
+  "imageEvidence": "images-6.json"
+}

@@ -1,0 +1,149 @@
+{
+  "keyword": "앱스토어 국가변경",
+  "originalQuery": "앱스토어 국가변경",
+  "row": 34,
+  "tab": "노하우",
+  "date": "2026-11-13",
+  "queries": [
+    "앱스토어 국가변경"
+  ],
+  "multiIntent": false,
+  "body": "## 먼저 확인할 사항\nApp Store에서 이용하는 Apple 계정의 국가나 지역을 바꾸려면 기기 설정 또는 Apple 계정 웹사이트에서 변경할 수 있습니다. 진행 전 계정 잔액, 구독과 처리 중인 항목을 먼저 확인하세요. 새 국가에서 사용 가능한 콘텐츠와 결제 수단도 이전과 다를 수 있습니다. 아래는 2026년 11월 13일 확인한 Apple 지원 문서 기준입니다. [S1]\n\n### 변경 전 준비\n1. Apple 계정에 남은 잔액을 사용합니다. 단일 품목보다 적은 잔액이 남았다면 Apple 지원에 문의해 잔액 처리 방법을 확인할 수 있습니다.\n2. 변경을 차단하는 구독은 취소하고 구독 기간이 끝날 때까지 기다립니다. 취소 버튼을 눌렀다는 사실과 이용 기간 종료는 별개입니다.\n3. 멤버십, 사전 주문, 영화 대여, 시즌 패스와 처리 중인 환불이 끝날 때까지 기다립니다. 가족 공유 그룹에 속한 경우 변경하지 못할 수도 있습니다.\n4. 새 국가나 지역에서 유효한 결제 수단이 필요할 수 있으므로 미리 확인합니다. 일부 콘텐츠는 새 지역에서 이용할 수 없으므로 필요한 앱과 콘텐츠를 사용할 기기에 다시 다운로드합니다. Apple One이나 iCloud+ 해지 시에는 저장 정보에 미치는 영향도 확인하세요. [S1]\n\n### iPhone 또는 iPad에서 변경\n1. **설정 → 사용자 이름**을 누릅니다.\n2. **미디어 및 구입 항목**을 선택합니다. Apple 계정에 로그인해야 할 수 있습니다.\n3. **국가/지역**을 누르고 원하는 국가 또는 지역을 선택합니다.\n4. **계속**을 누르고 이용 약관을 살펴본 후 동의합니다.\n5. 결제 방법을 고르고 새 결제 정보와 청구 주소를 입력한 다음 **완료**를 누릅니다. 실제 입력 화면은 기기와 계정 상태에 따라 달라질 수 있습니다. [S1]\n\n### Mac과 웹에서 변경\nMac에서는 Apple Music 또는 Apple TV 앱을 열고 메뉴 막대의 **계정 → 계정 설정 → 국가/지역**으로 이동합니다. 웹에서는 account.apple.com에 로그인한 뒤 **개인 정보 → 국가/지역**을 선택하고 안내를 따릅니다. 인증이나 결제 정보 입력은 본인 계정에서 직접 진행하세요. [S1]\n\n### 변경이 되지 않을 때\n구독이 실제로 종료되었는지, 남은 잔액과 보류 중인 활동이 있는지 먼저 확인합니다. 가족 공유도 제한 요인이 될 수 있습니다. 해결되지 않으면 Apple 지원에 문의하세요. 이 조사에서는 실제 계정 변경을 실행하지 않았으며, 발행 이미지는 Apple의 공개 안내 화면을 표시한 것입니다. [S1]",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Apple 지원, Apple 계정 국가 또는 지역 변경하기",
+      "url": "https://support.apple.com/ko-kr/118283",
+      "official": true,
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "images": [
+    {
+      "role": "search",
+      "file": "raw/01_search.png",
+      "publish": "publish/01_01_search.png",
+      "sourceId": "S1",
+      "caption": "Apple 공식 검색 결과",
+      "alt": "Apple 공식 검색 결과",
+      "boxes": [
+        [
+          104,
+          377,
+          213,
+          44
+        ]
+      ],
+      "crop": [
+        80,
+        340,
+        780,
+        460
+      ],
+      "markedBox": [
+        100,
+        360,
+        350,
+        437
+      ],
+      "screenUrl": "https://www.google.com/search?q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%20%EA%B5%AD%EA%B0%80%EB%B3%80%EA%B2%BD",
+      "query": "앱스토어 국가변경"
+    },
+    {
+      "role": "guide",
+      "file": "raw/02_conditions.png",
+      "publish": "publish/02_02_conditions.png",
+      "sourceId": "S1",
+      "caption": "국가 변경 전 구독과 잔액 등 확인",
+      "alt": "국가 변경 전 구독과 잔액 등 확인",
+      "boxes": [
+        [
+          154,
+          373,
+          797,
+          54
+        ]
+      ],
+      "crop": [
+        115,
+        130,
+        975,
+        710
+      ],
+      "markedBox": [
+        154,
+        373,
+        951,
+        427
+      ],
+      "screenUrl": "https://support.apple.com/ko-kr/118283"
+    },
+    {
+      "role": "guide",
+      "file": "raw/03_iphone.png",
+      "publish": "publish/03_03_iphone.png",
+      "sourceId": "S1",
+      "caption": "iPhone·iPad의 국가/지역 진입 단계",
+      "alt": "iPhone·iPad의 국가/지역 진입 단계",
+      "boxes": [
+        [
+          154,
+          386,
+          797,
+          28
+        ]
+      ],
+      "crop": [
+        115,
+        200,
+        970,
+        485
+      ],
+      "markedBox": [
+        135,
+        382,
+        750,
+        475
+      ],
+      "screenUrl": "https://support.apple.com/ko-kr/118283"
+    },
+    {
+      "role": "guide",
+      "file": "raw/04_payment.png",
+      "publish": "publish/04_04_payment.png",
+      "sourceId": "S1",
+      "caption": "국가 선택 후 약관 및 결제 정보 입력",
+      "alt": "국가 선택 후 약관 및 결제 정보 입력",
+      "boxes": [
+        [
+          154,
+          386,
+          797,
+          28
+        ]
+      ],
+      "crop": [
+        115,
+        270,
+        970,
+        430
+      ],
+      "markedBox": [
+        135,
+        285,
+        780,
+        412
+      ],
+      "screenUrl": "https://support.apple.com/ko-kr/118283"
+    }
+  ],
+  "limits": {
+    "bodyMin": 3500,
+    "bodyMax": 5500,
+    "guideMax": 8,
+    "referenceMax": 3,
+    "rawMax": 12
+  },
+  "exceptionReason": "공식 검색 1장과 서로 다른 안내·조건 화면 3장으로 핵심 내용을 설명. 앱이나 인증 후 화면은 공개 공식 안내 또는 인증 전 화면으로 대체.",
+  "visualReviewed": false
+}

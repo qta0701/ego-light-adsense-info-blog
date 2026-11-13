@@ -1,0 +1,280 @@
+{
+  "runId": "20261113-content-1401",
+  "status": "complete",
+  "queriedAt": "2026-11-13T14:00:00+09:00",
+  "popupCount": 15,
+  "tabCount": 4,
+  "sections": [
+    {
+      "id": "이슈-1",
+      "status": "complete",
+      "rows": [
+        {
+          "order": 1,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 448262533,
+          "tab": "이슈",
+          "row": 30,
+          "keyword": "앱스토어 로그아웃",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/이슈_앱스토어 로그아웃",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d348-dc18-7160-9248-8bb6968afc43",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        },
+        {
+          "order": 2,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 448262533,
+          "tab": "이슈",
+          "row": 31,
+          "keyword": "코레일 민원접수",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/이슈_코레일 민원접수",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d348-e830-7a62-9499-5215cf2d9bf7",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        },
+        {
+          "order": 3,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 448262533,
+          "tab": "이슈",
+          "row": 32,
+          "keyword": "테무 회원탈퇴",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/이슈_테무 회원탈퇴",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d348-f564-7050-a9d9-c958a33f9bbe",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        }
+      ]
+    },
+    {
+      "id": "노하우-1",
+      "status": "complete",
+      "rows": [
+        {
+          "order": 4,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 799022458,
+          "tab": "노하우",
+          "row": 34,
+          "keyword": "앱스토어 국가변경",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/노하우_앱스토어 국가변경",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d349-61b2-7a33-8481-e389b93cfa09",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        },
+        {
+          "order": 5,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 799022458,
+          "tab": "노하우",
+          "row": 35,
+          "keyword": "코레일 승차권 조회",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/노하우_코레일 승차권 조회",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d349-6c44-76a2-8624-43bbf100ae94",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        },
+        {
+          "order": 6,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 799022458,
+          "tab": "노하우",
+          "row": 36,
+          "keyword": "모바일 티머니 환불",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/노하우_모바일 티머니 환불",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d349-77d6-7372-96f8-489eb20e8771",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        }
+      ]
+    },
+    {
+      "id": "노하우2-1",
+      "status": "complete",
+      "rows": [
+        {
+          "order": 7,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 962861723,
+          "tab": "노하우2",
+          "row": 34,
+          "keyword": "진학어플라이 회원가입",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/노하우2_진학어플라이 회원가입",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d349-bdb3-70b3-adec-c4a34a836189",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        },
+        {
+          "order": 8,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 962861723,
+          "tab": "노하우2",
+          "row": 35,
+          "keyword": "인스타그램 탈퇴방법",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/노하우2_인스타그램 탈퇴방법",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d349-c883-7ed2-b1cf-575fc9efdb86",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        },
+        {
+          "order": 9,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 962861723,
+          "tab": "노하우2",
+          "row": 36,
+          "keyword": "배민클럽 환불",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/노하우2_배민클럽 환불",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d349-d3c7-7661-8607-f1b25c7534a9",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        }
+      ]
+    },
+    {
+      "id": "은행_재테크-1",
+      "status": "complete",
+      "rows": [
+        {
+          "order": 10,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 1126487498,
+          "tab": "은행_재테크",
+          "row": 14,
+          "keyword": "부산은행 환전",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/은행_재테크_부산은행 환전",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d34a-2169-7013-a290-82f30cc1056c",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        },
+        {
+          "order": 11,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 1126487498,
+          "tab": "은행_재테크",
+          "row": 15,
+          "keyword": "국민은행 환전신청",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/은행_재테크_국민은행 환전신청",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d34a-30fa-7670-b176-f3d406f5d20c",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        },
+        {
+          "order": 12,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 1126487498,
+          "tab": "은행_재테크",
+          "row": 16,
+          "keyword": "국민은행 통장사본 출력",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/은행_재테크_국민은행 통장사본 출력",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d34a-3bd3-7a52-8699-242d6d15d919",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        }
+      ]
+    },
+    {
+      "id": "은행_재테크-2",
+      "status": "complete",
+      "rows": [
+        {
+          "order": 13,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 1126487498,
+          "tab": "은행_재테크",
+          "row": 17,
+          "keyword": "신한은행 간편조회",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/은행_재테크_신한은행 간편조회",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d34a-86df-7f93-809b-40e62ae16824",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        },
+        {
+          "order": 14,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 1126487498,
+          "tab": "은행_재테크",
+          "row": 18,
+          "keyword": "신한은행 환전 방법",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/은행_재테크_신한은행 환전 방법",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d34a-9317-7622-af83-5aca3872db4b",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        },
+        {
+          "order": 15,
+          "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+          "sheetId": 1126487498,
+          "tab": "은행_재테크",
+          "row": 19,
+          "keyword": "하나은행 환율조회",
+          "sheetDate": "2026-11-13",
+          "sheetD": "ㅇ",
+          "folder": "26_1113/은행_재테크_하나은행 환율조회",
+          "folderEvidence": "research.json 탭·행·키워드 일치",
+          "scan": "create",
+          "status": "complete",
+          "threadId": "01a1d34a-a0bc-7d90-9a35-dbba863cf6e8",
+          "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+        }
+      ]
+    }
+  ],
+  "sheetVerifiedAt": "2026-11-13T14:14:08+09:00"
+}

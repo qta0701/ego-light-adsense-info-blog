@@ -1,2 +1,0 @@
-const fs=await import('node:fs/promises'),root='Y:/antigravity-project/ego-light-adsense-info-blog';
-for(const [row,id,k,ref] of [[51,21,'번개장터 카드 결제','@259'],[52,22,'넷플릭스 해지방법','@222'],[53,23,'넷플릭스 로그아웃 티비','@222']]) {const t=await taskSpace(id),p=t.page('p1'),file=`${root}/26_1111/앱사용_${k}/웹조사/evidence/blogger-state.json`,s=JSON.parse(await fs.readFile(file,'utf8'));s.publishRequestedAt=new Date().toISOString();await fs.writeFile(file,JSON.stringify(s,null,2));await p.click(ref);await p.waitForURL('**/blog/posts/**');console.log({row,url:await p.url()});}

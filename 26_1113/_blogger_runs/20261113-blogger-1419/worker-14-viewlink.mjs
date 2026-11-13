@@ -1,0 +1,1 @@
+const task=await taskSpace(44),page=task.page('p1');await page.hover('loc=href:/blog/post/edit/3013546958093270596/7278544979287004556');await page.waitForTimeout(300);const s=await page.snapshot();let n=s.indexOf('신한은행 환전 방법 PC');console.log(s.slice(n,n+1700));

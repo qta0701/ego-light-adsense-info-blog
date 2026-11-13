@@ -1,0 +1,6 @@
+const fs=await import('node:fs/promises');const root='Y:/antigravity-project/ego-light-adsense-info-blog';const keyword='부산은행 환전',page=(await taskSpace(40)).page('p1');const sp=`${root}/26_1113/은행_재테크_${keyword}/웹조사/evidence/blogger-state.json`;let state=JSON.parse(await fs.readFile(sp,'utf8'));
+await page.click('loc=role:menuitem[name="저장"]');await page.waitForSelector('text=변경사항이 저장되었습니다.',{timeout:20000});
+await page.goto(state.editorUrl,{waitUntil:'domcontentloaded',timeout:30000});await page.waitForSelector('input[aria-label="제목"]',{timeout:20000});
+const details=await page.evaluate(()=>({title:document.querySelector('input[aria-label="제목"]').value,html:document.querySelector('.CodeMirror')?.CodeMirror?.getValue(),labels:document.querySelector('textarea[aria-label="쉼표로 라벨을 구분하세요."]')?.value,description:document.querySelector('textarea[aria-label="검색 설명 입력"]')?.value,slug:document.querySelector('input[aria-label="맞춤 퍼머링크 입력"]')?.value,radio:document.querySelector('div[role="radio"][aria-label^="맞춤 퍼머링크"]')?.getAttribute('aria-checked')}));
+await fs.writeFile(`${root}/26_1113/_blogger_runs/20261113-blogger-1419/saved-10.json`,JSON.stringify(details,null,2));
+console.log(JSON.stringify({...details,htmlLength:details.html?.length,html:undefined}));

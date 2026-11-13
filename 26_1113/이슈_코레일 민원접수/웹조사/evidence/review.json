@@ -1,0 +1,58 @@
+{
+  "status": "agent_alternative_review_complete",
+  "date": "2026-11-13",
+  "automatic_validation": "구현의 고정 분량 및 안내 이미지 수 기준 미통과",
+  "automatic_errors": [
+    "본문 1056자: 3500~5500자 필요(출처/이미지 목록 제외)",
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+  ],
+  "bodyCharacters": 1056,
+  "rawImages": 5,
+  "publishedImages": 4,
+  "redMarkedImages": 4,
+  "rawFiles": [
+    "01_search.png",
+    "02_voc.png",
+    "03_station.png",
+    "04_auth.png",
+    "05_auth_button.png"
+  ],
+  "dimensions": {
+    "01_search.png": [
+      780,
+      99
+    ],
+    "02_guide.png": [
+      875,
+      115
+    ],
+    "03_guide.png": [
+      875,
+      134
+    ],
+    "04_guide.png": [
+      955,
+      216
+    ]
+  },
+  "sha256": {
+    "publish/01_search.png": "543179a03a2371ef98f45372a746f9e45ea597b0186a2570ae27ea093586bdb8",
+    "publish/02_guide.png": "0795fc000c4afa276489a947bab82b719d81fcd76ef74dac6809c8ae0e3c3ff5",
+    "publish/03_guide.png": "a2e63880e143cbc67b8530d212364ab6d8a4135fe39f028c8e9f99b6f9b52ac6",
+    "publish/04_guide.png": "86da4acce4615592801862bbcf56d7bb989e3420ea0ddd595947b557d987ff43",
+    "publish/이슈_코레일 민원접수_웹조사결과.md": "28ac40388f8376e33509e204e42f613413a6209577efe8b5be9be329323f0d85"
+  },
+  "checks": [
+    "공식 결과 실제 방문 및 본문 대조",
+    "원본과 발행 이미지 전체 시각 대조, 설명 대상과 표식 확인",
+    "검색 결과 URL과 계정 표시를 발행 이미지에서 제거",
+    "개인정보와 팝업 잔존 확인",
+    "파일 열림, 유일한 이미지 해시와 상대 경로 확인"
+  ],
+  "adjustment": "공식 안내로 핵심 경로와 조건이 해결되어 중복 장면이나 반복 문장으로 분량을 늘리지 않음. 검색 1장 및 서로 다른 설명을 표시한 안내 3장.",
+  "limitations": "실제 앱 또는 인증 이후 화면은 열지 않았으며 공식 설명 화면 발췌로 대체. 검색 결과 발행 이미지는 URL과 계정 표시를 제거하기 위해 실제 검색 결과 부분만 잘라 사용.",
+  "unusedRaw": [
+    "04_auth.png: 본인인증 버튼이 잘려 05_auth_button.png로 대체"
+  ],
+  "completionDecision": "핵심 질문, 공식 근거, 이미지별 명세 및 시각 검수를 충족하여 완료"
+}

@@ -1,0 +1,54 @@
+{
+  "url": "https://www.tmoney.co.kr/aeb/cmnctn/notice/readNoticeView.dev?bdSeqNo=3852",
+  "title": "공지사항 상세 | 공지사항 | 뉴스룸 | 커뮤니케이션 | 티머니",
+  "width": 1100,
+  "height": 800,
+  "scrollX": 0,
+  "scrollY": 684.7999877929688,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1084.800048828125,
+    "height": 800,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      0,
+      389.6000061035156,
+      168.5625,
+      20.80000114440918
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 800
+  },
+  "boxes": [
+    [
+      0,
+      389,
+      169,
+      22
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 800
+  },
+  "pixelScale": {
+    "x": 1.0001818068403325,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1099.800048828125,
+    "height": 800
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:01:23.792Z"
+}

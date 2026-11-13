@@ -1,0 +1,40 @@
+{
+  "url": "https://pay.tmoney.co.kr/ncs/pct/tpay/ReadTmnyPay.dev",
+  "title": "모바일티머니(아이폰) - 티머니카드 - 티머니 카드&페이",
+  "width": 1200,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 2093.60009765625,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1184.800048828125,
+    "height": 884.7999877929688,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 15
+  },
+  "targets": [],
+  "requestedViewport": {
+    "width": 1200,
+    "height": 900
+  },
+  "boxes": [],
+  "pixelSize": {
+    "width": 1200,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001666537454055,
+    "y": 1.000222285185313
+  },
+  "rasterViewport": {
+    "width": 1199.800048828125,
+    "height": 899.7999877929688
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T06:51:08.228Z"
+}

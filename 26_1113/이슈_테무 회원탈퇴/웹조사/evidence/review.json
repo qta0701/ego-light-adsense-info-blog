@@ -1,0 +1,55 @@
+{
+  "status": "agent_alternative_review_complete",
+  "date": "2026-11-13",
+  "automatic_validation": "구현의 고정 분량 및 안내 이미지 수 기준 미통과",
+  "automatic_errors": [
+    "본문 877자: 3500~5500자 필요(출처/이미지 목록 제외)",
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+  ],
+  "bodyCharacters": 877,
+  "rawImages": 4,
+  "publishedImages": 4,
+  "redMarkedImages": 4,
+  "rawFiles": [
+    "01_search.png",
+    "02_app.png",
+    "03_web.png",
+    "04_term.png"
+  ],
+  "dimensions": {
+    "01_search.png": [
+      780,
+      100
+    ],
+    "02_guide.png": [
+      755,
+      90
+    ],
+    "03_guide.png": [
+      755,
+      86
+    ],
+    "04_guide.png": [
+      755,
+      145
+    ]
+  },
+  "sha256": {
+    "publish/01_search.png": "acf66e4386fb95320bbb6482470547d9a80cd026c37a00c3587f967c986b109e",
+    "publish/02_guide.png": "dd3e12535a25ef5485b05f76a4a86d43734851aa47c62fbd089f7e077987f849",
+    "publish/03_guide.png": "d95b4d26f55aa30f943cef9a628f8df04930e1b00b1820bd5aded19ac46fe168",
+    "publish/04_guide.png": "3670e51dd0136ad27bb5bd4c132b84d1a32e5294ed1009eb85f2187fe6f858d1",
+    "publish/이슈_테무 회원탈퇴_웹조사결과.md": "86d6d9336bbfc092083bf12fa1a1016af4ec012a14014ce06e1a11ad808c85ad"
+  },
+  "checks": [
+    "공식 결과 실제 방문 및 본문 대조",
+    "원본과 발행 이미지 전체 시각 대조, 설명 대상과 표식 확인",
+    "검색 결과 URL과 계정 표시를 발행 이미지에서 제거",
+    "개인정보와 팝업 잔존 확인",
+    "파일 열림, 유일한 이미지 해시와 상대 경로 확인"
+  ],
+  "adjustment": "공식 안내로 핵심 경로와 조건이 해결되어 중복 장면이나 반복 문장으로 분량을 늘리지 않음. 검색 1장 및 서로 다른 설명을 표시한 안내 3장.",
+  "limitations": "실제 앱 또는 인증 이후 화면은 열지 않았으며 공식 설명 화면 발췌로 대체. 검색 결과 발행 이미지는 URL과 계정 표시를 제거하기 위해 실제 검색 결과 부분만 잘라 사용.",
+  "unusedRaw": [],
+  "completionDecision": "핵심 질문, 공식 근거, 이미지별 명세 및 시각 검수를 충족하여 완료"
+}

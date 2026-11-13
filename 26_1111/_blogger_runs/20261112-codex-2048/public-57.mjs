@@ -1,9 +1,0 @@
-const fs=await import('node:fs/promises'),file='Y:/antigravity-project/ego-light-adsense-info-blog/26_1111/앱사용_애플 환불 요청/웹조사/evidence/blogger-state.json',p=(await taskSpace(27)).page('p1');
-const info=await p.evaluate(()=>{const a=[...document.querySelectorAll('a')].find(e=>new URL(e.href).pathname==='/blog/post/edit/7162964317827704236/5702284435751296131'),item=a?.parentElement;return {url:item?.querySelector('a[aria-label="보기"]')?.href,status:item?.innerText.slice(0,350),time:item?.querySelector('[data-tooltip*="게시일"]')?.getAttribute('data-tooltip')}});
-if(!info.url||!info.status?.includes('게시됨')||!info.status.includes('애플 환불 요청 방법과 처리 기간, 앱·구독 결제 취소'))throw Error('list mismatch');
-const s=JSON.parse(await fs.readFile(file,'utf8'));s.publicUrl=info.url;s.listEvidence=info;s.status='published_list_verified';await fs.writeFile(file,JSON.stringify(s,null,2));
-await p.goto(info.url,{waitUntil:'domcontentloaded',timeout:30000});
-const d=await p.evaluate(()=>({url:location.href,title:document.title,canonical:document.querySelector('link[rel=canonical]')?.href,description:[...document.querySelectorAll('meta[name=description]')].map(e=>e.content),published:[...document.querySelectorAll('time.published')].map(e=>e.getAttribute('datetime')),h1:[...document.querySelectorAll('h1')].map(e=>e.innerText),images:document.querySelectorAll('.post-body img').length}));
-console.log(JSON.stringify({list:info,public:d}));
-if(!d.published[0]||d.canonical!==d.url||!d.title.includes('애플 환불 요청 방법과 처리 기간, 앱·구독 결제 취소')||!d.description.includes('애플 환불 요청 순서부터 구독 취소, 결제 내역이 보이지 않을 때 확인할 항목과 승인 후 반영 기간까지 확인하세요.')||d.images!==0)throw Error('public mismatch');
-s.status='published';s.publicUrl=d.url;s.publishedAt=d.published[0];s.publicEvidence=d;s.publicVerifiedAt=new Date().toISOString();await fs.writeFile(file,JSON.stringify(s,null,2));

@@ -1,0 +1,14 @@
+const fs=await import('node:fs/promises');
+const run='Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/_blogger_runs/20261113-blogger-1419';
+const approval=JSON.parse(await fs.readFile(`${run}/create-ok-1.json`,'utf8'));
+if(approval.order!==1||approval.keyword!=='앱스토어 로그아웃'||approval.decision!=='eligible_new') throw Error('Unexpected approval');
+const task=await taskSpace(35),page=task.page('p1');
+await page.click('loc=role:button[name="새 글 작성"]');
+await page.waitForURL('**/blog/post/edit/**',{timeout:30000});
+const editorUrl=await page.url(), match=editorUrl.match(/\/blog\/post\/edit\/(\d+)\/(\d+)/);
+if(!match||match[1]!=='694192108971227039') throw Error(`Unexpected editor URL: ${editorUrl}`);
+const state={order:1,tab:'이슈',row:30,keyword:'앱스토어 로그아웃',spaceId:35,blogId:match[1],postId:match[2],editorUrl,createdAt:new Date().toISOString(),stage:'created',images:[]};
+await fs.writeFile('Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/이슈_앱스토어 로그아웃/웹조사/evidence/blogger-state.json',JSON.stringify(state,null,2),'utf8');
+console.log(JSON.stringify(state));
+await page.waitForSelector('input[aria-label="제목"]',{timeout:30000});
+console.log(await page.snapshot());

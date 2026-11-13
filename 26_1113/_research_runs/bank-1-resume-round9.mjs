@@ -1,0 +1,3 @@
+import fs from 'node:fs/promises';
+const t11=await taskSpace(11),p11=t11.page('p4');await p11.click('text="환전서비스안내"');console.log('11SNAP',(await p11.snapshot({scope:'full_page'})).slice(0,13000));console.log('11TABS',JSON.stringify((await t11.tabs()).map(({label,url,title})=>({label,url,title}))));
+const t13=await taskSpace(13),p13=t13.page('p3');let d=await p13.evaluate(()=>({url:location.href,title:document.title,text:document.body.innerText.slice(0,18000)}));await fs.writeFile('Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/evidence/banksalad.json',JSON.stringify(d,null,2));console.log('13ARTICLE',JSON.stringify(d).slice(0,12000));

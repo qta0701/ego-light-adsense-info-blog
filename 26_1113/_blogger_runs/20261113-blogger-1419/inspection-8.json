@@ -1,0 +1,49 @@
+{
+  "order": 8,
+  "row": 35,
+  "keyword": "인스타그램 탈퇴방법",
+  "spaceId": 36,
+  "blogId": "3087664879020853782",
+  "at": "2026-11-13T14:24:05.508728+09:00",
+  "originalCount": 5,
+  "slots": [
+    {
+      "id": "IMG_01",
+      "path": "26_1113/노하우2_인스타그램 탈퇴방법/웹조사/publish/02_02_export.png",
+      "bytes": 172872,
+      "tokenCount": 1,
+      "details": "추천 업로드 순서 / 본문 노출 순서: 1 / 1\n원래 파일번호 / 원본 파일명과 경로: 02 / 26_1113/노하우2_인스타그램 탈퇴방법/웹조사/raw/02_export.png\n업로드 파일 경로: 26_1113/노하우2_인스타그램 탈퇴방법/웹조사/publish/02_02_export.png\n이미지 내부 표식 / 본문 절차 번호: 빨간 테두리와 화살표, 원 안 숫자 1 / 해당 없음\n역할 / 화면 종류: guide / 공식 고객센터 PC 웹 안내문, 실제 계정 설정 화면 아님\n삽입 소제목: H2 삭제 전 정보 보관과 계정 확인 / id=prepare\n직전 문단: id=prepare-intro / 저장할 사진이나 게시물이 있다면 삭제 전에 정보 사본을 내보내세요.\n직후 문단: id=prepare-result / 삭제 후에는 Instagram의 정보 내보내기 도구에 접근할 수 없습니다.\nHTML 위치: id=img-01 / data-image-id=IMG_01 / IMAGE_SLOT:IMG_01 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_01}}\n권장 alt: 인스타그램 탈퇴방법 중 정보 사본 내보내기를 안내하는 공식 고객센터 화면\n권장 캡션: 삭제 전 정보 사본 내보내기 안내입니다. 2026년 11월 13일 확인한 PC 고객센터 화면입니다.\n실제 이미지 크기 / 표시: 1280×1055 px / 가로 100% 이내, 비율 유지\n출처 ID·출처명 / 실제 화면 URL / 확인일: S1 Instagram 고객센터 컴퓨터 도움말 / https://help.instagram.com/370452623149242/?helpref=hc_fnav&locale=ko_KR / 2026-11-13\n채택 이유·편집: 해당 설명의 공식 근거를 표시; 기존 발행본의 빨간 표식 사용\n가림·가독성: 개인정보 식별 항목 없음; 모바일에서는 작은 글씨가 축소되므로 본문 텍스트 병행.\n원래 순서 변경: 검색 화면 제외에 따른 순번 이동\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_02",
+      "path": "26_1113/노하우2_인스타그램 탈퇴방법/웹조사/publish/blogger-images/08_android.png",
+      "bytes": 173875,
+      "tokenCount": 1,
+      "details": "추천 업로드 순서 / 본문 노출 순서: 2 / 2\n원래 파일번호 / 원본 파일명과 경로: 08 / 26_1113/노하우2_인스타그램 탈퇴방법/웹조사/raw/08_android.png\n업로드 파일 경로: 26_1113/노하우2_인스타그램 탈퇴방법/웹조사/publish/blogger-images/08_android.png\n이미지 내부 표식 / 본문 절차 번호: 빨간 테두리, 번호 없음 / 해당 없음\n역할 / 화면 종류: reference / 공식 고객센터 PC 웹 안내문, 실제 계정 설정 화면 아님\n삽입 소제목: H2 Android 사용자와 접속 경로 / id=android\n직전 문단: id=android-intro / Android 도움말에는 컴퓨터나 모바일 브라우저의 Instagram.com으로 이동하라는 안내가 표시됩니다.\n직후 문단: id=android-result / 같은 도움말에 앱 메뉴 절차도 함께 표시되므로 실제 계정에서 보이는 안내를 확인하세요.\nHTML 위치: id=img-02 / data-image-id=IMG_02 / IMAGE_SLOT:IMG_02 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_02}}\n권장 alt: Android 도움말에서 브라우저로 이동하라는 문구를 강조한 공식 고객센터 화면\n권장 캡션: Android 도움말의 브라우저 이동 안내입니다. 2026년 11월 13일 확인한 고객센터 화면입니다.\n실제 이미지 크기 / 표시: 1280×1000 px / 가로 100% 이내, 비율 유지\n출처 ID·출처명 / 실제 화면 URL / 확인일: S2 Android 공식 도움말 / https://help.instagram.com/139886812848894/?cms_platform=android-app&helpref=platform_switcher&locale=ko_KR / 2026-11-13\n채택 이유·편집: Android 안내의 상충하는 문구를 보여줌; 원본에 브라우저 내 빨간 테두리 적용 후 그대로 복사\n가림·가독성: 개인정보 식별 항목 없음; 모바일에서는 작은 글씨가 축소되므로 본문 텍스트 병행.\n원래 순서 변경: 준비 다음에 Android 안내를 추가\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_03",
+      "path": "26_1113/노하우2_인스타그램 탈퇴방법/웹조사/publish/03_03_manage.png",
+      "bytes": 171037,
+      "tokenCount": 1,
+      "details": "추천 업로드 순서 / 본문 노출 순서: 3 / 3\n원래 파일번호 / 원본 파일명과 경로: 03 / 26_1113/노하우2_인스타그램 탈퇴방법/웹조사/raw/03_manage.png\n업로드 파일 경로: 26_1113/노하우2_인스타그램 탈퇴방법/웹조사/publish/03_03_manage.png\n이미지 내부 표식 / 본문 절차 번호: 빨간 테두리와 화살표, 원 안 숫자 1 / 해당 없음\n역할 / 화면 종류: guide / 공식 고객센터 PC 웹 안내문, 실제 계정 설정 화면 아님\n삽입 소제목: H2 계정 관리가 표시될 때 / id=manage\n직전 문단: id=manage-intro / 계정 센터 하단에 계정 관리가 보이면 공식 도움말의 첫 번째 경로를 따릅니다.\n직후 문단: id=manage-result / 마지막 확인 전에 선택한 프로필이 삭제하려는 계정인지 다시 확인하세요.\nHTML 위치: id=img-03 / data-image-id=IMG_03 / IMAGE_SLOT:IMG_03 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_03}}\n권장 alt: 계정 관리가 표시될 때의 인스타그램 프로필 삭제 절차를 강조한 PC 도움말\n권장 캡션: 계정 관리가 표시되는 경우의 PC 도움말 절차입니다. 2026년 11월 13일 확인했습니다.\n실제 이미지 크기 / 표시: 1280×1055 px / 가로 100% 이내, 비율 유지\n출처 ID·출처명 / 실제 화면 URL / 확인일: S1 Instagram 고객센터 컴퓨터 도움말 / https://help.instagram.com/370452623149242/?helpref=hc_fnav&locale=ko_KR / 2026-11-13\n채택 이유·편집: 해당 설명의 공식 근거를 표시; 기존 발행본의 빨간 표식 사용\n가림·가독성: 개인정보 식별 항목 없음; 모바일에서는 작은 글씨가 축소되므로 본문 텍스트 병행.\n원래 순서 변경: 검색 화면 제외에 따른 순번 이동\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_04",
+      "path": "26_1113/노하우2_인스타그램 탈퇴방법/웹조사/publish/04_04_account.png",
+      "bytes": 195916,
+      "tokenCount": 1,
+      "details": "추천 업로드 순서 / 본문 노출 순서: 4 / 4\n원래 파일번호 / 원본 파일명과 경로: 04 / 26_1113/노하우2_인스타그램 탈퇴방법/웹조사/raw/04_account.png\n업로드 파일 경로: 26_1113/노하우2_인스타그램 탈퇴방법/웹조사/publish/04_04_account.png\n이미지 내부 표식 / 본문 절차 번호: 빨간 테두리와 화살표, 원 안 숫자 1 / 해당 없음\n역할 / 화면 종류: guide / 공식 고객센터 PC 웹 안내문, 실제 계정 설정 화면 아님\n삽입 소제목: H2 계정이 표시될 때 / id=account\n직전 문단: id=account-intro / 계정 센터 하단에 계정이 보이면 개인정보와 계정 소유권 및 관리로 들어갑니다.\n직후 문단: id=account-result / 비활성화 또는 삭제에서 대상을 선택한 뒤 계정 삭제와 계속을 선택하고 화면의 안내를 확인하세요.\nHTML 위치: id=img-04 / data-image-id=IMG_04 / IMAGE_SLOT:IMG_04 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_04}}\n권장 alt: 계정이 표시될 때 개인정보와 계정 소유권 및 관리로 이동하는 PC 도움말\n권장 캡션: 계정이 표시되는 경우의 PC 도움말 절차입니다. 2026년 11월 13일 확인했습니다.\n실제 이미지 크기 / 표시: 1280×1055 px / 가로 100% 이내, 비율 유지\n출처 ID·출처명 / 실제 화면 URL / 확인일: S1 Instagram 고객센터 컴퓨터 도움말 / https://help.instagram.com/370452623149242/?helpref=hc_fnav&locale=ko_KR / 2026-11-13\n채택 이유·편집: 해당 설명의 공식 근거를 표시; 기존 발행본의 빨간 표식 사용\n가림·가독성: 개인정보 식별 항목 없음; 모바일에서는 작은 글씨가 축소되므로 본문 텍스트 병행.\n원래 순서 변경: 검색 화면 제외에 따른 순번 이동\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_05",
+      "path": "26_1113/노하우2_인스타그램 탈퇴방법/웹조사/publish/05_05_wait.png",
+      "bytes": 209426,
+      "tokenCount": 1,
+      "details": "추천 업로드 순서 / 본문 노출 순서: 5 / 5\n원래 파일번호 / 원본 파일명과 경로: 05 / 26_1113/노하우2_인스타그램 탈퇴방법/웹조사/raw/05_wait.png\n업로드 파일 경로: 26_1113/노하우2_인스타그램 탈퇴방법/웹조사/publish/05_05_wait.png\n이미지 내부 표식 / 본문 절차 번호: 빨간 테두리와 화살표, 원 안 숫자 1 / 해당 없음\n역할 / 화면 종류: reference / 공식 고객센터 PC 웹 안내문, 실제 계정 설정 화면 아님\n삽입 소제목: H2 삭제 요청 뒤 기간과 주의사항 / id=wait\n직전 문단: id=wait-intro / 공식 도움말은 삭제 요청 후 30일이 지나면 프로필과 정보를 가져올 수 없다고 설명합니다.\n직후 문단: id=wait-result / 삭제 취소 가능 기간은 지역별로 다르므로 요청 화면에 표시된 기한을 확인하세요.\nHTML 위치: id=img-05 / data-image-id=IMG_05 / IMAGE_SLOT:IMG_05 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_05}}\n권장 alt: 삭제 요청 후 30일과 지역별 취소 기간을 설명하는 PC 고객센터 화면\n권장 캡션: 삭제 요청 이후 기간에 관한 PC 고객센터 안내입니다. 2026년 11월 13일 확인했습니다.\n실제 이미지 크기 / 표시: 1280×1055 px / 가로 100% 이내, 비율 유지\n출처 ID·출처명 / 실제 화면 URL / 확인일: S1 Instagram 고객센터 컴퓨터 도움말 / https://help.instagram.com/370452623149242/?helpref=hc_fnav&locale=ko_KR / 2026-11-13\n채택 이유·편집: 해당 설명의 공식 근거를 표시; 기존 발행본의 빨간 표식 사용\n가림·가독성: 개인정보 식별 항목 없음; 모바일에서는 작은 글씨가 축소되므로 본문 텍스트 병행.\n원래 순서 변경: 검색 화면 제외에 따른 순번 이동\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    }
+  ],
+  "localStateExists": false,
+  "html": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\노하우2_인스타그램 탈퇴방법\\웹조사\\publish\\노하우2_인스타그램 탈퇴방법_html콘텐츠.html",
+  "txt": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\노하우2_인스타그램 탈퇴방법\\웹조사\\publish\\노하우2_인스타그램 탈퇴방법_제목메타디스크립션.txt"
+}

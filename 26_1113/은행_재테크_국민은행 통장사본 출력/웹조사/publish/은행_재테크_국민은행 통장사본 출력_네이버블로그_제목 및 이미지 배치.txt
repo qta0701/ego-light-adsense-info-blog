@@ -1,0 +1,21 @@
+[네이버 블로그 제목 후보 3개]
+1. 국민은행 통장사본 출력: PC 메뉴와 제출 전 확인사항
+2. 국민은행 통장사본 출력 방법과 PDF 저장 확인
+3. KB 통장사본 메뉴 찾기와 STM 이용 전 확인
+
+[네이버 모바일 홈판형 제목 후보 3개]
+1. 국민은행 통장사본, PC에서 어디로 들어갈까?
+2. 통장사본 제출 전 계좌와 파일 형식 확인하세요
+3. STM에서도 통장사본 출력이 가능할까요?
+
+[사용 이미지 정보 및 본문 내 추천 배치 위치]
+1. 01_search.png / 웹조사/publish/01_search.png / 1번 H2 / 공식 통장사본 검색 결과 / 공식 경로 식별 / 캡션: 국민은행 공식 통장사본 페이지 찾기 / 출처: Google 검색 및 https://obank.kbstar.com/quics?page=C040611 / 2026-11-13 확인
+2. 02_guide.png / 웹조사/publish/02_guide.png / 1번 H2 / 뱅킹관리 메뉴의 통장사본 / 메뉴 위치 확인 / 캡션: 뱅킹관리 제증명발급의 통장사본 메뉴 / 출처: https://obank.kbstar.com/quics?page=C016535 / 2026-11-13 확인
+3. 03_guide.png / 웹조사/publish/03_guide.png / 2번 H2 / 로그인 방식 선택 / 인증 전 단계 / 캡션: 국민은행 개인뱅킹 로그인 방식 선택 / 출처: https://obank.kbstar.com/quics?page=C040611 / 2026-11-13 확인
+4. 04_guide.png / 웹조사/publish/04_guide.png / 3번 H2 / STM 가능 업무 / 대안과 조건 확인 / 캡션: 국민은행 STM의 통장 사본 출력 안내 / 출처: https://obank.kbstar.com/quics?page=C058772 / 2026-11-13 확인
+
+[제외·보류 이미지]
+- 웹조사/raw/01_search.png, 02_login.png, 03_menu.png, 04_stm.png: 대응 발행 편집본 사용.
+- 웹조사/publish/blogger-images/02_guide_detail.png, 03_guide_detail.png, 04_guide_detail.png: 동일 화면의 확대 발췌로 중복되어 제외.
+- 웹조사/raw/05_login_recheck.png: Google 검색 후 공식 통장사본 페이지를 다시 열어 캡처했으나 기존 로그인 장면과 중복되어 제외.
+- 최종 4장. 로그인 후 계좌 선택·인쇄 화면과 실제 앱 화면은 미확인. 본인 인증 후 개인정보를 가려 추가 확인하는 지점에서 재개.

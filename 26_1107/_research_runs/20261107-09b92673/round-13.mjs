@@ -1,1 +1,0 @@
-const t=await taskSpace(1),p=t.page('p1');console.log(JSON.stringify({snapshot:(await p.snapshot()).slice(0,5000),state:await p.evaluate(()=>[...document.querySelectorAll('[role="combobox"][data-uia]')].map(e=>({uia:e.dataset.uia,expanded:e.getAttribute('aria-expanded'),text:e.innerText})))}));

@@ -1,0 +1,103 @@
+{
+  "tab": "은행_재테크",
+  "row": 19,
+  "keyword": "하나은행 환율조회",
+  "folder": "26_1113/은행_재테크_하나은행 환율조회",
+  "promotionUrl": "https://bank.supportimes.com/2026/11/blog-post_300.html",
+  "profileName": "순분",
+  "account": "supportimes001",
+  "ledgerColumn": "K",
+  "indexOnProfile": 3,
+  "publishMode": "pending_timeline_check",
+  "slotMode": "scheduled",
+  "plannedPublicationTime": "2026-11-14T00:10:00+09:00",
+  "planningAnchor": "2026-11-13T09:00:00+09:00",
+  "slotIsConfirmed": true,
+  "source": "26_1113/은행_재테크_하나은행 환율조회/웹조사/publish/은행_재테크_하나은행 환율조회_네이버블로그.md",
+  "sourceSha256": "7a51a36ed481ef6093f191675e05e2e0f6ab49b5675b922ab48dfa1cfe1c9167",
+  "titleFile": "26_1113/은행_재테크_하나은행 환율조회/웹조사/publish/은행_재테크_하나은행 환율조회_네이버블로그_제목 및 이미지 배치.txt",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1113/은행_재테크_하나은행 환율조회/웹조사/publish/01_search.png",
+      "caption": "1.하나은행 공식 환율 조회 페이지 찾기",
+      "sha256": "04534ff181ae87e5021deb503cd5d851bdcad805e44c252365f8fd625696d02f"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1113/은행_재테크_하나은행 환율조회/웹조사/publish/02_guide.png",
+      "caption": "2.통화와 날짜, 고시회차 선택 후 조회",
+      "sha256": "a49fd005793980728ea275d48103771555b0c169fc956f859e959bb8f95421a8"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1113/은행_재테크_하나은행 환율조회/웹조사/publish/03_guide.png",
+      "caption": "3.현찰·송금·매매기준율 열 구분",
+      "sha256": "34a17554eb3efc03be6930268ec6ca0870a2c47017fbf87cbe26ea086ee60adf"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1113/은행_재테크_하나은행 환율조회/웹조사/publish/04_guide.png",
+      "caption": "4.휴일 환율 조회와 고시 유의사항",
+      "sha256": "dd5b613446f352be084f21ff64962155d7bfc79c1d71201aadbad96ef65c0854"
+    }
+  ],
+  "links": [
+    {
+      "marker": "NAVEROG1",
+      "url": "https://bank.supportimes.com/2026/11/blog-post_300.html"
+    },
+    {
+      "marker": "NAVEROG2",
+      "url": "https://bank.supportimes.com/2026/11/blog-post_300.html"
+    }
+  ],
+  "platform": "naver",
+  "status": "scheduled",
+  "verified": true,
+  "spaceId": 69,
+  "profileId": "Profile 2",
+  "postId": "224475992972",
+  "title": "하나은행 환율조회 방법: 날짜·회차 선택과 환율표 읽기",
+  "identityVerified": "supportimes001",
+  "publicationTime": "2026-11-14T00:10:00+09:00",
+  "publicationTimeSource": "confirmed_reservation_list",
+  "reservationEvidence": "supportimes001 예약 발행 글 목록에서 해당 제목과 2026.11.14 00:10 확인",
+  "submittedOnce": true,
+  "publicUrl": null,
+  "publicAudit": "공개 전 예약 글이므로 공개 페이지 검수 미실시",
+  "urlSource": "콘텐츠표 H 및 원고 CTA 일치",
+  "category": "은행,재테크",
+  "representative": {
+    "index": 2,
+    "file": "02_guide.png",
+    "verifiedSelected": true,
+    "scope": "reopened_saved_reservation"
+  },
+  "styleAudit": {
+    "scope": "reopened_saved_reservation",
+    "normalParagraphs": 36,
+    "boldFailures": 0,
+    "ctaVerified": 2,
+    "images": 4,
+    "og": 2,
+    "tables": 8,
+    "markers": 0,
+    "rawUrls": 0,
+    "passed": true
+  },
+  "styleAuditFile": "tmp/naver-20261113/bank-saved-audit-19.json",
+  "claimReceipt": "tmp/naver-20261113/bank-claim-19.json",
+  "imageReview": "채택 화면의 내용, 개인정보 노출 및 캡션 일치 확인",
+  "duplicateSearch": "각 배정 블로그의 검색 결과에서 동일 글 미발견",
+  "cardsNote": "두 카드의 썸네일과 CTA 직후 배치 및 입력한 원고 URL 확인. 예약 편집 DOM은 href를 노출하지 않아 공개 후 링크 재검수 필요.",
+  "sheetProgress": "조정자 기록 및 재조회 예정",
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "spaceStatus": "finished",
+  "claimStatus": "released",
+  "recordedAt": "2026-11-13T18:41:09.255498+09:00",
+  "finishCalls": 1,
+  "sheetStatus": "verified",
+  "ledgerRow": 240
+}

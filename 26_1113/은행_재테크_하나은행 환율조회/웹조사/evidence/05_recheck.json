@@ -1,0 +1,40 @@
+{
+  "url": "https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp",
+  "title": "현재환율 < 환율/외화예금 금리 < 상품 < 하나은행",
+  "width": 1200,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1184.800048828125,
+    "height": 884.7999877929688,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 15
+  },
+  "targets": [],
+  "requestedViewport": {
+    "width": 1200,
+    "height": 900
+  },
+  "boxes": [],
+  "pixelSize": {
+    "width": 1200,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001666537454055,
+    "y": 1.000222285185313
+  },
+  "rasterViewport": {
+    "width": 1199.800048828125,
+    "height": 899.7999877929688
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T07:05:04.244Z"
+}

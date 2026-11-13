@@ -1,0 +1,16 @@
+{
+  "images": [
+    "01_search",
+    "02_iphone",
+    "03_signout",
+    "04_mac"
+  ],
+  "publishHashes": {
+    "01_search.png": "3e695d6425d075c0d59cc09d744ad904aa7ffefd8b2832e9fbe221dd9cb45a57",
+    "02_guide.png": "152e0f40e90a0b0befa4afa72999e48c0b2ff0222a999762f31d7eaa3a89102c",
+    "03_guide.png": "337166a5d0cfc2c7dd1d934c8d0af2c5c5418b4534548d8e1a727a0d7094fbb0",
+    "04_guide.png": "2a6a9864c55f3783b26dca955471a2e96c69e120e55cfb2b665140197d035508",
+    "이슈_앱스토어 로그아웃_웹조사결과.md": "c6c9551b187fb658f80d4b20552fd32d94bd21ebfd42e3b90d8aa088d4712a3f"
+  },
+  "notes": "공식 페이지 본문 캡처를 발췌하고 빨간 테두리와 번호를 추가. 검색 결과의 URL과 계정 아이콘은 자르기로 제거. 원본 보존."
+}

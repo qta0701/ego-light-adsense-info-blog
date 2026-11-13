@@ -1,0 +1,11 @@
+{
+  "decision": "eligible_new",
+  "columns": {
+    "content": "D",
+    "draft": "G",
+    "url": "H",
+    "keyword": "I",
+    "published_at": "L"
+  },
+  "note": "기존 Blogger 글/로컬 기록 조회와 행 잠금 후 신규 작업 여부를 확정하세요"
+}

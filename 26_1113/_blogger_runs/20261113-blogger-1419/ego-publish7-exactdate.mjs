@@ -1,0 +1,1 @@
+const task=await taskSpace(34),page=task.page('p1');console.log(JSON.stringify(await page.evaluate(()=>[...document.querySelectorAll('script[type="application/ld+json"]')].map(e=>{try{const j=JSON.parse(e.textContent);return {'@type':j['@type'],datePublished:j.datePublished,dateModified:j.dateModified}}catch(e){return {error:String(e)}}}))));

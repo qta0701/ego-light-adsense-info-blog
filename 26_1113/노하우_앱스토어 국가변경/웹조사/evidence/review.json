@@ -1,0 +1,54 @@
+{
+  "status": "agent_alternative_review_complete",
+  "date": "2026-11-13",
+  "automatic_validation": "고정 수량 기준 미통과",
+  "automatic_errors": [
+    "본문 1276자: 3500~5500자 필요(출처/이미지 목록 제외)",
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+  ],
+  "bodyCharacters": 1276,
+  "rawImages": 4,
+  "publishedImages": 4,
+  "redMarkedImages": 4,
+  "rawFiles": [
+    "01_search.png",
+    "02_conditions.png",
+    "03_iphone.png",
+    "04_payment.png"
+  ],
+  "dimensions": {
+    "01_01_search.png": [
+      740,
+      160
+    ],
+    "02_02_conditions.png": [
+      900,
+      620
+    ],
+    "03_03_iphone.png": [
+      895,
+      325
+    ],
+    "04_04_payment.png": [
+      895,
+      200
+    ]
+  },
+  "sha256": {
+    "publish/01_01_search.png": "e11e997406393b162993f4deadb1eb8a7650695052c873d76c1df1fae00821ac",
+    "publish/02_02_conditions.png": "8c7e31e620a181a844f3e8e290c610578f997bb11ac3e70f42abada3729c24ec",
+    "publish/03_03_iphone.png": "0e7cc40cd2a77846fdb8cb5107405eb83c546e903aa1f90d98014ca31769e383",
+    "publish/04_04_payment.png": "407d363994de51909474188a85e1f470225919dc521c4ae57f6c0b95a3c77d6b",
+    "publish/노하우_앱스토어 국가변경_웹조사결과.md": "d2bdfcb2cf4c349c6d79993a5927ed9550acd06f0233642492048bff28cd252e"
+  },
+  "checks": [
+    "공식 검색 결과에서 실제 공식 페이지 방문과 근거 대조",
+    "발행 이미지 4장 모두 원본 및 좌표와 직접 시각 대조",
+    "PNG 열림, 서로 다른 해시, 표식과 잘라낸 영역 경계 확인",
+    "검색 결과 및 안내 이미지 개인정보와 팝업 잔존 확인",
+    "이미지별 원본·발행 파일명, 실제 화면 URL과 확인일 대조"
+  ],
+  "adjustment": "검색 1장 및 서로 다른 진입·단계·조건 3장으로 핵심 경로를 설명해 반복 화면과 문장을 추가하지 않음. 코레일은 선택·회원 로그인·기존 비회원 폼의 실제 URL 3개를 명세.",
+  "limitations": "Apple 실제 기기 조작 대신 공식 지원 문서 화면. 로그인·결제·변경은 수행하지 않음.",
+  "completionDecision": "확인 가능한 공식 근거와 핵심 절차, 이용 조건, 4장의 발행 이미지 및 실제 URL을 검수함"
+}

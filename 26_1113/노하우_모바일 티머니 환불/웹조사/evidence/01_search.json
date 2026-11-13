@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=%EB%AA%A8%EB%B0%94%EC%9D%BC%20%ED%8B%B0%EB%A8%B8%EB%8B%88%20%ED%99%98%EB%B6%88",
+  "title": "모바일 티머니 환불 - Google 검색",
+  "width": 1100,
+  "height": 800,
+  "scrollX": 0,
+  "scrollY": 981.5999755859375,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1084.800048828125,
+    "height": 800,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      104.4000015258789,
+      363.82501220703125,
+      540,
+      43.17499923706055
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 800
+  },
+  "boxes": [
+    [
+      104,
+      363,
+      541,
+      45
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 800
+  },
+  "pixelScale": {
+    "x": 1.0001818068403325,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1099.800048828125,
+    "height": 800
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:00:46.651Z"
+}

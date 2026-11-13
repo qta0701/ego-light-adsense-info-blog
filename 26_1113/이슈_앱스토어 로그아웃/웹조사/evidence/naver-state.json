@@ -1,0 +1,121 @@
+{
+  "tab": "이슈",
+  "row": 30,
+  "keyword": "앱스토어 로그아웃",
+  "folder": "26_1113/이슈_앱스토어 로그아웃",
+  "promotionUrl": "https://io.supportimes.com/2026/11/blog-post.html",
+  "profileName": "상민-서브계정2",
+  "account": "almawade1",
+  "ledgerColumn": "I",
+  "indexOnProfile": 0,
+  "publishMode": "published",
+  "slotMode": "current",
+  "plannedPublicationTime": "2026-11-13T18:09:22+09:00",
+  "planningAnchor": "2026-11-13T09:00:00+09:00",
+  "slotIsConfirmed": true,
+  "spaceId": 55,
+  "profileId": "Profile 4",
+  "stage": "published_verified",
+  "owner": "issue-30-32-01a1d42b",
+  "updatedAt": "2026-11-13T09:28:37.540Z",
+  "title": "앱스토어 로그아웃 방법: 아이폰·아이패드와 맥에서 계정 바꾸기",
+  "checkpoint": {
+    "og": 2,
+    "images": [
+      {
+        "loaded": true,
+        "caption": "1.Apple 지원에서 확인한 가족 공유 안내"
+      },
+      {
+        "loaded": true,
+        "caption": "2.아이폰에서 미디어 및 구입 항목을 선택하는 순서"
+      },
+      {
+        "loaded": true,
+        "caption": "3.맥 App Store의 스토어 메뉴에서 로그아웃"
+      },
+      {
+        "loaded": true,
+        "caption": "4.가족 공유와 구입 항목 계정 확인하기"
+      }
+    ],
+    "markers": []
+  },
+  "identityVerified": "almawade1",
+  "searchEvidence": "tmp/naver-20261113/search-30.txt",
+  "sourceSha256": "05ce4de75ed8b58a705e8f46d37ee87ab0daa660b3a28ec1c8d83e20556464a3",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1113/이슈_앱스토어 로그아웃/웹조사/publish/01_search.png",
+      "caption": "1.Apple 지원에서 확인한 가족 공유 안내",
+      "sha256": "3e695d6425d075c0d59cc09d744ad904aa7ffefd8b2832e9fbe221dd9cb45a57"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1113/이슈_앱스토어 로그아웃/웹조사/publish/02_guide.png",
+      "caption": "2.아이폰에서 미디어 및 구입 항목을 선택하는 순서",
+      "sha256": "152e0f40e90a0b0befa4afa72999e48c0b2ff0222a999762f31d7eaa3a89102c"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1113/이슈_앱스토어 로그아웃/웹조사/publish/04_guide.png",
+      "caption": "3.맥 App Store의 스토어 메뉴에서 로그아웃",
+      "sha256": "2a6a9864c55f3783b26dca955471a2e96c69e120e55cfb2b665140197d035508"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1113/이슈_앱스토어 로그아웃/웹조사/publish/05_family_marked.png",
+      "caption": "4.가족 공유와 구입 항목 계정 확인하기",
+      "sha256": "8c738dcc856ddaf9241699140926dd3f57478dab76d0c95adc0913c3d9806b80"
+    }
+  ],
+  "representative": {
+    "index": 2,
+    "file": "02_guide.png",
+    "reason": "아이폰의 로그아웃 경로를 명확한 강조로 보여주는 핵심 안내",
+    "verifiedSelected": true
+  },
+  "submitStartedAt": "2026-11-13T09:27:59.018Z",
+  "submissionSettings": {
+    "title": "앱스토어 로그아웃 방법: 아이폰·아이패드와 맥에서 계정 바꾸기",
+    "public": true,
+    "now": true,
+    "category": "앱,PC프로그램",
+    "rep": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "auditFile": "tmp/naver-20261113/audit-editor-30.json",
+  "publicUrl": "https://blog.naver.com/almawade1/224475983657",
+  "publicationObservedAt": "2026-11-13T09:28:37.540Z",
+  "publicationTimeSource": "observed_completion",
+  "publicAudit": "tmp/naver-20261113/audit-public-30.json",
+  "publicationObservedAtKst": "2026-11-13T18:28:37.540000+09:00",
+  "source": "26_1113/이슈_앱스토어 로그아웃/웹조사/publish/이슈_앱스토어 로그아웃_네이버블로그.md",
+  "titleFile": "26_1113/이슈_앱스토어 로그아웃/웹조사/publish/이슈_앱스토어 로그아웃_네이버블로그_제목 및 이미지 배치.txt",
+  "urlSource": "콘텐츠표 H 및 원고 CTA 일치",
+  "publicRepresentativeVerified": true,
+  "review": {
+    "identity": true,
+    "duplicateSearch": true,
+    "imageContentAndPrivacy": true,
+    "numberedCaptions": true,
+    "ctaStyle": true,
+    "cardsAndUrls": true,
+    "normalWeight": true,
+    "markersAbsent": true
+  },
+  "scheduleNote": "계획의 즉시 발행은 18:09:22 예상이었고 실제 공개 확인은 더 늦었음. 같은 계정의 이미 제출된 다른 글은 변경하지 않음.",
+  "spaceFinished": true,
+  "claimReleased": true,
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "sheetStatus": "verified",
+  "ledgerRow": 231,
+  "spaceStatus": "finished",
+  "claimStatus": "released"
+}

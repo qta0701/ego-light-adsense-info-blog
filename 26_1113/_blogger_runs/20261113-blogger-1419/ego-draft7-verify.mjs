@@ -1,0 +1,16 @@
+const fs=await import('node:fs/promises'); const task=await taskSpace(34),page=task.page('p1');
+const root='Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/노하우2_진학어플라이 회원가입/웹조사/'; const file=root+'evidence/blogger-state.json'; const state=JSON.parse(await fs.readFile(file,'utf8'));
+await page.click('loc=role:menuitem[name="저장"]'); await page.waitForSelector('[aria-label="변경사항이 저장되었습니다."]',{timeout:30000}).catch(()=>{});
+await page.goto(state.editorUrl,{waitUntil:'domcontentloaded',timeout:30000}); await page.waitForSelector('input[aria-label="제목"]',{timeout:30000});
+const evidence=await page.evaluate(()=>{const html=[...document.querySelectorAll('.CodeMirror')].find(e=>e.CodeMirror && e.offsetParent)?.CodeMirror.getValue(); return {title:document.querySelector('input[aria-label="제목"]')?.value,html,bodyText:document.body.innerText.slice(-1500)};});
+const expected=await fs.readFile('Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/_blogger_runs/20261113-blogger-1419/final-7.html','utf8');
+const ok=evidence.html?.replace(/\r\n/g,'\n')===expected.replace(/\r\n/g,'\n') && state.images.every(x=>evidence.html.includes(x.url)) && !evidence.html.includes('{{BLOGGER_IMAGE_URL_');
+console.log(JSON.stringify({ok,title:evidence.title,bodyText:evidence.bodyText,htmlLength:evidence.html?.length,images:state.images.map(x=>x.id)}));
+if(!ok) throw new Error('stored body mismatch');
+await page.click('text="퍼머링크"'); await page.snapshot();
+const permalink=await page.evaluate(()=>({selected:document.querySelector('div[role=radio][aria-label^="맞춤 퍼머링크"]')?.getAttribute('aria-checked'),value:document.querySelector('input[aria-label="맞춤 퍼머링크 입력"]')?.value}));
+await page.click('text="검색 설명"'); await page.waitForSelector('textarea[aria-label="검색 설명 입력"]',{timeout:10000});
+const desc=await page.evaluate(()=>document.querySelector('textarea[aria-label="검색 설명 입력"]')?.value);
+console.log(JSON.stringify({permalink,desc}));
+if(evidence.title!=='진학어플라이 회원가입 방법: 통합회원 선택부터 입력까지'||!desc) throw new Error('metadata mismatch');
+state.status='draft_saved';state.draftSavedAt=new Date().toISOString();state.verification={bodyMatched:ok,title:evidence.title,permalink,desc,labels:evidence.bodyText};await fs.writeFile(file,JSON.stringify(state,null,2),'utf8');

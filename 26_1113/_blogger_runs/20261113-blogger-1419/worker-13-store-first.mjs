@@ -1,0 +1,11 @@
+const fs=await import('node:fs/promises');
+const task=await taskSpace(43),page=task.page('p1');
+const value=await page.evaluate(()=>[...document.querySelectorAll('.CodeMirror')].find(x=>x.CodeMirror)?.CodeMirror.getValue());
+const match=value.match(/src="(https:\/\/blogger\.googleusercontent\.com\/[^\"]*01_search\.png)"/);
+if(!match) throw Error('uploaded URL not found');
+const path='Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/은행_재테크_신한은행 간편조회/웹조사/evidence/blogger-state.json';
+const state=JSON.parse(await fs.readFile(path,'utf8'));
+state.images.push({id:'IMG_01',file:'01_search.png',url:match[1],uploadedAt:new Date().toISOString()});state.stage='uploading';
+await fs.writeFile(path,JSON.stringify(state,null,2));
+await fs.writeFile('Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/_blogger_runs/20261113-blogger-1419/state-13.json',JSON.stringify(state,null,2));
+console.log(JSON.stringify(state.images));

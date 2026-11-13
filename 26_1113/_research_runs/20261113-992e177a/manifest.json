@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "runId": "20261113-992e177a",
+  "date": "2026-11-13",
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "concurrency": 1,
+  "jobs": [
+    {
+      "tab": "이슈",
+      "row": 30,
+      "keyword": "앱스토어 로그아웃",
+      "queries": [
+        "앱스토어 로그아웃"
+      ],
+      "multiIntent": false,
+      "folder": "26_1113/이슈_앱스토어 로그아웃/웹조사",
+      "spaceName": "research-20261113-992e177a-30-0"
+    },
+    {
+      "tab": "이슈",
+      "row": 31,
+      "keyword": "코레일 민원접수",
+      "queries": [
+        "코레일 민원접수"
+      ],
+      "multiIntent": false,
+      "folder": "26_1113/이슈_코레일 민원접수/웹조사",
+      "spaceName": "research-20261113-992e177a-31-1"
+    },
+    {
+      "tab": "이슈",
+      "row": 32,
+      "keyword": "테무 회원탈퇴",
+      "queries": [
+        "테무 회원탈퇴"
+      ],
+      "multiIntent": false,
+      "folder": "26_1113/이슈_테무 회원탈퇴/웹조사",
+      "spaceName": "research-20261113-992e177a-32-2"
+    }
+  ]
+}

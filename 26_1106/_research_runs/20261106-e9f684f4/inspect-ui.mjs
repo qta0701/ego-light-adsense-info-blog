@@ -1,2 +1,0 @@
-const k=(await taskSpace(3)).page('p1');console.log(JSON.stringify({id:3,dom:await k.evaluate(()=>({headings:[...document.querySelectorAll('h1,h2,h3')].map(e=>({tag:e.tagName,text:e.innerText,outer:e.outerHTML.slice(0,250)})),inputs:[...document.querySelectorAll('input')].map(e=>({outer:e.outerHTML.slice(0,250)}))}))}));
-const t=await taskSpace(4);console.log(JSON.stringify({id:4,tabs:await t.tabs()}));

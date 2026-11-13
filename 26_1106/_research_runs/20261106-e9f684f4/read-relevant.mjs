@@ -1,3 +1,0 @@
-import {observePage} from '../../../tools/research_observe.mjs';
-const jobs=[{id:3,folder:'26_1106/앱사용_코레일 승차권 전달/웹조사',url:'https://www.korail.com/ticket/reserve/guide/pay'},{id:4,folder:'26_1106/앱사용_당근마켓 채팅 걸기/웹조사',url:'https://www.daangn.com/wv/faqs/2154'}];
-await Promise.all(jobs.map(async j=>{const p=(await taskSpace(j.id)).page('p1');await p.goto(j.url);console.log(JSON.stringify({id:j.id,obs:await observePage(p,j.folder,'relevant-details',{selector:'body',offset:j.id===3?2800:0,maxChars:2300,linksLimit:5}),dom:await p.evaluate(()=>[...document.querySelectorAll('h1,h2,h3,h4,h5,button')].filter(x=>/전달|장바구니|채팅/.test(x.innerText)).map(x=>({tag:x.tagName,text:x.innerText.slice(0,160),html:x.outerHTML.slice(0,260)})).slice(0,20))}));}));

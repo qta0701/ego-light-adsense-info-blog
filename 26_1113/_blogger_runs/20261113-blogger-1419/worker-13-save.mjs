@@ -1,0 +1,1 @@
+const task=await taskSpace(43),page=task.page('p1');await page.fill('input[aria-label="맞춤 퍼머링크 입력"]','shinhan-easy-account-inquiry');await page.click('loc=role:button[name="옵션 더보기"]');console.log((await page.snapshot()).slice(0,3500));

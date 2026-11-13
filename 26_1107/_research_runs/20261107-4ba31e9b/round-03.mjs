@@ -1,2 +1,0 @@
-const jobs=[{id:1,url:'https://www.netflix.com/tudum/top10/south-korea'},{id:2,url:'https://www.netflix.com/tudum/top10/most-popular'}];
-for(const j of jobs){const t=await taskSpace(j.id),p=t.page('p1');console.log(j.id,JSON.stringify(await p.evaluate(u=>[...document.querySelectorAll('a')].filter(a=>a.href===u).map(a=>({html:a.outerHTML.slice(0,300),rect:a.getBoundingClientRect().toJSON()})),j.url)));}

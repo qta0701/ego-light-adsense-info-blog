@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "runId": "20261113-8e1eba35",
+  "date": "2026-11-13",
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "concurrency": 3,
+  "jobs": [
+    {
+      "tab": "은행_재테크",
+      "row": 17,
+      "keyword": "신한은행 간편조회",
+      "queries": [
+        "신한은행 간편조회"
+      ],
+      "multiIntent": false,
+      "folder": "26_1113/은행_재테크_신한은행 간편조회/웹조사",
+      "spaceName": "research-20261113-bank2-row17",
+      "spaceId": 14
+    },
+    {
+      "tab": "은행_재테크",
+      "row": 18,
+      "keyword": "신한은행 환전 방법",
+      "queries": [
+        "신한은행 환전 방법"
+      ],
+      "multiIntent": false,
+      "folder": "26_1113/은행_재테크_신한은행 환전 방법/웹조사",
+      "spaceName": "research-20261113-bank2-row18",
+      "spaceId": 15
+    },
+    {
+      "tab": "은행_재테크",
+      "row": 19,
+      "keyword": "하나은행 환율조회",
+      "queries": [
+        "하나은행 환율조회"
+      ],
+      "multiIntent": false,
+      "folder": "26_1113/은행_재테크_하나은행 환율조회/웹조사",
+      "spaceName": "research-20261113-bank2-row19",
+      "spaceId": 16
+    }
+  ]
+}

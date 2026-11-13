@@ -1,0 +1,50 @@
+{
+  "url": "https://apply.jinhakapply.com/Customer/Guide/Join/1",
+  "title": "초보자 가이드 | 진학어플라이",
+  "text": "공통원서접수 시스템이란?\n대입원서 접수 절차 가이드\n회원가입\n통합회원가입\n진학어플라이 회원가입\n통합회원 전환\n아이디 찾기\n비밀번호 재발급\n공통원서 작성\n대학원서 작성\n원서결제\n원서접수 완료\n\n통합회원 가입\n1.\n통합회원 가입을 클릭합니다.\n통합회원 가입 시 진학어플라이와 유웨이어플라이에\n동시가입됩니다.\n사이트별 회원가입의 경우, 해당 사이트에서 제공하는\n대학만 원서작성이 가능합니다.\n사이트별 별도 회원가입 이후에도 통합회원으로\n전환가능하며, 전환 후 모든 대학에 원서작성이\n가능합니다.\n\n통합회원 동의페이지\n1.\n이용약관 및 개인정보수집 및 이용에 대한\n동의절차를 수행합니다.\n2.\n모든 사항을 체크한 후 하단에 동의를 클릭하세요.\n\n휴대폰번호가 있는 경우\n\n회원정보를 입력한 후 회원가입하기를 클릭합니다.\n\n1.\n아이디를 입력 후 중복 확인 버튼을 클릭합니다.\n2.\n비밀번호/비밀번호 확인을 입력합니다.\n(8~12자, 영문 대/소문자/숫자/특수문자 중 3가지 이상을\n조합하여 입력합니다.)\n3.\n이름, 생년월일, 성별을 입력합니다.\n4.\n휴대폰 번호를 입력합니다.\n5.\n이메일을 입력합니다.\n6.\n자동가입방지 문구를 입력합니다.\n7.\n회원가입하기를 클릭합니다.\n휴대폰번호는 아이디/비밀번호 찾기 또는 대학SMS 수신 등에\n사용됩니다.\n\n휴대폰 번호가 없는 경우\n\n회원정보를 입력한 후 회원가입하기를 클릭합니다.\n\n1.\n아이디를 입력 후 중복 확인 버튼을 클릭합니다.\n2.\n비밀번호/비밀번호 확인을 입력합니다.\n(8~12자, 영문 대/소문자/숫자/특수문자 중 3가지 이상을\n조합하여 입력합니다.)\n3.\n이름, 생년월일, 성별을 입력합니다.\n4.\n이메일을 입력합니다.\n5.\n자동가입방지 문구를 입력합니다.\n6.\n회원가입하기를 클릭합니다.",
+  "links": [
+    {
+      "title": "",
+      "url": "https://apply.jinhakapply.com/Customer/Guide/Common/3"
+    },
+    {
+      "title": "공통원서접수 시스템이란?",
+      "url": "https://apply.jinhakapply.com/Customer/Guide/Common/1"
+    },
+    {
+      "title": "대입원서 접수 절차 가이드",
+      "url": "https://apply.jinhakapply.com/Customer/Guide/Common/2"
+    },
+    {
+      "title": "회원가입",
+      "url": "https://apply.jinhakapply.com/Customer/Guide/Join/1"
+    },
+    {
+      "title": "통합회원가입",
+      "url": "https://apply.jinhakapply.com/Customer/Guide/Join/1"
+    },
+    {
+      "title": "진학어플라이 회원가입",
+      "url": "https://apply.jinhakapply.com/Customer/Guide/Join/2"
+    },
+    {
+      "title": "통합회원 전환",
+      "url": "https://apply.jinhakapply.com/Customer/Guide/Join/3"
+    },
+    {
+      "title": "아이디 찾기",
+      "url": "https://apply.jinhakapply.com/Customer/Guide/Join/4"
+    },
+    {
+      "title": "비밀번호 재발급",
+      "url": "https://apply.jinhakapply.com/Customer/Guide/Join/5"
+    },
+    {
+      "title": "공통원서 작성",
+      "url": "https://apply.jinhakapply.com/Customer/Guide/CWrite/1"
+    }
+  ],
+  "selector": "body",
+  "sha256": "73f561f691ebf245bfac6c4c3eb1ec5573347deec92aadaabca08e5d98f0bcd7",
+  "checkedAt": "2026-11-13T04:11:32.852Z"
+}

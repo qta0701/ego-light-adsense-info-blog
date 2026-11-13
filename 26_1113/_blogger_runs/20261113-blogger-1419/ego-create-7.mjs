@@ -1,0 +1,12 @@
+const fs = await import('node:fs/promises');
+const task = await taskSpace(34);
+const page = task.page('p1');
+await page.click('loc=role:button[name="새 글 작성"]');
+await page.waitForURL('**/blog/post/edit/**', {timeout:30000});
+await page.waitForSelector('input[aria-label="제목"]',{timeout:30000});
+const editorUrl=await page.url();
+const match=editorUrl.match(/\/blog\/post\/edit\/(\d+)\/(\d+)/);
+if(!match) throw new Error(`postId missing from ${editorUrl}`);
+const state={order:7,tab:'노하우2',row:34,keyword:'진학어플라이 회원가입',spaceId:34,blogId:match[1],postId:match[2],editorUrl,status:'created',createdAt:new Date().toISOString(),images:[]};
+await fs.writeFile('Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/노하우2_진학어플라이 회원가입/웹조사/evidence/blogger-state.json',JSON.stringify(state,null,2),'utf8');
+console.log(JSON.stringify({state,snapshot:await page.snapshot()}));

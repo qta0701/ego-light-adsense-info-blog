@@ -1,0 +1,49 @@
+{
+  "order": 12,
+  "keyword": "국민은행 통장사본 출력",
+  "checkedAt": "2026-11-13T05:23:57.649535+00:00",
+  "html": "26_1113\\은행_재테크_국민은행 통장사본 출력\\웹조사\\publish\\은행_재테크_국민은행 통장사본 출력_html콘텐츠.html",
+  "txt": "26_1113\\은행_재테크_국민은행 통장사본 출력\\웹조사\\publish\\은행_재테크_국민은행 통장사본 출력_제목메타디스크립션.txt",
+  "count": 3,
+  "htmlIds": [
+    "IMG_01",
+    "IMG_02",
+    "IMG_03"
+  ],
+  "slots": [
+    {
+      "id": "IMG_01",
+      "path": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/blogger-images/02_guide_detail.png",
+      "size": [
+        600,
+        195
+      ],
+      "sha256": "476200343ade3757c9b742f5d8cc769376ff5544b0b289e358b51e7c948ce25f",
+      "tokenCount": 1,
+      "block": "추천 업로드 순서 / 본문 노출 순서: 1 / 1\n원래 파일번호 / 원본: raw/03_menu.png / 기존 발행본 publish/02_guide.png\n업로드 파일 경로: 26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/blogger-images/02_guide_detail.png\n이미지 내부 표식 번호 / 본문 절차: 빨간 1 / PC 메뉴 선택 (표식은 전체 절차 번호가 아님)\n역할: guide\n설명하는 내용 / 실제 화면 종류: PC 메뉴 선택 / PC 웹\n삽입 소제목: 1. PC에서 통장사본 출력하기 / id=pc\n직전 문단: id=pc-menu-intro / 뱅킹관리 화면의 제증명발급 항목에서 통장사본을 선택합니다.\n직후 문단: id=pc-menu-result / 통장사본을 선택하면 로그인 화면으로 연결됩니다.\nHTML 위치: id=img-01 / data-image-id=IMG_01 / IMAGE_SLOT:IMG_01\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_01}}\n권장 alt: 국민은행 뱅킹관리 제증명발급의 통장사본 메뉴\n권장 캡션: PC 뱅킹관리 화면에서 통장사본 메뉴를 표시했습니다. 2026년 11월 13일 확인.\n실제 이미지 크기 / 표시 원칙: 600×195px / 가로 100% 이내, 비율 유지\n출처: S1 관련 공식 화면 / KB국민은행 / https://obank.kbstar.com/quics?page=C016535 / 2026-11-13\n채택 사유·편집: 관련 메뉴 또는 업무를 표시한 기존 발행본을 잘라 글씨를 확대. 원본 보존, 새 표식 없음.\n가림·가독성: 계좌 개인정보 및 실제 로그인 QR 없음. 모바일에서 작은 글자는 본문으로 보완.\n원래 순서: 메뉴 → 로그인 → STM, 실제 흐름 유지.\n업로드 상태 / Blogger 이미지 URL / 확대 링크: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_02",
+      "path": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/blogger-images/03_guide_detail.png",
+      "size": [
+        935,
+        90
+      ],
+      "sha256": "0798c074a46aa163bc74289ae54ad484fbc9b6ae092ce5514b0664060835f9e5",
+      "tokenCount": 1,
+      "block": "추천 업로드 순서 / 본문 노출 순서: 2 / 2\n원래 파일번호 / 원본: raw/02_login.png / 기존 발행본 publish/03_guide.png\n업로드 파일 경로: 26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/blogger-images/03_guide_detail.png\n이미지 내부 표식 번호 / 본문 절차: 빨간 1 / 로그인 방식 선택 (표식은 전체 절차 번호가 아님)\n역할: guide\n설명하는 내용 / 실제 화면 종류: 로그인 방식 선택 / PC 웹\n삽입 소제목: 1. PC에서 통장사본 출력하기 / id=pc\n직전 문단: id=pc-login-intro / 로그인 화면에서는 본인이 사용하는 인증 수단을 선택해 안내에 따라 로그인합니다.\n직후 문단: id=pc-login-result / 화면에는 KB국민인증서, 공동·금융인증서, 아이디 로그인 탭이 보입니다.\nHTML 위치: id=img-02 / data-image-id=IMG_02 / IMAGE_SLOT:IMG_02\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_02}}\n권장 alt: 국민은행 로그인 화면의 세 가지 로그인 탭\n권장 캡션: 로그인 방식 선택 화면이며 실제 로그인과 계좌 조회는 진행하지 않았습니다. 2026년 11월 13일 확인.\n실제 이미지 크기 / 표시 원칙: 935×90px / 가로 100% 이내, 비율 유지\n출처: S1 관련 공식 화면 / KB국민은행 / https://obank.kbstar.com/quics?page=C040611 / 2026-11-13\n채택 사유·편집: 관련 메뉴 또는 업무를 표시한 기존 발행본을 잘라 글씨를 확대. 원본 보존, 새 표식 없음.\n가림·가독성: 계좌 개인정보 및 실제 로그인 QR 없음. 모바일에서 작은 글자는 본문으로 보완.\n원래 순서: 메뉴 → 로그인 → STM, 실제 흐름 유지.\n업로드 상태 / Blogger 이미지 URL / 확대 링크: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_03",
+      "path": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/blogger-images/04_guide_detail.png",
+      "size": [
+        805,
+        425
+      ],
+      "sha256": "8e20a3894cd29ffdf6763d1515564844d787d1ee0e1b9db1862979879f186205",
+      "tokenCount": 1,
+      "block": "추천 업로드 순서 / 본문 노출 순서: 3 / 3\n원래 파일번호 / 원본: raw/04_stm.png / 기존 발행본 publish/04_guide.png\n업로드 파일 경로: 26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/blogger-images/04_guide_detail.png\n이미지 내부 표식 번호 / 본문 절차: 빨간 1 / STM 가능 업무 확인 (표식은 전체 절차 번호가 아님)\n역할: reference\n설명하는 내용 / 실제 화면 종류: STM 가능 업무 확인 / PC 웹\n삽입 소제목: 3. STM에서 출력하는 대안 / id=stm\n직전 문단: id=stm-intro / 국민은행 STM 안내의 주요 가능 업무에는 통장 사본 출력이 포함되어 있습니다.\n직후 문단: id=stm-result / 방문 전에는 이용대상과 운영점, 화상인증 가능 시간을 공식 안내에서 확인하세요.\nHTML 위치: id=img-03 / data-image-id=IMG_03 / IMAGE_SLOT:IMG_03\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_03}}\n권장 alt: 국민은행 STM 주요 가능 업무 중 통장 사본 출력 안내\n권장 캡션: STM 주요 가능 업무 표의 기타업무를 표시했습니다. 2026년 11월 13일 확인.\n실제 이미지 크기 / 표시 원칙: 805×425px / 가로 100% 이내, 비율 유지\n출처: S1 관련 공식 화면 / KB국민은행 / https://obank.kbstar.com/quics?page=C058772 / 2026-11-13\n채택 사유·편집: 관련 메뉴 또는 업무를 표시한 기존 발행본을 잘라 글씨를 확대. 원본 보존, 새 표식 없음.\n가림·가독성: 계좌 개인정보 및 실제 로그인 QR 없음. 모바일에서 작은 글자는 본문으로 보완.\n원래 순서: 메뉴 → 로그인 → STM, 실제 흐름 유지.\n업로드 상태 / Blogger 이미지 URL / 확대 링크: 미업로드 / 미업로드 / 없음"
+    }
+  ],
+  "matching": true
+}

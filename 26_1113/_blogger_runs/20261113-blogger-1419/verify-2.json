@@ -1,0 +1,22 @@
+{
+  "title": "코레일 민원접수 방법 온라인 고객의 소리와 역 방문 안내",
+  "description": "코레일 민원접수 온라인 신청과 고객의 소리 조회, 본인인증, 역 방문 및 우편·팩스 접수 방법 안내",
+  "slug": "blog-post_13",
+  "radios": [
+    {
+      "label": "자동 퍼머링크\n",
+      "checked": "false"
+    },
+    {
+      "label": "맞춤 퍼머링크\n",
+      "checked": "true"
+    }
+  ],
+  "labels": "민원,생활정보,철도,코레일,",
+  "htmlLength": 9195,
+  "bodyMatches": true,
+  "expectedTitle": "코레일 민원접수 방법 온라인 고객의 소리와 역 방문 안내",
+  "expectedDescription": "코레일 민원접수 온라인 신청과 고객의 소리 조회, 본인인증, 역 방문 및 우편·팩스 접수 방법 안내",
+  "expectedSlug": "korail-customer-complaint",
+  "verifiedAt": "2026-11-13T05:35:39.143Z"
+}

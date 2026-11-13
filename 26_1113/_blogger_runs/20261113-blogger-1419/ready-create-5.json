@@ -1,0 +1,59 @@
+{
+  "runId": "20261113-blogger-1419",
+  "order": 5,
+  "tab": "노하우",
+  "row": 35,
+  "keyword": "코레일 승차권 조회",
+  "blogId": "1872124715220437079",
+  "spaceId": 47,
+  "startedAt": "2026-11-13T05:23:24.827Z",
+  "postId": null,
+  "images": [
+    {
+      "id": "IMG_01",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/01_01_search.png",
+      "raw": "26_1113/노하우_코레일 승차권 조회/웹조사/raw/01_search.png",
+      "alt": "코레일 승차권 확인 로그인 공식 검색 결과",
+      "caption": "검색 결과에서 공식 코레일 주소를 확인합니다. 2026년 11월 13일 검색 화면입니다.",
+      "url": null
+    },
+    {
+      "id": "IMG_02",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/blogger-images/08_main_entry_marked.png",
+      "raw": "26_1113/노하우_코레일 승차권 조회/웹조사/raw/08_main_entry.png",
+      "alt": "코레일 승차권예매 메인 바로가기의 승차권 확인 메뉴",
+      "caption": "메인 화면의 승차권 확인 바로가기입니다. 2026년 11월 13일 PC 웹 화면입니다.",
+      "url": null
+    },
+    {
+      "id": "IMG_03",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/02_02_login.png",
+      "raw": "26_1113/노하우_코레일 승차권 조회/웹조사/raw/02_login.png",
+      "alt": "코레일 회원번호 이메일 휴대폰 번호 로그인 선택 화면",
+      "caption": "회원 로그인 화면에서 이용할 로그인 방식을 선택합니다. 2026년 11월 13일 PC 웹 화면입니다.",
+      "url": null
+    },
+    {
+      "id": "IMG_04",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/03_06_method_clean.png",
+      "raw": "26_1113/노하우_코레일 승차권 조회/웹조사/raw/06_method_clean.png",
+      "alt": "코레일 비회원 간편인증과 기존 비회원 승차권 확인 선택 화면",
+      "caption": "비회원 확인 방식 선택 화면입니다. 빨간 테두리는 기존 비회원 확인을 가리킵니다. 2026년 11월 13일 PC 웹 화면입니다.",
+      "url": null
+    },
+    {
+      "id": "IMG_05",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/04_07_form_clean.png",
+      "raw": "26_1113/노하우_코레일 승차권 조회/웹조사/raw/07_form_clean.png",
+      "alt": "코레일 기존 비회원 승차권 확인의 이름 휴대폰 번호 비밀번호 입력란",
+      "caption": "기존 비회원 승차권 확인 입력란입니다. 2026년 11월 13일 PC 웹 화면입니다.",
+      "url": null
+    }
+  ],
+  "originalCount": 5,
+  "stage": "ready-create",
+  "duplicateCheckedAt": "2026-11-13T05:24:03.694Z",
+  "updatedAt": "2026-11-13T05:25:06.561Z",
+  "duplicateEvidence": "duplicate-5.json",
+  "imageEvidence": "images-5.json"
+}

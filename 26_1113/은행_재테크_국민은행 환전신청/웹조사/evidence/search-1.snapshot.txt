@@ -1,0 +1,248 @@
+[p1 "국민은행 환전신청 - Google 검색" | space "research-20261113-d4faea6e-15-1"(12): 1 managed, 0 untracked — p1* "국민은행 환전신청 - Google 검색"]
+root
+  container
+    search
+      anchor "Google 홈페이지로 이동" [ref=1, loc=css:a[aria-label="Google 홈페이지로 이동"], url=https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwjXxImxjISYAxX4sFYBHXfHKrAQPHoECAYQBA]
+        svg_root
+      container
+        comboboxgrouping "검색" [ref=2, loc=css:textarea[name="q"]]
+          text "국민은행 환전신청"
+        container
+          button "지우기" [ref=3, loc=role:button[name="지우기"]]
+            svg_root
+          container
+            button "입력 도구" [ref=4, loc=role:button[name="입력 도구"]]
+              svg_root
+            button "음성 검색" [ref=5, loc=role:button[name="음성 검색"]]
+              svg_root
+            button "이미지로 검색" [ref=6, loc=role:button[name="이미지로 검색"]]
+              svg_root
+    container
+      button "공유" [ref=7]
+        svg_root
+      container
+        button "Google 앱" [ref=8, loc=css:a[aria-label="Google 앱"], url=https://www.google.co.kr/intl/ko/about/products?tab=wh]
+          svg_root
+        button "Google 계정: 순분 (soonboon3265@gmail.com)" [ref=9, loc=css:a[aria-label="Google 계정: 순분
+(soonboon3265@gmail.com)"], url=https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EA%25B5%25AD%25EB%25AF%25BC%25EC%259D%2580%25ED%2596%2589%2520%25ED%2599%2598%25EC%25A0%2584%25EC%258B%25A0%25EC%25B2%25AD&ec=futura_srp_og_si_72236_p]
+  image
+  container
+    navigation [ref=10]
+      list
+        listitem
+          anchor [ref=11, url=https://www.google.com/search?q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89+%ED%99%98%EC%A0%84%EC%8B%A0%EC%B2%AD&newwindow=1&sca_esv=75c434088ec5c16c&sxsrf=AKL5yDjfIiyLg57DRwCHiqTyNnrUEQoX0g:1794543739635&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3bUCrJtVzlddKU2Rk2fwwJmwBGh6VR8fO_nAX9H7eNH2GYHxIP7tcIdrUdlWvBax8AS8QUYp14t2CeovQUnfRPeOI-h1FRreve1-9v-0n5eExAInQXykYHxiMvx70NZwzFUMwJ50vSL-x_VgKOx8Bk7yt7nwJ_IGEdVp6LGbJRGBaYOz3EIWfMp5A3hiltTOGperBczNYwjaROm4MM5aztPUjjto&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjXxImxjISYAxX4sFYBHXfHKrAQ2J8OegQIGxAD]
+            text "AI 모드"
+        listitem
+          link [ref=12]
+            text "전체"
+        listitem
+          anchor [ref=13, url=https://www.google.com/search?newwindow=1&sca_esv=75c434088ec5c16c&sxsrf=AKL5yDjfIiyLg57DRwCHiqTyNnrUEQoX0g:1794543739635&q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89+%ED%99%98%EC%A0%84%EC%8B%A0%EC%B2%AD&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3bUCrJtVzlddKU2Rk2fwwJmwBGh6VR8fO_nAX9H7eNH2GYHxIP7tcIdrUdlWvBax8AS8QUYp14t2CeovQUnfRPeOI-h1FRreve1-9v-0n5eExAInQXykYHxiMvx70NZwzFUMwJ50vSL-x_VgKOx8Bk7yt7nwJ_IGEdVp6LGbJRGBaYOz3EIWfMp5A3hiltTOGperBczNYwjaROm4MM5aztPUjjto&sa=X&ved=2ahUKEwjXxImxjISYAxX4sFYBHXfHKrAQ0pQJegQILBAB]
+            text "뉴스"
+        listitem
+          anchor [ref=14, url=https://www.google.com/search?newwindow=1&sca_esv=75c434088ec5c16c&sxsrf=AKL5yDjfIiyLg57DRwCHiqTyNnrUEQoX0g:1794543739635&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3bUCrJtVzlddKU2Rk2fwwJmwBGh6VR8fO_nAX9H7eNH2GYHxIP7tcIdrUdlWvBax8AS8QUYp14t2CeovQUnfRPeOI-h1FRreve1-9v-0n5eExAInQXykYHxiMvx70NZwzFUMwJ50vSL-x_VgKOx8Bk7yt7nwJ_IGEdVp6LGbJRGBaYOz3EIWfMp5A3hiltTOGperBczNYwjaROm4MM5aztPUjjto&q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89+%ED%99%98%EC%A0%84%EC%8B%A0%EC%B2%AD&sa=X&ved=2ahUKEwjXxImxjISYAxX4sFYBHXfHKrAQtKgLegQILhAB]
+            text "이미지"
+        listitem
+          anchor [ref=15, url=https://www.google.com/search?newwindow=1&sca_esv=75c434088ec5c16c&sxsrf=AKL5yDjfIiyLg57DRwCHiqTyNnrUEQoX0g:1794543739635&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3bUCrJtVzlddKU2Rk2fwwJmwBGh6VR8fO_nAX9H7eNH2GYHxIP7tcIdrUdlWvBax8AS8QUYp14t2CeovQUnfRPeOI-h1FRreve1-9v-0n5eExAInQXykYHxiMvx70NZwzFUMwJ50vSL-x_VgKOx8Bk7yt7nwJ_IGEdVp6LGbJRGBaYOz3EIWfMp5A3hiltTOGperBczNYwjaROm4MM5aztPUjjto&q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89+%ED%99%98%EC%A0%84%EC%8B%A0%EC%B2%AD&ved=1t:220175&ictx=111]
+            text "쇼핑"
+        listitem
+          anchor [ref=16, url=https://www.google.com/search?newwindow=1&sca_esv=75c434088ec5c16c&sxsrf=AKL5yDjfIiyLg57DRwCHiqTyNnrUEQoX0g:1794543739635&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3bUCrJtVzlddKU2Rk2fwwJmwBGh6VR8fO_nAX9H7eNH2GYHxIP7tcIdrUdlWvBax8AS8QUYp14t2CeovQUnfRPeOI-h1FRreve1-9v-0n5eExAInQXykYHxiMvx70NZwzFUMwJ50vSL-x_VgKOx8Bk7yt7nwJ_IGEdVp6LGbJRGBaYOz3EIWfMp5A3hiltTOGperBczNYwjaROm4MM5aztPUjjto&q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89+%ED%99%98%EC%A0%84%EC%8B%A0%EC%B2%AD&sa=X&ved=2ahUKEwjXxImxjISYAxX4sFYBHXfHKrAQtKgLegQIMBAB]
+            text "동영상"
+        listitem
+          anchor [ref=17, url=https://www.google.com/search?newwindow=1&sca_esv=75c434088ec5c16c&sxsrf=AKL5yDjfIiyLg57DRwCHiqTyNnrUEQoX0g:1794543739635&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3bUCrJtVzlddKU2Rk2fwwJmwBGh6VR8fO_nAX9H7eNH2GYHxIP7tcIdrUdlWvBax8AS8QUYp14t2CeovQUnfRPeOI-h1FRreve1-9v-0n5eExAInQXykYHxiMvx70NZwzFUMwJ50vSL-x_VgKOx8Bk7yt7nwJ_IGEdVp6LGbJRGBaYOz3EIWfMp5A3hiltTOGperBczNYwjaROm4MM5aztPUjjto&q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89+%ED%99%98%EC%A0%84%EC%8B%A0%EC%B2%AD&sa=X&ved=2ahUKEwjXxImxjISYAxX4sFYBHXfHKrAQs6gLegQIMRAB]
+            text "짧은 동영상"
+        listitem
+          button [ref=18]
+            container "필터 더보기"
+              text "더보기"
+              svg_root
+      button [ref=19]
+        text "도구"
+        svg_root
+    container
+      container
+        container
+          anchor [ref=20, url=https://www.google.com/goto?url=CAESaAHEIkXXHfQJXsbxqcOvMxKiNqrjLHPIQH_WpoaAZaR7ouyuLliEn5g7bVI8VklZU8YmhkE8YcifQTMiX3xF23z0bTFPyT029EmdLXDB9qhY3pcH4erXj6KEuDZycpUL_hkzPrC5cf6F&gsessionid=fm_OQPfpVMtQ5APQszC-NRf9GutF_RaxtfJnnr3FXR7UIlKiIDW1mA]
+            heading
+              text "환전신청 ( 개인뱅킹 | 외환"
+            container
+              image
+              container
+                text "국민은행"
+                container
+                  text "https://obank.kbstar.com"
+                  text "› 개인뱅킹 › 외환 › 환전"
+          button "검색결과에 관한 정보" [ref=21]
+            svg_root
+        container
+          text "환율 추이 (현찰사실때 고시환율 기준) · 1주일 · 1개월 · 3개월. 환율 계산기: 통화와 우대율을 직접 선택해"
+          text "환전"
+          text "예상금액을 계산해 보세요 ..."
+      container
+        container
+          container
+            svg_root
+            heading
+              text "AI 개요"
+          container
+            container
+              text "KB국민은행의 환전 신청은"
+              anchor [ref=22, url=https://www.google.com/goto?url=CAESaAHEIkXXZz8-Fntmn-UrCjwptxm6tAg8wiKJmdrFKvzrGgYZqpxGsZRBeJ-ETucn73G_4tDID_hXw19mtRKB5_RhpMvs3Xyk9hSHcd-2i-PSB8kCKHpAErfp8jL9AbzceuiMojwS4u8d]
+                text "KB국민은행 환전신청 페이지"
+              text "또는 모바일 앱("
+              text "KB스타뱅킹"
+              text ")을 통해 간편하게 진행할 수 있습니다."
+              container
+                anchor "국민은행" [ref=23, url=https://www.google.com/goto?url=CAESaAHEIkXXZz8-Fntmn-UrCjwptxm6tAg8wiKJmdrFKvzrGgYZqpxGsZRBeJ-ETucn73G_4tDID_hXw19mtRKB5_RhpMvs3Xyk9hSHcd-2i-PSB8kCKHpAErfp8jL9AbzceuiMojwS4u8d]
+                button "국민은행(+1) - 관련 검색 결과" [ref=24]
+                  container
+                    image
+                    container
+                      text "국민은행"
+                      text " +1"
+            heading
+              text "주요 이용 안내 및 조건"
+            unordered_list
+              list_item
+                container
+                  text "신청 방법 (앱 기준)"
+                  text ": KB스타뱅킹 앱 실행 후"
+                  text "전체 메뉴 > 외환 > 환전신청"
+                  text "순으로 이동하여 진행합니다."
+                button "관련 검색결과" [ref=25]
+                  svg_root
+              list_item
+                container
+                  text "환율 우대율"
+                  text ":"
+                unordered_list
+                  list_item
+                    text "미국 달러(USD), 일본 엔(JPY), 유로(EUR): 최대 90% 우대"
+                  list_item
+                    text "기타 주요 통화: 최대 50% 또는 20% 우대"
+                    container
+                      anchor "국민은행" [ref=26, url=https://www.google.com/goto?url=CAESaAHEIkXXZz8-Fntmn-UrCjwptxm6tAg8wiKJmdrFKvzrGgYZqpxGsZRBeJ-ETucn73G_4tDID_hXw19mtRKB5_RhpMvs3Xyk9hSHcd-2i-PSB8kCKHpAErfp8jL9AbzceuiMojwS4u8d]
+                      button "국민은행(+2) - 관련 검색 결과" [ref=27, loc=css:button[aria-label="국민은행(+2) - 관련 검색 결과"]]
+                        container
+                          image
+                          container
+                            text "국민은행"
+                            text " +2"
+              list_item
+                container
+                  text "신청 한도"
+                  text ": 1일 원화 100만 원 상당액 이내"
+                container
+                  anchor "국민은행" [ref=28, url=https://www.google.com/goto?url=CAESewHEIkXXeWSfmcJsysDm4g1qYHSurCE8itfINNkap0TI0qJe7AIYO4e7NVRO4aVW3g_2mgWS_4Qn7Yn5M03qf84l10c8KxWudWL8vdEfzVDWUVnMWbUXthcY0CG9tXpTWbf5O5si4rFExQ0Q5v3ChWTTecohMSZrdm6VTg]
+                  button "국민은행 - 관련 검색 결과" [ref=29]
+                    container
+                      image
+                      text "국민은행"
+              list_item
+                container
+                  text "이용 시간"
+                  text ": 00:00 ~ 23:00 (주말 및 공휴일 포함, 단 셋째 주 일요일 00:00~07:00 제외)"
+                container
+                  anchor "국민은행" [ref=30, url=https://www.google.com/goto?url=CAESfgHEIkXX6YiZooSotx0jMTmfvnzHAp69oeNi0RTWf915aD0P2CIWrWKNx_Pn6Kbc1XIm1NMWSNFO06bJo-NjUYtixxbH3BtX-XCY7gOT-llab0qvgXrIC6s8bZxfgN2cxcYoG4-4Zk2jT6lK5p5Tu5T_xA11P6yU5zkanwvP0w]
+                  button "국민은행 - 관련 검색 결과" [ref=31]
+                    container
+                      image
+                      text "국민은행"
+        button "AI 개요 더보기" [ref=32, loc=role:button[name="AI 개요 더보기"]]
+          text "더보기"
+          svg_root
+      container
+        container
+          anchor [ref=33, url=https://www.google.com/goto?url=CAESaAHEIkXXBLE1ZbBYGXqNNVE41oTTvGwgMfnfW5C-dr4bE_7zybVhDpOt5kSqiU3pN6IRJbOMoAcCKLNHhPnXPaibrNVLtdOIZSrUSnGwwIOx0ewQImR7k-j1ESaYI3EB6xHVsp8KbUle&gsessionid=fm_OQPfpVMtQ5APQszC-NRf9GutF_RaxtfJnnr3FXR7UIlKiIDW1mA]
+            heading
+              text "비로그인환전신청 - 외환"
+            container
+              image
+              container
+                text "국민은행"
+                container
+                  text "https://obank.kbstar.com"
+                  text "› 개인뱅킹 › 외환 › 환전"
+          button "검색결과에 관한 정보" [ref=34]
+            svg_root
+        container
+          text "환전신청"
+          text "· 1현재단계 약관동의 · 2 정보입력 · 3 입력정보확인. 약관동의. 전체동의. 확인함 [필수] 개인(신용)정보수집이용 ..."
+      container
+        container
+          anchor [ref=35, url=https://www.google.com/goto?url=CAESaAHEIkXXJvNs3reGwgTQsU5jBWdkxv3_sE-ke6qY191o793reMOhxevbZ72I_dltXCNOTsf-78esu6fXxhvNpD2EaMHGYKSraBhDcHXsSB0XqL64KKy9JYzHruSQikaG0JAhLtS-IRt8&gsessionid=fm_OQPfpVMtQ5APQszC-NRf9GutF_RaxtfJnnr3FXR7UIlKiIDW1mA]
+            heading
+              text "지점에서 받기 ( 개인뱅킹 | 외환 | 환전"
+            container
+              image
+              container
+                text "국민은행"
+                container
+                  text "https://obank.kbstar.com"
+                  text "› quics"
+          button "검색결과에 관한 정보" [ref=36]
+            svg_root
+        text "① [QR코드 생성하기] 버튼을 선택해 주세요. · ② 스마트기기 카메라 앱으로 QR코드를 촬영해 주세요. · ③ PC에 보이는 확인코드를 KB스타뱅킹 앱 내에 ..."
+      container
+        container
+          anchor [ref=37, url=https://www.google.com/goto?url=CAESbAHEIkXXd6tK4ywJDML6ywXct_x1tydT9ctzilmzP_T0jKjrE9QTRGwMcZ61jWZLvWhyxxhlFvRkY9ip_iLPbo8fZcTtlecJigmDgmaL_caO_JQm3CKEjI4P6h4K5yHIsJFJ5p6jYHN79EdHhg&gsessionid=fm_OQPfpVMtQ5APQszC-NRf9GutF_RaxtfJnnr3FXR7UIlKiIDW1mA]
+            heading
+              text "국민은행 KB스타뱅킹 어플로 환전 신청하기"
+            container
+              image
+              container
+                text "블로그"
+                container
+                  text "https://m.blog.naver.com"
+                  text "› hi_hyeon_"
+          button "검색결과에 관한 정보" [ref=38]
+            svg_root
+        container
+          container
+            text "2024. 3. 5."
+            text "—"
+          container
+            text "카테고리 이동 혀니의 일상로그 ᐢ..ᐢ₎♡ ·"
+            text "1. 메뉴 > 외환 > 환전신청"
+            text "· 2. 환전하여 어느 지점에서 받을 지 선택합니다. · 3. 약관 동의 · 4. 환전정보 ..."
+      container
+        container
+          anchor [ref=39, url=https://www.google.com/goto?url=CAESewHEIkXXz2AoBD7lbs6pEwdWVaIHzL_UP91-Dx8XHuSOolhgISepLbTdI8uosuYVkc-N2vGCyDIzv6Yna4E7km6rXGxEeVKu7uhb800V-2WfnilvX4-QiMdyDGGEAO0kFSEritJa_4XzCs1VpvOsF696Fx5Af9hy2ltUxg&gsessionid=fm_OQPfpVMtQ5APQszC-NRf9GutF_RaxtfJnnr3FXR7UIlKiIDW1mA]
+            heading
+              text "환전 서비스 이용안내(지점에서 받기)"
+            container
+              image
+              container
+                text "국민은행"
+                container
+                  text "https://obank.kbstar.com"
+                  text "› quics"
+          button "검색결과에 관한 정보" [ref=40]
+            svg_root
+        container
+          text "..."
+          text "환전신청한도. 1일 원화 100만원 상당액 이내"
+          text ". 외화 수령 시간. 일반지점: 9 ... 이때 환율 변동으로 인해 환전 신청 시 결제한 원화금액과 차이가 발생할 수 있습니다."
+      container
+        container
+          anchor [ref=41, url=https://www.google.com/goto?url=CAESfgHEIkXX_0ky9jGU2bj4amD2QcuZEG4-3jMLmmNlj3yrVR74V2FyPZwulx3mbP2KOsOCrIMNHjWDKqFSuA2j_pweg0Q94sLiA2w8N2AEW50luLdMfaXddr3rKOTd7U8c3Oc-7blkAuQW4L-vZ078LG_2DI6n4mtbIxVX90mwlA&gsessionid=fm_OQPfpVMtQ5APQszC-NRf9GutF_RaxtfJnnr3FXR7UIlKiIDW1mA]
+            heading
+              text "비회원 환전"
+            container
+              image
+              container
+                text "국민은행"
+                container
+                  text "https://emfi.kbstar.com"
+                  text "› quics"
+          button "검색결과에 관한 정보" [ref=42]
+            svg_root
+        container
+          text "KB국민은행 계좌가 없어도. 누구나 환전 신청할 수 있어요"
+          text "· 신청한 외화 수령은. 인천국제공항과 전국 지점에서 가능! · 신청도 수령도 간편하니까. 환전은 KB국민은행!"
+      container
+        heading
+          text "관련 질문"
+        button [ref=43]
+          text "국민은행에서 당일 환전을 받을 수 있나요?"
+          svg_root
+[more content below the viewport: scrollY=0, viewport 1579 / page 2787 px; scroll or use snapshot({ scope: "full_page" })]

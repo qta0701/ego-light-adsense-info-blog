@@ -1,0 +1,259 @@
+[p1 "국민은행 통장사본 출력 - Google 검색" | space "research-20261113-d4faea6e-16-2"(13): 1 managed, 0 untracked — p1* "국민은행 통장사본 출력 - Google 검색"]
+root
+  container
+    search
+      anchor "Google 홈페이지로 이동" [ref=1, loc=css:a[aria-label="Google 홈페이지로 이동"], url=https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwjlrd-xjISYAxVQulYBHddAPSEQPHoECAYQBA]
+        svg_root
+      container
+        comboboxgrouping "검색" [ref=2, loc=css:textarea[name="q"]]
+          text "국민은행 통장사본 출력"
+        container
+          button "지우기" [ref=3, loc=role:button[name="지우기"]]
+            svg_root
+          container
+            button "입력 도구" [ref=4, loc=role:button[name="입력 도구"]]
+              svg_root
+            button "음성 검색" [ref=5, loc=role:button[name="음성 검색"]]
+              svg_root
+            button "이미지로 검색" [ref=6, loc=role:button[name="이미지로 검색"]]
+              svg_root
+    container
+      button "공유" [ref=7]
+        svg_root
+      container
+        button "Google 앱" [ref=8, loc=css:a[aria-label="Google 앱"], url=https://www.google.co.kr/intl/ko/about/products?tab=wh]
+          svg_root
+        button "Google 계정: 순분 (soonboon3265@gmail.com)" [ref=9, loc=css:a[aria-label="Google 계정: 순분
+(soonboon3265@gmail.com)"], url=https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EA%25B5%25AD%25EB%25AF%25BC%25EC%259D%2580%25ED%2596%2589%2520%25ED%2586%25B5%25EC%259E%25A5%25EC%2582%25AC%25EB%25B3%25B8%2520%25EC%25B6%259C%25EB%25A0%25A5&ec=futura_srp_og_si_72236_p]
+  image
+  container
+    navigation [ref=10]
+      list
+        listitem
+          anchor [ref=11, url=https://www.google.com/search?q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89+%ED%86%B5%EC%9E%A5%EC%82%AC%EB%B3%B8+%EC%B6%9C%EB%A0%A5&newwindow=1&sca_esv=75c434088ec5c16c&sxsrf=AKL5yDhZavJVX9u3VsVkD8gDDSEVKFsDBw:1794543741039&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hUTdvznf4LhrhVSatyPt5BAUTFm80PRuyICIgxl701Gd4j1SkzzKXvcXGXETbORJcuqconYpD5H6bH8bN80YeRBSfqGfg&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjlrd-xjISYAxVQulYBHddAPSEQ2J8OegQICxAD]
+            text "AI 모드"
+        listitem
+          link [ref=12]
+            text "전체"
+        listitem
+          anchor [ref=13, url=https://www.google.com/search?newwindow=1&sca_esv=75c434088ec5c16c&sxsrf=AKL5yDhZavJVX9u3VsVkD8gDDSEVKFsDBw:1794543741039&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hUTdvznf4LhrhVSatyPt5BAUTFm80PRuyICIgxl701Gd4j1SkzzKXvcXGXETbORJcuqconYpD5H6bH8bN80YeRBSfqGfg&q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89+%ED%86%B5%EC%9E%A5%EC%82%AC%EB%B3%B8+%EC%B6%9C%EB%A0%A5&sa=X&ved=2ahUKEwjlrd-xjISYAxVQulYBHddAPSEQtKgLegQILRAB]
+            text "이미지"
+        listitem
+          anchor [ref=14, url=https://www.google.com/search?newwindow=1&sca_esv=75c434088ec5c16c&sxsrf=AKL5yDhZavJVX9u3VsVkD8gDDSEVKFsDBw:1794543741039&q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89+%ED%86%B5%EC%9E%A5%EC%82%AC%EB%B3%B8+%EC%B6%9C%EB%A0%A5&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hUTdvznf4LhrhVSatyPt5BAUTFm80PRuyICIgxl701Gd4j1SkzzKXvcXGXETbORJcuqconYpD5H6bH8bN80YeRBSfqGfg&sa=X&ved=2ahUKEwjlrd-xjISYAxVQulYBHddAPSEQ0pQJegQILhAB]
+            text "뉴스"
+        listitem
+          anchor [ref=15, url=https://www.google.com/search?newwindow=1&sca_esv=75c434088ec5c16c&sxsrf=AKL5yDhZavJVX9u3VsVkD8gDDSEVKFsDBw:1794543741039&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hUTdvznf4LhrhVSatyPt5BAUTFm80PRuyICIgxl701Gd4j1SkzzKXvcXGXETbORJcuqconYpD5H6bH8bN80YeRBSfqGfg&q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89+%ED%86%B5%EC%9E%A5%EC%82%AC%EB%B3%B8+%EC%B6%9C%EB%A0%A5&ved=1t:220175&ictx=111]
+            text "쇼핑"
+        listitem
+          anchor [ref=16, url=https://www.google.com/search?newwindow=1&sca_esv=75c434088ec5c16c&sxsrf=AKL5yDhZavJVX9u3VsVkD8gDDSEVKFsDBw:1794543741039&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hUTdvznf4LhrhVSatyPt5BAUTFm80PRuyICIgxl701Gd4j1SkzzKXvcXGXETbORJcuqconYpD5H6bH8bN80YeRBSfqGfg&q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89+%ED%86%B5%EC%9E%A5%EC%82%AC%EB%B3%B8+%EC%B6%9C%EB%A0%A5&sa=X&ved=2ahUKEwjlrd-xjISYAxVQulYBHddAPSEQtKgLegQIJhAB]
+            text "동영상"
+        listitem
+          anchor [ref=17, url=https://www.google.com/search?newwindow=1&sca_esv=75c434088ec5c16c&sxsrf=AKL5yDhZavJVX9u3VsVkD8gDDSEVKFsDBw:1794543741039&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hUTdvznf4LhrhVSatyPt5BAUTFm80PRuyICIgxl701Gd4j1SkzzKXvcXGXETbORJcuqconYpD5H6bH8bN80YeRBSfqGfg&q=%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89+%ED%86%B5%EC%9E%A5%EC%82%AC%EB%B3%B8+%EC%B6%9C%EB%A0%A5&sa=X&ved=2ahUKEwjlrd-xjISYAxVQulYBHddAPSEQs6gLegQIIRAB]
+            text "짧은 동영상"
+        listitem
+          button [ref=18]
+            container "필터 더보기"
+              text "더보기"
+              svg_root
+      button [ref=19]
+        text "도구"
+        svg_root
+    container
+      container
+        container
+          container
+            svg_root
+            heading
+              text "AI 개요"
+          container
+            container
+              text "KB국민은행 통장 사본은 PC(인터넷뱅킹) 또는 모바일(KB스타뱅킹 앱)을 통해 간편하게 발급 및 출력할 수 있습니다"
+              text "."
+              button "관련 검색결과" [ref=20]
+                svg_root
+            heading
+              text "1. PC에서 발급 및 출력하기"
+            unordered_list
+              list_item
+                container
+                  text "경로"
+                  text ":"
+                  anchor [ref=21, url=https://www.google.com/goto?url=CAESaAHEIkXX-m4b77_nB6ntW2RSU0xUQqDZ1qNBFkjAt7iK-UPlIaUX40KBPWqQVq4QtKV1qxrXDNUn90j42oK6JCCqeo0PodDr-EA_YuUERRakjAVHcCSK28Xw6kizBOOAXnqmyNk4auEg]
+                    text "KB국민은행 인터넷뱅킹"
+                  text "접속 후 로그인 →"
+                  text "[뱅킹관리]"
+                  text "→"
+                  text "[제증명발급]"
+                  text "→"
+                  text "[통장사본]"
+                container
+                  anchor "국민은행" [ref=22, loc=css:a[aria-label="국민은행"], url=https://www.google.com/goto?url=CAESaAHEIkXX-m4b77_nB6ntW2RSU0xUQqDZ1qNBFkjAt7iK-UPlIaUX40KBPWqQVq4QtKV1qxrXDNUn90j42oK6JCCqeo0PodDr-EA_YuUERRakjAVHcCSK28Xw6kizBOOAXnqmyNk4auEg]
+                  button "국민은행(+1) - 관련 검색 결과" [ref=23, loc=css:button[aria-label="국민은행(+1) - 관련 검색 결과"]]
+                    container
+                      image
+                      container
+                        text "국민은행"
+                        text " +1"
+              list_item
+                container
+                  text "절차"
+                  text ":"
+                ordered_list
+                  list_item
+                    text "공동인증서, 금융인증서 등으로 로그인합니다."
+                  list_item
+                    text "조회된 계좌 목록에서 원하는 계좌를 확인합니다."
+                  list_item
+                    text "한글 또는 영문 버전을 선택합니다."
+        button "AI 개요 더보기" [ref=24, loc=role:button[name="AI 개요 더보기"]]
+          text "더보기"
+          svg_root
+      container
+        container
+          container
+            anchor [ref=25, url=https://www.google.com/goto?url=CAESaAHEIkXX6LPrSkKoPlSvtgjdai2hBddSP9_wn_H2hAkRCg5zDSBvqbNEkJxlZ567mdOgHEuOFCj0K_QFL9s72zFuypE2XM5h2K4lI2pWbsRjslZtkAdsxDH4HQjFPZukBlCyAG6tbHt6&gsessionid=UazAe2lEZroCKTu7s29JpC-OTkFken_PsjInQ3j_-YQGYp8HbXNT0g]
+              heading
+                text "일반 ( 개인뱅킹 | 뱅킹관리 | 제증명발급 | 통장사본 | 일반 )"
+              container
+                image
+                container
+                  text "국민은행"
+                  container
+                    text "https://obank.kbstar.com"
+                    text "› quics"
+            button "검색결과에 관한 정보" [ref=26]
+              svg_root
+          text "① [QR코드 생성하기] 버튼을 선택해 주세요. ② 스마트기기 카메라 앱으로 QR코드를 촬영해 주세요. ③ PC에 보이는 확인코드를 KB스타뱅킹 앱 내에 입력..."
+        container
+          container
+            anchor [ref=27, url=https://www.google.com/goto?url=CAESawHEIkXX8n-OWC_A-mqnxiKlZ9WfmDzGqzTE5HjkxCGrMEbVtR874QQal0U_rTimQ7XxCR-FjKEPpSeCC8glTPlGrvFr1X_cw3VJuUFJgIbZo1BWSjuYXqgktGSKCM9GASbDzsIqMfBgb7vr&gsessionid=UazAe2lEZroCKTu7s29JpC-OTkFken_PsjInQ3j_-YQGYp8HbXNT0g]
+              heading
+                text "KB국민은행 통장사본출력 방법! 모바일 PC버전"
+              container
+                svg_root
+                container
+                  text "Naver Blog"
+                  container
+                    text "https://blog.naver.com"
+                    text "› gyujin0917"
+            button "검색결과에 관한 정보" [ref=28]
+              svg_root
+          container
+            container
+              text "2023. 12. 8."
+              text "—"
+            container
+              text "1.KB국민은행 스타뱅킹앱에 로그인"
+              text "합니다. ​. 2. 통장사본출력을 원하는 계좌를 눌러 들어갑니다. ​. 3.계좌 ..."
+        container
+          container
+            anchor [ref=29, url=https://www.google.com/goto?url=CAESmwIBxCJF1yQwtwcOlbDhQyyN38JJounoyTcg_tp0MldfLLdROOQloqItyH7vnw7lDEvcZHbXorXDCT1RMKv5bgkZii-5m8OdW3lCnKCYZ3Mg7sUcB_0qEr5p33_kUN3_GMwwzawXwZ1qvvf3C-Vrj-_R7pc0Vl5JTQE0NHrT76zA-ak2HIgL2KGCOIZCkoIMBPU6SwFIKOfWo0oh4473apdVZBCD5eL5CLZSkcvUVTqUWLqmcfIrnEEjROa41joDmYE_tBtUNaqH5eMcxz4Sv0vfkCwkHaSy7BmXzfvPNQcPSPmASfLLvFgjF3DvU6N83JvWgkO4b67_souXiZtvez4xx1S85ub0PejNfni4S2FYVX9cHNOwLVz6jw0B&gsessionid=UazAe2lEZroCKTu7s29JpC-OTkFken_PsjInQ3j_-YQGYp8HbXNT0g]
+              heading
+                text "통장 사본 모바일 발급 방법 총정리: 인터넷으로 빠르게 저장!"
+              container
+                image
+                container
+                  text "뱅크샐러드"
+                  container
+                    text "https://www.banksalad.com"
+                    text "› articles › 통장사본-모바일..."
+            button "검색결과에 관한 정보" [ref=30]
+              svg_root
+          container
+            text "국민은행 통장 사본"
+            text "모바일 · KB스타뱅킹 앱 접속 · 메인화면 - 계좌 - 더보기 메뉴 (⋮) 클릭 - ["
+            text "통장사본"
+            text "] ·"
+            text "통장사본"
+            text "저장."
+        container
+          container
+            anchor [ref=31, url=https://www.google.com/goto?url=CAESagHEIkXXMcXEl3iUZjtdPM6-JLHDgaSZgF0RQjwDb9Fh9MfxxbN4xB62nJV5jfT8BjWNv6iN_O_nNH4wH1cPtvo3pqi-Lk2ZU5WYvAGsJvV3O5SxqRphmg_Pj6ngDGlosTYnQmsB_I4EHMg&gsessionid=UazAe2lEZroCKTu7s29JpC-OTkFken_PsjInQ3j_-YQGYp8HbXNT0g]
+              heading
+                text "국민은행 통장 사본 출력하는 방법, PDF 파일로 저장하는 방법.."
+              container
+                image
+                container
+                  text "블로그"
+                  container
+                    text "https://m.blog.naver.com"
+                    text "› jinalov"
+            button "검색결과에 관한 정보" [ref=32]
+              svg_root
+          container
+            container
+              text "2020. 3. 31."
+              text "—"
+            container
+              text "해당계좌에 대한 예금종류, 계좌번호, 신규개설일, 계좌개설 확인일,"
+              text "국민은행"
+              text "인이 찍힌 화면이 나오면, 하단의 "인쇄"버튼을 클릭합니다."
+        container
+          container
+            anchor [ref=33, url=https://www.google.com/goto?url=CAEShQIBxCJF1_2zmdruKyp1h8EIqZchJxMkJqL_26mYtmP5_UZcDUJdCLMQmeJLTW2T7Z4LnNvbo1UlEhnSAChH86pbpoUVxvobVNqX7ZGikNnhx0pYoyMZgVtwus-nJq4VhLeQzMTu8gZmRp_mGQ7wlVIejUQsBnXjizIFRjYolA6DmmwcQ-m7Wv7FxTjcKtIq-UIgRyTHP_iKS_okFutv9tZdLuVdEZk4psADSRnXK-TL6n2kphlypajtiaQxzJTBwwHoD1rYfLo-LKFxh0XMdMTBAlrevPaMp_5QGKmQTo1YuGxkoprUp8Szgvlkj9AK2Mk1dre5UBCIokstqlP99kMg53nzxYU&gsessionid=UazAe2lEZroCKTu7s29JpC-OTkFken_PsjInQ3j_-YQGYp8HbXNT0g]
+              heading
+                text "인터넷 뱅킹 통장 사본 출력 (KB국민은행 기준) - 리뷰켈리"
+              container
+                image
+                container
+                  text "티스토리"
+                  container
+                    text "https://reviewkelly.tistory.com"
+                    text "› entry › 인터넷-뱅킹-..."
+            button "검색결과에 관한 정보" [ref=34]
+              svg_root
+          container
+            container
+              text "2022. 8. 27."
+              text "—"
+            container
+              text "① 먼저,"
+              text "국민은행"
+              text "인터넷 뱅킹으로 접속하고 개인회원 로그인을 한다. ② 화면 상단 메뉴 중 [뱅킹관리]를 선택한다. ③ [제증명발급 -"
+              text "통장사본"
+              text "]을 선택 ..."
+        container
+          container
+            anchor [ref=35, url=https://www.google.com/goto?url=CAESYwHEIkXXOO04QK-8pIlR3FGbmjn-MbIijCJ8lLkT_5UzJh92DbafGYZmRYuTGbL21WQClaT6d_VEp6S4gvgGJyVTUEYzFarBn2SoV1MhKHICewxzRWWzjMYwWY5vu8Div3HO5A&gsessionid=UazAe2lEZroCKTu7s29JpC-OTkFken_PsjInQ3j_-YQGYp8HbXNT0g]
+              heading
+                text "국민은행 통장사본 인터넷발급 방법"
+              container
+                svg_root
+                container
+                  text "sorivista.com"
+                  container
+                    text "https://eic.sorivista.com"
+                    text "› archives"
+            button "검색결과에 관한 정보" [ref=36]
+              svg_root
+          container
+            container
+              text "2021. 7. 10."
+              text "—"
+            container
+              text "국민은행 통장사본 인터넷발급 방법 ·"
+              text "1) KB국민은행 홈페이지에 접속합니다"
+              text ". · 2) 로그인 · 3) 통장사본 발급 메뉴 선택 · 4) 통장 사본을 발급할 계좌 ..."
+        container
+          container
+            anchor [ref=37, url=https://www.google.com/goto?url=CAES-AEBxCJF17tWG0f7r1YtPLOq9m6iKgyQZxA-NKJskwot-78ZGgMlXuUA-1EtJaJ15TsdScikZ3fFPhTcDTolpFgb21PdQcaee0_vRw2dI3KuuMBym5szN0pPw7o7BezhkOoGFrJDXKagIRhA2zz-KnFFvJZRlAQN4AYL71eLpYp-qhD0IQM2mh_61GjIABt2HM5NVcU4RrCha8Y4JlKeHzNOdP4VTTs6wy4jlv0by0gDzE5FfXV96Mx3hVxq6TmfcpukRUDJYzZckQx7ipS6G77ypF7qlGDsa0gxHhV7x4tJbwvlPqfgHXXOTwQVeWpnkUnectB3mziKiw&gsessionid=UazAe2lEZroCKTu7s29JpC-OTkFken_PsjInQ3j_-YQGYp8HbXNT0g]
+              heading
+                text "KB 국민은행 통장 사본 모바일 발급 및 출력 - 정보마당"
+              container
+                image
+                container
+                  text "티스토리"
+                  container
+                    text "https://careli.tistory.com"
+                    text "› entry › KB-국민은행-통장-..."
+            button "검색결과에 관한 정보" [ref=38]
+              svg_root
+          container
+            container
+              text "2024. 9. 21."
+              text "—"
+            container
+              text "스마트폰과 프린터가 연결되어 있다면 갤러리에 저장된"
+              text "통장 사본"
+              text "우측 하단에 점 3개를 누르고 '인쇄'를 선택하면 PC로 전송하지 않아도"
+[more content below the viewport: scrollY=0, viewport 1579 / page 2482 px; scroll or use snapshot({ scope: "full_page" })]

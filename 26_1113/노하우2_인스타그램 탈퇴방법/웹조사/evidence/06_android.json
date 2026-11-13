@@ -1,0 +1,54 @@
+{
+  "url": "https://help.instagram.com/139886812848894/?cms_platform=android-app&helpref=platform_switcher&locale=ko_KR",
+  "title": "Instagram 프로필을 영구적으로 삭제하거나 비활성화하기 | Instagram 고객 센터",
+  "width": 1280,
+  "height": 1000,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1264.800048828125,
+    "height": 1000,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      380,
+      768.1875,
+      462.8500061035156,
+      62.400001525878906
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "boxes": [
+    [
+      380,
+      768,
+      463,
+      63
+    ]
+  ],
+  "pixelSize": {
+    "width": 1280,
+    "height": 1000
+  },
+  "pixelScale": {
+    "x": 1.0001562362589829,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1279.800048828125,
+    "height": 1000
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T05:05:50.857Z"
+}

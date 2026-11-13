@@ -1,0 +1,23 @@
+{
+  "spaceId": 3,
+  "page": "p1",
+  "status": "finished",
+  "finishMethod": "task.finish({keep:[]})",
+  "tabsBeforeFinish": [
+    {
+      "label": "p1",
+      "title": "로그인 | KORAIL 한국철도공사",
+      "url": "https://info.korail.com/mbs/www/jsp/voc/fe/login/NR_loginForm.do",
+      "openedBy": "agent"
+    }
+  ],
+  "finishResult": {
+    "spaceId": 3,
+    "closedSpace": true,
+    "keptManagedLabels": [],
+    "closedManagedLabels": [
+      "p1"
+    ],
+    "preservedUnmanagedCount": 0
+  }
+}

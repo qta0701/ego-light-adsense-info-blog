@@ -1,0 +1,101 @@
+{
+  "tab": "은행_재테크",
+  "row": 14,
+  "keyword": "부산은행 환전",
+  "folder": "26_1113/은행_재테크_부산은행 환전",
+  "promotionUrl": "https://bank.supportimes.com/2026/11/one.html",
+  "profileName": "박상민",
+  "account": "chocolateelf",
+  "ledgerColumn": "L",
+  "indexOnProfile": 2,
+  "publishMode": "pending_timeline_check",
+  "platform": "naver",
+  "status": "scheduled",
+  "verified": true,
+  "spaceId": 56,
+  "profileId": "Profile 1",
+  "postId": "224475979211",
+  "title": "부산은행 환전: ONE환전 신청 전 수령 방법과 한도 확인",
+  "identityVerified": "chocolateelf",
+  "publicationTime": "2026-11-13T22:10:00+09:00",
+  "publicationTimeSource": "confirmed_reservation_list",
+  "slotIsConfirmed": true,
+  "reservationEvidence": "예약 발행 글 목록에서 해당 제목과 2026.11.13 22:10 확인",
+  "submittedOnce": true,
+  "publicUrl": null,
+  "publicAudit": "예약 글은 아직 공개되지 않아 공개 검수 미실시",
+  "source": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/은행_재테크_부산은행 환전_네이버블로그.md",
+  "sourceSha256": "f9084d7e279d74c4e8fd8d26465abf2412cdaf77d719b5f038f4d46035ef9f54",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/02_guide.png",
+      "caption": "1.부산은행 ONE환전 서비스 안내",
+      "sha256": "e77226d56d91426f380c6e50f9ab97e55612ea3bb1c524bd37da20a278c6f07e"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/03_guide.png",
+      "caption": "2.ONE환전 이용 대상과 시간 확인",
+      "sha256": "edb8c0a47eb96d7d25e8c710bdf0aab1cdc704edff0d105e310e45a53b85183a"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/04_guide.png",
+      "caption": "3.ONE환전 로그인별 신청 한도",
+      "sha256": "84ca4323a58a6a6abd7644a4fe08d32a3d403faa317eddf6376758c5c902cb09"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/05_guide.png",
+      "caption": "4.환전수령·현찰배달·금고보관 비교",
+      "sha256": "67740b4a60f5d13455b293386aec439e951a4c0eb6af3cbaaeed60fbef2cd4e2"
+    },
+    {
+      "marker": "NAVERIMG5",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/06_delivery_marked.png",
+      "caption": "5.ONE환전 현찰배달 조건과 배송비 안내",
+      "sha256": "ef1c80943a619c3149310bb5223806d206b7919c6f6c0d81544a6740860db1d6"
+    }
+  ],
+  "links": [
+    {
+      "marker": "NAVEROG1",
+      "url": "https://bank.supportimes.com/2026/11/one.html"
+    },
+    {
+      "marker": "NAVEROG2",
+      "url": "https://bank.supportimes.com/2026/11/one.html"
+    }
+  ],
+  "category": "은행,재테크",
+  "representative": {
+    "index": 1,
+    "file": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/02_guide.png",
+    "verifiedSelected": true,
+    "scope": "reopened_saved_reservation"
+  },
+  "styleAudit": {
+    "scope": "reopened_saved_reservation",
+    "normalParagraphs": 37,
+    "boldFailures": 0,
+    "ctaVerified": 2,
+    "images": 5,
+    "og": 2,
+    "tables": 8,
+    "rawUrls": 0,
+    "markers": 0,
+    "passed": true
+  },
+  "styleAuditFile": "tmp/naver-20261113/bank-saved-audit-14.json",
+  "claimReceipt": "tmp/naver-20261113/bank-claim-14.json",
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "sheetProgress": "조정자가 기록 및 재조회 예정",
+  "spaceStatus": "finished",
+  "recordedAt": "2026-11-13T18:27:34.512056+09:00",
+  "finishCalls": 1,
+  "claimStatus": "released",
+  "sheetStatus": "verified",
+  "ledgerRow": 228
+}

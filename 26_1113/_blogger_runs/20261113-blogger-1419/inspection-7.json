@@ -1,0 +1,42 @@
+{
+  "order": 7,
+  "row": 34,
+  "keyword": "진학어플라이 회원가입",
+  "spaceId": 34,
+  "blogId": "3087664879020853782",
+  "at": "2026-11-13T14:24:05.404728+09:00",
+  "originalCount": 4,
+  "slots": [
+    {
+      "id": "IMG_01",
+      "path": "26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/01_01_search.png",
+      "bytes": 140241,
+      "tokenCount": 1,
+      "details": "추천 업로드 순서 / 본문 노출 순서: 1 / 1\n원래 파일번호 / 파일명 / 원본 경로: 01 / 01_01_search.png / 26_1113/노하우2_진학어플라이 회원가입/웹조사/raw/01_search.png\n업로드 파일 경로: 26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/01_01_search.png\n역할: search\n이미지 내부 표식 / 본문 단계: 빨간 1: 공식 가입 결과 / 본문 단계 1\n설명하는 내용 / 화면 종류: 진학어플라이 회원가입 검색 결과에서 공식 가입 페이지를 표시한 화면 / PC 웹 실제 검색 결과\n삽입 소제목: H2 공식 가입 페이지 찾기 / id=step-find\n직전 문단: id=step-find-intro / 검색 결과에서 진학어플라이 공식 가입 페이지의 주소를 확인하세요.\n직후 문단: id=step-find-result / 검색 결과의 빨간 표시가 실제로 확인한 공식 가입 페이지입니다.\nHTML 위치: id=img-01 / data-image-id=IMG_01 / IMAGE_SLOT:IMG_01 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_01}}\n권장 alt: 진학어플라이 회원가입 검색 결과에서 공식 가입 페이지를 표시한 화면\n권장 캡션: 공식 가입 페이지 검색 결과 예시 · 2026-11-13\n실제 크기 / 표시 원칙: 1280×955 px / 최대 너비 100%, 원본 비율 유지\n출처 S1: 진학어플라이 공통원서 회원가입 / 화면 URL: https://www.google.com/search?q=%EC%A7%84%ED%95%99%EC%96%B4%ED%94%8C%EB%9D%BC%EC%9D%B4%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85 / 확인일 2026-11-13\n검색 이미지의 실제 연 공식 결과 URL: https://applymem.jinhakapply.com/\n채택·편집·가림: 계정 식별 부분 가림, 공식 결과에 빨간 테두리와 화살표. 이미지 실물 및 개인정보 노출 확인.\n원래 순서와 변경 이유: 실제 진행 순서 유지\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_02",
+      "path": "26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/blogger-images/05_signup_live_marked.png",
+      "bytes": 152934,
+      "tokenCount": 1,
+      "details": "추천 업로드 순서 / 본문 노출 순서: 2 / 2\n원래 파일번호 / 파일명 / 원본 경로: 05 / 05_signup_live.png / 26_1113/노하우2_진학어플라이 회원가입/웹조사/raw/05_signup_live.png\n업로드 파일 경로: 26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/blogger-images/05_signup_live_marked.png\n역할: guide\n이미지 내부 표식 / 본문 단계: 빨간 테두리: 진학어플라이 단일회원과 통합회원 / 본문 단계 2\n설명하는 내용 / 화면 종류: 진학어플라이 공통원서 가입 화면에서 단일회원과 통합회원 선택 영역 / PC 웹 공식 가입 화면\n삽입 소제목: H2 회원 유형 선택하기 / id=step-choice\n직전 문단: id=step-choice-intro / 공식 가입 화면에서 진학어플라이 회원가입과 통합회원 가입을 비교해 선택하세요.\n직후 문단: id=step-choice-result / 가운데 통합회원 가입은 두 대행사에 동시에 가입하는 방식입니다.\nHTML 위치: id=img-02 / data-image-id=IMG_02 / IMAGE_SLOT:IMG_02 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_02}}\n권장 alt: 진학어플라이 공통원서 가입 화면에서 단일회원과 통합회원 선택 영역\n권장 캡션: 공식 가입 화면의 회원 유형 선택 · 2026-11-13\n실제 크기 / 표시 원칙: 1280×900 px / 최대 너비 100%, 원본 비율 유지\n출처 S1: 진학어플라이 공통원서 회원가입 / 화면 URL: https://applymem.jinhakapply.com/ / 확인일 2026-11-13\n검색 이미지의 실제 연 공식 결과 URL: 해당 없음\n채택·편집·가림: 복사본에 두 선택 영역을 함께 감싼 빨간 테두리 추가, 가림 없음. 이미지 실물 및 개인정보 노출 확인.\n원래 순서와 변경 이유: 신규 실제 가입 화면을 검색 다음에 추가하여 예시 화면을 대체\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_03",
+      "path": "26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/03_03_guide_agree.png",
+      "bytes": 181440,
+      "tokenCount": 1,
+      "details": "추천 업로드 순서 / 본문 노출 순서: 3 / 3\n원래 파일번호 / 파일명 / 원본 경로: 03 / 03_guide_agree.png / 26_1113/노하우2_진학어플라이 회원가입/웹조사/raw/03_guide_agree.png\n업로드 파일 경로: 26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/03_03_guide_agree.png\n역할: guide\n이미지 내부 표식 / 본문 단계: 빨간 1 두 곳: 동의 체크와 버튼, 노란 1·2: 가이드 자체 표식 / 본문 단계 3\n설명하는 내용 / 화면 종류: 통합회원 가입 초보자 가이드의 동의 항목과 동의 버튼 예시 / PC 웹 공식 초보자 가이드 예시\n삽입 소제목: H2 약관을 읽고 동의하기 / id=step-agree\n직전 문단: id=step-agree-intro / 통합회원 안내 예시에서 동의 항목과 아래쪽 동의 버튼의 위치를 확인하세요.\n직후 문단: id=step-agree-result / 실제 가입 화면에서는 각 항목의 필수 또는 선택 여부를 읽고 결정하세요.\nHTML 위치: id=img-03 / data-image-id=IMG_03 / IMAGE_SLOT:IMG_03 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_03}}\n권장 alt: 통합회원 가입 초보자 가이드의 동의 항목과 동의 버튼 예시\n권장 캡션: 공식 초보자 가이드의 동의 화면 예시 · 2026-11-13\n실제 크기 / 표시 원칙: 1280×1055 px / 최대 너비 100%, 원본 비율 유지\n출처 S2: 진학어플라이 통합회원 가입 초보자 가이드 / 화면 URL: https://apply.jinhakapply.com/Customer/Guide/Join/1 / 확인일 2026-11-13\n검색 이미지의 실제 연 공식 결과 URL: 해당 없음\n채택·편집·가림: 기존 발행본의 빨간 테두리와 화살표, 가림 없음. 이미지 실물 및 개인정보 노출 확인.\n원래 순서와 변경 이유: 실제 진행 순서 유지\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_04",
+      "path": "26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/04_04_guide_form.png",
+      "bytes": 191167,
+      "tokenCount": 1,
+      "details": "추천 업로드 순서 / 본문 노출 순서: 4 / 4\n원래 파일번호 / 파일명 / 원본 경로: 04 / 04_guide_form.png / 26_1113/노하우2_진학어플라이 회원가입/웹조사/raw/04_guide_form.png\n업로드 파일 경로: 26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/04_04_guide_form.png\n역할: guide\n이미지 내부 표식 / 본문 단계: 빨간 1 두 곳: 입력란과 가입 버튼, 노란 1~7: 가이드 자체 표식 / 본문 단계 4\n설명하는 내용 / 화면 종류: 통합회원 가입 초보자 가이드의 정보 입력란과 회원가입하기 버튼 예시 / PC 웹 공식 초보자 가이드 예시\n삽입 소제목: H2 회원정보 입력하고 가입하기 / id=step-form\n직전 문단: id=step-form-intro / 공식 가이드 예시에서 회원정보 입력란과 회원가입하기 버튼을 확인하세요.\n직후 문단: id=step-form-result / 입력 조건과 실제 화면의 안내를 확인한 뒤 본인의 정보를 입력하세요.\nHTML 위치: id=img-04 / data-image-id=IMG_04 / IMAGE_SLOT:IMG_04 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_04}}\n권장 alt: 통합회원 가입 초보자 가이드의 정보 입력란과 회원가입하기 버튼 예시\n권장 캡션: 공식 초보자 가이드의 정보 입력 화면 예시 · 2026-11-13\n실제 크기 / 표시 원칙: 1280×1055 px / 최대 너비 100%, 원본 비율 유지\n출처 S2: 진학어플라이 통합회원 가입 초보자 가이드 / 화면 URL: https://apply.jinhakapply.com/Customer/Guide/Join/1 / 확인일 2026-11-13\n검색 이미지의 실제 연 공식 결과 URL: 해당 없음\n채택·편집·가림: 기존 발행본의 빨간 테두리와 화살표, 가림 없음. 이미지 실물 및 개인정보 노출 확인.\n원래 순서와 변경 이유: 실제 진행 순서 유지\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    }
+  ],
+  "localStateExists": false,
+  "html": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\노하우2_진학어플라이 회원가입\\웹조사\\publish\\노하우2_진학어플라이 회원가입_html콘텐츠.html",
+  "txt": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\노하우2_진학어플라이 회원가입\\웹조사\\publish\\노하우2_진학어플라이 회원가입_제목메타디스크립션.txt"
+}

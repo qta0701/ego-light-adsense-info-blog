@@ -1,0 +1,21 @@
+[네이버 블로그 제목 후보 3개]
+1. 코레일 민원접수 방법: 온라인 고객의 소리와 역 방문 안내
+2. 코레일 민원접수 어디서 하나요? 온라인 신청과 결과 조회
+3. 코레일 민원접수 본인인증과 우편·팩스 방법 정리
+
+[네이버 모바일 홈판형 제목 후보 3개]
+1. 열차 이용 중 불편했다면? 코레일 민원 접수 경로
+2. 온라인 인증이 어렵다면 역에서도 신청할 수 있어요
+3. 코레일 고객의 소리, 신청 전 준비할 내용은?
+
+[사용 이미지 정보 및 본문 내 추천 배치 위치]
+1. 01_search.png / 웹조사/publish/01_search.png / 1번 H2 / 한국철도 고객의 소리 공식 검색 결과 / 공식 경로 식별 / 캡션: 한국철도 고객의 소리 공식 안내 찾기 / 출처: Google 검색과 https://info.korail.com/info/contents.do?key=818 / 2026-11-13 확인
+2. 02_guide.png / 웹조사/publish/02_guide.png / 2번 H2 / 고객의 소리 VOC 바로가기 버튼 / 온라인 진입 / 캡션: 고객의 소리 신청과 결과 확인 바로가기 / 출처: https://info.korail.com/info/contents.do?key=818 / 2026-11-13 확인
+3. 04_guide.png / 웹조사/publish/04_guide.png / 2번 H2 / 비회원 휴대폰 본인인증 버튼 / 인증 단계 구분 / 캡션: 비회원 휴대폰 본인인증 선택 화면 / 출처: https://info.korail.com/mbs/www/jsp/voc/fe/login/NR_loginForm.do / 2026-11-13 확인
+4. 03_guide.png / 웹조사/publish/03_guide.png / 3번 H2 / 역 방문 및 회신 안내 / 온라인 외 방법 안내 / 캡션: 가까운 역에서 고객의 소리 신청하기 / 출처: https://info.korail.com/info/contents.do?key=818 / 2026-11-13 확인
+5. 06_post_marked.png / 웹조사/publish/06_post_marked.png / 3번 H2 / 서면 주소와 팩스 안내 / 발송 전 확인 / 캡션: 서면 민원 우편 주소와 팩스 안내 / 출처: https://info.korail.com/info/contents.do?key=818 / 2026-11-13 확인 / 원본: 웹조사/raw/06_post.png / 보완 채택: 서면 접수 장면 / 기존 발췌·빨간 표식 편집본 복사.
+
+[제외·보류 이미지]
+- 웹조사/raw/01_search.png, 02_voc.png, 03_station.png, 05_auth_button.png, 06_post.png: 대응하는 발행 편집본을 사용.
+- 웹조사/raw/04_auth.png: 인증 안내가 04_guide.png와 중복되어 제외.
+- 인증 이후 실제 입력 화면은 본인인증을 진행하지 않아 확인하지 못함. 재개 시 본인인증 후 개인정보를 가리고 현재 화면과 절차를 확인.

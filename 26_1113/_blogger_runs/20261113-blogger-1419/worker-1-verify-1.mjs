@@ -1,0 +1,13 @@
+const fs=await import('node:fs/promises');
+const root='Y:/antigravity-project/ego-light-adsense-info-blog',run=`${root}/26_1113/_blogger_runs/20261113-blogger-1419`;
+const path=`${root}/26_1113/이슈_앱스토어 로그아웃/웹조사/evidence/blogger-state.json`,state=JSON.parse(await fs.readFile(path,'utf8'));
+const task=await taskSpace(35),page=task.page('p1');
+await page.click('loc=role:menuitem[name="저장"]');
+await page.waitForSelector('[aria-label="변경사항이 저장되었습니다."]',{timeout:30000});
+await page.goto(state.editorUrl,{waitUntil:'domcontentloaded',timeout:30000});await page.waitForSelector('input[aria-label="제목"]',{timeout:30000});
+await page.click('text="퍼머링크"');await page.click('text="검색 설명"');
+const result=await page.evaluate(()=>({title:document.querySelector('input[aria-label="제목"]')?.value,html:[...document.querySelectorAll('.CodeMirror')].find(x=>x.CodeMirror)?.CodeMirror.getValue(),description:document.querySelector('textarea[aria-label="검색 설명 입력"]')?.value,slug:document.querySelector('input[aria-label="맞춤 퍼머링크 입력"]')?.value,radio:[...document.querySelectorAll('[aria-label]')].filter(x=>x.getAttribute('aria-label')?.includes('맞춤 퍼머링크')).map(x=>({tag:x.tagName,role:x.getAttribute('role'),checked:x.getAttribute('aria-checked'),value:x.value})),labels:document.querySelector('textarea[aria-label="쉼표로 라벨을 구분하세요."]')?.value}));
+const expected=await fs.readFile(`${run}/completed-1.html`,'utf8');
+const normalized=s=>s?.replace(/\r\n/g,'\n');
+console.log(JSON.stringify({...result,html:undefined,htmlLength:result.html?.length,bodyMatches:normalized(result.html)===normalized(expected)}));
+await fs.writeFile(`${run}/verify-1.json`,JSON.stringify({...result,html:undefined,htmlLength:result.html?.length,bodyMatches:normalized(result.html)===normalized(expected),verifiedAt:new Date().toISOString()},null,2),'utf8');

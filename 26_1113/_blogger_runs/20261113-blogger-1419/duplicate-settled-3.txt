@@ -1,0 +1,200 @@
+[p1 "Blogger: 글" | space "20261113-blogger-1419-order-3"(38): 1 managed, 0 untracked — p1* "Blogger: 글"]
+root
+  banner
+    container
+      button "기본 메뉴" [ref=1, loc=role:button[name="기본 메뉴"]]
+        svg_root
+      anchor "Blogger" [ref=2, url=https://www.blogger.com/?hl=ko&tab=jj]
+        image
+    container
+      search
+        container
+          textbox [ref=3]
+          comboboxgrouping "검색" [ref=4, loc=css:input[aria-label="검색"]]
+            text "테무 회원탈퇴"
+        button [ref=5]
+          svg_root
+        button "검색어 지우기" [ref=90, loc=css:button[aria-label="검색어 지우기"]]
+          svg_root
+        button "검색" [ref=6, loc=css:button[aria-label="검색"]]
+          svg_root
+      table
+        table_row
+          table_cell
+            button "도움말 및 의견" [ref=7, loc=role:button[name="도움말 및 의견"]]
+              text ""
+    container
+      button "Google 앱" [ref=8, loc=css:a[aria-label="Google 앱"], url=https://www.google.co.kr/intl/ko/about/products?tab=jh]
+        svg_root
+      button "Google 계정: 순분 (soonboon3265@gmail.com)" [ref=9, loc=css:a[aria-label="Google 계정: 순분
+(soonboon3265@gmail.com)"], url=https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.blogger.com/blog/posts/694192108971227039%3Fhl%3Dko&service=blogger&ec=GBRAHg]
+  image
+  container
+    dialog "navigational drawer"
+      container
+        anchor [ref=451, url=https://www.blogger.com/]
+          image
+        anchor [ref=452, url=https://www.blogger.com/blog/settings/694192108971227039?openSetting=readerAccess]
+          text ""
+          text "전체 공개"
+          text ""
+        listbox "Blog Selection"
+          container
+            text "최근 블로그"
+            text "앱, 어플 사용가이드"
+            text "공공체육센터 도우미"
+            text "전국체육센터 가이드"
+            text "기타 블로그"
+            text "HF vs HUG 전세대출 비교"
+            text "LH청년전세대출 완벽정리"
+            text "pc프로그램, 모바일 앱 다운로드"
+            text "SH행복주택 완벽정리"
+            text "tv에 나온 식당,가게 위치,정보"
+            text "각종 서류 문서 양식 다운로드"
+            text "게임 다운로드 설치방법, 공략 모음"
+            text "고객센터 바로가기"
+            text "공공민원 도우미"
+            text "국내여행 교통 행사 예약, 요금 정보"
+            text "내집마련 디딤돌대출 완벽정리"
+            text "네이버 블로그 글 스타일 수정 편집기"
+            text "버팀목 전세자금대출 완벽정리"
+            text "버팀목전세대출 연장 완벽가이드"
+            text "보금자리론 완벽정리"
+            text "보험도우미"
+            text "부동산 정보, 청약 도우미"
+            text "브랜드 서비스 도우미"
+            text "사이트 바로가기 & 유용 생활정보"
+            text "상품권 도우미"
+            text "상황별 전세자금대출 비교"
+            text "생활민원 도우미"
+            text "생활정보 노하우 모음"
+            text "생활정보 도우미"
+            text "서민금융도우미"
+            text "스포츠 중계 다시보기"
+            text "신생아 특례대출 완벽정리"
+            text "신생아,자녀 가구 정부 주거지원, 전세대출 비교 추천 가이드"
+            text "신혼부부 전세대출 비교 가이드"
+            text "신혼부부 정부지원 전세대출 4개 비교"
+            text "안심보험도우미"
+            text "알기쉬운 드라마예능 정보"
+            text "여행,숙소 할인쿠폰 정리"
+            text "요즘 뜨는인물"
+            text "우리가족 건강보험 도우미"
+            text "은행,재테크 꿀팁모음"
+            listboxoption "이해하기 쉬운 정보 모음" [ref=453, loc=role:listboxoption[name="이해하기 쉬운 정보 모음"]]
+              text "이해하기 쉬운 정보 모음"
+            text "자동차 렌트카 리스 정보"
+            text "전세대출 금리비교"
+            text "정부지원 전세대출,주택담보대출 완벽정리"
+            text "주식,증권사 도우미"
+            text "주차장 도우미"
+            text "지원금 도우미"
+            text "청년 버팀목 전세대출 완벽정리"
+            text "청년별 전세자금대출 종류, 정부대출vs은행 비교"
+            text "카드 도우미"
+            text "콘서트 예매 일정 및 예능 TV 프로그램 다시보기 재방송 영화 정보"
+            text "통신사,앱 도우미"
+            text "새 블로그..."
+        button "새 글 작성" [ref=454, loc=role:button[name="새 글 작성"]]
+          container
+            text ""
+            text "새 글"
+        menu "Blog Menu" [ref=455, loc=role:menu[name="Blog Menu"]]
+          menuitem "글" [ref=456, loc=role:menuitem[name="글"]]
+            anchor [ref=457, url=https://www.blogger.com/blog/posts/694192108971227039]
+              text "article"
+              text "글"
+          menuitem "통계" [ref=458, loc=role:menuitem[name="통계"]]
+            anchor [ref=459, url=https://www.blogger.com/blog/stats/week/694192108971227039]
+              text ""
+              text "통계"
+          menuitem "댓글" [ref=460, loc=role:menuitem[name="댓글"]]
+            anchor [ref=461, url=https://www.blogger.com/blog/comments/694192108971227039]
+              text ""
+              text "댓글"
+          menuitem "수익" [ref=462, loc=role:menuitem[name="수익"]]
+            anchor [ref=463, url=https://www.blogger.com/blog/earnings/694192108971227039]
+              text ""
+              text "수익"
+          menuitem "페이지" [ref=464, loc=role:menuitem[name="페이지"]]
+            anchor [ref=465, url=https://www.blogger.com/blog/pages/694192108971227039]
+              text ""
+              text "페이지"
+          menuitem "레이아웃" [ref=466, loc=role:menuitem[name="레이아웃"]]
+            anchor [ref=467, url=https://www.blogger.com/blog/layout/694192108971227039]
+              text "wysiwyg"
+              text "레이아웃"
+          menuitem "테마" [ref=468, loc=role:menuitem[name="테마"]]
+            anchor [ref=469, url=https://www.blogger.com/blog/themes/694192108971227039]
+              text ""
+              text "테마"
+          menuitem "설정" [ref=470, loc=role:menuitem[name="설정"]]
+            anchor [ref=471, url=https://www.blogger.com/blog/settings/694192108971227039]
+              text ""
+              text "설정"
+        menu "Dashboard Menu" [ref=472, loc=role:menu[name="Dashboard Menu"]]
+          menuitem "읽기 목록" [ref=473, loc=role:menuitem[name="읽기 목록"]]
+            anchor [ref=474, url=https://www.blogger.com/blog/reading/694192108971227039]
+              text ""
+              text "읽기 목록"
+        anchor [ref=475, url=https://io.supportimes.com/]
+          container
+            text ""
+            text "블로그 보기"
+        container
+          anchor [ref=476, url=https://www.blogger.com/go/terms]
+            text "서비스 약관"
+          text "·"
+          anchor [ref=477, url=https://www.blogger.com/go/privacy]
+            text "개인정보 보호"
+          text "·"
+          anchor [ref=478, url=https://www.blogger.com/go/contentpolicy]
+            text "콘텐츠 정책"
+    container
+      container
+        button [ref=479]
+          container
+            text ""
+            text "공지사항(2)"
+          text ""
+        region
+          container
+            container
+              text "Blogger 콘텐츠 정책 업데이트"
+              text "2026년 12월 16일부터 정책이 일부 변경됩니다. 이번 변경사항이 미치는 영향에 관해 자세히 알아보려면"
+              anchor [ref=480, url=https://www.blogger.com/content-policy]
+                text "Blogger 콘텐츠 정책"
+              text "을 참고하세요."
+            button "알림 취소 버튼입니다." [ref=481]
+              text ""
+          container
+            container
+              heading
+                text "**새로운 베타 기능 사용해 보기**: Google을 활용하여 블로그를 읽을 때 더욱 몰입할 수 있는 환경을 조성하세요"
+              text "Google 지도 위젯:"
+              text "상호작용형 장소 세부정보(예: 위치, 영업시간, 사진, 리뷰 등)를 손쉽게 게시물에 바로 삽입하여 블로그 콘텐츠를 풍성하게 만드세요. 시작하려면 ‘�..."
+            button "알림 취소 버튼입니다." [ref=482]
+              text ""
+      container
+        container
+          listbox "글/페이지 상태 선택"
+            container
+              listboxoption [ref=483]
+                text "전체(136개)"
+              listboxoption [ref=484]
+                text "게시됨(136개)"
+              listboxoption [ref=485]
+                text "임시보관(0개)"
+              listboxoption [ref=486]
+                text "게시 예정(0개)"
+              listboxoption [ref=487]
+                text "휴지통(0개)"
+          container
+            button "라벨별로 필터링" [ref=488, loc=role:button[name="라벨별로 필터링"]]
+              text ""
+            text "관리"
+        list
+          image "비어 있는 게시물 목록 이미지"
+          text "게시물 없음"
+          text "내가 작성한 게시물이 여기에 표시됩니다."
+  text "Blogger: 글"

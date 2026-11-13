@@ -1,0 +1,54 @@
+{
+  "url": "https://bank.shinhan.com/index.jsp#020502020100",
+  "title": "로그인 | 신한은행 개인뱅킹",
+  "width": 1280,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 28,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1264.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      247.40000915527344,
+      419.6000061035156,
+      280,
+      60
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "boxes": [
+    [
+      247,
+      419,
+      281,
+      61
+    ]
+  ],
+  "pixelSize": {
+    "width": 1280,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001562362589829,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1279.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:42:42.099Z"
+}

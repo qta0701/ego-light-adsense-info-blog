@@ -1,0 +1,259 @@
+[p1 "인스타그램 탈퇴방법 - Google 검색" | space "research-20261113-89fb2b97-35-1"(9): 1 managed, 0 untracked — p1* "인스타그램 탈퇴방법 - Google 검색"]
+root
+  container
+    search
+      anchor "Google 홈페이지로 이동" [ref=1, loc=css:a[aria-label="Google 홈페이지로 이동"], url=https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwiBy6rLiYSYAxUcna8BHfzKHwoQPHoECAYQBA]
+        svg_root
+      container
+        comboboxgrouping "검색" [ref=2, loc=css:textarea[name="q"]]
+          text "인스타그램 탈퇴방법"
+        container
+          button "지우기" [ref=3, loc=role:button[name="지우기"]]
+            svg_root
+          container
+            button "입력 도구" [ref=4, loc=role:button[name="입력 도구"]]
+              svg_root
+            button "음성 검색" [ref=5, loc=role:button[name="음성 검색"]]
+              svg_root
+            button "이미지로 검색" [ref=6, loc=role:button[name="이미지로 검색"]]
+              svg_root
+    container
+      button "공유" [ref=7]
+        svg_root
+      container
+        button "Google 앱" [ref=8, loc=css:a[aria-label="Google 앱"], url=https://www.google.co.kr/intl/ko/about/products?tab=wh]
+          svg_root
+        button "Google 계정: 순분 (soonboon3265@gmail.com)" [ref=9, loc=css:a[aria-label="Google 계정: 순분
+(soonboon3265@gmail.com)"], url=https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EC%259D%25B8%25EC%258A%25A4%25ED%2583%2580%25EA%25B7%25B8%25EB%259E%25A8%2520%25ED%2583%2588%25ED%2587%25B4%25EB%25B0%25A9%25EB%25B2%2595&ec=futura_srp_og_si_72236_p]
+  image
+  container
+    navigation [ref=10]
+      list
+        listitem
+          anchor [ref=11, url=https://www.google.com/search?q=%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8+%ED%83%88%ED%87%B4%EB%B0%A9%EB%B2%95&newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDi-i4OKpXwmL7LpStpIuhSBrnMnPw:1794542989395&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7At1SxBUBl6nVwd_5EWPzD5iRkVursDQkBVtFmSSNV_M0uO-E4hcJMCubOwxfmtzgYPq0cz1aELS3bbkOtK6_YNPMd2bJxyYf5RrF9K-tpcZKg-fytBy_SRxTz-zD5jz6KvQ__hk7W0aMo-n_LTS1XteA1tw&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiBy6rLiYSYAxUcna8BHfzKHwoQ2J8OegQIGRAD]
+            text "AI 모드"
+        listitem
+          link [ref=12]
+            text "전체"
+        listitem
+          anchor [ref=13, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDi-i4OKpXwmL7LpStpIuhSBrnMnPw:1794542989395&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7At1SxBUBl6nVwd_5EWPzD5iRkVursDQkBVtFmSSNV_M0uO-E4hcJMCubOwxfmtzgYPq0cz1aELS3bbkOtK6_YNPMd2bJxyYf5RrF9K-tpcZKg-fytBy_SRxTz-zD5jz6KvQ__hk7W0aMo-n_LTS1XteA1tw&q=%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8+%ED%83%88%ED%87%B4%EB%B0%A9%EB%B2%95&sa=X&ved=2ahUKEwiBy6rLiYSYAxUcna8BHfzKHwoQtKgLegQIHRAB]
+            text "이미지"
+        listitem
+          anchor [ref=14, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDi-i4OKpXwmL7LpStpIuhSBrnMnPw:1794542989395&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7At1SxBUBl6nVwd_5EWPzD5iRkVursDQkBVtFmSSNV_M0uO-E4hcJMCubOwxfmtzgYPq0cz1aELS3bbkOtK6_YNPMd2bJxyYf5RrF9K-tpcZKg-fytBy_SRxTz-zD5jz6KvQ__hk7W0aMo-n_LTS1XteA1tw&q=%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8+%ED%83%88%ED%87%B4%EB%B0%A9%EB%B2%95&sa=X&ved=2ahUKEwiBy6rLiYSYAxUcna8BHfzKHwoQtKgLegQIIBAB]
+            text "동영상"
+        listitem
+          anchor [ref=15, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDi-i4OKpXwmL7LpStpIuhSBrnMnPw:1794542989395&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7At1SxBUBl6nVwd_5EWPzD5iRkVursDQkBVtFmSSNV_M0uO-E4hcJMCubOwxfmtzgYPq0cz1aELS3bbkOtK6_YNPMd2bJxyYf5RrF9K-tpcZKg-fytBy_SRxTz-zD5jz6KvQ__hk7W0aMo-n_LTS1XteA1tw&q=%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8+%ED%83%88%ED%87%B4%EB%B0%A9%EB%B2%95&sa=X&ved=2ahUKEwiBy6rLiYSYAxUcna8BHfzKHwoQs6gLegQIIRAB]
+            text "짧은 동영상"
+        listitem
+          anchor [ref=16, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDi-i4OKpXwmL7LpStpIuhSBrnMnPw:1794542989395&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7At1SxBUBl6nVwd_5EWPzD5iRkVursDQkBVtFmSSNV_M0uO-E4hcJMCubOwxfmtzgYPq0cz1aELS3bbkOtK6_YNPMd2bJxyYf5RrF9K-tpcZKg-fytBy_SRxTz-zD5jz6KvQ__hk7W0aMo-n_LTS1XteA1tw&q=%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8+%ED%83%88%ED%87%B4%EB%B0%A9%EB%B2%95&ved=1t:220175&ictx=111]
+            text "쇼핑"
+        listitem
+          anchor [ref=17, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDi-i4OKpXwmL7LpStpIuhSBrnMnPw:1794542989395&q=%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8+%ED%83%88%ED%87%B4%EB%B0%A9%EB%B2%95&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mA4hz9_vp3KKIlAIfoVVsk7At1SxBUBl6nVwd_5EWPzD5iRkVursDQkBVtFmSSNV_M0uO-E4hcJMCubOwxfmtzgYPq0cz1aELS3bbkOtK6_YNPMd2bJxyYf5RrF9K-tpcZKg-fytBy_SRxTz-zD5jz6KvQ__hk7W0aMo-n_LTS1XteA1tw&sa=X&ved=2ahUKEwiBy6rLiYSYAxUcna8BHfzKHwoQ0pQJegQIHhAB]
+            text "뉴스"
+        listitem
+          button [ref=18]
+            container "필터 더보기"
+              text "더보기"
+              svg_root
+      button [ref=19]
+        text "도구"
+        svg_root
+    container
+      container
+        container
+          container
+            svg_root
+            heading
+              text "AI 개요"
+          container
+            container
+              text "인스타그램 계정 영구 삭제는"
+              container
+                anchor [ref=20, url=https://www.google.com/goto?url=CAEShQEBxCJF1y__3YJgfmDHvNF5Lxy3jTimQYify9aB_jyeL0dq0qskAWPVpZuqtedDPsEv_aDDaBrIj0AHi1FOa3WC-hpfxY8xYgjzynuFpifsZOTLjsdEuaRNjeaLgVhmrgAjpBEfIWuaV-I45k-YU5DYFuXCA1SDfXw-Q9lB4EXfL5dSpcgm]
+                  text "Instagram 고객 센터"
+                text "공식 가이드 및 메타 계정 센터를 통해 직접 진행할 수 있습니다"
+              text "."
+              container
+                anchor "Instagram" [ref=21, loc=css:a[aria-label="Instagram"], url=https://www.google.com/goto?url=CAEShQEBxCJF1y__3YJgfmDHvNF5Lxy3jTimQYify9aB_jyeL0dq0qskAWPVpZuqtedDPsEv_aDDaBrIj0AHi1FOa3WC-hpfxY8xYgjzynuFpifsZOTLjsdEuaRNjeaLgVhmrgAjpBEfIWuaV-I45k-YU5DYFuXCA1SDfXw-Q9lB4EXfL5dSpcgm]
+                button "Instagram - 관련 검색 결과" [ref=22, loc=css:button[aria-label="Instagram - 관련 검색 결과"]]
+                  container
+                    image
+                    text "Instagram"
+            heading
+              text "인스타그램 계정 영구 삭제 방법 (모바일 앱 기준)"
+            ordered_list
+              list_item
+                text "인스타그램 앱을 실행하고 오른쪽 하단의"
+                text "프로필"
+                text "을 누릅니다."
+              list_item
+                text "오른쪽 상단의"
+                text "메뉴(☰)"
+                text "아이콘을 누릅니다."
+              list_item
+                text "계정 센터"
+                text "를 선택합니다."
+              list_item
+                container
+                  text "개인정보"
+                  text "메뉴로 들어갑니다."
+              list_item
+                container
+                  text "계정 소유권 및 관리"
+                  text "를 선택합니다."
+              list_item
+                container
+                  text "비활성화 또는 삭제"
+                  text "를 누릅니다."
+              list_item
+                container
+                  text "삭제하려는"
+                  text "인스타그램 계정"
+                  text "을 선택합니다."
+        button "AI 개요 더보기" [ref=23, loc=role:button[name="AI 개요 더보기"]]
+          text "더보기"
+          svg_root
+      container
+        container
+          container
+            anchor [ref=24, url=https://www.google.com/goto?url=CAEShQEBxCJF1xMQZEO1ErIL9QAvhMj-zaY4W-moFpWerwZ0sB3joQOox6JYehqBn0A95CB1HlAuEY071Jam98bWSfBfGELmNPPork3UdD0224mwfbyyNbO4TsM-48xZb7jNGSQ9YIcZuLQcQBRktufJ7uJrsB75kMIHRAXhCJCXus4J3TbRCYd4&gsessionid=H1BRSpsRUwrgK-OxNiNPdFawDywbizMOIl4I-eO9l07wPcCOP9v30g]
+              heading
+                text "Instagram 프로필을 영구적으로 삭제하거나 비활성화하기"
+              container
+                image
+                container
+                  text "Instagram"
+                  container
+                    text "https://help.instagram.com"
+                    text "› ..."
+            button "검색결과에 관한 정보" [ref=25]
+              svg_root
+          container
+            text "프로필을 누르거나 오른쪽 하단에서 프로필 사진을 눌"
+            text "러"
+            text "프로필로 이동합니다. · 오른쪽 상단에서 · 계정 센터를 누른 다음 프로필 및 개인정보를 누릅니다. · 삭제하려는 ..."
+        container
+          container
+            anchor [ref=26, url=https://www.google.com/goto?url=CAESaQHEIkXXqYKhZhU6XEEFR-KKl7ks4qNGfwIdXKh23Zxx-cro1aTfI8cc-hum50EKeJ6EPT4VxC9l-NHb3TseStymlyYJAD0BNq991mxdcfxuihLfjJGxoScGIpkw-9Yzm7YklZCB0hsp8A&gsessionid=H1BRSpsRUwrgK-OxNiNPdFawDywbizMOIl4I-eO9l07wPcCOP9v30g]
+              heading
+                text "인스타그램 계정 삭제 방법 및 인스타 탈퇴 절차 (2026 최신 ..."
+              container
+                svg_root
+                container
+                  text "Naver Blog"
+                  container
+                    text "https://blog.naver.com"
+                    text "› gkrwja88"
+            button "검색결과에 관한 정보" [ref=27]
+              svg_root
+          container
+            container
+              text "2026. 1. 11."
+              text "—"
+            container
+              text "카테고리 이동 싱글싱글life ·"
+              text "1. 앱 실행 후 프로필 탭(오른쪽 하단)으로 이동"
+              text ". ​ · 2. 상단 메뉴 - 계정 센터 선택 - 계정관리. ​ · 3. 관리 - 비활성화 ..."
+        container
+          container
+            anchor [ref=28, url=https://www.google.com/goto?url=CAESWgHEIkXXOqKkQZq5fB7Db4olfj1H6PPgE9nftqSB8Ih-xQGP7wNlgLaaj_94YGfdN2YpoGEvvvH24_F0GMBvciS0HM52U8Pifa4LKo5aoUWDN6FTY8ic7Ax9wQ&gsessionid=H1BRSpsRUwrgK-OxNiNPdFawDywbizMOIl4I-eO9l07wPcCOP9v30g]
+              heading
+                text "인스타그램 계정 탈퇴 방법 및 재가입 시 주의사항 기존 ..."
+              container
+                image
+                container
+                  text "잡가이버"
+                  container
+                    text "https://jab-guyver.co.kr"
+                    text "› ..."
+            button "검색결과에 관한 정보" [ref=29]
+              svg_root
+          container
+            container
+              text "2026. 1. 2."
+              text "—"
+            container
+              text "인스타그램"
+              text "계정 삭제는 “아예 정리” 쪽입니다. 삭제 요청 후엔 취소 가능한 기간이 안내되는 경우가 많고, 그 기간이 지나면 계정과 정보가 정리되는 ..."
+        container
+          container
+            anchor [ref=30, url=https://www.google.com/goto?url=CAESygEBxCJF19nHlWt2RyWWvMVOwqaMIjkWkIbG6rW4hBHSRQIebMsrtXkf-cpQ2jz1AGG5xElnaBdGolpeXzgIZSbrmMWnKNe3gE7dnSIO1k0HH3DM1JlQGdC4tbtwDSxGxQ9uyuHrS_60c0cmlKSDRGfkG8AYKMi589luQjkG5QnZGhnjyEAhZE243mucQPNHYpj1tVFdSuvlFgkdM6W28G8qKa238aCx6YKzVYfGeow96MMK2adhTisx8qHk7XvIDkZdV7mdD0un_aTo&gsessionid=H1BRSpsRUwrgK-OxNiNPdFawDywbizMOIl4I-eO9l07wPcCOP9v30g]
+              heading
+                text "인스타그램 계정 삭제방법 - 행복 에너지 충전소 - 티스토리"
+              container
+                image
+                container
+                  text "티스토리"
+                  container
+                    text "https://moneylogging.tistory.com"
+                    text "› entry › 인스타그램..."
+            button "검색결과에 관한 정보" [ref=31]
+              svg_root
+          container
+            container
+              text "2025. 2. 6."
+              text "—"
+            text "계정 소유권 및 관리 메뉴에서 "비활성화 또는 삭제" 메뉴를 선택 후 삭제할 계정 선택후 "계정 삭제"를 클릭합니다. 삭제 이유를 선택한 후 계속 버튼�..."
+        container
+          container
+            anchor [ref=32, url=https://www.google.com/goto?url=CAES9QEBxCJF18O0x2ZR-nus5GZHiyN7o-WtuIPmy5ExWzW-A71wVG3cWJBuWvdRkXfwCHoc1vw-J9wSSZE-ZqaB0_xnu4HdLzpvlpgOEaWxL6VdaB6Ebvs-G4ExcqU1gazmsFudr84-IiLAIDFC_ZWQQe2CeFO2kyKNzSCPhgDgBsz3X-R6AyvkIE2LXOoAjdRu6RG0YYw4iCyeXS4THgbbEY4ZaF4EpB4nMfhQvcIbRAt-Z_G97tmqCqNRa1YLf-H-mX5bxHGOE0IFpAEjJUj5ADk0GpUHphil1pqzscO83-a_H644hTQ7W7E_mgSZiotXkny0lyECkw&gsessionid=H1BRSpsRUwrgK-OxNiNPdFawDywbizMOIl4I-eO9l07wPcCOP9v30g]
+              heading
+                text "인스타그램 계정 탈퇴하는 법 | 모바일 버전 - 기뮤네"
+              container
+                image
+                container
+                  text "gimune.com"
+                  container
+                    text "https://gimune.com"
+                    text "› entry › 인스타그램-계정-탈퇴하..."
+            button "검색결과에 관한 정보" [ref=33]
+              svg_root
+          container
+            container
+              text "2025. 10. 12."
+              text "—"
+            container
+              text "1. 나의 피드에서 오른쪽 위 3개의 줄을 눌러 계정 설정으로 들어갑니다"
+              text ". 2. 계정 설정에서 계정 센터 메뉴를 클릭해주세요."
+        container
+          container
+            anchor [ref=34, url=https://www.google.com/goto?url=CAESZwHEIkXXEn2RH_rTxX1FE2TfWKRRWnVmVHAXkYdpkP5BL8KSMvg9_ZfXPGdXzFyZDmbpPoGNojN7K6rfuDf2folG8OBXlvt1rg1B4ZFjRbKuJ7x-SgmaBUIofVEVZod8Pm5f_31Emes&gsessionid=H1BRSpsRUwrgK-OxNiNPdFawDywbizMOIl4I-eO9l07wPcCOP9v30g]
+              heading
+                text "인스타그램 계정 삭제하는법 | 인스타 탈퇴하기"
+              container
+                image
+                container
+                  text "YouTube · 초튜터 with 감자나라ai"
+                  text "조회수 4.3천회 이상 · 3년 전"
+            button "검색결과에 관한 정보" [ref=35]
+              svg_root
+          container
+            button "초튜터 with 감자나라ai님이 YouTube에 게시한 인스타그램 계정 삭제하는법 | 인스타 탈퇴하기. Google에서 재생. 0:59" [ref=36]
+              table
+                table_row
+                  table_cell
+                    image
+                    svg_root
+                    container
+                      text "0:59"
+                      svg_root
+            container
+              text "PC에서"
+              text "인스타그램"
+              text "계정 삭제하는"
+              text "방법"
+              text "을 안내합니다. 계정 삭제는 30일 후 완료되며, 그전까지는 비활성화됩니다."
+        container
+          anchor [ref=37, url=https://www.google.com/goto?url=CAESugEBxCJF18yC_xWVnDZ_y7QTixpEYJLsPJG-e87yHZkPa3NlqJkNjX44Tn7f7ET4Cjp-Wyx7hg4fallyndNd07aqahowFmxRcxrmvi1ZonQ5W4pkFBLEbFyg7W4A6hvzQ1yYhNzXnEfdmq-gXsn136Ho6tUY-wZagklKzk1acdjJch9bPMluHKIi4FfS2xGapXLNaKAKV1RgVdHRUOnyXaAZ-SO_fvAVpKiMmuwONppt_pslZsWA5Iep9sk&gsessionid=H1BRSpsRUwrgK-OxNiNPdFawDywbizMOIl4I-eO9l07wPcCOP9v30g]
+            heading
+              text "인스타 계정 삭제 방법: Instagram 계정 영구삭제 및 복구"
+            container
+              image
+              container
+                text "NordVPN"
+                container
+                  text "https://nordvpn.com"
+                  text "› Homepage › blog"
+          button "검색결과에 관한 정보" [ref=38]
+            svg_root
+[more content below the viewport: scrollY=0, viewport 1579 / page 2530 px; scroll or use snapshot({ scope: "full_page" })]

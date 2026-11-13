@@ -1,3 +1,0 @@
-import {observePage} from '../../../tools/research_observe.mjs';
-const jobs=[{id:3,folder:'26_1106/앱사용_코레일 승차권 전달/웹조사',url:'https://www.korail.com/ticket/reserve/guide/pay'},{id:4,folder:'26_1106/앱사용_당근마켓 채팅 걸기/웹조사',url:'https://www.daangn.com/kr/buy-sell/'}];
-await Promise.all(jobs.map(async j=>{try{let t=await taskSpace(j.id),p=t.page('p1');await p.goto(j.url);console.log(JSON.stringify({id:j.id,obs:await observePage(p,j.folder,'official-next',{selector:'body',maxChars:1500,linksLimit:5}),snap:(await p.snapshot()).slice(0,7500)}));}catch(e){console.log(JSON.stringify({id:j.id,error:String(e)}));}}));

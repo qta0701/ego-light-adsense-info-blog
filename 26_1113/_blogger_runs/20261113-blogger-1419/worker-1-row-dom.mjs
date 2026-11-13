@@ -1,0 +1,2 @@
+const task=await taskSpace(35),page=task.page('p1');
+console.log(JSON.stringify(await page.evaluate(()=>{const a=[...document.querySelectorAll('a')].find(x=>x.pathname==='/blog/post/edit/694192108971227039/4970818560955615714');let p=a;const rows=[];for(let i=0;i<5&&p;i++,p=p.parentElement)rows.push({tag:p.tagName,role:p.getAttribute('role'),text:p.innerText?.slice(0,300),html:p.outerHTML.slice(0,5000)});return rows;})));

@@ -1,0 +1,73 @@
+{
+  "order": 10,
+  "keyword": "부산은행 환전",
+  "checkedAt": "2026-11-13T05:23:57.628002+00:00",
+  "html": "26_1113\\은행_재테크_부산은행 환전\\웹조사\\publish\\은행_재테크_부산은행 환전_html콘텐츠.html",
+  "txt": "26_1113\\은행_재테크_부산은행 환전\\웹조사\\publish\\은행_재테크_부산은행 환전_제목메타디스크립션.txt",
+  "count": 5,
+  "htmlIds": [
+    "IMG_01",
+    "IMG_02",
+    "IMG_03",
+    "IMG_04",
+    "IMG_05"
+  ],
+  "slots": [
+    {
+      "id": "IMG_01",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/02_guide.png",
+      "size": [
+        1440,
+        900
+      ],
+      "sha256": "e77226d56d91426f380c6e50f9ab97e55612ea3bb1c524bd37da20a278c6f07e",
+      "tokenCount": 1,
+      "block": "추천 업로드 순서 / 본문 노출 순서: 1 / 1\n원래 파일번호 / 원본 경로: 02 / 26_1113/은행_재테크_부산은행 환전/웹조사/raw/02_intro.png\n업로드 파일 경로: 26_1113/은행_재테크_부산은행 환전/웹조사/publish/02_guide.png\n이미지 내부 표식 번호 / 본문 절차 번호: 1 / 해당 없음\n역할: reference / 부산은행 PC 웹; 해당 조건을 공식 화면으로 확인\n삽입 소제목: H2 1. 부산은행 ONE환전은 무엇인가요 / id=one\n직전 문단: id=one-intro / 부산은행 PC 웹의 ONE환전 개요에서 서비스 범위를 확인합니다.\n직후 문단: id=one-result / 화면의 개인용 ONE환전과 기업용 ONE금고는 서로 구분해 확인하세요.\nHTML 위치: id=img-01 / data-image-id=IMG_01 / IMAGE_SLOT:IMG_01 START 및 END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_01}}\n권장 alt: 공식 ONE환전 서비스 개요\n권장 캡션: ONE환전 개요와 수령·배달·보관 안내 화면입니다. 2026년 11월 13일 확인.\n실제 이미지 크기 / 표시 원칙: 1440×900px / 가로 100% 이내, 비율 유지\n출처 S1: 부산은행 ONE환전 이용안내 / https://www.busanbank.co.kr/ib20/mnu/FPMFRX189002011 / 2026-11-13\n편집·가림·가독성: 기존 발행본의 빨간 테두리와 화살표, 가림 없음; PC 원본 확인, 모바일에서는 작은 글씨 확대 필요\n순서: 조사 자료의 서비스·대상·한도·수령 순서 유지; 배달 화면 추가\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_02",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/03_guide.png",
+      "size": [
+        1440,
+        900
+      ],
+      "sha256": "edb8c0a47eb96d7d25e8c710bdf0aab1cdc704edff0d105e310e45a53b85183a",
+      "tokenCount": 1,
+      "block": "추천 업로드 순서 / 본문 노출 순서: 2 / 2\n원래 파일번호 / 원본 경로: 03 / 26_1113/은행_재테크_부산은행 환전/웹조사/raw/03_target.png\n업로드 파일 경로: 26_1113/은행_재테크_부산은행 환전/웹조사/publish/03_guide.png\n이미지 내부 표식 번호 / 본문 절차 번호: 1 / 해당 없음\n역할: reference / 부산은행 PC 웹; 해당 조건을 공식 화면으로 확인\n삽입 소제목: H2 2. 대상과 시간, 한도를 먼저 확인하세요 / id=conditions\n직전 문단: id=conditions-intro / 이용대상 항목에 국민인 거주자 개인이라고 표시되어 있습니다.\n직후 문단: id=conditions-result / 이용시간 아래에는 금고보관과 비로그인 입금의 예외가 따로 적혀 있습니다.\nHTML 위치: id=img-02 / data-image-id=IMG_02 / IMAGE_SLOT:IMG_02 START 및 END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_02}}\n권장 alt: ONE환전 개인 이용대상 안내\n권장 캡션: 이용대상과 이용시간을 보여주는 부산은행 PC 웹 화면입니다. 2026년 11월 13일 확인.\n실제 이미지 크기 / 표시 원칙: 1440×900px / 가로 100% 이내, 비율 유지\n출처 S1: 부산은행 ONE환전 이용안내 / https://www.busanbank.co.kr/ib20/mnu/FPMFRX189002011 / 2026-11-13\n편집·가림·가독성: 기존 발행본의 빨간 테두리와 화살표, 가림 없음; PC 원본 확인, 모바일에서는 작은 글씨 확대 필요\n순서: 조사 자료의 서비스·대상·한도·수령 순서 유지; 배달 화면 추가\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_03",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/04_guide.png",
+      "size": [
+        1440,
+        900
+      ],
+      "sha256": "84ca4323a58a6a6abd7644a4fe08d32a3d403faa317eddf6376758c5c902cb09",
+      "tokenCount": 1,
+      "block": "추천 업로드 순서 / 본문 노출 순서: 3 / 3\n원래 파일번호 / 원본 경로: 04 / 26_1113/은행_재테크_부산은행 환전/웹조사/raw/04_limits.png\n업로드 파일 경로: 26_1113/은행_재테크_부산은행 환전/웹조사/publish/04_guide.png\n이미지 내부 표식 번호 / 본문 절차 번호: 1 / 해당 없음\n역할: reference / 부산은행 PC 웹; 해당 조건을 공식 화면으로 확인\n삽입 소제목: H3 환전 가능 한도 확인 / id=limit\n직전 문단: id=limit-intro / 환전 가능 한도에서 로그인과 비로그인의 기준을 나누어 봅니다.\n직후 문단: id=limit-result / 로그인 한도는 기존 비대면 신청액과 미수령 잔액을 합산하는 조건입니다.\nHTML 위치: id=img-03 / data-image-id=IMG_03 / IMAGE_SLOT:IMG_03 START 및 END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_03}}\n권장 alt: 로그인과 비로그인의 환전 가능 한도\n권장 캡션: 로그인 여부에 따른 환전 한도 안내 화면입니다. 2026년 11월 13일 확인.\n실제 이미지 크기 / 표시 원칙: 1440×900px / 가로 100% 이내, 비율 유지\n출처 S1: 부산은행 ONE환전 이용안내 / https://www.busanbank.co.kr/ib20/mnu/FPMFRX189002011 / 2026-11-13\n편집·가림·가독성: 기존 발행본의 빨간 테두리와 화살표, 가림 없음; PC 원본 확인, 모바일에서는 작은 글씨 확대 필요\n순서: 조사 자료의 서비스·대상·한도·수령 순서 유지; 배달 화면 추가\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_04",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/05_guide.png",
+      "size": [
+        1440,
+        900
+      ],
+      "sha256": "67740b4a60f5d13455b293386aec439e951a4c0eb6af3cbaaeed60fbef2cd4e2",
+      "tokenCount": 1,
+      "block": "추천 업로드 순서 / 본문 노출 순서: 4 / 4\n원래 파일번호 / 원본 경로: 05 / 26_1113/은행_재테크_부산은행 환전/웹조사/raw/05_pickup.png\n업로드 파일 경로: 26_1113/은행_재테크_부산은행 환전/웹조사/publish/05_guide.png\n이미지 내부 표식 번호 / 본문 절차 번호: 1 / 해당 없음\n역할: reference / 부산은행 PC 웹; 해당 조건을 공식 화면으로 확인\n삽입 소제목: H2 3. 신청과 외화 수령 방법 / id=pickup\n직전 문단: id=pickup-intro / 공식 안내의 환전 수령 방법 표에서 로그인 여부에 따른 차이를 확인합니다.\n직후 문단: id=pickup-result / 표에는 영업점 수령과 외화 ATM 이용 조건도 구분되어 있습니다.\nHTML 위치: id=img-04 / data-image-id=IMG_04 / IMAGE_SLOT:IMG_04 START 및 END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_04}}\n권장 alt: 환전수령과 현찰배달, 금고보관 비교표\n권장 캡션: 환전 수령 방법별 비교표의 시작 부분입니다. 2026년 11월 13일 확인.\n실제 이미지 크기 / 표시 원칙: 1440×900px / 가로 100% 이내, 비율 유지\n출처 S1: 부산은행 ONE환전 이용안내 / https://www.busanbank.co.kr/ib20/mnu/FPMFRX189002011 / 2026-11-13\n편집·가림·가독성: 기존 발행본의 빨간 테두리와 화살표, 가림 없음; PC 원본 확인, 모바일에서는 작은 글씨 확대 필요\n순서: 조사 자료의 서비스·대상·한도·수령 순서 유지; 배달 화면 추가\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    },
+    {
+      "id": "IMG_05",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/blogger-images/06_delivery_marked.png",
+      "size": [
+        1440,
+        900
+      ],
+      "sha256": "ef1c80943a619c3149310bb5223806d206b7919c6f6c0d81544a6740860db1d6",
+      "tokenCount": 1,
+      "block": "추천 업로드 순서 / 본문 노출 순서: 5 / 5\n원래 파일번호 / 원본 경로: 06 / 26_1113/은행_재테크_부산은행 환전/웹조사/raw/06_delivery.png\n업로드 파일 경로: 26_1113/은행_재테크_부산은행 환전/웹조사/publish/blogger-images/06_delivery_marked.png\n이미지 내부 표식 번호 / 본문 절차 번호: 번호 없음 / 해당 없음\n역할: reference / 부산은행 PC 웹; 배달 조건과 배송비 보강\n삽입 소제목: H2 4. 현찰배달과 수령 기한의 주의점 / id=delivery\n직전 문단: id=delivery-intro / 현찰배달 항목에서 이용 가능 금액과 배송비를 확인합니다.\n직후 문단: id=delivery-result / 표의 빨간 테두리는 배송 건당 비용을 강조한 표시입니다.\nHTML 위치: id=img-05 / data-image-id=IMG_05 / IMAGE_SLOT:IMG_05 START 및 END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_05}}\n권장 alt: 현찰배달 금액과 배송비 안내\n권장 캡션: 현찰배달 조건과 배송비를 보여주는 부산은행 PC 웹 화면입니다. 2026년 11월 13일 확인.\n실제 이미지 크기 / 표시 원칙: 1440×900px / 가로 100% 이내, 비율 유지\n출처 S1: 부산은행 ONE환전 이용안내 / https://www.busanbank.co.kr/ib20/mnu/FPMFRX189002011 / 2026-11-13\n편집·가림·가독성: 원본에 배송비 행 빨간 테두리 추가, 가림 없음; PC 원본 확인, 모바일에서는 작은 글씨 확대 필요\n순서: 조사 자료의 서비스·대상·한도·수령 순서 유지; 배달 화면 추가\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음"
+    }
+  ],
+  "matching": true
+}

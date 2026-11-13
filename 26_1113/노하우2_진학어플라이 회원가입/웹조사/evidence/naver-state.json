@@ -1,0 +1,97 @@
+{
+  "tab": "노하우2",
+  "row": 34,
+  "keyword": "진학어플라이 회원가입",
+  "folder": "26_1113/노하우2_진학어플라이 회원가입",
+  "promotionUrl": "https://how2.supportimes.com/2026/11/blog-post.html",
+  "profileName": "순분",
+  "account": "supportimes001",
+  "ledgerColumn": "K",
+  "indexOnProfile": 1,
+  "publishMode": "pending_timeline_check",
+  "slotMode": "scheduled",
+  "plannedPublicationTime": "2026-11-13T20:10:00+09:00",
+  "planningAnchor": "2026-11-13T09:00:00+09:00",
+  "slotIsConfirmed": true,
+  "platform": "naver",
+  "status": "scheduled",
+  "verified": true,
+  "spaceId": 64,
+  "profileId": "Profile 2",
+  "identityVerified": "supportimes001",
+  "title": "진학어플라이 회원가입 방법: 통합회원 선택부터 입력까지",
+  "publicationTime": "2026-11-13T20:10:00+09:00",
+  "publicUrl": null,
+  "source": "26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/노하우2_진학어플라이 회원가입_네이버블로그.md",
+  "sourceSha256": "00deffb3f1aedc3f93699c5804672c8f989a1cd851fd4b6c91e539abbcf16382",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/01_01_search.png",
+      "caption": "1.진학어플라이 공식 공통원서 가입 페이지 찾기",
+      "sha256": "930c568859977ad337f7f8419cf8ccf52b3192a05005d17ab31a115f8d31ee0a"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/05_signup_live_marked.png",
+      "caption": "2.공통원서 가입 화면의 회원 유형 선택",
+      "sha256": "a81db92ba784e8f29761d23aafa23fdf80c1103dfb6156841e54a9a4129a3508"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/02_02_guide_choice.png",
+      "caption": "3.공식 가이드의 통합회원 가입 선택 예시",
+      "sha256": "5428634628af57c952a050ab3bdb8f875b4bf5340f481e451a0aa4b79de4650f"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/03_03_guide_agree.png",
+      "caption": "4.가입 전 약관과 개인정보 동의 항목 예시",
+      "sha256": "7c00940ded953434a79f422a81b15a1e27665e45b98b0219e53cbe8ad75ac3cd"
+    },
+    {
+      "marker": "NAVERIMG5",
+      "path": "26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/04_04_guide_form.png",
+      "caption": "5.회원정보 입력과 가입 버튼 예시",
+      "sha256": "7aa998ef2d9e58dc7af763eca0bb7042de7ab9c45394ade505a083bc37b2d047"
+    }
+  ],
+  "links": [
+    {
+      "marker": "NAVEROG1",
+      "url": "https://how2.supportimes.com/2026/11/blog-post.html"
+    },
+    {
+      "marker": "NAVEROG2",
+      "url": "https://how2.supportimes.com/2026/11/blog-post.html"
+    }
+  ],
+  "category": "유용정보",
+  "representative": {
+    "index": 2,
+    "file": "26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/05_signup_live_marked.png",
+    "verifiedSelected": true,
+    "scope": "reopened_saved_reservation"
+  },
+  "styleAudit": {
+    "scope": "reopened_saved_reservation",
+    "passed": true,
+    "file": "tmp/naver-20261113/knowhow2-saved-audit-34.json"
+  },
+  "claimReceipt": "tmp/naver-20261113/knowhow2-claim-34.json",
+  "sheetProgress": "조정자가 확인 후 기록",
+  "submissionAttempted": true,
+  "postId": "224475994351",
+  "publicationTimeSource": "confirmed_reservation_list",
+  "submittedOnce": true,
+  "reservationEvidence": "예약 발행 글 목록에서 해당 제목과 2026.11.13 20:10 확인",
+  "publicAudit": "예약 글은 아직 공개되지 않아 공개 검수 미실시",
+  "timingNote": "같은 계정 첫 공개 글은 18:25에 확인되어 계획상 20:10 예약과 실제 간격은 약 1시간 45분",
+  "spaceStatus": "finished",
+  "finishCalls": 1,
+  "claimStatus": "released",
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "sheetStatus": "verified",
+  "ledgerRow": 237
+}

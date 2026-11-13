@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8769/temp_appstore_preview.html",
+  "title": "",
+  "width": 1280,
+  "height": 800,
+  "scrollX": 0,
+  "scrollY": 1897.5999755859375,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1264.800048828125,
+    "height": 800,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "boxes": [],
+  "pixelSize": {
+    "width": 1280,
+    "height": 800
+  },
+  "pixelScale": {
+    "x": 1.0001562362589829,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1279.800048828125,
+    "height": 800
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T05:07:13.852Z"
+}

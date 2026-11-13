@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-13",
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "concurrency": 3,
+  "jobs": [
+    {"tab": "은행_재테크", "row": 14, "keyword": "부산은행 환전"},
+    {"tab": "은행_재테크", "row": 15, "keyword": "국민은행 환전신청"},
+    {"tab": "은행_재테크", "row": 16, "keyword": "국민은행 통장사본 출력"}
+  ]
+}

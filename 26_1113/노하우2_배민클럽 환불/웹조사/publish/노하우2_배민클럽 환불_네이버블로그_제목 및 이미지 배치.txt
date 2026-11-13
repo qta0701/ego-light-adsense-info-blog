@@ -1,0 +1,22 @@
+[네이버 블로그 제목 후보 3개]
+1. 배민클럽 환불 조건과 해지 방법: 전액 환불 기준 확인
+2. 배민클럽 환불 7일 기준과 혜택 사용 여부 확인하기
+3. 배민클럽 환불과 해지 예약 차이, 앱에서 확인할 것
+
+[네이버 모바일 홈판형 제목 후보 3개]
+1. 배민클럽 전액 환불, 결제일 다음 날부터 확인하세요
+2. 혜택을 썼다면? 해지 전 이용권을 살펴보세요
+3. 배민클럽 장기 구독은 환불 규정이 달라요
+
+[사용 이미지 정보 및 본문 내 추천 배치 위치]
+1. 01_05_search.png / 웹조사/publish/01_05_search.png / 1번 H2 / 배달의민족 공식 홈페이지 검색 결과 / 공식 사이트 식별 / 캡션: 배달의민족 공식 홈페이지 찾기 / 출처: Google 검색 및 https://www.baemin.com/ / 2026-11-13 확인. 환불 약관 자체는 아님.
+2. 03_01_refund.png / 웹조사/publish/03_01_refund.png / 1번 H2 / 공식 약관의 전액 환불 요건 / 조건 확인 / 캡션: 배민클럽 약관의 전액 환불 요건 / 출처: https://terms.baemin.com/content/BAEMINCLUB_658 / 2026-11-13 확인
+3. 02_06_entry.png / 웹조사/publish/02_06_entry.png / 2번 H2 / 외부 설명의 앱 해지 경로 / 진입 흐름 참고 / 캡션: 외부 안내에서 설명하는 배민클럽 해지 경로 / 출처: https://kooltip.com/baemin-club-cancel/ / 2026-11-13 확인. 실제 앱 화면 아님.
+4. 02_cancel_detail.png / 웹조사/publish/02_cancel_detail.png / 3번 H2 / 공식 약관의 일반 이용권 해지 / 상품별 구분 / 캡션: 전액 환불 요건을 충족하지 않는 경우의 해지 안내 / 출처: https://terms.baemin.com/content/BAEMINCLUB_658 / 2026-11-13 확인 / 원본: 웹조사/raw/02_cancel.png / 보완 채택: 일반 해지 규정 / 기존 발췌·빨간 표식 편집본 복사.
+5. 04_03_long.png / 웹조사/publish/04_03_long.png / 3번 H2 / 공식 약관의 장기 구독상품 예외 / 일반 이용권과 구분 / 캡션: 장기 구독상품의 별도 환불 규정 / 출처: https://terms.baemin.com/content/BAEMINCLUB_658 / 2026-11-13 확인
+
+[제외·보류 이미지]
+- 웹조사/raw/01_refund.png, 02_cancel.png, 03_long.png, 05_search.png, 06_entry.png: 대응 발행 편집본 사용.
+- 웹조사/raw/04_promo.png, 07_confirm.png, 08_terms_recheck.png: 발행 장면과 중복되거나 현재 본문에서 직접 사용하지 않아 제외.
+- 웹조사/raw/09_terms_recheck.png: Google 검색 후 공식 약관을 다시 열어 캡처했으나 제11조가 화면에 없어 제외.
+- 실제 이용권 및 해지 화면은 미확인. 신청 시 현재 약관과 앱의 처리 결과 확인.

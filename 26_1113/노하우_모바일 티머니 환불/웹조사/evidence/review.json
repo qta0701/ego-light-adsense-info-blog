@@ -1,0 +1,54 @@
+{
+  "status": "agent_alternative_review_complete",
+  "date": "2026-11-13",
+  "automatic_validation": "고정 수량 기준 미통과",
+  "automatic_errors": [
+    "본문 1252자: 3500~5500자 필요(출처/이미지 목록 제외)",
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+  ],
+  "bodyCharacters": 1252,
+  "rawImages": 4,
+  "publishedImages": 4,
+  "redMarkedImages": 4,
+  "rawFiles": [
+    "01_search.png",
+    "02_refund.png",
+    "03_postpaid.png",
+    "04_usim.png"
+  ],
+  "dimensions": {
+    "01_01_search.png": [
+      740,
+      220
+    ],
+    "02_02_refund.png": [
+      1050,
+      330
+    ],
+    "03_03_postpaid.png": [
+      1050,
+      330
+    ],
+    "04_04_usim.png": [
+      940,
+      205
+    ]
+  },
+  "sha256": {
+    "publish/01_01_search.png": "5f2a5bc29357d6c2bd2356ff039c686e2bc52d49818fdc9c19f5e764a1ee6939",
+    "publish/02_02_refund.png": "15bc716b0abd2b46af8124bf90f27b202985269b4a20cc6d813959d716ba3ac4",
+    "publish/03_03_postpaid.png": "0264f56151eeb291965b185feb98261e957116ed1de2375d083e01362cba1928",
+    "publish/04_04_usim.png": "849ab6b5c51a088145a70f4486bfe93b6b89775e6989743418b9528a1089d140",
+    "publish/노하우_모바일 티머니 환불_웹조사결과.md": "0c2d098e72a50d199d404cbded126bcbd2bf2e367e1329bde1e38bb79f240965"
+  },
+  "checks": [
+    "공식 검색 결과에서 실제 공식 페이지 방문과 근거 대조",
+    "발행 이미지 4장 모두 원본 및 좌표와 직접 시각 대조",
+    "PNG 열림, 서로 다른 해시, 표식과 잘라낸 영역 경계 확인",
+    "검색 결과 및 안내 이미지 개인정보와 팝업 잔존 확인",
+    "이미지별 원본·발행 파일명, 실제 화면 URL과 확인일 대조"
+  ],
+  "adjustment": "검색 1장 및 서로 다른 진입·단계·조건 3장으로 핵심 경로를 설명해 반복 화면과 문장을 추가하지 않음. 코레일은 선택·회원 로그인·기존 비회원 폼의 실제 URL 3개를 명세.",
+  "limitations": "실제 앱·환불은 실행하지 않음. LG유플러스 USIM 교체 관련 Android FAQ의 적용 범위를 명시. 수수료·처리 시간은 공식 근거가 없어 단정하지 않음. 02/04 대상의 블록 폭이 화면 밖이어서 텍스트 영역 재측정 후 캡처.",
+  "completionDecision": "확인 가능한 공식 근거와 핵심 절차, 이용 조건, 4장의 발행 이미지 및 실제 URL을 검수함"
+}

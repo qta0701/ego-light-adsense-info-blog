@@ -1,0 +1,269 @@
+[p1 "배민클럽 환불 - Google 검색" | space "research-20261113-89fb2b97-36-2"(10): 1 managed, 0 untracked — p1* "배민클럽 환불 - Google 검색"]
+root
+  container
+    search
+      anchor "Google 홈페이지로 이동" [ref=1, loc=css:a[aria-label="Google 홈페이지로 이동"], url=https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwiK1rnMiYSYAxVEVPUHHbIoOA0QPHoECAYQBA]
+        svg_root
+      container
+        comboboxgrouping "검색" [ref=2, loc=css:textarea[name="q"]]
+          text "배민클럽 환불"
+        container
+          button "지우기" [ref=3, loc=role:button[name="지우기"]]
+            svg_root
+          container
+            button "입력 도구" [ref=4, loc=role:button[name="입력 도구"]]
+              svg_root
+            button "음성 검색" [ref=5, loc=role:button[name="음성 검색"]]
+              svg_root
+            button "이미지로 검색" [ref=6, loc=role:button[name="이미지로 검색"]]
+              svg_root
+    container
+      button "공유" [ref=7]
+        svg_root
+      container
+        button "Google 앱" [ref=8, loc=css:a[aria-label="Google 앱"], url=https://www.google.co.kr/intl/ko/about/products?tab=wh]
+          svg_root
+        button "Google 계정: 순분 (soonboon3265@gmail.com)" [ref=9, loc=css:a[aria-label="Google 계정: 순분
+(soonboon3265@gmail.com)"], url=https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EB%25B0%25B0%25EB%25AF%25BC%25ED%2581%25B4%25EB%259F%25BD%2520%25ED%2599%2598%25EB%25B6%2588&ec=futura_srp_og_si_72236_p]
+  image
+  container
+    navigation [ref=10]
+      list
+        listitem
+          anchor [ref=11, url=https://www.google.com/search?q=%EB%B0%B0%EB%AF%BC%ED%81%B4%EB%9F%BD+%ED%99%98%EB%B6%88&newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDgrawlfPmz10bz9ocPXCXifJDOIkg:1794542991740&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mBN16Jgw49WxKeJ3rQT39KK6anteqOOVF026u446Gv33lmbonH8c8FPS81ubJUu37tnjVDaz8luX2MdJlddIZu3MWoLvhkhdruV1HCowPHaUT_sDaZ6EWa4WJV0s691g884drwtzV3VWAH7ww6X38fYnqTuc8AeQGuO6JjvuKkYtwoT-Tg&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiK1rnMiYSYAxVEVPUHHbIoOA0Q2J8OegQIDRAD]
+            text "AI 모드"
+        listitem
+          link [ref=12]
+            text "전체"
+        listitem
+          anchor [ref=13, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDgrawlfPmz10bz9ocPXCXifJDOIkg:1794542991740&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mBN16Jgw49WxKeJ3rQT39KK6anteqOOVF026u446Gv33lmbonH8c8FPS81ubJUu37tnjVDaz8luX2MdJlddIZu3MWoLvhkhdruV1HCowPHaUT_sDaZ6EWa4WJV0s691g884drwtzV3VWAH7ww6X38fYnqTuc8AeQGuO6JjvuKkYtwoT-Tg&q=%EB%B0%B0%EB%AF%BC%ED%81%B4%EB%9F%BD+%ED%99%98%EB%B6%88&sa=X&ved=2ahUKEwiK1rnMiYSYAxVEVPUHHbIoOA0QtKgLegQIMBAB]
+            text "이미지"
+        listitem
+          anchor [ref=14, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDgrawlfPmz10bz9ocPXCXifJDOIkg:1794542991740&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mBN16Jgw49WxKeJ3rQT39KK6anteqOOVF026u446Gv33lmbonH8c8FPS81ubJUu37tnjVDaz8luX2MdJlddIZu3MWoLvhkhdruV1HCowPHaUT_sDaZ6EWa4WJV0s691g884drwtzV3VWAH7ww6X38fYnqTuc8AeQGuO6JjvuKkYtwoT-Tg&q=%EB%B0%B0%EB%AF%BC%ED%81%B4%EB%9F%BD+%ED%99%98%EB%B6%88&ved=1t:220175&ictx=111]
+            text "쇼핑"
+        listitem
+          anchor [ref=15, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDgrawlfPmz10bz9ocPXCXifJDOIkg:1794542991740&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mBN16Jgw49WxKeJ3rQT39KK6anteqOOVF026u446Gv33lmbonH8c8FPS81ubJUu37tnjVDaz8luX2MdJlddIZu3MWoLvhkhdruV1HCowPHaUT_sDaZ6EWa4WJV0s691g884drwtzV3VWAH7ww6X38fYnqTuc8AeQGuO6JjvuKkYtwoT-Tg&q=%EB%B0%B0%EB%AF%BC%ED%81%B4%EB%9F%BD+%ED%99%98%EB%B6%88&sa=X&ved=2ahUKEwiK1rnMiYSYAxVEVPUHHbIoOA0QtKgLegQIKBAB]
+            text "동영상"
+        listitem
+          anchor [ref=16, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDgrawlfPmz10bz9ocPXCXifJDOIkg:1794542991740&q=%EB%B0%B0%EB%AF%BC%ED%81%B4%EB%9F%BD+%ED%99%98%EB%B6%88&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mBN16Jgw49WxKeJ3rQT39KK6anteqOOVF026u446Gv33lmbonH8c8FPS81ubJUu37tnjVDaz8luX2MdJlddIZu3MWoLvhkhdruV1HCowPHaUT_sDaZ6EWa4WJV0s691g884drwtzV3VWAH7ww6X38fYnqTuc8AeQGuO6JjvuKkYtwoT-Tg&sa=X&ved=2ahUKEwiK1rnMiYSYAxVEVPUHHbIoOA0Q0pQJegQIJBAB]
+            text "뉴스"
+        listitem
+          anchor [ref=17, url=https://www.google.com/search?newwindow=1&sca_esv=f69c4e8fdb039182&sxsrf=AKL5yDgrawlfPmz10bz9ocPXCXifJDOIkg:1794542991740&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mBN16Jgw49WxKeJ3rQT39KK6anteqOOVF026u446Gv33lmbonH8c8FPS81ubJUu37tnjVDaz8luX2MdJlddIZu3MWoLvhkhdruV1HCowPHaUT_sDaZ6EWa4WJV0s691g884drwtzV3VWAH7ww6X38fYnqTuc8AeQGuO6JjvuKkYtwoT-Tg&q=%EB%B0%B0%EB%AF%BC%ED%81%B4%EB%9F%BD+%ED%99%98%EB%B6%88&sa=X&ved=2ahUKEwiK1rnMiYSYAxVEVPUHHbIoOA0Qs6gLegQIIRAB]
+            text "짧은 동영상"
+        listitem
+          button [ref=18]
+            container "필터 더보기"
+              text "더보기"
+              svg_root
+      button [ref=19]
+        text "도구"
+        svg_root
+    container
+      container
+        container
+          container
+            svg_root
+            heading
+              text "AI 개요"
+          container
+            container
+              text "배민클럽 환불은"
+              container
+                text "결제일로부터 7일 이내"
+                text "에,"
+                text "배민클럽 혜택을 1회도 사용하지 않은 경우"
+                text "에만 100% 전액 환불이 가능"
+              text "합니다."
+              button "관련 검색결과" [ref=20]
+                svg_root
+            heading
+              text "환불 조건 및 규정"
+            unordered_list
+              list_item
+                container
+                  text "환불 기간"
+                  text ": 결제일 기준 7일 이내 신청 가능합니다. (결제일 당일에는 앱 내 해지가 제한될 수 있어 다음 날 0시 이후 진행하거나 고객센터를 통해 처리할 수 있습..."
+                button "관련 검색결과" [ref=21]
+                  svg_root
+              list_item
+                container
+                  text "혜택 미사용"
+                  text ": 무료배달, 배달팁 할인, 전용 쿠폰, 브랜드 할인팩 등을 단 한 번도 이용하지 않아야 합니다."
+                container
+                  anchor "Naver Blog" [ref=22, url=https://www.google.com/goto?url=CAESaQHEIkXXiIUBjBJHndshHyYsNhqd3BSMPhU2QMCi5FkDyrrOLHN6GMMP4wKzh1qQM2bu5L0eEh3fA3mNomo8WS-8cl-ErEAqgXcggMMpXv5xg149O3xLkifEbfq6txENrr60O6IpeqnCpg]
+                  button "Naver Blog(+1) - 관련 검색 결과" [ref=23, loc=css:button[aria-label="Naver Blog(+1) - 관련 검색 결과"]]
+                    container
+                      image
+                      container
+                        text "Naver Blog"
+                        text " +1"
+              list_item
+                container
+                  text "혜택 사용 시"
+                  text ": 혜택을 1회라도 이용했거나 7일이 지난 경우에는 전액 환불이 불가하며, 다음 결제일부터 해지되도록 예약 처리됩니다."
+                button "관련 검색결과" [ref=24]
+                  svg_root
+            heading
+              text "환불 방법"
+        button "AI 개요 더보기" [ref=25, loc=role:button[name="AI 개요 더보기"]]
+          text "더보기"
+          svg_root
+      container
+        container
+          container
+            anchor [ref=26, url=https://www.google.com/goto?url=CAESewHEIkXXVi3UwSSV3tcxgWubFBCho7RcPtqVdTbuK-Y1Krg4OWPLGrGn6zARuiXyd5EaCeVQjUa_KfbQZ4Mc1g4HuLlwe0DG-BVeSavceYQ9fE7TZcEEep5-E-ogjCSjYD936_6_aNz3fhiV-XFNdCQE3MFy6qd1BhFrnQ&gsessionid=UwY37w6HS9zYz9rdBz98mZNS2ktm_t-m7kBaBnwFAA-3kZs-LHEgIA]
+              heading
+                text "배민 배민클럽 결제 후 미이용 시 전액 환불 가능한가요?"
+              container
+                image
+                container
+                  text "아하"
+                  container
+                    text "https://www.a-ha.io"
+                    text "› ... › 고민상담 › 기타 고민상담"
+            button "검색결과에 관한 정보" [ref=27]
+              svg_root
+          container
+            container
+              text "2026. 4. 20."
+              text "—"
+            container
+              text "배민클럽 결제하고나서 한번도 안썼으면 당연히 환불받을수있습니다"
+              text "요 서비스 해지 신청할때 아예 사용 안한 상태라면 결제취소나 전액환불 선택하는 메뉴 ..."
+        container
+          container
+            anchor [ref=28, url=https://www.google.com/goto?url=CAESbgHEIkXXMQ9wX-2_5QO2RlWB5T7JuSWzUYijg4gTTVAHnys-w2ILFNi2dMCBIUOX3cHttuvX6KCrwrEHgNPQdIZQwVfXNgY8M-6WqmbDuocwKwLpaPHNJwIPv2J94GJzoGAFEnmXIDso46pAS5i6&gsessionid=UwY37w6HS9zYz9rdBz98mZNS2ktm_t-m7kBaBnwFAA-3kZs-LHEgIA]
+              heading
+                text "배민클럽 해지 환불방법 1분컷 정리 및 가격 혜택 한눈에 보기"
+              container
+                svg_root
+                container
+                  text "Naver Blog"
+                  container
+                    text "https://blog.naver.com"
+                    text "› hdot_official"
+            button "검색결과에 관한 정보" [ref=29]
+              svg_root
+          container
+            container
+              text "2026. 6. 22."
+              text "—"
+            container
+              text "카테고리 이동 HDOT MAGAZINE · 01."
+              text "배민클럽"
+              text "해지"
+              text "환불"
+              text "방법 · 02. 숨겨진 버튼 찾아라! · Step 1. 마이배민 진입 · Step 2. 구독 정보 선택 · Step 3."
+        container
+          container
+            anchor [ref=30, url=https://www.google.com/goto?url=CAESvAIBxCJF1-0_tI2ap9dML5KqQAHJGZgQQdR9sZ85tyg0ryBpnYEnVOznhfcxGRPo_gasOK3UnRMxV6IAOYkYhigM3niZUpcZWaEoqXVuWd9yPYSrxz2K3WRC1VyI7v4G0-l_cu711htfIcgQGiHRSWBMi7tDBOeNEIjg9TrgDQNe8PL--WFFWNmydDIJpf4RfsgnOg7LX2Imc_73uAKN6TmyVzqfiO1hvPq1QhNwzIzVa3yoRTQKqRI6u-V1skoads_-7l3pyQHwEaRfnoKdSlJd1pd2GyS_Vz9sA5unk9KB-9wJ8ZlP3oLHXp5MOXG6AWYSI84XB9kax_vTcm3h7F4YBNMASc-CC9IEXXJuG4YMJ1N7KFG1OW7dzVgxllNyVhnPu9ZENZh7moSuCB01ZrJQMkSOt2Xy7yhTcBnh&gsessionid=UwY37w6HS9zYz9rdBz98mZNS2ktm_t-m7kBaBnwFAA-3kZs-LHEgIA]
+              heading
+                text "배민클럽 해지 및 환불 받는 방법, 최신 정보 1분이면 끝나요."
+              container
+                image
+                container
+                  text "티스토리"
+                  container
+                    text "https://tkfkdgo131.tistory.com"
+                    text "› entry › 배민클럽-해지..."
+            button "검색결과에 관한 정보" [ref=31]
+              svg_root
+          container
+            container
+              text "2025. 7. 7."
+              text "—"
+            container
+              text "그리고 환불 금액은"
+              text "해지 완료일 기준 3일 이내"
+              text "로 환불된다는 안내를 확인하신 뒤 어플을 종료해 주시면 됩니다. 마무리. 오늘은 이렇게 배민클럽 ..."
+        container
+          container
+            anchor [ref=32, url=https://www.google.com/goto?url=CAESeAHEIkXXo0xd0QDrvPdzdUOtRpSjobdYbiglvf5swyi-RRlRDcV_LBwrOV59MQIUqw333ZnVmsNy-KbSwtXZeJP6Zw4M6_Tn0rVVTnOCK0BWeDtbD6IX7ThG2jLoFLpF-xC7lqRmoLX3IpvyFFt62_SA1lQBybkQWA&gsessionid=UwY37w6HS9zYz9rdBz98mZNS2ktm_t-m7kBaBnwFAA-3kZs-LHEgIA]
+              heading
+                text "배민클럽 환불 - 치킨 갤러리"
+              container
+                image
+                container
+                  text "갤러리"
+                  container
+                    text "https://gall.dcinside.com"
+                    text "› ... › 치킨 메인 갤러리 리스트"
+            button "검색결과에 관한 정보" [ref=33]
+              svg_root
+          container
+            container
+              text "2025. 10. 19."
+              text "—"
+            container
+              text "낼 해지하고 돈 100%"
+              text "환불"
+              text "가능함? 오늘 할려고 보니 결제일 당일은"
+              text "환불"
+              text "안된대. 결제되고 한번도 이용안함. 추천검색. 개념글 추천하기. 2 ..."
+        container
+          container
+            anchor [ref=34, url=https://www.google.com/goto?url=CAESXgHEIkXXoohEXRHAxM9D3yfFWL6Q1p-lpL6K0bcWTdhDd0UYtPlQoii8Y2ruzD1Q4Cp8qXJQQtUjECwYPgb7zVr6hpDqHGo9iyEVrk5PklhhtZSgnnxW44XdwcFyIS0&gsessionid=UwY37w6HS9zYz9rdBz98mZNS2ktm_t-m7kBaBnwFAA-3kZs-LHEgIA]
+              heading
+                text "배민클럽 해지 환불 방법 환불 규정 총정리"
+              container
+                image
+                container
+                  text "티스토리"
+                  container
+                    text "https://miamiduri.tistory.com"
+                    text "› ..."
+            button "검색결과에 관한 정보" [ref=35]
+              svg_root
+          container
+            container
+              text "2025. 1. 14."
+              text "—"
+            container
+              text "배민클럽"
+              text "을 한 번이라도 이용을 했다면 결제한 달까지는 이용을 해야 하며 한 번이라도 이용을 하지 않았다면 결제취소가 되면서"
+              text "환불"
+              text "이 됩니다."
+        container
+          container
+            anchor [ref=36, url=https://www.google.com/goto?url=CAESaQHEIkXX-Gx9fKfdBSUmmgB-lnZOQAeC-tpgjvg1hrOOFiMqzacQJ-YQA4N5tfT9e5_-VTooCkHUoB1fGcQgMlyq2srNqcEPySlH26z-8YLTBjmLQYtnW-0lcc3oNu_yDNCqyFqx2JQUxw&gsessionid=UwY37w6HS9zYz9rdBz98mZNS2ktm_t-m7kBaBnwFAA-3kZs-LHEgIA]
+              heading
+                text "배민클럽 한 번도 안 썼는데 결제됐다면? 전액 환불받는 법"
+              container
+                svg_root
+                container
+                  text "Naver Blog"
+                  container
+                    text "https://blog.naver.com"
+                    text "› flythfk2"
+            button "검색결과에 관한 정보" [ref=37]
+              svg_root
+          container
+            container
+              text "2026. 5. 22."
+              text "—"
+            container
+              text "기준은 명확하다."
+              text "결제 이후 배민클럽 혜택을 단 한 번이라도 받았다면 환불은 불가능"
+              text "하다. 자동결제 해지만 가능하다. 그 대신 결제된 한 달 동안은 혜택 ..."
+        container
+          container
+            anchor [ref=38, url=https://www.google.com/goto?url=CAESzwEBxCJF17byO8qFV897XGhlKZhUw0Qnjm6kqjNDItHjm78uEtMEeMPt74E26nINZGcj1Q4-EUxp5ecQgG9LZBZFcgAO0CDo6Iu8Ciyij3VoUDCZXJZOSAeEppse3uk8ZIDCrlgXsXAax86f3YA3t7pkERF2R_XDgw4t1KpLF_tM3uv44l1io43a0I8S0Vr7_o1Z4ymxKkYa2xjZEEUxa1T2z9vra0sm8teUBeQLMBcKndnhwtVWzxGUAtqBUd9qwKhclU2gLNE5Sq-z60zdmik&gsessionid=UwY37w6HS9zYz9rdBz98mZNS2ktm_t-m7kBaBnwFAA-3kZs-LHEgIA]
+              heading
+                text "1분 만에 배민클럽 미사용 결제 환불하는 방법"
+              container
+                image
+                container
+                  text "데이트곰"
+                  container
+                    text "https://it.dategom.com"
+                    text "› Internet"
+            button "검색결과에 관한 정보" [ref=39]
+              svg_root
+          container
+            container
+              text "2026. 6. 6."
+              text "—"
+            container
+              text "결제일 기준 7일 이내에 해지해야 전액 환불을 받을 수 있습니다"
+              text ". 다만 결제일 당일에는 해지가 불가능하므로, 실질적으로 다음 날 0시부터 6일 안에 처리 ..."
+[more content below the viewport: scrollY=0, viewport 1579 / page 2482 px; scroll or use snapshot({ scope: "full_page" })]

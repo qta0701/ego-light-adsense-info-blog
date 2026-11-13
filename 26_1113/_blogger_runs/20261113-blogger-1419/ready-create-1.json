@@ -1,0 +1,52 @@
+{
+  "order": 1,
+  "row": 30,
+  "tab": "이슈",
+  "keyword": "앱스토어 로그아웃",
+  "spaceId": 35,
+  "blogId": "694192108971227039",
+  "preparedAt": "2026-11-13T05:24:47.690027+00:00",
+  "originalImageCount": 3,
+  "images": [
+    {
+      "id": "IMG_01",
+      "order": 1,
+      "original": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_앱스토어 로그아웃\\웹조사\\raw\\02_iphone.png",
+      "upload": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_앱스토어 로그아웃\\웹조사\\publish\\02_guide.png",
+      "sha256": "152e0f40e90a0b0befa4afa72999e48c0b2ff0222a999762f31d7eaa3a89102c",
+      "alt": "Apple 지원 문서의 iPhone과 iPad 로그아웃 안내 중 미디어 및 구입 항목 강조",
+      "caption": "Apple 지원 문서 발췌: 미디어 및 구입 항목 선택과 로그아웃 순서 (2026-11-13 확인)",
+      "sourceAndEditEvidence": "추천 업로드 순서 / 본문 노출 순서: 1 / 1\n원래 파일번호 / 정확한 이미지 파일명: 02 / 02_iphone.png\n원본 경로 / 업로드 파일 경로: 26_1113/이슈_앱스토어 로그아웃/웹조사/raw/02_iphone.png / 26_1113/이슈_앱스토어 로그아웃/웹조사/publish/02_guide.png\n이미지 내부 표식 번호 / 본문 절차 번호: 빨간 원 2와 상자 / 본문 2단계\n역할 / 실제 화면 종류: guide / Apple 지원 웹 문서 발췌, 실제 앱 화면 아님\n삽입 소제목: 미디어 및 구입 항목에서 로그아웃 / id=iphone-step\n직전 문단: id=iphone-intro / 아래는 실제 설정 화면이 아니라 Apple 지원 문서에서 해당 메뉴를 강조한 발췌입니다.\n직후 문단: id=iphone-result / 같은 발췌의 다음 줄에서 로그아웃과 확인 순서도 볼 수 있습니다.\nHTML 위치: id=img-01 / data-image-id=IMG_01 / IMAGE_SLOT:IMG_01 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_01}}\n권장 alt: Apple 지원 문서의 iPhone과 iPad 로그아웃 안내 중 미디어 및 구입 항목 강조\n권장 캡션: Apple 지원 문서 발췌: 미디어 및 구입 항목 선택과 로그아웃 순서 (2026-11-13 확인)\n실제 이미지 크기 / 표시 원칙: 955×193px / 가로 100% 이내, 비율 유지\n출처 ID·출처명 / 실제 화면 URL / 확인일: S1 / Apple 지원 / https://support.apple.com/ko-kr/108911 / 2026-11-13\n검색 이미지인 경우 실제 연 공식 결과 URL: 해당 없음\n가림·가독성 검수 / 채택 사유·편집: 기존 발행본, 메뉴와 다음 절차를 함께 표시; 편집 추가 없음. 문서 글자는 모바일 축소 시 작아 본문에 핵심 경로를 텍스트로 기재.\n원래 순서와 달라진 경우 이유: 검색 화면을 제외하고 절차와 관련 조건 순으로 배치.\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음",
+      "status": "ready_original"
+    },
+    {
+      "id": "IMG_02",
+      "order": 2,
+      "original": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_앱스토어 로그아웃\\웹조사\\raw\\04_mac.png",
+      "upload": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_앱스토어 로그아웃\\웹조사\\publish\\04_guide.png",
+      "sha256": "2a6a9864c55f3783b26dca955471a2e96c69e120e55cfb2b665140197d035508",
+      "alt": "Apple 지원 문서의 Mac 스토어 메뉴 로그아웃 경로 강조",
+      "caption": "Apple 지원 문서 발췌: Mac App Store의 스토어 메뉴 (2026-11-13 확인)",
+      "sourceAndEditEvidence": "추천 업로드 순서 / 본문 노출 순서: 2 / 2\n원래 파일번호 / 정확한 이미지 파일명: 04 / 04_mac.png\n원본 경로 / 업로드 파일 경로: 26_1113/이슈_앱스토어 로그아웃/웹조사/raw/04_mac.png / 26_1113/이슈_앱스토어 로그아웃/웹조사/publish/04_guide.png\n이미지 내부 표식 번호 / 본문 절차 번호: 빨간 원 4와 상자 / Mac 절차\n역할 / 실제 화면 종류: guide / Apple 지원 웹 문서 발췌, 실제 앱 화면 아님\n삽입 소제목: Mac에서는 스토어 메뉴 사용 / id=mac-step\n직전 문단: id=mac-intro / 아래 Apple 지원 문서 발췌에서 스토어와 로그아웃 메뉴 순서를 확인할 수 있습니다.\n직후 문단: id=mac-result / 다시 로그인하려면 같은 스토어 메뉴에서 로그인을 선택합니다.\nHTML 위치: id=img-02 / data-image-id=IMG_02 / IMAGE_SLOT:IMG_02 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_02}}\n권장 alt: Apple 지원 문서의 Mac 스토어 메뉴 로그아웃 경로 강조\n권장 캡션: Apple 지원 문서 발췌: Mac App Store의 스토어 메뉴 (2026-11-13 확인)\n실제 이미지 크기 / 표시 원칙: 955×193px / 가로 100% 이내, 비율 유지\n출처 ID·출처명 / 실제 화면 URL / 확인일: S1 / Apple 지원 / https://support.apple.com/ko-kr/108911 / 2026-11-13\n검색 이미지인 경우 실제 연 공식 결과 URL: 해당 없음\n가림·가독성 검수 / 채택 사유·편집: 기존 발행본, Mac 경로를 직접 설명; 편집 추가 없음. 문서 글자는 모바일 축소 시 작아 본문에 핵심 경로를 텍스트로 기재.\n원래 순서와 달라진 경우 이유: 검색 화면을 제외하고 절차와 관련 조건 순으로 배치.\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음",
+      "status": "ready_original"
+    },
+    {
+      "id": "IMG_03",
+      "order": 3,
+      "original": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_앱스토어 로그아웃\\웹조사\\raw\\05_family.png",
+      "upload": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_앱스토어 로그아웃\\웹조사\\publish\\blogger-images\\05_family_marked.png",
+      "sha256": "8c738dcc856ddaf9241699140926dd3f57478dab76d0c95adc0913c3d9806b80",
+      "alt": "Apple 지원 문서의 가족 공유 계정과 구입 항목 공유 설정 안내 강조",
+      "caption": "Apple 지원 문서 발췌: 가족 공유 계정과 구입 항목 공유 설정 (2026-11-13 확인)",
+      "sourceAndEditEvidence": "추천 업로드 순서 / 본문 노출 순서: 3 / 3\n원래 파일번호 / 정확한 이미지 파일명: 05 / 05_family.png\n원본 경로 / 업로드 파일 경로: 26_1113/이슈_앱스토어 로그아웃/웹조사/raw/05_family.png / 26_1113/이슈_앱스토어 로그아웃/웹조사/publish/blogger-images/05_family_marked.png\n이미지 내부 표식 번호 / 본문 절차 번호: 빨간 상자 / 본문 절차 번호 없음\n역할 / 실제 화면 종류: reference / Apple 지원 웹 문서 발췌, 실제 앱 화면 아님\n삽입 소제목: 가족 공유가 보이지 않을 때 / id=family-step\n직전 문단: id=family-intro / 아래 공식 문서 발췌는 계정과 구입 항목 공유 설정을 함께 확인하도록 안내합니다.\n직후 문단: id=family-result / 공유하려는 가족 구성원도 구입 항목 공유 설정을 확인해야 합니다.\nHTML 위치: id=img-03 / data-image-id=IMG_03 / IMAGE_SLOT:IMG_03 START·END\n치환 토큰: {{BLOGGER_IMAGE_URL_IMG_03}}\n권장 alt: Apple 지원 문서의 가족 공유 계정과 구입 항목 공유 설정 안내 강조\n권장 캡션: Apple 지원 문서 발췌: 가족 공유 계정과 구입 항목 공유 설정 (2026-11-13 확인)\n실제 이미지 크기 / 표시 원칙: 870×175px / 가로 100% 이내, 비율 유지\n출처 ID·출처명 / 실제 화면 URL / 확인일: S1 / Apple 지원 / https://support.apple.com/ko-kr/108911 / 2026-11-13\n검색 이미지인 경우 실제 연 공식 결과 URL: 해당 없음\n가림·가독성 검수 / 채택 사유·편집: 가족 공유 확인 조건 보강; 원본에서 안내 부분 자르고 빨간 상자 추가, 개인정보 없음. 문서 글자는 모바일 축소 시 작아 본문에 핵심 경로를 텍스트로 기재.\n원래 순서와 달라진 경우 이유: 검색 화면을 제외하고 절차와 관련 조건 순으로 배치.\n업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 미업로드 / 미업로드 / 없음",
+      "status": "ready_original"
+    }
+  ],
+  "html": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_앱스토어 로그아웃\\웹조사\\publish\\이슈_앱스토어 로그아웃_html콘텐츠.html",
+  "txt": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\이슈_앱스토어 로그아웃\\웹조사\\publish\\이슈_앱스토어 로그아웃_제목메타디스크립션.txt",
+  "backup": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\_blogger_runs\\20261113-blogger-1419\\original-1",
+  "duplicateEvidence": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\_blogger_runs\\20261113-blogger-1419\\duplicate-settled-1.txt",
+  "duplicateFinding": "keyword search contained no corresponding title; no matching draft observed",
+  "visualEvidence": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\_blogger_runs\\20261113-blogger-1419\\images-contact.png",
+  "next": "wait for create-ok"
+}

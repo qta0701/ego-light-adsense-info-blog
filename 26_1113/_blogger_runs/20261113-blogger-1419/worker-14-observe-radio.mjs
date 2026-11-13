@@ -1,0 +1,1 @@
+const task=await taskSpace(44),page=task.page('p1');console.log(await page.evaluate(()=>[...document.querySelectorAll('[aria-label]')].filter(x=>x.getAttribute('aria-label')?.includes('맞춤 퍼머링크')).map(x=>x.outerHTML.slice(0,1500))));console.log((await page.snapshot()).slice(-2000));

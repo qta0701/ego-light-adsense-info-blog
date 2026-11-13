@@ -1,0 +1,10 @@
+const fs=await import('node:fs/promises');
+const task=await taskSpace(43),page=task.page('p1');
+await page.click('loc=role:button[name="새 글 작성"]');
+await page.waitForSelector('input[aria-label="제목"]',{state:'visible',timeout:30000});
+const url=await page.url(),match=url.match(/\/post\/edit\/(\d+)\/(\d+)/);
+if(!match) throw Error(`postId absent: ${url}`);
+const state={order:13,spaceId:43,keyword:'신한은행 간편조회',blogId:match[1],postId:match[2],editorUrl:url,createdAt:new Date().toISOString(),stage:'created',images:[]};
+await fs.writeFile('Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/은행_재테크_신한은행 간편조회/웹조사/evidence/blogger-state.json',JSON.stringify(state,null,2));
+await fs.writeFile('Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/_blogger_runs/20261113-blogger-1419/state-13.json',JSON.stringify(state,null,2));
+console.log(JSON.stringify({state,snapshot:await page.snapshot()}));

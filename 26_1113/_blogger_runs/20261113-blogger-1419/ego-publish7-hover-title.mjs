@@ -1,0 +1,1 @@
+const task=await taskSpace(34),page=task.page('p1');await page.hover('text="진학어플라이 회원가입 방법: 통합회원 선택부터 입력까지"');const snap=await page.snapshot();const i=snap.indexOf('진학어플라이 회원가입 방법:');console.log(snap.slice(i-200,i+2600));

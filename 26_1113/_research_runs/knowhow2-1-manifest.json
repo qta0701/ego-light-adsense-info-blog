@@ -1,0 +1,79 @@
+{
+  "section": "knowhow2-1",
+  "tab": "노하우2",
+  "thread": "01a1d318-1344-7d12-b360-6be5fa8a7485",
+  "status": "complete_with_space_retained",
+  "rows": [
+    {
+      "row": 34,
+      "keyword": "진학어플라이 회원가입",
+      "spaceId": 8,
+      "folder": "26_1113/노하우2_진학어플라이 회원가입/웹조사",
+      "result": "26_1113/노하우2_진학어플라이 회원가입/웹조사/publish/노하우2_진학어플라이 회원가입_웹조사결과.md",
+      "rawImageCount": 4,
+      "publishedImageCount": 4,
+      "markedImageCount": 4,
+      "review": "26_1113/노하우2_진학어플라이 회원가입/웹조사/evidence/review.json",
+      "validation": "구 수량 검사 미통과; 대안 검수 완료",
+      "sheet": {
+        "precheck": "I 일치, A·C 공란",
+        "A": "2026-11-13 (numberValue 46339; DATE yyyy-MM-dd)",
+        "C": "ㅇ",
+        "postcheck": "A·C·I 재조회 일치"
+      },
+      "captureIssuesAndAlternatives": "가입 화면의 h2 선택자가 모호해 캡처 실패; 공식 가이드 예시로 대체.",
+      "resumePoint": null,
+      "spaceFinish": "finish({keep:[]}) 성공; 목록에서 사라짐",
+      "status": "complete"
+    },
+    {
+      "row": 35,
+      "keyword": "인스타그램 탈퇴방법",
+      "spaceId": 9,
+      "folder": "26_1113/노하우2_인스타그램 탈퇴방법/웹조사",
+      "result": "26_1113/노하우2_인스타그램 탈퇴방법/웹조사/publish/노하우2_인스타그램 탈퇴방법_웹조사결과.md",
+      "rawImageCount": 5,
+      "publishedImageCount": 5,
+      "markedImageCount": 5,
+      "review": "26_1113/노하우2_인스타그램 탈퇴방법/웹조사/evidence/review.json",
+      "validation": "구 수량 검사 미통과; 대안 검수 완료",
+      "sheet": {
+        "precheck": "I 일치, A·C 공란",
+        "A": "2026-11-13 (numberValue 46339; DATE yyyy-MM-dd)",
+        "C": "ㅇ",
+        "postcheck": "A·C·I 재조회 일치"
+      },
+      "captureIssuesAndAlternatives": "초기 main 선택자가 없어 캡처 실패; 같은 공식 문서의 실제 요소로 재시도해 성공.",
+      "resumePoint": null,
+      "spaceFinish": "finish({keep:[]}) 성공; 목록에서 사라짐",
+      "status": "complete"
+    },
+    {
+      "row": 36,
+      "keyword": "배민클럽 환불",
+      "spaceId": 10,
+      "folder": "26_1113/노하우2_배민클럽 환불/웹조사",
+      "result": "26_1113/노하우2_배민클럽 환불/웹조사/publish/노하우2_배민클럽 환불_웹조사결과.md",
+      "rawImageCount": 7,
+      "publishedImageCount": 4,
+      "markedImageCount": 4,
+      "review": "26_1113/노하우2_배민클럽 환불/웹조사/evidence/review.json",
+      "validation": "구 수량 검사 미통과; 대안 검수 완료",
+      "sheet": {
+        "precheck": "I 일치, A·C 공란",
+        "A": "2026-11-13 (numberValue 46339; DATE yyyy-MM-dd)",
+        "C": "ㅇ",
+        "postcheck": "A·C·I 재조회 일치"
+      },
+      "captureIssuesAndAlternatives": "공식 약관은 Google에서 색인되지 않아 직접 방문. 외부 단계 안내의 첫 캡처는 페이지 변경으로 실패했으나 안정화 후 성공; 광고를 잘라냄. 약관 스크린샷은 일부 겹치나 별도 조건을 표시.",
+      "resumePoint": null,
+      "spaceFinish": "finish({keep:[]}) 성공; 이후 목록에 사용자 소유 Space로 남음. 추가 조작하지 않음",
+      "status": "complete"
+    }
+  ],
+  "date": "2026-11-13",
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "sheetId": 962861723,
+  "runManifest": "26_1113/_research_runs/20261113-89fb2b97/manifest.json",
+  "summary": "3행 자료·시트 완료. Space 10은 finish 성공 후 사용자 소유 상태로 남아 보존."
+}

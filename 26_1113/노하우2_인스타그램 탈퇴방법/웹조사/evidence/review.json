@@ -1,0 +1,112 @@
+{
+  "reviewedAt": "2026-11-13 Asia/Seoul",
+  "visualReview": "모든 발행 이미지와 표식 및 개인정보 가림을 직접 확인",
+  "contentDecision": "완료: 공식 근거로 핵심 절차·조건·예외를 확인",
+  "adjustment": "핵심 답변을 반복하지 않도록 본문을 권장 길이보다 짧게 작성. 검색 화면 포함 4장 이상 확보.",
+  "rawCount": 5,
+  "publishedCount": 5,
+  "markedCount": 5,
+  "autoValidation": {
+    "status": "구 수량 기준 미통과",
+    "errors": [
+      "본문 1217자: 3500~5500자 필요(출처/이미지 목록 제외)"
+    ]
+  },
+  "alternativeReview": {
+    "status": "완료",
+    "fileOpen": "Pillow 확인",
+    "distinctPublishedHashes": 5,
+    "rawDimensionsAndMarks": [
+      {
+        "raw": "raw/01_search.png",
+        "dimensions": [
+          1280,
+          900
+        ],
+        "boxes": [
+          [
+            104,
+            635,
+            528,
+            34
+          ]
+        ],
+        "actualScreenUrl": "https://www.google.com/search?q=%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%20%ED%83%88%ED%87%B4%EB%B0%A9%EB%B2%95"
+      },
+      {
+        "raw": "raw/02_export.png",
+        "dimensions": [
+          1280,
+          1000
+        ],
+        "boxes": [
+          [
+            444,
+            487,
+            737,
+            25
+          ]
+        ],
+        "actualScreenUrl": "https://help.instagram.com/370452623149242/?helpref=hc_fnav&locale=ko_KR"
+      },
+      {
+        "raw": "raw/03_manage.png",
+        "dimensions": [
+          1280,
+          1000
+        ],
+        "boxes": [
+          [
+            444,
+            396,
+            737,
+            207
+          ]
+        ],
+        "actualScreenUrl": "https://help.instagram.com/370452623149242/?helpref=hc_fnav&locale=ko_KR"
+      },
+      {
+        "raw": "raw/04_account.png",
+        "dimensions": [
+          1280,
+          1000
+        ],
+        "boxes": [
+          [
+            444,
+            360,
+            737,
+            279
+          ]
+        ],
+        "actualScreenUrl": "https://help.instagram.com/370452623149242/?helpref=hc_fnav&locale=ko_KR"
+      },
+      {
+        "raw": "raw/05_wait.png",
+        "dimensions": [
+          1280,
+          1000
+        ],
+        "boxes": [
+          [
+            444,
+            470,
+            737,
+            61
+          ]
+        ],
+        "actualScreenUrl": "https://help.instagram.com/370452623149242/?helpref=hc_fnav&locale=ko_KR"
+      }
+    ],
+    "publishHashes": {
+      "publish\\01_01_search.png": "e97f180beb4be2b5fddb982823de1ff8a041def0be5ec16a5a7c1c83aae1eff6",
+      "publish\\02_02_export.png": "f5c3dca96c25a0a5d3e89c0d1060d8d6f928172cd0513ed0c166c1d92c39a7f6",
+      "publish\\03_03_manage.png": "2ee4ba1d63d5c3d9ce20738b61b66d7ceb12781de127fedcffe126a9cacf1453",
+      "publish\\04_04_account.png": "da48152d62d44c2960878b823f1379da68877e6df95c344fab1ea07d44fb3196",
+      "publish\\05_05_wait.png": "e35de09cc189f9f64428366b24ab412a5e9d6d1bafc9a8ce36a80c1156044125",
+      "publish\\노하우2_인스타그램 탈퇴방법_웹조사결과.md": "05e27f7fdb8ba7d8bb0f71587e4b8daf6e1b1c0bfb8dcc0cec50df8be6fcccf7"
+    },
+    "privacy": "Google 계정 식별 부분을 발행 이미지에서 가림; 원본은 보존",
+    "limitation": "로그인 뒤 설정 화면에는 접근하지 않고 공식 고객센터의 두 경로와 삭제 전후 조건을 서로 다른 발췌로 사용. 초기 선택자 오류는 main 요소 부재로 수정 후 캡처 성공."
+  }
+}

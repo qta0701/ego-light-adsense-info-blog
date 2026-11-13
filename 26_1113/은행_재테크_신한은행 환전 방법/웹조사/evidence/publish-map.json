@@ -1,0 +1,62 @@
+[
+  {
+    "order": 1,
+    "raw": "07_searchfocus.png",
+    "publish": "01_search.png",
+    "caption": "검색에서 실제로 연 신한은행 환전가이드를 확인합니다.",
+    "actualUrl": "https://bank.shinhan.com/index.jsp#020502010000",
+    "sourceId": "S1",
+    "rawSha256": "88ae9b3b6e6a14423139554d4ae94d90f0ffb21774f69123ed7ba29a3dcca99b",
+    "publishSha256": "50c6e202fb585d08c84db5ce8a24d206961689100ab2cedd0519297c7f4117b8"
+  },
+  {
+    "order": 2,
+    "raw": "03_application.png",
+    "publish": "02_guide.png",
+    "caption": "환전가이드의 인터넷환전신청을 선택합니다.",
+    "actualUrl": "https://bank.shinhan.com/index.jsp#020502010000",
+    "sourceId": "S1",
+    "rawSha256": "2642ba29bc9376eda06969de3bc0e76b03c40e30e22a171c16399ab85a374f04",
+    "publishSha256": "1514fd909281f4566ab034f639ac3cf658479d3af12a0b6b705629a5de4601e2"
+  },
+  {
+    "order": 3,
+    "raw": "02_login.png",
+    "publish": "03_guide.png",
+    "caption": "PC 신청은 인증 방법을 선택하는 로그인 화면으로 이동합니다.",
+    "actualUrl": "https://bank.shinhan.com/index.jsp#020502020100",
+    "sourceId": "S1",
+    "rawSha256": "311c92bde813fe4806688a4efba3f6e2d39f9821f7909c2c71b6176cfb7bfed3",
+    "publishSha256": "0dcea9de48b9166f713e8b49b668b9e3ac8054826eb599d4631245e0b651ef82"
+  },
+  {
+    "order": 4,
+    "raw": "04_documents.png",
+    "publish": "04_guide.png",
+    "caption": "방문 전 환전 목적에 따른 준비 서류를 확인합니다.",
+    "actualUrl": "https://bank.shinhan.com/index.jsp#020502010000",
+    "sourceId": "S1",
+    "rawSha256": "77e5f835e04cc5d605d70787cf20dc5b1a6b1b50c888d96ff81e3c1a065dbb01",
+    "publishSha256": "c654ebd74c3faaa83fe8672fd75badc10821e5cdac00c6c59c8c0712d696f60f"
+  },
+  {
+    "order": 5,
+    "raw": "05_mobile.png",
+    "publish": "05_guide.png",
+    "caption": "은행의 모바일 환전 안내에서 대상과 수령 방식을 확인합니다.",
+    "actualUrl": "https://solgit.shinhan.com/sc26080141.html",
+    "sourceId": "S2",
+    "rawSha256": "eb08ad2cf5c6bf8ed56dc21bb51453cce2e8c950ba82b5baa4191f5916901f78",
+    "publishSha256": "bd3b8f03d2f5e19e68ea4b78155c1f5f18d06d84e3c6c32c3c3fe601d800b6d6"
+  },
+  {
+    "order": 6,
+    "raw": "06_limits.png",
+    "publish": "06_guide.png",
+    "caption": "우대율과 한도는 거래 시점과 이용 조건을 확인합니다.",
+    "actualUrl": "https://solgit.shinhan.com/sc26080141.html",
+    "sourceId": "S2",
+    "rawSha256": "a4e64c71b386efd6487e49652270c75c3e124fa8d1a6e0c794cb8035601824cb",
+    "publishSha256": "1b76f0cb7aa445b907a34ec500d9cf1e2a038144d3d9a6dc86fa928845da7ac1"
+  }
+]

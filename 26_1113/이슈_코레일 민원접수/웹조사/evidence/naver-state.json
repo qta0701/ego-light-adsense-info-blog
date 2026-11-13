@@ -1,0 +1,132 @@
+{
+  "tab": "이슈",
+  "row": 31,
+  "keyword": "코레일 민원접수",
+  "folder": "26_1113/이슈_코레일 민원접수",
+  "promotionUrl": "https://io.supportimes.com/2026/11/blog-post_13.html",
+  "profileName": "박상민",
+  "account": "chocolateelf",
+  "ledgerColumn": "L",
+  "indexOnProfile": 0,
+  "publishMode": "published",
+  "slotMode": "current",
+  "plannedPublicationTime": "2026-11-13T18:09:22+09:00",
+  "planningAnchor": "2026-11-13T07:00:00+09:00",
+  "slotIsConfirmed": true,
+  "spaceId": 57,
+  "profileId": "Profile 1",
+  "stage": "published_verified",
+  "owner": "issue-30-32-01a1d42b",
+  "updatedAt": "2026-11-13T09:29:30.642Z",
+  "title": "코레일 민원접수 방법: 온라인 고객의 소리와 역 방문 안내",
+  "checkpoint": {
+    "og": 2,
+    "images": [
+      {
+        "loaded": true,
+        "caption": "1.한국철도 고객의 소리 공식 안내 찾기"
+      },
+      {
+        "loaded": true,
+        "caption": "2.고객의 소리 신청과 결과 확인 바로가기"
+      },
+      {
+        "loaded": true,
+        "caption": "3.비회원 휴대폰 본인인증 선택 화면"
+      },
+      {
+        "loaded": true,
+        "caption": "4.가까운 역에서 고객의 소리 신청하기"
+      },
+      {
+        "loaded": true,
+        "caption": "5.서면 민원 우편 주소와 팩스 안내"
+      }
+    ],
+    "markers": []
+  },
+  "identityVerified": "chocolateelf",
+  "searchEvidence": "tmp/naver-20261113/search-31.txt",
+  "sourceSha256": "9154e670ecc88bf9219bbe211b7d4540533ce7d11e612f1b7c1fd295de01ded2",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1113/이슈_코레일 민원접수/웹조사/publish/01_search.png",
+      "caption": "1.한국철도 고객의 소리 공식 안내 찾기",
+      "sha256": "543179a03a2371ef98f45372a746f9e45ea597b0186a2570ae27ea093586bdb8"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1113/이슈_코레일 민원접수/웹조사/publish/02_guide.png",
+      "caption": "2.고객의 소리 신청과 결과 확인 바로가기",
+      "sha256": "0795fc000c4afa276489a947bab82b719d81fcd76ef74dac6809c8ae0e3c3ff5"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1113/이슈_코레일 민원접수/웹조사/publish/04_guide.png",
+      "caption": "3.비회원 휴대폰 본인인증 선택 화면",
+      "sha256": "86da4acce4615592801862bbcf56d7bb989e3420ea0ddd595947b557d987ff43"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1113/이슈_코레일 민원접수/웹조사/publish/03_guide.png",
+      "caption": "4.가까운 역에서 고객의 소리 신청하기",
+      "sha256": "a2e63880e143cbc67b8530d212364ab6d8a4135fe39f028c8e9f99b6f9b52ac6"
+    },
+    {
+      "marker": "NAVERIMG5",
+      "path": "26_1113/이슈_코레일 민원접수/웹조사/publish/06_post_marked.png",
+      "caption": "5.서면 민원 우편 주소와 팩스 안내",
+      "sha256": "0f78d58592230a9f7c8d2cd0c943923af74de0763a6672cfe91d853ddad6b5ce"
+    }
+  ],
+  "submitStartedAt": "2026-11-13T09:29:11.675Z",
+  "submissionSettings": {
+    "title": "코레일 민원접수 방법: 온라인 고객의 소리와 역 방문 안내",
+    "public": true,
+    "now": true,
+    "category": "고객센터,AS접수",
+    "rep": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "auditFile": "tmp/naver-20261113/audit-editor-31.json",
+  "representative": {
+    "index": 1,
+    "file": "01_search.png",
+    "reason": "한국철도 고객의 소리 공식 안내 제목이 명확하게 보이는 핵심 장면",
+    "verifiedSelected": true
+  },
+  "publicUrl": "https://blog.naver.com/chocolateelf/224475985025",
+  "publicationObservedAt": "2026-11-13T09:29:30.642Z",
+  "publicationTimeSource": "observed_completion",
+  "publicAudit": "tmp/naver-20261113/audit-public-31.json",
+  "publicationObservedAtKst": "2026-11-13T18:29:30.642000+09:00",
+  "source": "26_1113/이슈_코레일 민원접수/웹조사/publish/이슈_코레일 민원접수_네이버블로그.md",
+  "titleFile": "26_1113/이슈_코레일 민원접수/웹조사/publish/이슈_코레일 민원접수_네이버블로그_제목 및 이미지 배치.txt",
+  "urlSource": "콘텐츠표 H 및 원고 CTA 일치",
+  "publicRepresentativeVerified": true,
+  "review": {
+    "identity": true,
+    "duplicateSearch": true,
+    "imageContentAndPrivacy": true,
+    "numberedCaptions": true,
+    "ctaStyle": true,
+    "cardsAndUrls": true,
+    "normalWeight": true,
+    "markersAbsent": true
+  },
+  "scheduleNote": "계획의 즉시 발행은 18:09:22 예상이었고 실제 공개 확인은 더 늦었음. 같은 계정의 이미 제출된 다른 글은 변경하지 않음.",
+  "spaceFinished": true,
+  "claimReleased": true,
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "sheetStatus": "verified",
+  "ledgerRow": 232,
+  "spaceStatus": "finished",
+  "claimStatus": "released"
+}

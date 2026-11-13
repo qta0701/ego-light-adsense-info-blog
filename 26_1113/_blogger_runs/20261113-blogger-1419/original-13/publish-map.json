@@ -1,0 +1,42 @@
+[
+  {
+    "order": 1,
+    "raw": "01_search.png",
+    "publish": "01_search.png",
+    "caption": "검색 결과에서 신한은행 공식 간편조회서비스를 확인합니다.",
+    "actualUrl": "https://bank.shinhan.com/rib/easy/index.jsp#210000000000",
+    "sourceId": "S1",
+    "rawSha256": "dd787121c55c2804bfe0a335dbd742105c09a5de8154cd9fbdf6326d9f3c1211",
+    "publishSha256": "642c7cff8c951b616f5aae84f0b025318f3ef87fc48d7ee447bcdc5a18ed29f1"
+  },
+  {
+    "order": 2,
+    "raw": "02_login.png",
+    "publish": "02_guide.png",
+    "caption": "계좌조회에서 인증서 또는 이용자 ID 로그인 진입점을 확인합니다.",
+    "actualUrl": "https://bank.shinhan.com/rib/easy/index.jsp#210000000000",
+    "sourceId": "S1",
+    "rawSha256": "3cc0c06088449f2febe206d5f9689f57321dc36f01bb75935326a11874ad0354",
+    "publishSha256": "00c3fbacc1ee6c0364e404312f16ecf55e5341668ab7bb0d6b22194984da88e8"
+  },
+  {
+    "order": 3,
+    "raw": "03_eligibility.png",
+    "publish": "03_guide.png",
+    "caption": "회원 구분별 이용 범위와 로그인 없이 이용 가능한 항목을 확인합니다.",
+    "actualUrl": "https://bank.shinhan.com/rib/easy/index.jsp#210000000000",
+    "sourceId": "S1",
+    "rawSha256": "223a3d5cfb7afd193be3a4f9098095f13facf6c8b45a652f28557f77d3622281",
+    "publishSha256": "78c6feb9d8df6603ac84c0bd2cfd143f7721bc6f64be6dd4785d31164b95f7c0"
+  },
+  {
+    "order": 4,
+    "raw": "05_other.png",
+    "publish": "04_guide.png",
+    "caption": "기타조회 메뉴를 펼쳐 환율조회 등 별도 항목을 확인합니다.",
+    "actualUrl": "https://bank.shinhan.com/rib/easy/index.jsp#210000000000",
+    "sourceId": "S1",
+    "rawSha256": "5b979684d3738492a0f7a06d2a996610e99050e685d275a3458e212025fb78cc",
+    "publishSha256": "7d9b4c33292201adb7de8095678e9ba7b0d0baea61013a161ed6acc5d8527b86"
+  }
+]

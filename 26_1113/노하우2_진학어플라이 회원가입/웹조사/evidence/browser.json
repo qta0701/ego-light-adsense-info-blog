@@ -1,0 +1,7 @@
+{
+  "spaceId": 8,
+  "page": "p1",
+  "status": "finished",
+  "finishedVia": "TaskSpace.finish({keep:[]})",
+  "postFinish": "absent from listTaskSpaces"
+}

@@ -1,0 +1,2 @@
+const fs=await import('node:fs/promises'),base='Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/_blogger_runs/20261113-blogger-1419';
+const task=await taskSpace(43);await task.finish({keep:[]});const endedAt=new Date().toISOString();const s=JSON.parse(await fs.readFile(`${base}/space-13.json`,'utf8'));s.endedAt=endedAt;s.claimReleased=true;await fs.writeFile(`${base}/space-13.json`,JSON.stringify(s,null,2));console.log(JSON.stringify(s));

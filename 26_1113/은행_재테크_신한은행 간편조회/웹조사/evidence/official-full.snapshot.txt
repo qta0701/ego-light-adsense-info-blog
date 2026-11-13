@@ -1,0 +1,155 @@
+[p2 "간편조회서비스 | 신한은행 개인뱅킹" | space "research-20261113-bank2-row17"(14): 2 managed, 0 untracked — p1 "신한은행 간편조회 - Google 검색", p2* "간편조회서비스 | 신한은행 개인뱅킹"]
+root
+  container
+    container [ref=34]
+      anchor [ref=35, loc=href:/rib/easy/index.jsp#ez_container, url=https://bank.shinhan.com/rib/easy/index.jsp#ez_container]
+        text "본문내용으로 바로가기"
+      anchor [ref=36, loc=href:/rib/easy/index.jsp#ez_gnb, url=https://bank.shinhan.com/rib/easy/index.jsp#ez_gnb]
+        text "메인메뉴로 바로가기"
+    container
+      container
+        heading
+          anchor [ref=20, url=javascript:void(null);]
+            image
+        unordered_list
+          list_item
+            text "간편조회서비스"
+      container
+        heading
+          text "메인메뉴"
+        unordered_list
+          list_item
+            anchor [ref=21, url=javascript:void(0);]
+              text "계좌조회"
+          list_item
+            anchor [ref=22, url=javascript:void(0);]
+              text "기타조회"
+          list_item
+            anchor [ref=23, url=javascript:void(0);]
+              text "대학등록금"
+          list_item
+            anchor [ref=24, url=javascript:void(0);]
+              text "법원업무"
+          list_item
+            anchor [ref=25, url=javascript:void(0);]
+              text "상조예치금"
+          list_item
+            anchor [ref=26, url=javascript:void(0);]
+              text "제로페이Biz"
+          list_item
+            anchor [ref=27, url=javascript:void(0);]
+              text "관리소 제증명"
+  container
+    heading
+      image
+      text "간편조회서비스"
+    container
+      table
+        table_row
+          table_cell
+            table
+              table_row
+                table_cell
+                  heading
+                    text "인증서"
+                    text "로그인"
+                  container
+                    anchor [ref=37, url=javascript:void(null);]
+                      text "금융인증서 로그인"
+                    anchor [ref=38, url=javascript:void(null);]
+                      text "공동인증서 로그인"
+                  container
+                    anchor [ref=39, url=javascript:void(null);]
+                      text "인증서발급/재발급"
+                    anchor [ref=40, url=javascript:void(null);]
+                      text "타 인증서 등록"
+                    anchor [ref=41, url=javascript:void(null);]
+                      text "인증센터"
+            table
+              table_row
+                table_cell
+                  heading
+                    text "이용자ID"
+                    text "로그인"
+                  container
+                    textbox [ref=42]
+                      text "이용자ID"
+                    container
+                      textbox [ref=43]
+                        text "비밀번호"
+                      anchor [ref=44, url=javascript:void(null);]
+                        image
+                    anchor [ref=45, url=javascript:void(null);]
+                      text "로그인"
+                  container
+                    anchor [ref=46, url=javascript:void(null);]
+                      text "아이디 찾기"
+                    anchor [ref=47, url=javascript:void(null);]
+                      text "비밀번호 재설정"
+                    anchor [ref=48, url=javascript:void(null);]
+                      text "회원가입"
+      container
+        unordered_list
+          list_item
+            text "인증서 발급/관리 및 이용자 ID 아이디 찾기/ 비밀번호 재설정 등은 신한S뱅크 또는 신한은행 홈페이지에서 이용하실 수 있습니다."
+        heading
+          text "주요서비스"
+        table
+          table_row
+            table_cell
+              table
+                table_row
+                  table_cell
+                    anchor [ref=28, url=javascript:void(0);]
+                      image
+                      text "계좌조회"
+              table
+                table_row
+                  table_cell
+                    anchor [ref=29, url=javascript:void(0);]
+                      image
+                      text "환율조회"
+              table
+                table_row
+                  table_cell
+                    anchor [ref=30, url=javascript:void(0);]
+                      image
+                      text "등록금납부조회"
+              table
+                table_row
+                  table_cell
+                    anchor [ref=31, url=javascript:void(0);]
+                      image
+                      text "송달료조회"
+        heading
+          text "개인뱅킹 간편조회서비스 이용 가능범위"
+        table
+          text "회원구분,이용가능범위 을(를) 나타낸 표"
+          table_row
+            table_cell
+              text "회원구분"
+            table_cell
+              text "이용가능범위"
+          table_row
+            table_cell
+              text "인증서"
+              text "(인터넷 뱅킹을 가입하고 인증서를 발급 받으신 고객)"
+            table_cell
+              text "계좌조회/대학등록금 납부"
+          table_row
+            table_cell
+              text "인터넷뱅킹 회원"
+              text "(영업점에서 인터넷 뱅킹을 가입하고 아이디/비밀번호를 발급 받으신 고객)"
+            table_cell
+              text "계좌조회"
+          table_row
+            table_cell
+              text "개인 회원"
+              text "(개인 회원으로 가입하신 고객)"
+            table_cell
+              text "계좌조회"
+        unordered_list
+          list_item
+            text "기타조회, 대학등록금 (납부제외), 법원업무는 로그인 없이 이용 가능합니다."
+          list_item
+            text "아이핀(i-pin) 회원은 개인회원 전환 후 계좌조회 이용 가능합니다."

@@ -1,1 +1,0 @@
-for(const [id,post] of [[7,'4890995708214729068'],[8,'2353943551133578047']]){const task=await taskSpace(id);const page=task.page('p1');const s=await page.snapshot();const i=s.lastIndexOf(post);console.log(JSON.stringify({id,part:s.slice(i-2200,i+1000)}));}

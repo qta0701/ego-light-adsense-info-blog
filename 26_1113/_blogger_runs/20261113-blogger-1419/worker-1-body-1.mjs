@@ -1,0 +1,18 @@
+const fs=await import('node:fs/promises');
+const root='Y:/antigravity-project/ego-light-adsense-info-blog',run=`${root}/26_1113/_blogger_runs/20261113-blogger-1419`;
+const manifest=JSON.parse(await fs.readFile(`${run}/ready-create-1.json`,'utf8'));
+const statePath=`${root}/26_1113/이슈_앱스토어 로그아웃/웹조사/evidence/blogger-state.json`;
+const state=JSON.parse(await fs.readFile(statePath,'utf8'));
+if(state.images.length!==manifest.originalImageCount)throw Error('Image count incomplete');
+let html=await fs.readFile(manifest.html,'utf8');
+for(const img of state.images)html=html.replaceAll(`{{BLOGGER_IMAGE_URL_${img.id}}}`,img.url);
+if(html.includes('{{BLOGGER_IMAGE_URL_'))throw Error('unresolved image');
+await fs.writeFile(`${run}/completed-1.html`,html,'utf8');
+const task=await taskSpace(35),page=task.page('p1');
+await page.fill('input[aria-label="제목"]','앱스토어 로그아웃 방법: 아이폰·아이패드와 맥에서 계정 바꾸기');
+await page.evaluate(value=>{const cm=[...document.querySelectorAll('.CodeMirror')].find(x=>x.CodeMirror)?.CodeMirror;if(!cm)throw Error('no CodeMirror');cm.setValue(value);cm.save();},html);
+await page.fill('textarea[aria-label="쉼표로 라벨을 구분하세요."]','앱스토어, 아이폰, 맥, 애플계정');
+await page.keyboard.type(',');await page.keyboard.press('Tab');
+await page.click('text="검색 설명"');
+await page.click('text="퍼머링크"');
+console.log(await page.snapshot());

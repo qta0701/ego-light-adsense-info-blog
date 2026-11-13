@@ -1,0 +1,275 @@
+{
+  "order": 6,
+  "name": "노하우_모바일 티머니 환불",
+  "at": "2026-11-13T05:24:30.345Z",
+  "htmlPath": "Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/노하우_모바일 티머니 환불/웹조사/publish/노하우_모바일 티머니 환불_html콘텐츠.html",
+  "txtPath": "Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/노하우_모바일 티머니 환불/웹조사/publish/노하우_모바일 티머니 환불_제목메타디스크립션.txt",
+  "originalCount": 3,
+  "images": [
+    {
+      "id": "IMG_01",
+      "path": "26_1113/노하우_모바일 티머니 환불/웹조사/publish/02_02_refund.png",
+      "raw": "26_1113/노하우_모바일 티머니 환불/웹조사/raw/02_refund.png",
+      "rawExists": true,
+      "file": {
+        "bytes": 38764,
+        "width": 1050,
+        "height": 330,
+        "sha256": "15bc716b0abd2b46af8124bf90f27b202985269b4a20cc6d813959d716ba3ac4"
+      },
+      "error": null,
+      "tokenCount": 1,
+      "htmlSlot": true,
+      "alt": "Android 선불충전형 환불 신청 경로를 표시한 티머니 공식 FAQ",
+      "caption": "티머니 공식 FAQ의 선불충전형 환불 경로",
+      "evidence": "S1 / 티머니 LG유플러스 USIM 교체 관련 Android FAQ / https://www.tmoney.co.kr/aeb/cmnctn/notice/readNoticeView.dev?bdSeqNo=3852 / 2026-11-13",
+      "edit": "해당 설명의 공식 공지, 원본에서 잘라 빨간 테두리 표시; 개인정보 가림 해당 없음"
+    },
+    {
+      "id": "IMG_02",
+      "path": "26_1113/노하우_모바일 티머니 환불/웹조사/publish/03_03_postpaid.png",
+      "raw": "26_1113/노하우_모바일 티머니 환불/웹조사/raw/03_postpaid.png",
+      "rawExists": true,
+      "file": {
+        "bytes": 50361,
+        "width": 1050,
+        "height": 330,
+        "sha256": "0264f56151eeb291965b185feb98261e957116ed1de2375d083e01362cba1928"
+      },
+      "error": null,
+      "tokenCount": 1,
+      "htmlSlot": true,
+      "alt": "USIM 교체 전 후불청구형 해지 경로를 표시한 티머니 공식 FAQ",
+      "caption": "티머니 공식 FAQ의 후불청구형 해지 안내",
+      "evidence": "S1 / 티머니 LG유플러스 USIM 교체 관련 Android FAQ / https://www.tmoney.co.kr/aeb/cmnctn/notice/readNoticeView.dev?bdSeqNo=3852 / 2026-11-13",
+      "edit": "해당 설명의 공식 공지, 원본에서 잘라 빨간 테두리 표시; 개인정보 가림 해당 없음"
+    },
+    {
+      "id": "IMG_03",
+      "path": "26_1113/노하우_모바일 티머니 환불/웹조사/publish/04_04_usim.png",
+      "raw": "26_1113/노하우_모바일 티머니 환불/웹조사/raw/04_usim.png",
+      "rawExists": true,
+      "file": {
+        "bytes": 23031,
+        "width": 940,
+        "height": 205,
+        "sha256": "849ab6b5c51a088145a70f4486bfe93b6b89775e6989743418b9528a1089d140"
+      },
+      "error": null,
+      "tokenCount": 1,
+      "htmlSlot": true,
+      "alt": "이전 USIM 실물과 잔액 환불의 관계를 표시한 티머니 공식 FAQ",
+      "caption": "티머니 공식 FAQ의 이전 USIM 보관 안내",
+      "evidence": "S1 / 티머니 LG유플러스 USIM 교체 관련 Android FAQ / https://www.tmoney.co.kr/aeb/cmnctn/notice/readNoticeView.dev?bdSeqNo=3852 / 2026-11-13",
+      "edit": "해당 설명의 공식 공지, 원본에서 잘라 빨간 테두리 표시; 개인정보 가림 해당 없음"
+    }
+  ],
+  "research": {
+    "keyword": "모바일 티머니 환불",
+    "originalQuery": "모바일 티머니 환불",
+    "row": 36,
+    "tab": "노하우",
+    "date": "2026-11-13",
+    "queries": [
+      "모바일 티머니 환불"
+    ],
+    "multiIntent": false,
+    "body": "## 먼저 이용 형태를 확인하세요\n모바일티머니의 환불 경로는 이용 중인 교통카드의 유형과 기기에 따라 다를 수 있습니다. 티머니가 2026년 4월 7일 게시한 안내는 **LG유플러스 USIM 교체와 관련된 Android 모바일티머니**를 대상으로 하며, iPhone 이용자에게는 해당하지 않는다고 명시합니다. 아래 단계는 그 공식 FAQ에서 안내하는 선불충전형 경로입니다. 실제 신청 전 앱에 표시되는 조건과 수수료를 확인하세요. [S1]\n\n### Android 선불충전형 잔액 환불\n1. 모바일티머니 앱을 열고 왼쪽 위 **전체메뉴(≡)**를 선택합니다.\n2. **교통카드 → 환불신청**으로 이동합니다.\n3. 등록된 계좌를 선택합니다. 등록된 계좌가 없다면 환불 계좌 입력 항목을 선택해 안내에 맞춰 입력합니다.\n4. 화면 아래 유의사항을 읽고 확인란을 체크한 뒤 **환불하기**를 선택합니다. 신청 전 환불액과 계좌 정보를 다시 확인하세요. [S1]\n\n이 조사는 앱 설치나 개인 계좌 입력을 하지 않았습니다. 실제 앱의 현재 표시와 환불 가능 여부, 금액, 수수료 및 입금 일정은 신청 화면이나 고객센터에서 확인해야 합니다. 공식 FAQ에 없는 수치나 편의점 환불 조건을 모바일 선불 잔액에 임의로 적용하지 않습니다. [S1]\n\n### 후불청구형이라면\n후불청구형은 충전 잔액을 돌려받는 절차와 구분합니다. 해당 FAQ는 USIM 교체 전에 **전체메뉴 → 교통카드 → 충전형 서비스 전환 → 전환신청 → 확인** 순서로 후불형 서비스를 해지하라고 안내합니다. 후불형 가입 시 최초 승인 금액은 4~5영업일 이내 자동 취소되며 카드사별 시간이 다를 수 있습니다. 해지 없이 USIM을 교체한 경우에는 티머니 고객센터 1644-0088로 문의하도록 안내합니다. [S1]\n\n### USIM을 교체하기 전\nFAQ에 따르면 해당 모바일티머니 선불 잔액은 USIM에 저장됩니다. 환불에 충전한 이전 USIM 실물이 필요하므로 교체 전에 잔액과 신청 상태를 확인하고 기존 USIM을 보관하세요. 같은 FAQ는 모바일기후동행카드·페이머니·페이교통카드는 USIM 교체 전 환불 신청이 필요하지 않다고 별도로 설명합니다. 티머니 갤럭시워치는 워치 단말기에 잔액이 충전된다고 안내합니다. 적용 범위는 해당 공식 공지에서 다시 확인하세요. [S1]\n\n문제가 생기면 어떤 기기와 카드 유형을 사용했는지, USIM을 보유하고 있는지 정리해 고객센터에 문의하세요. 아래 이미지는 실제 앱 조작 화면이 아니라 공개된 공식 FAQ의 각 설명 부분입니다. [S1]",
+    "sources": [
+      {
+        "id": "S1",
+        "title": "티머니, LG유플러스 USIM 교체 관련 모바일티머니(Android) FAQ",
+        "url": "https://www.tmoney.co.kr/aeb/cmnctn/notice/readNoticeView.dev?bdSeqNo=3852",
+        "official": true,
+        "checkedAt": "2026-11-13"
+      }
+    ],
+    "images": [
+      {
+        "role": "search",
+        "file": "raw/01_search.png",
+        "publish": "publish/01_01_search.png",
+        "sourceId": "S1",
+        "caption": "티머니 공식 FAQ 검색 결과",
+        "alt": "티머니 공식 FAQ 검색 결과",
+        "boxes": [
+          [
+            104,
+            363,
+            541,
+            45
+          ]
+        ],
+        "crop": [
+          80,
+          330,
+          780,
+          510
+        ],
+        "markedBox": [
+          100,
+          350,
+          640,
+          442
+        ],
+        "screenUrl": "https://www.google.com/search?q=%EB%AA%A8%EB%B0%94%EC%9D%BC%20%ED%8B%B0%EB%A8%B8%EB%8B%88%20%ED%99%98%EB%B6%88",
+        "query": "모바일 티머니 환불"
+      },
+      {
+        "role": "guide",
+        "file": "raw/02_refund.png",
+        "publish": "publish/02_02_refund.png",
+        "sourceId": "S1",
+        "caption": "Android 선불충전형 환불 신청 경로",
+        "alt": "Android 선불충전형 환불 신청 경로",
+        "boxes": [
+          [
+            0,
+            439,
+            947,
+            22
+          ]
+        ],
+        "crop": [
+          0,
+          240,
+          1010,
+          530
+        ],
+        "markedBox": [
+          0,
+          425,
+          960,
+          470
+        ],
+        "screenUrl": "https://www.tmoney.co.kr/aeb/cmnctn/notice/readNoticeView.dev?bdSeqNo=3852"
+      },
+      {
+        "role": "guide",
+        "file": "raw/03_postpaid.png",
+        "publish": "publish/03_03_postpaid.png",
+        "sourceId": "S1",
+        "caption": "후불청구형 해지 안내",
+        "alt": "후불청구형 해지 안내",
+        "boxes": [
+          [
+            0,
+            389,
+            169,
+            22
+          ]
+        ],
+        "crop": [
+          0,
+          265,
+          1010,
+          555
+        ],
+        "markedBox": [
+          0,
+          382,
+          725,
+          470
+        ],
+        "screenUrl": "https://www.tmoney.co.kr/aeb/cmnctn/notice/readNoticeView.dev?bdSeqNo=3852"
+      },
+      {
+        "role": "guide",
+        "file": "raw/04_usim.png",
+        "publish": "publish/04_04_usim.png",
+        "sourceId": "S1",
+        "caption": "기존 USIM 보관과 환불 조건",
+        "alt": "기존 USIM 보관과 환불 조건",
+        "boxes": [
+          [
+            0,
+            439,
+            671,
+            22
+          ]
+        ],
+        "crop": [
+          0,
+          365,
+          900,
+          530
+        ],
+        "markedBox": [
+          0,
+          427,
+          690,
+          475
+        ],
+        "screenUrl": "https://www.tmoney.co.kr/aeb/cmnctn/notice/readNoticeView.dev?bdSeqNo=3852"
+      }
+    ],
+    "limits": {
+      "bodyMin": 3500,
+      "bodyMax": 5500,
+      "guideMax": 8,
+      "referenceMax": 3,
+      "rawMax": 12
+    },
+    "exceptionReason": "공식 검색 1장과 서로 다른 안내·조건 화면 3장으로 핵심 내용을 설명. 앱이나 인증 후 화면은 공개 공식 안내 또는 인증 전 화면으로 대체.",
+    "visualReviewed": false
+  },
+  "review": {
+    "status": "agent_alternative_review_complete",
+    "date": "2026-11-13",
+    "automatic_validation": "고정 수량 기준 미통과",
+    "automatic_errors": [
+      "본문 1252자: 3500~5500자 필요(출처/이미지 목록 제외)",
+      "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+    ],
+    "bodyCharacters": 1252,
+    "rawImages": 4,
+    "publishedImages": 4,
+    "redMarkedImages": 4,
+    "rawFiles": [
+      "01_search.png",
+      "02_refund.png",
+      "03_postpaid.png",
+      "04_usim.png"
+    ],
+    "dimensions": {
+      "01_01_search.png": [
+        740,
+        220
+      ],
+      "02_02_refund.png": [
+        1050,
+        330
+      ],
+      "03_03_postpaid.png": [
+        1050,
+        330
+      ],
+      "04_04_usim.png": [
+        940,
+        205
+      ]
+    },
+    "sha256": {
+      "publish/01_01_search.png": "5f2a5bc29357d6c2bd2356ff039c686e2bc52d49818fdc9c19f5e764a1ee6939",
+      "publish/02_02_refund.png": "15bc716b0abd2b46af8124bf90f27b202985269b4a20cc6d813959d716ba3ac4",
+      "publish/03_03_postpaid.png": "0264f56151eeb291965b185feb98261e957116ed1de2375d083e01362cba1928",
+      "publish/04_04_usim.png": "849ab6b5c51a088145a70f4486bfe93b6b89775e6989743418b9528a1089d140",
+      "publish/노하우_모바일 티머니 환불_웹조사결과.md": "0c2d098e72a50d199d404cbded126bcbd2bf2e367e1329bde1e38bb79f240965"
+    },
+    "checks": [
+      "공식 검색 결과에서 실제 공식 페이지 방문과 근거 대조",
+      "발행 이미지 4장 모두 원본 및 좌표와 직접 시각 대조",
+      "PNG 열림, 서로 다른 해시, 표식과 잘라낸 영역 경계 확인",
+      "검색 결과 및 안내 이미지 개인정보와 팝업 잔존 확인",
+      "이미지별 원본·발행 파일명, 실제 화면 URL과 확인일 대조"
+    ],
+    "adjustment": "검색 1장 및 서로 다른 진입·단계·조건 3장으로 핵심 경로를 설명해 반복 화면과 문장을 추가하지 않음. 코레일은 선택·회원 로그인·기존 비회원 폼의 실제 URL 3개를 명세.",
+    "limitations": "실제 앱·환불은 실행하지 않음. LG유플러스 USIM 교체 관련 Android FAQ의 적용 범위를 명시. 수수료·처리 시간은 공식 근거가 없어 단정하지 않음. 02/04 대상의 블록 폭이 화면 밖이어서 텍스트 영역 재측정 후 캡처.",
+    "completionDecision": "확인 가능한 공식 근거와 핵심 절차, 이용 조건, 4장의 발행 이미지 및 실제 URL을 검수함"
+  },
+  "htmlTokens": [
+    "IMG_01",
+    "IMG_02",
+    "IMG_03"
+  ]
+}

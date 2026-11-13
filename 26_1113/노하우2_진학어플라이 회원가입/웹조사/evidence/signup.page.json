@@ -1,0 +1,38 @@
+{
+  "url": "https://applymem.jinhakapply.com/",
+  "title": "회원가입 | 진학어플라이(공통)",
+  "text": "메인메뉴 바로가기\n본문 바로가기\n\n\nWindows 기반의 운영체제에서만 원서작성이 가능합니다.(모바일 환경에서 원서작성 불가)\n원서작성은 Chrome, edge 브라우저를 권장하며 Chrome, edge 브라우저를 제외한 브라우저 이용시 일부서비스가 제한될 수 있습니다.\n\n회사소개\n이용약관\n개인정보처리방침\n\nCopyright(c) Jinhakapply corp. All Rights Reserved.\n\n메인 스크립트 영역",
+  "links": [
+    {
+      "title": "메인메뉴 바로가기",
+      "url": "https://applymem.jinhakapply.com/#gnb"
+    },
+    {
+      "title": "본문 바로가기",
+      "url": "https://applymem.jinhakapply.com/#container"
+    },
+    {
+      "title": "",
+      "url": "https://apply.jinhakapply.com/"
+    },
+    {
+      "title": "",
+      "url": "http://kcasids.uwayapply.com/join.agree.php?INTEG_ID_YN=N"
+    },
+    {
+      "title": "회사소개",
+      "url": "https://company.jinhak.com/"
+    },
+    {
+      "title": "이용약관",
+      "url": "https://apply.jinhakapply.com/Common/Agreement?639301722505881442"
+    },
+    {
+      "title": "개인정보처리방침",
+      "url": "https://apply.jinhakapply.com/Common/Privacy?639301722505881442"
+    }
+  ],
+  "selector": "body",
+  "sha256": "0a50e35f00e62ab7e4a6a4688c5a6c945cc76c980b3565f034eb0fb36a7df000",
+  "checkedAt": "2026-11-13T04:11:06.249Z"
+}

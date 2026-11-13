@@ -1,0 +1,46 @@
+{
+  "order": 15,
+  "row": 19,
+  "keyword": "하나은행 환율조회",
+  "spaceId": 45,
+  "blogId": "3013546958093270596",
+  "postId": "6249976848062796579",
+  "url": "https://bank.supportimes.com/2026/11/blog-post_300.html",
+  "title": "하나은행 환율조회 방법 통화 날짜 고시회차 확인",
+  "canonical": "https://bank.supportimes.com/2026/11/blog-post_300.html",
+  "publishedAt": "2026-11-13T14:54:00+09:00",
+  "verifiedAt": "2026-11-13T05:54:57.064Z",
+  "images": [
+    {
+      "id": "IMG_01",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vtiivqea-qAqyPuFKXH9SLkDA3AHvWdYMu4KWgwxoEJmoGelkHWZKyK72oi4lmQFQl74p73TPgePkmrT4JZeWUWgZ3KmyvdjnLundw40x6D2OjCC7_7BYIaG66C0145cXbrPQLLRitB3dnGdP3QyJnObkLQg_P_hkp08fvNj8ywjDavM63SSZyDXYwaE/s1600-rw/01_search.png",
+      "alt": "하나은행 환율조회 공식 검색 결과",
+      "loaded": true,
+      "caption": "검색 결과의 하나은행 공식 페이지, 2026년 11월 13일 PC 화면입니다."
+    },
+    {
+      "id": "IMG_02",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOSMlyObCP-HivEDlmYNjbP4KNV4lMzizIGDpxta2MJpkrm1r1yTZNhf2BGUcRVTLpLxGQOUpgMMIwlzKh5yLoq6d91xTgfpJGUKahCYLdVObDnFrKN9Ek_tbe-hcy07Blo17ZOO1xrn0gBuC-JnvSyW91nUllbRY0U_5IZ5ZJm2N1uoKOfpQToEH01ePh/s1600-rw/02_guide.png",
+      "alt": "하나은행 현재환율 통화 일자 고시회차 조회 화면",
+      "loaded": true,
+      "caption": "통화와 일자, 고시회차를 지정하는 PC 화면입니다."
+    },
+    {
+      "id": "IMG_03",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-smvgfF3MEwgcNnLZVLw7HBau7Jqmup0RDP7nToUG8IYTU9Ut24eTn0i2RJDxfH7RGBEJ8YWCjg7HTXxCQtx6wxnlMYEZhTcNODFc9ANktEGkYi_-XALJHB64QDs2FijhZNN53XWGrczeP3ItGNbJ6n5A_C1PoX2YuUqdDe5hjGczSsqpBKQQTnYaUIgm/s1600-rw/03_guide.png",
+      "alt": "하나은행 환율표 고시일시와 현찰 송금 열",
+      "loaded": true,
+      "caption": "고시 정보와 거래 유형별 열을 구분한 PC 화면입니다."
+    },
+    {
+      "id": "IMG_04",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyoqq2QgLN8jWlkd3wOddABZhQ-RhNxzZMT8YjdwIi2pNtq2Ikk4svoiXMNd2uWB8QKylWDmKvRbeNSPO_Akd-PRqT_3xcI5dq19hWKzx-J3-1YvJit7FAkx4vVoR7S5YVkkLQ4ETa_p5nulSNO1x-JH6v6-MJK2GnfrrZAvSzJOyORQOH_Js6nSLvwP1W/s1600-rw/04_guide.png",
+      "alt": "하나은행 환율조회 휴일 고시 유의사항",
+      "loaded": true,
+      "caption": "휴일과 고시 기준에 관한 PC 화면입니다."
+    }
+  ],
+  "count": 4,
+  "publicDescription": "하나은행 환율조회 방법, 통화와 날짜·고시회차 선택, 현찰·송금 환율과 과거 환율 확인.",
+  "evidence": "public-observe-15.json"
+}

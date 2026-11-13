@@ -1,2 +1,0 @@
-[p1 "당근마켓 전국검색 - Google 검색" | space "research-20261107-63550a20-50-0"(4): 1 managed, 0 untracked — p1* "당근마켓 전국검색 - Google 검색"]
-root

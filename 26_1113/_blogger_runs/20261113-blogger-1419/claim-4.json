@@ -1,0 +1,16 @@
+{
+  "token": "d36994c1ee49461ea9a9753592493e00",
+  "job": {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "tab": "노하우",
+    "row": 34,
+    "folder": "26_1113/노하우_앱스토어 국가변경",
+    "stage": "B",
+    "owner": "20261113-blogger-1419"
+  },
+  "createdAt": "2026-11-13T14:20:42.137936+09:00",
+  "locks": [
+    ".session/blogger-workflow/locks/ed4111ef18d0e34a1f0f97bda21a7ecb0c3954819398a42029361905a644a7f7.json",
+    ".session/blogger-workflow/locks/82356247a5cf9e12653e691a5f94c8537bdfde2834d9870111babd657a6ea22c.json"
+  ]
+}

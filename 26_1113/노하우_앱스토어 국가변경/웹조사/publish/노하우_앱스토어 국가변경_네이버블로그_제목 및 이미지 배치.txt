@@ -1,0 +1,20 @@
+[네이버 블로그 제목 후보 3개]
+1. 앱스토어 국가변경 방법: 아이폰 설정과 변경 전 준비
+2. 앱스토어 국가변경 전 잔액과 구독 확인하는 법
+3. Apple 계정 국가 변경하기: 아이폰과 웹 경로
+
+[네이버 모바일 홈판형 제목 후보 3개]
+1. 앱스토어 국가가 안 바뀐다면? 잔액과 구독부터 확인
+2. 아이폰 국가 변경 전 놓치기 쉬운 준비사항
+3. 앱스토어 지역 변경, 웹에서도 할 수 있어요
+
+[사용 이미지 정보 및 본문 내 추천 배치 위치]
+1. 01_01_search.png / 웹조사/publish/01_01_search.png / 1번 H2 / Apple 지원 공식 검색 결과 / 안내 출발점 / 캡션: Apple 지원의 계정 국가 변경 안내 / 출처: Google 검색 및 https://support.apple.com/ko-kr/118283 / 2026-11-13 확인
+2. 02_02_conditions.png / 웹조사/publish/02_02_conditions.png / 1번 H2 / 구독·잔액 등 변경 전 조건 / 준비사항 강조 / 캡션: 국가 변경 전 잔액과 구독 확인하기 / 출처: https://support.apple.com/ko-kr/118283 / 2026-11-13 확인
+3. 03_03_iphone.png / 웹조사/publish/03_03_iphone.png / 2번 H2 / iPhone·iPad 국가/지역 경로 / 메뉴 진입 / 캡션: 아이폰 설정에서 국가 또는 지역 선택하기 / 출처: https://support.apple.com/ko-kr/118283 / 2026-11-13 확인
+4. 04_04_payment.png / 웹조사/publish/04_04_payment.png / 2번 H2 / 약관·결제 정보 안내 / 완료 단계 확인 / 캡션: 새 지역 선택 후 약관과 결제 정보 확인하기 / 출처: https://support.apple.com/ko-kr/118283 / 2026-11-13 확인
+5. 05_web_marked.png / 웹조사/publish/05_web_marked.png / 3번 H2 / 웹 국가 변경 경로 / 기기 외 대안 / 캡션: Apple 계정 웹에서 국가 또는 지역 변경하기 / 출처: https://support.apple.com/ko-kr/118283 / 2026-11-13 확인 / 원본: 웹조사/raw/05_web.png / 보완 채택: 웹 경로 / 기존 발췌·빨간 표식 편집본 복사.
+
+[제외·보류 이미지]
+- 웹조사/raw/01_search.png, 02_conditions.png, 03_iphone.png, 04_payment.png, 05_web.png: 대응 발행 편집본을 사용.
+- 실제 계정 변경 및 인증 후 화면은 확인하지 못함. 본인 계정에서 진행할 때 화면과 조건을 재확인.

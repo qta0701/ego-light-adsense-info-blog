@@ -1,2 +1,0 @@
-import {capture} from '../../../tools/research_browser.mjs';
-const p=(await taskSpace(4)).page('p1');await p.cdp('Emulation.setDeviceMetricsOverride',{width:1100,height:900,deviceScaleFactor:1,mobile:false});await p.evaluate(()=>document.querySelector('button.hz29bu5').scrollIntoView({block:'center'}));try{console.log(JSON.stringify(await capture(p,'26_1106/앱사용_당근마켓 채팅 걸기/웹조사','02_app',['button.hz29bu5'],{width:1100,height:900})));}catch(e){console.log(String(e));}

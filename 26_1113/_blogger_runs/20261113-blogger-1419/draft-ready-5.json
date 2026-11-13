@@ -1,0 +1,57 @@
+{
+  "order": 5,
+  "postId": "5219640724340682672",
+  "spaceId": 47,
+  "at": "2026-11-13T05:35:41.969Z",
+  "title": "코레일 승차권 조회 방법: 회원·비회원 확인 경로",
+  "description": "코레일 승차권 조회 방법을 회원과 비회원으로 나눠 안내합니다. 간편인증과 기존 비회원 확인 조건도 확인하세요.",
+  "labels": "생활정보,승차권,코레일,",
+  "permalink": {
+    "custom": "false",
+    "auto": "true",
+    "value": "blog-post"
+  },
+  "htmlEqual": true,
+  "tokens": false,
+  "images": [
+    {
+      "id": "IMG_01",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh7LGcoZEoOcL6f4XEJndHdSDTmYNpnHSzXVN-ggrndVE5gb1MmKiRpL3VUiLybl-iQXU-eSpPzrUXoDpLq0AlPoFoX6WiYDz7wy6XLW9lpZO8zO7BdMuQgr4m1b0fnESdnLBXV6lF1ycMP5h6MSh5LRtD98Nmpv0KuXlVc0fG_jAij54Pp2nLIPwkmCnR/s1600/01_01_search.png",
+      "alt": "코레일 승차권 확인 로그인 공식 검색 결과",
+      "caption": "검색 결과에서 공식 코레일 주소를 확인합니다. 2026년 11월 13일 검색 화면입니다."
+    },
+    {
+      "id": "IMG_02",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP6jCgMC56u-4pbGZJnsNOffYlUvlZA2gH4fX32U94bijUO3N-3y7zujg9-YDv2IP-S470iLJITYzYQAb6UImbpO4l-vVcjfLGUhTOHU7QDLC5oy8k2vgBPHq25SUwQWd0X7xAF5TeJQlUBUzinXQlnFXdOAsk2xa1jAMCUsmS8DLSYd6iX6Otj7MYHtpD/s1600/08_main_entry_marked.png",
+      "alt": "코레일 승차권예매 메인 바로가기의 승차권 확인 메뉴",
+      "caption": "메인 화면의 승차권 확인 바로가기입니다. 2026년 11월 13일 PC 웹 화면입니다."
+    },
+    {
+      "id": "IMG_03",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQDoTr4LxyjcDZE-psqShypjzbw5ghIsxyRczTERD5kqODMzsUWuaVFd6_C46Czbfa9jgyrcXxjXwqVT4xfqeGe7_hvtPoYDtB3SnVGzc8ZUttluOdNLm-a-SVK_BZOERXpsJRax5jsG53ul6ifn8CuFp_jjllMhBuCichrPDmlf5xH-l2hmT7KylX2RmZ/s1600/02_02_login.png",
+      "alt": "코레일 회원번호 이메일 휴대폰 번호 로그인 선택 화면",
+      "caption": "회원 로그인 화면에서 이용할 로그인 방식을 선택합니다. 2026년 11월 13일 PC 웹 화면입니다."
+    },
+    {
+      "id": "IMG_04",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2MGSIQnZ-Jv-qycPnsNMRCpn7XhhBBn3dzMqXuXAsrG3lZUKYfsf9376k34-MtAYdahsLXbxNDfZUE96qO8n24ezzD06ZFbZ5qPO5MiqarH1aWvPz534zf-Tpo9mVovYvvLE0hu3e7zkXc-NtwvLoJXNXmZHL7pTmppgz1rO4-XyMxih7dzgPJrUf8ePu/s1600/03_06_method_clean.png",
+      "alt": "코레일 비회원 간편인증과 기존 비회원 승차권 확인 선택 화면",
+      "caption": "비회원 확인 방식 선택 화면입니다. 빨간 테두리는 기존 비회원 확인을 가리킵니다. 2026년 11월 13일 PC 웹 화면입니다."
+    },
+    {
+      "id": "IMG_05",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV6DZCj5rw2pnQs5hGE7sCIzEZnnq_6mg7Vo3R5pOybv7HDzC_YD3wzXIqwUn6PbRywQtBM9F7EUVF4h0n8RhypVBCXWIkZCT2-RuoLum6RVKNXnjU6LCODi8w0fzwYuFq9ImVs7axKIzwhfKLtpueTlW97Ya4KNaoGY9kpvIK6ohOAI38cXVpVV49edcq/s1600/04_07_form_clean.png",
+      "alt": "코레일 기존 비회원 승차권 확인의 이름 휴대폰 번호 비밀번호 입력란",
+      "caption": "기존 비회원 승차권 확인 입력란입니다. 2026년 11월 13일 PC 웹 화면입니다."
+    }
+  ],
+  "blogId": "1872124715220437079",
+  "tab": "노하우",
+  "row": 35,
+  "keyword": "코레일 승차권 조회",
+  "originalCount": 5,
+  "uploadedCount": 5,
+  "replacements": 0,
+  "excluded": 0,
+  "savedAt": "2026-11-13T05:35:41.969Z"
+}

@@ -1,1 +1,0 @@
-const fs=await import('node:fs/promises'),file='Y:/antigravity-project/ego-light-adsense-info-blog/26_1111/앱사용_타오바오 탈퇴 방법/웹조사/evidence/blogger-state.json';const p=(await taskSpace(24)).page('p1');console.log((await p.snapshot({scope:'full_page'})).split('\n').slice(-18).join('\n'));

@@ -1,1 +1,0 @@
-for(const [row,id] of [[51,21],[52,22],[53,23]]){const t=await taskSpace(id),p=t.page('p1');console.log('ROW',row,'URL',await p.url(),(await p.snapshot()).split('\n').filter(x=>/번개장터 카드|넷플릭스 해지|넷플릭스 TV|게시됨|임시|post\/edit|검색/.test(x)).slice(0,45).join('\n'));}

@@ -1,0 +1,54 @@
+{
+  "url": "https://www.busanbank.co.kr/ib20/mnu/FPMFRX189002011",
+  "title": "환전＆금고 이용안내>ONE환전>환전서비스안내>환전>외환>금융상품 | 부산은행(BHP0902)",
+  "width": 1440,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 1432.800048828125,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1424.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      412.3999938964844,
+      428.75,
+      800,
+      41.79999923706055
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "boxes": [
+    [
+      412,
+      428,
+      801,
+      43
+    ]
+  ],
+  "pixelSize": {
+    "width": 1440,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.000138874263852,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1439.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T05:05:53.028Z"
+}

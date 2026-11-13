@@ -1,3 +1,0 @@
-const tasks=await Promise.all([1,2,3].map(id=>taskSpace(id)));
-const urls=['https://www.google.com/search?q='+encodeURIComponent('site:netflix.com/tudum/top10 south korea films netflix top 10'),'https://www.google.com/search?q='+encodeURIComponent('site:netflix.com/tudum/top10 netflix top 10 weekly'),'https://help.netflix.com/ko/node/41299'];
-console.log(JSON.stringify(await Promise.all(tasks.map(async(t,i)=>{let p=t.page('p1');await p.goto(urls[i]);return {id:t.spaceId,url:await p.url(),text:await p.evaluate(()=>document.body.innerText.slice(0,9000)),links:await p.evaluate(()=>Array.from(document.querySelectorAll('a')).filter(a=>a.querySelector('h3')).slice(0,8).map(a=>({text:a.innerText,href:a.href})))};}))));

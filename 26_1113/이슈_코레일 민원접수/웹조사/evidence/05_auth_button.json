@@ -1,0 +1,54 @@
+{
+  "url": "https://info.korail.com/mbs/www/jsp/voc/fe/login/NR_loginForm.do",
+  "title": "로그인 | KORAIL 한국철도공사",
+  "width": 1000,
+  "height": 700,
+  "scrollX": 0,
+  "scrollY": 580.7999877929688,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 984.7999877929688,
+    "height": 700,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      413.2875061035156,
+      437.7250061035156,
+      158.22500610351562,
+      49.60000228881836
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1000,
+    "height": 700
+  },
+  "boxes": [
+    [
+      413,
+      437,
+      159,
+      51
+    ]
+  ],
+  "pixelSize": {
+    "width": 1000,
+    "height": 700
+  },
+  "pixelScale": {
+    "x": 1.0002000522199173,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 999.7999877929688,
+    "height": 700
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T03:52:48.614Z"
+}

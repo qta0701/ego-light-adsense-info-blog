@@ -1,0 +1,42 @@
+[
+  {
+    "order": 1,
+    "raw": "01_search.png",
+    "publish": "01_search.png",
+    "caption": "검색 결과에서 하나은행의 환율/외화예금 금리 화면을 엽니다.",
+    "actualUrl": "https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp",
+    "sourceId": "S1",
+    "rawSha256": "8342e1bb17224fc94a03c80912e55c42d97b7c07d8a8010fbf950085007da339",
+    "publishSha256": "04534ff181ae87e5021deb503cd5d851bdcad805e44c252365f8fd625696d02f"
+  },
+  {
+    "order": 2,
+    "raw": "02_form.png",
+    "publish": "02_guide.png",
+    "caption": "통화·일자·고시회차를 선택하고 조회합니다.",
+    "actualUrl": "https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp",
+    "sourceId": "S1",
+    "rawSha256": "da5377bbc206d3880140b2aaa0428928ae56efb0ef3394807ae6bbcb028e9f7f",
+    "publishSha256": "a49fd005793980728ea275d48103771555b0c169fc956f859e959bb8f95421a8"
+  },
+  {
+    "order": 3,
+    "raw": "03_rates.png",
+    "publish": "03_guide.png",
+    "caption": "고시일시와 현찰·송금·매매기준율 열을 구분합니다.",
+    "actualUrl": "https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp",
+    "sourceId": "S1",
+    "rawSha256": "d4a49550fe24bcc1a5314a48201b8a90228d6dcab445be88dfaf02f34747deac",
+    "publishSha256": "34a17554eb3efc03be6930268ec6ca0870a2c47017fbf87cbe26ea086ee60adf"
+  },
+  {
+    "order": 4,
+    "raw": "04_notes.png",
+    "publish": "04_guide.png",
+    "caption": "휴일과 고시회차에 관한 유의사항을 확인합니다.",
+    "actualUrl": "https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp",
+    "sourceId": "S1",
+    "rawSha256": "38adca336af905242664e88360eb1d0a552bb916319abf59f16f0e1b840ad327",
+    "publishSha256": "dd5b613446f352be084f21ff64962155d7bfc79c1d71201aadbad96ef65c0854"
+  }
+]

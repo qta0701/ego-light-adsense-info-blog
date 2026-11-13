@@ -1,0 +1,4 @@
+const fs=await import('node:fs/promises'),base='Y:/antigravity-project/ego-light-adsense-info-blog',p=`${base}/26_1113/노하우_앱스토어 국가변경/웹조사/evidence/blogger-state.json`,s=JSON.parse(await fs.readFile(p,'utf8'));
+const task=await taskSpace(s.spaceId),page=task.page('p1');const submittedAt=new Date().toISOString();await page.click('loc=role:button[name="확인"]');s.publishSubmittedAt=submittedAt;s.stage='publish_submitted';await fs.writeFile(p,JSON.stringify(s,null,2));
+await page.waitForURL('**/blog/posts/**',{timeout:30000});await page.waitForFunction((id)=>[...document.querySelectorAll('[role=listitem]')].some(e=>e.querySelector(`a[href*="${id}"]`)&&e.innerText.includes('게시됨')),s.postId,{timeout:30000});
+const observedAt=new Date().toISOString();s.publishObservedAt=observedAt;await fs.writeFile(p,JSON.stringify(s,null,2));console.log(JSON.stringify({postId:s.postId,submittedAt,observedAt,snapshot:(await page.snapshot()).slice(0,5000)}));

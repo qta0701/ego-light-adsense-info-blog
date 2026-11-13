@@ -1,0 +1,45 @@
+{
+  "order": 6,
+  "postId": "7580348198936542585",
+  "spaceId": 48,
+  "at": "2026-11-13T05:36:18.308Z",
+  "title": "모바일 티머니 환불 선불 잔액 신청 방법과 USIM 확인",
+  "description": "모바일 티머니 선불충전형 환불 신청 경로와 계좌 확인, 후불형 전환 및 USIM 교체 전 유의사항을 안내합니다.",
+  "labels": "교통카드,모바일티머니,환불,",
+  "permalink": {
+    "auto": "true",
+    "custom": "false",
+    "fallback": "recommended value not retained"
+  },
+  "htmlEqual": true,
+  "tokens": false,
+  "images": [
+    {
+      "id": "IMG_01",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGIYmxjLgb2rb03SY-kI1a-BsojXab2bbjw0cD5c7DdF5mUCVJ9A1AFfmlKLKSgKv1EV5MQpjA-FSI8J7kuqdxL4oh18zT0iJlrrsZ5A24lffByWDWSkmR31KV1x7Ayiw-CYGyXdH9bn9wFGrLmJcGq6MUNNSeokkwrGlqHy1bmr33POdpPmLlLq24tHdS/s1600/02_02_refund.png",
+      "alt": "Android 선불충전형 환불 신청 경로를 표시한 티머니 공식 FAQ",
+      "caption": "티머니 공식 FAQ의 선불충전형 환불 경로"
+    },
+    {
+      "id": "IMG_02",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1gn2v8_myJrL7OPwkOGV9NdQk8igGpQt2fIRJbpDiLD5SXQ9MrTlIkTRva9deorI9jabDhyoVVY4DfOif79QCkiDk_8rQlvfn-6f0Zjf9zFHb37g_gohBb2MuOTAp6nsTsCGzd_ctfS81DYq54BqxABJGaPgBIbdPU-6qddlpVgV0wFk3Q2mQdIBJ687D/s1600/03_03_postpaid.png",
+      "alt": "USIM 교체 전 후불청구형 해지 경로를 표시한 티머니 공식 FAQ",
+      "caption": "티머니 공식 FAQ의 후불청구형 해지 안내"
+    },
+    {
+      "id": "IMG_03",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXOFKBNL10Qkm5xIs7W7NE8N6ozKGNjKOcvF_4wO-y_mr4cMdoSgRu3ahiMAhECAae6P-aJA5H55sWUpRXeKMGRAXOtP_xfEHgY9ELysrAwSefokgJFza5llUTxeEJXod28fHp9ax1E9B09bbVQ1e8RlHdqBEtgjoDo8MaqM9kXzbe-2jMmS-an8vjzToS/s1600/04_04_usim.png",
+      "alt": "이전 USIM 실물과 잔액 환불의 관계를 표시한 티머니 공식 FAQ",
+      "caption": "티머니 공식 FAQ의 이전 USIM 보관 안내"
+    }
+  ],
+  "blogId": "1872124715220437079",
+  "tab": "노하우",
+  "row": 36,
+  "keyword": "모바일 티머니 환불",
+  "originalCount": 3,
+  "uploadedCount": 3,
+  "replacements": 0,
+  "excluded": 0,
+  "savedAt": "2026-11-13T05:36:18.308Z"
+}

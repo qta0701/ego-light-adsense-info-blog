@@ -1,0 +1,22 @@
+{
+  "title": "테무 회원탈퇴 방법: 앱과 웹 계정 삭제 및 취소 안내",
+  "description": "테무 회원탈퇴를 앱과 웹에서 요청하는 경로와 삭제 처리 기간, 기한 전 취소 안내를 공식 자료로 확인하세요.",
+  "slug": "blog-post_726",
+  "radios": [
+    {
+      "label": "자동 퍼머링크\n",
+      "checked": "false"
+    },
+    {
+      "label": "맞춤 퍼머링크\n",
+      "checked": "true"
+    }
+  ],
+  "labels": "계정관리,테무,회원탈퇴,",
+  "htmlLength": 7920,
+  "bodyMatches": true,
+  "expectedTitle": "테무 회원탈퇴 방법: 앱과 웹 계정 삭제 및 취소 안내",
+  "expectedDescription": "테무 회원탈퇴를 앱과 웹에서 요청하는 경로와 삭제 처리 기간, 기한 전 취소 안내를 공식 자료로 확인하세요.",
+  "expectedSlug": "temu-account-deletion-guide",
+  "verifiedAt": "2026-11-13T05:35:44.069Z"
+}

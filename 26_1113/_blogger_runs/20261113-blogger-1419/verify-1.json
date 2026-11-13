@@ -1,0 +1,22 @@
+{
+  "title": "앱스토어 로그아웃 방법: 아이폰·아이패드와 맥에서 계정 바꾸기",
+  "description": "앱스토어 로그아웃을 위한 아이폰·아이패드 설정 경로와 맥 메뉴, 가족 공유 계정 확인 사항을 정리했습니다.",
+  "slug": "blog-post",
+  "radio": [
+    {
+      "tag": "DIV",
+      "role": "radio",
+      "checked": "true"
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "checked": null,
+      "value": "blog-post"
+    }
+  ],
+  "labels": "맥,아이폰,애플계정,앱스토어,",
+  "htmlLength": 6083,
+  "bodyMatches": true,
+  "verifiedAt": "2026-11-13T05:34:19.519Z"
+}

@@ -1,0 +1,62 @@
+{
+  "completedAt": "2026-11-13T05:53:13.418009+00:00",
+  "results": [
+    {
+      "order": 10,
+      "row": 14,
+      "keyword": "부산은행 환전",
+      "spaceId": 40,
+      "startedAt": "2026-11-13T05:23:08.712Z",
+      "endedAt": "2026-11-13T05:46:43.939Z",
+      "postId": "2635303107992071336",
+      "url": "https://bank.supportimes.com/2026/11/one.html",
+      "publishedAt": "2026-11-13T14:43:00+09:00",
+      "originalImageCount": 5,
+      "uploadedCount": 5,
+      "replacementCount": 0,
+      "excludedCount": 0,
+      "G": "ㅇ",
+      "H": "https://bank.supportimes.com/2026/11/one.html",
+      "L": "2026. 11. 13 오후 2:43:00",
+      "claimReleased": true
+    },
+    {
+      "order": 11,
+      "row": 15,
+      "keyword": "국민은행 환전신청",
+      "spaceId": 41,
+      "startedAt": "2026-11-13T05:23:10.419Z",
+      "endedAt": "2026-11-13T05:50:03.549Z",
+      "postId": "8589859498226274734",
+      "url": "https://bank.supportimes.com/2026/11/blog-post.html",
+      "publishedAt": "2026-11-13T14:47:00+09:00",
+      "originalImageCount": 6,
+      "uploadedCount": 6,
+      "replacementCount": 0,
+      "excludedCount": 0,
+      "G": "ㅇ",
+      "H": "https://bank.supportimes.com/2026/11/blog-post.html",
+      "L": "2026. 11. 13 오후 2:47:00",
+      "claimReleased": true
+    },
+    {
+      "order": 12,
+      "row": 16,
+      "keyword": "국민은행 통장사본 출력",
+      "spaceId": 42,
+      "startedAt": "2026-11-13T05:23:12.105Z",
+      "endedAt": "2026-11-13T05:52:46.056Z",
+      "postId": "3094712966010604409",
+      "url": "https://bank.supportimes.com/2026/11/pc-stm.html",
+      "publishedAt": "2026-11-13T14:50:00+09:00",
+      "originalImageCount": 3,
+      "uploadedCount": 3,
+      "replacementCount": 0,
+      "excludedCount": 0,
+      "G": "ㅇ",
+      "H": "https://bank.supportimes.com/2026/11/pc-stm.html",
+      "L": "2026. 11. 13 오후 2:50:00",
+      "claimReleased": true
+    }
+  ]
+}

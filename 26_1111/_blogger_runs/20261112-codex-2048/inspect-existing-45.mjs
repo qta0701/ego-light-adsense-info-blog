@@ -1,1 +1,0 @@
-const t=await taskSpace(16);const p=t.page('p1');await p.goto('https://app.supportimes.com/2026/09/kakaotalk-recovery-guide.html');console.log(await p.evaluate(()=>({title:document.title,heads:[...document.querySelectorAll('h1,h2,h3')].map(e=>e.innerText),text:(document.querySelector('.post-body')?.innerText||'').slice(0,5000)})));

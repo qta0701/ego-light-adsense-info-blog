@@ -1,0 +1,40 @@
+{
+  "url": "https://applymem.jinhakapply.com/",
+  "title": "회원가입 | 진학어플라이(공통)",
+  "width": 1280,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1264.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "boxes": [],
+  "pixelSize": {
+    "width": 1280,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001562362589829,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1279.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T05:04:36.568Z"
+}

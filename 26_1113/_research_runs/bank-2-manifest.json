@@ -1,0 +1,106 @@
+{
+  "section": "bank-2",
+  "tab": "은행_재테크",
+  "thread": "01a1d32d-0e92-7471-beeb-91cf2ca0c966",
+  "status": "complete",
+  "sheet": {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "sheetId": 1126487498,
+    "initialCheck": "2026-11-13: I17:I19 match assignment; A17:A19 and C17:C19 empty; A date format yyyy-MM-dd",
+    "write": "A17:A19 numeric date 46339 (2026-11-13), C17:C19 ㅇ; only userEnteredValue changed",
+    "postWriteVerification": "Re-read A/C/I: all dates formatted 2026-11-13 with numeric effective value 46339; C all ㅇ; I all match.",
+    "preWriteVerification": "I17:I19 matched assignment; A17:A19 and C17:C19 blank; date format yyyy-MM-dd"
+  },
+  "captureCoordination": "bank-1 reported all image captures and reviews complete before bank-2 captures began.",
+  "rows": [
+    {
+      "row": 17,
+      "keyword": "신한은행 간편조회",
+      "spaceId": 14,
+      "spaceName": "research-20261113-bank2-row17",
+      "status": "complete",
+      "rawImages": 5,
+      "publishedImages": 4,
+      "sheetApplied": true,
+      "folder": "26_1113/은행_재테크_신한은행 간편조회/웹조사",
+      "searchEvidence": "26_1113/은행_재테크_신한은행 간편조회/웹조사/evidence/search-1.page.json",
+      "partialDocument": "26_1113/은행_재테크_신한은행 간편조회/웹조사/evidence/조사_중간기록.md",
+      "markedImages": 4,
+      "document": "26_1113/은행_재테크_신한은행 간편조회/웹조사/publish/은행_재테크_신한은행 간편조회_웹조사결과.md",
+      "review": "26_1113/은행_재테크_신한은행 간편조회/웹조사/evidence/review.json",
+      "limitations": "계좌조회 로그인 이후와 모바일 앱 화면 미확인",
+      "automaticValidation": [
+        "본문 1917자: 3500~5500자 필요(출처/이미지 목록 제외)",
+        "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+      ],
+      "spaceCleanup": "finished via SDK",
+      "sheetVerification": {
+        "A": "2026-11-13",
+        "A_numeric": 46339,
+        "C": "ㅇ",
+        "I": "신한은행 간편조회",
+        "verified": true
+      }
+    },
+    {
+      "row": 18,
+      "keyword": "신한은행 환전 방법",
+      "spaceId": 15,
+      "status": "complete",
+      "rawImages": 7,
+      "publishedImages": 6,
+      "sheetApplied": true,
+      "spaceName": "research-20261113-bank2-row18",
+      "folder": "26_1113/은행_재테크_신한은행 환전 방법/웹조사",
+      "searchEvidence": "26_1113/은행_재테크_신한은행 환전 방법/웹조사/evidence/search-1.page.json",
+      "partialDocument": "26_1113/은행_재테크_신한은행 환전 방법/웹조사/evidence/조사_중간기록.md",
+      "markedImages": 6,
+      "document": "26_1113/은행_재테크_신한은행 환전 방법/웹조사/publish/은행_재테크_신한은행 환전 방법_웹조사결과.md",
+      "review": "26_1113/은행_재테크_신한은행 환전 방법/웹조사/evidence/review.json",
+      "limitations": "PC 로그인 이후 신청과 모바일 앱 실제 조작 미확인; 조건은 신청 화면 재확인",
+      "automaticValidation": [
+        "본문 2070자: 3500~5500자 필요(출처/이미지 목록 제외)"
+      ],
+      "spaceCleanup": "finished via SDK",
+      "sheetVerification": {
+        "A": "2026-11-13",
+        "A_numeric": 46339,
+        "C": "ㅇ",
+        "I": "신한은행 환전 방법",
+        "verified": true
+      }
+    },
+    {
+      "row": 19,
+      "keyword": "하나은행 환율조회",
+      "spaceId": 16,
+      "status": "complete",
+      "rawImages": 4,
+      "publishedImages": 4,
+      "sheetApplied": true,
+      "spaceName": "research-20261113-bank2-row19",
+      "folder": "26_1113/은행_재테크_하나은행 환율조회/웹조사",
+      "searchEvidence": "26_1113/은행_재테크_하나은행 환율조회/웹조사/evidence/search-1.page.json",
+      "partialDocument": "26_1113/은행_재테크_하나은행 환율조회/웹조사/evidence/조사_중간기록.md",
+      "markedImages": 4,
+      "document": "26_1113/은행_재테크_하나은행 환율조회/웹조사/publish/은행_재테크_하나은행 환율조회_웹조사결과.md",
+      "review": "26_1113/은행_재테크_하나은행 환율조회/웹조사/evidence/review.json",
+      "limitations": "USD 선택 후 조회했으나 단일 통화로 결과 갱신 여부 미확인; 캡처 값은 당시 예시",
+      "automaticValidation": [
+        "본문 1981자: 3500~5500자 필요(출처/이미지 목록 제외)",
+        "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+      ],
+      "spaceCleanup": "finished via SDK",
+      "sheetVerification": {
+        "A": "2026-11-13",
+        "A_numeric": 46339,
+        "C": "ㅇ",
+        "I": "하나은행 환율조회",
+        "verified": true
+      }
+    }
+  ],
+  "runManifest": "26_1113/_research_runs/20261113-8e1eba35/manifest.json",
+  "spaceCleanup": "all three finished via SDK after agent review",
+  "captureAlternative": "not attempted: user control hard stop; no capture had been started"
+}

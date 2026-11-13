@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20%ED%99%98%EC%A0%84",
+  "title": "부산은행 환전 - Google 검색",
+  "width": 1280,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1264.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      104,
+      611.0250244140625,
+      331.7250061035156,
+      43.17499923706055
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "boxes": [
+    [
+      104,
+      611,
+      332,
+      44
+    ]
+  ],
+  "pixelSize": {
+    "width": 1280,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001562362589829,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1279.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:22:45.355Z"
+}

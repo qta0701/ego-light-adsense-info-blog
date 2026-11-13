@@ -1,0 +1,113 @@
+{
+  "tab": "은행_재테크",
+  "row": 15,
+  "keyword": "국민은행 환전신청",
+  "folder": "26_1113/은행_재테크_국민은행 환전신청",
+  "promotionUrl": "https://bank.supportimes.com/2026/11/blog-post.html",
+  "profileName": "순분",
+  "account": "supportimes001",
+  "ledgerColumn": "K",
+  "indexOnProfile": 2,
+  "publishMode": "pending_timeline_check",
+  "platform": "naver",
+  "status": "scheduled",
+  "verified": true,
+  "spaceId": 59,
+  "profileId": "Profile 2",
+  "postId": "224475979954",
+  "title": "국민은행 환전신청 방법: 지점 수령 전 한도와 날짜 확인",
+  "identityVerified": "supportimes001",
+  "publicationTime": "2026-11-13T22:10:00+09:00",
+  "publicationTimeSource": "confirmed_reservation_list",
+  "slotIsConfirmed": true,
+  "reservationEvidence": "예약 발행 글 목록에서 해당 제목과 2026.11.13 22:10 확인",
+  "submittedOnce": true,
+  "publicUrl": null,
+  "publicAudit": "예약 글은 아직 공개되지 않아 공개 검수 미실시",
+  "source": "26_1113/은행_재테크_국민은행 환전신청/웹조사/publish/은행_재테크_국민은행 환전신청_네이버블로그.md",
+  "sourceSha256": "d13d0d680f367da469c8e50cfaa86d3969abd62d60eb6aa40a5729264f9e031d",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1113/은행_재테크_국민은행 환전신청/웹조사/publish/01_search.png",
+      "caption": "1.국민은행 공식 환전신청 페이지 찾기",
+      "sha256": "21f56eb3ed6ea794f6225ffc7fca4ccc367c718452af16efa1cafd76388e2a01"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1113/은행_재테크_국민은행 환전신청/웹조사/publish/02_guide.png",
+      "caption": "2.환전신청 화면의 지점에서 받기",
+      "sha256": "d9d8dc9218a6a7dc1d6ec0b4d53cf7b3f28e3e43207605b0e606f632d986d8a6"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1113/은행_재테크_국민은행 환전신청/웹조사/publish/03_guide.png",
+      "caption": "3.환전신청 로그인 방식 선택",
+      "sha256": "1b9e563958f68bde06ff60f982e78674ed8c92268c51bda4dfad3102d1bed5aa"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1113/은행_재테크_국민은행 환전신청/웹조사/publish/04_guide.png",
+      "caption": "4.비로그인 환전의 약관 확인 단계",
+      "sha256": "87b577f1f3c871c3c9714f1b6c19bf25e1d19aaf69c7e0129acbe7ae89d71d1d"
+    },
+    {
+      "marker": "NAVERIMG5",
+      "path": "26_1113/은행_재테크_국민은행 환전신청/웹조사/publish/05_guide.png",
+      "caption": "5.로그인 여부에 따른 환전 결제 방식",
+      "sha256": "a0d9a81cb1bded940ef5fd25dd62f70969d78d377ca0dd121394557494744ecb"
+    },
+    {
+      "marker": "NAVERIMG6",
+      "path": "26_1113/은행_재테크_국민은행 환전신청/웹조사/publish/06_guide.png",
+      "caption": "6.지점 수령 통화별 수령희망일",
+      "sha256": "e70226336d5cb73476b48ca66a91d733f90fc6ddc8d6365590df43b6b7c7b442"
+    },
+    {
+      "marker": "NAVERIMG7",
+      "path": "26_1113/은행_재테크_국민은행 환전신청/웹조사/publish/07_guide.png",
+      "caption": "7.환전 완료 후 취소·되팔기 유의사항",
+      "sha256": "8e960a1f2ba2e5c88df505df3ca3cc983fc102c34dfdd0b55e24afd0071f7bbf"
+    }
+  ],
+  "links": [
+    {
+      "marker": "NAVEROG1",
+      "url": "https://bank.supportimes.com/2026/11/blog-post.html"
+    },
+    {
+      "marker": "NAVEROG2",
+      "url": "https://bank.supportimes.com/2026/11/blog-post.html"
+    }
+  ],
+  "category": "은행,재테크",
+  "representative": {
+    "index": 2,
+    "file": "26_1113/은행_재테크_국민은행 환전신청/웹조사/publish/02_guide.png",
+    "verifiedSelected": true,
+    "scope": "reopened_saved_reservation"
+  },
+  "styleAudit": {
+    "scope": "reopened_saved_reservation",
+    "normalParagraphs": 38,
+    "boldFailures": 0,
+    "ctaVerified": 2,
+    "images": 7,
+    "og": 2,
+    "tables": 8,
+    "rawUrls": 0,
+    "markers": 0,
+    "passed": true
+  },
+  "styleAuditFile": "tmp/naver-20261113/bank-saved-audit-15.json",
+  "claimReceipt": "tmp/naver-20261113/bank-claim-15.json",
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "sheetProgress": "조정자가 기록 및 재조회 예정",
+  "spaceStatus": "finished",
+  "recordedAt": "2026-11-13T18:27:34.513260+09:00",
+  "finishCalls": 1,
+  "claimStatus": "released",
+  "sheetStatus": "verified",
+  "ledgerRow": 229
+}

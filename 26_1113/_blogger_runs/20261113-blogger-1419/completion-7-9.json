@@ -1,0 +1,10 @@
+{
+  "threadId": "01a1d35b-34a4-7c80-9acc-3e2833bb07a0",
+  "blogId": "3087664879020853782",
+  "rows": [
+    {"order": 7, "row": 34, "keyword": "진학어플라이 회원가입", "spaceId": 34, "startedAt": "2026-11-13T14:23:01.635+09:00", "finishedAt": "2026-11-13T14:43:44.201+09:00", "postId": "7209337448122097859", "status": "published_and_sheet_verified", "imageCount": 4, "replacementCount": 0, "excludedCount": 0, "claimReleased": true, "sheetRecord": "sheet-recorded-7.json"},
+    {"order": 8, "row": 35, "keyword": "인스타그램 탈퇴방법", "spaceId": 36, "startedAt": "2026-11-13T14:23:06.222+09:00", "finishedAt": "2026-11-13T14:46:36.922+09:00", "postId": "5097952957043307331", "status": "published_and_sheet_verified", "imageCount": 5, "replacementCount": 0, "excludedCount": 0, "claimReleased": true, "sheetRecord": "sheet-recorded-8.json"},
+    {"order": 9, "row": 36, "keyword": "배민클럽 환불", "spaceId": 39, "startedAt": "2026-11-13T14:23+09:00", "startPrecision": "minute; exact creation output truncated", "finishedAt": "2026-11-13T14:48:29.450+09:00", "postId": "3381787049473391331", "status": "published_and_sheet_verified", "imageCount": 4, "replacementCount": 0, "excludedCount": 0, "claimReleased": true, "sheetRecord": "sheet-recorded-9.json"}
+  ],
+  "note": "Each custom permalink reverted after editor reload; selected and verified automatic permalinks. Public HTML emits blog-wide description instead of the saved post-specific description."
+}

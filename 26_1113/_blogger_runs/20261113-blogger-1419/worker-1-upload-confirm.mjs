@@ -1,0 +1,14 @@
+const fs=await import('node:fs/promises');
+const task=await taskSpace(35),page=task.page('p1');
+await page.click('text="원본 크기"');
+await page.click('loc=role:button[name="확인"]');
+await page.waitForFunction(()=>[...document.querySelectorAll('.CodeMirror')].some(x=>x.CodeMirror?.getValue().includes('02_guide.png')),undefined,{timeout:30000});
+const html=await page.evaluate(()=>[...document.querySelectorAll('.CodeMirror')].find(x=>x.CodeMirror)?.CodeMirror.getValue());
+console.log(html);
+const match=html.match(/<img[^>]+src="([^"]+)"/i);
+if(!match)throw Error('No image src');
+const path='Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/이슈_앱스토어 로그아웃/웹조사/evidence/blogger-state.json';
+const state=JSON.parse(await fs.readFile(path,'utf8'));
+state.images.push({id:'IMG_01',file:'02_guide.png',url:match[1],uploadedAt:new Date().toISOString()});
+await fs.writeFile(path,JSON.stringify(state,null,2),'utf8');
+console.log(JSON.stringify(state.images));

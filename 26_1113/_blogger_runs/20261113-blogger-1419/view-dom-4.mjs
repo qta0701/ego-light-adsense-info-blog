@@ -1,0 +1,1 @@
+const task=await taskSpace(46),page=task.page('p1');console.log(JSON.stringify(await page.evaluate(()=>[...document.querySelectorAll('a')].filter(x=>x.href.includes('7673303939056881825')).map(x=>({href:x.href,attr:x.getAttribute('href'),parent:x.parentElement?.tagName,outer:x.outerHTML})))));

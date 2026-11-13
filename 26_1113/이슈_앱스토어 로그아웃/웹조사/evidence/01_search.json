@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=site%3Asupport.apple.com%2Fko-kr%20App%20Store%20%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EB%B0%8F%20%EA%B5%AC%EC%9E%85%20%ED%95%AD%EB%AA%A9",
+  "title": "site:support.apple.com/ko-kr App Store 로그아웃 미디어 및 구입 항목 - Google 검색",
+  "width": 1280,
+  "height": 1000,
+  "scrollX": 0,
+  "scrollY": 191.1999969482422,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1264.800048828125,
+    "height": 1000,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      104,
+      478.0249938964844,
+      413.2250061035156,
+      43.17499923706055
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "boxes": [
+    [
+      104,
+      478,
+      414,
+      44
+    ]
+  ],
+  "pixelSize": {
+    "width": 1280,
+    "height": 1000
+  },
+  "pixelScale": {
+    "x": 1.0001562362589829,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1279.800048828125,
+    "height": 1000
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T03:50:23.518Z"
+}

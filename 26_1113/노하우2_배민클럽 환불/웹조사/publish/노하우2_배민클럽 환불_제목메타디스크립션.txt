@@ -1,0 +1,158 @@
+[작업 정보]
+메인 키워드: 배민클럽 환불
+탭 / 대상 폴더: 노하우2 / 26_1113/노하우2_배민클럽 환불
+spreadsheetId / sheetId / 실제 행: 1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s / 962861723 / 36
+runId / threadId: 20261113-content-1401 / 01a1d349-d3c7-7661-8607-f1b25c7534a9
+D열 반영 상태: ㅇ 입력 및 키워드·셀 재조회 확인 (2026-11-13T14:14:08+09:00, KST)
+조사 확인일 / 콘텐츠 작성일: 2026-11-13 / 2026-11-13
+입력 웹조사 Markdown: 26_1113/노하우2_배민클럽 환불/웹조사/publish/노하우2_배민클럽 환불_웹조사결과.md
+HTML 파일: 26_1113/노하우2_배민클럽 환불/웹조사/publish/노하우2_배민클럽 환불_html콘텐츠.html
+
+[콘텐츠 개요]
+배민클럽 이용권 해지와 환불을 원하는 독자를 위해 공식 약관의 전액 환불 조건과 일반 해지, 장기 구독 예외를 구분합니다.
+실제 앱 해지 화면은 확인하지 못했으며 공개된 외부 안내 화면과 공식 약관을 구분해 설명합니다.
+
+[제목 후보 7개]
+최종 추천 제목: 배민클럽 환불 조건과 해지 방법, 전액 환불 기준 확인
+1. 배민클럽 환불 조건과 해지 방법, 전액 환불 기준 확인
+2. 배민클럽 환불 7일 기준과 혜택 사용 여부 확인하기
+3. 배민클럽 환불 신청 전 결제일과 이용권 확인하는 법
+4. 배민클럽 환불과 해지 예약 차이, 앱에서 확인할 것
+5. 배민클럽 환불 가능할까? 전액 환불과 장기 구독 예외
+6. 배민클럽 환불 조건 정리: 미사용·결제일·해지 절차
+7. 배민클럽 환불 방법과 정기결제 해지 시 유의사항
+
+[후킹 문구 후보 7개]
+최종 추천 후킹: 결제일 다음 날부터 기간을 확인하세요
+1. 결제일 다음 날부터 기간을 확인하세요
+2. 혜택을 사용했는지 먼저 살펴보세요
+3. 해지 예약과 환불 결과를 구분하세요
+4. 마지막 확인 화면까지 진행하세요
+5. 장기 구독은 별도 공제를 확인하세요
+6. 프로모션은 앱의 안내 조건을 확인하세요
+7. 처리 결과가 불명확하면 고객센터에 문의하세요
+
+[메타디스크립션 후보 3개]
+최종 추천 메타디스크립션: 배민클럽 환불의 전액 환불 요건과 앱 해지 경로, 장기 구독 및 프로모션 예외를 확인하세요.
+1. 배민클럽 환불의 전액 환불 요건과 앱 해지 경로, 장기 구독 및 프로모션 예외를 확인하세요. (공백 포함 51자)
+2. 배민클럽 결제일과 혜택 사용 여부에 따른 환불 조건과 정기결제 해지 차이를 안내합니다. (공백 포함 48자)
+3. 배민클럽 해지 전 7일 기준, 미사용 조건과 이용권별 환불 안내를 확인해 보세요. (공백 포함 45자)
+
+[영문 퍼머링크 후보 3개]
+최종 추천 슬러그: baemin-club-refund
+1. baemin-club-refund
+2. baemin-club-cancellation-refund
+3. baemin-club-refund-conditions
+한글 참고 문구: 배민클럽 환불 조건과 해지 방법
+라벨 제안: 배민클럽, 환불, 구독 해지
+
+[Blogger 이미지 업로드 추천 순서와 삽입 위치]
+채택 이미지 4개 / 제외·보류 이미지 5개
+대표 이미지 추천: IMG_01 / 03_01_refund.png / 핵심 전액 환불 요건을 설명하는 공식 약관
+
+삽입 ID: IMG_01
+추천 업로드 순서 / 본문 노출 순서: 1 / 1
+원래 파일번호 / 파일명: raw/01_refund.png → 03_01_refund.png
+원본 경로: 26_1113/노하우2_배민클럽 환불/웹조사/raw/01_refund.png
+업로드 파일 경로: 26_1113/노하우2_배민클럽 환불/웹조사/publish/03_01_refund.png
+이미지 내부 표식 번호 / 본문 절차 번호: 빨간 표식 1 / 해당 없음
+역할: reference / 화면 종류: 공식 약관 PC 웹
+삽입 소제목: 전액 환불 조건부터 확인 / id=refund
+직전 문단: id=refund-intro / 공식 약관 제11조에서 두 조건과 요청의 도달에 관한 부분을 확인할 수 있습니다.
+직후 문단: id=refund-result / 혜택 사용 여부가 애매하다면 결제·혜택 내역을 확인하고 고객센터에 문의하세요.
+HTML 위치: id=img-01 / data-image-id=IMG_01 / IMAGE_SLOT:IMG_01
+치환 토큰: {{BLOGGER_IMAGE_URL_IMG_01}}
+권장 alt: 배민클럽 이용약관 제11조의 전액 환불 요건을 강조한 화면
+권장 캡션: 전액 환불 요건을 표시한 공식 약관 화면입니다. 2026년 11월 13일 확인.
+크기 / 표시: 1100×955px / 가로 100% 이내, 비율 유지
+출처 / 실제 화면 URL / 확인일: S1 배민클럽 공식 약관 / https://terms.baemin.com/content/BAEMINCLUB_658 / 2026-11-13
+가림·편집·가독성: 기존 발행본의 빨간 테두리와 화살표, 표식 1; 개인정보 없음; 모바일의 작은 글씨는 본문으로 보완
+순서 변경 사유: 환불 조건을 먼저 답하고 앱 경로, 일반 해지, 장기 예외 순으로 배치
+업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 업로드 완료 / https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbeb9BBddgS2XxHZ2gIw3sLns7J05O0unUDYGIYdUFDyQ2Z94y0-eQYAbavzw9tNzOa21oRm9c4wApfUu0pTnpnKNLKtUicK88V_W8CRtY2V2owK1ziG0H6PdQ0H7bwPNOkvPMaaF6Z6gS4jQE8RFIAYXGQcuEPgj5FPnLqAHQzF1yJxOXlwIPdORDEeEE/s1600-rw/03_01_refund.png / 없음
+
+삽입 ID: IMG_02
+추천 업로드 순서 / 본문 노출 순서: 2 / 2
+원래 파일번호 / 파일명: raw/06_entry.png → 02_06_entry.png
+원본 경로: 26_1113/노하우2_배민클럽 환불/웹조사/raw/06_entry.png
+업로드 파일 경로: 26_1113/노하우2_배민클럽 환불/웹조사/publish/02_06_entry.png
+이미지 내부 표식 번호 / 본문 절차 번호: 빨간 표식 1 / 해당 없음
+역할: guide / 화면 종류: 외부 웹 안내 도식, 실제 앱 화면 아님
+삽입 소제목: 앱에서 해지와 환불 표시 확인 / id=steps
+직전 문단: id=steps-intro / 다음 그림은 외부 안내 글이 정리한 해지 경로이며 실제 배민 앱 화면은 아닙니다.
+직후 문단: id=steps-result / 앱 버전에 따라 메뉴 이름과 표시 순서는 달라질 수 있습니다.
+HTML 위치: id=img-02 / data-image-id=IMG_02 / IMAGE_SLOT:IMG_02
+치환 토큰: {{BLOGGER_IMAGE_URL_IMG_02}}
+권장 alt: 외부 안내 글에 정리된 마이배민부터 해지 예약까지의 경로
+권장 캡션: 외부 안내의 절차 요약입니다. 실제 앱 화면이 아니며 2026년 11월 13일 확인했습니다.
+크기 / 표시: 860×730px / 가로 100% 이내, 비율 유지
+출처 / 실제 화면 URL / 확인일: S2 외부 안내 / https://kooltip.com/baemin-club-cancel/ / 2026-11-13
+가림·편집·가독성: 기존 발행본의 빨간 테두리와 화살표, 표식 1; 광고 영역 제외, 개인정보 없음; 모바일의 작은 글씨는 본문으로 보완
+순서 변경 사유: 환불 조건을 먼저 답하고 앱 경로, 일반 해지, 장기 예외 순으로 배치
+업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 업로드 완료 / https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGOXGJX9-p5zoc9CN5qrMOTqUCJfLm6UFb3cHHTDh1TtnuK4yGKv8jorphInnIr4dfFVZloOXedaB-pVdDChiv94q2OVq2V_fGsxjZ6wmr0SAyPBzhTKcsVKcbia7G3jM1eFmKDVc8X_qDzuVmSYCkvVzrlcCpZPR-DwNZysvuY8-5LhvYgM_mt9_mt9IX/s1600-rw/02_06_entry.png / 없음
+
+삽입 ID: IMG_03
+추천 업로드 순서 / 본문 노출 순서: 3 / 3
+원래 파일번호 / 파일명: raw/02_cancel.png → blogger-images/02_cancel_detail.png
+원본 경로: 26_1113/노하우2_배민클럽 환불/웹조사/raw/02_cancel.png
+업로드 파일 경로: 26_1113/노하우2_배민클럽 환불/웹조사/publish/blogger-images/02_cancel_detail.png
+이미지 내부 표식 번호 / 본문 절차 번호: 해당 없음 / 해당 없음
+역할: reference / 화면 종류: 공식 약관 PC 웹
+삽입 소제목: 환불과 정기결제 해지의 차이 / id=cancel
+직전 문단: id=cancel-intro / 공식 약관 제11조 3항은 전액 환불 요건에 해당하지 않는 일반 이용권의 해지 시점을 설명합니다.
+직후 문단: id=cancel-result / 즉, 해지 예약과 전액 환불은 같은 결과가 아니므로 화면에 나타난 종료일을 확인해야 합니다.
+HTML 위치: id=img-03 / data-image-id=IMG_03 / IMAGE_SLOT:IMG_03
+치환 토큰: {{BLOGGER_IMAGE_URL_IMG_03}}
+권장 alt: 배민클럽 약관에서 정기결제 해지와 이용기간 종료 조항을 강조한 화면
+권장 캡션: 정기결제 해지 후 이용기간에 관한 공식 약관 발췌입니다. 2026년 11월 13일 확인.
+크기 / 표시: 1080×345px / 가로 100% 이내, 비율 유지
+출처 / 실제 화면 URL / 확인일: S1 배민클럽 공식 약관 / https://terms.baemin.com/content/BAEMINCLUB_658 / 2026-11-13
+가림·편집·가독성: 원본에서 제11조 부분을 자르고 3항에 빨간 테두리 추가; 개인정보 없음; 모바일의 작은 글씨는 본문으로 보완
+순서 변경 사유: 환불 조건을 먼저 답하고 앱 경로, 일반 해지, 장기 예외 순으로 배치
+업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 업로드 완료 / https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7qEQLwrlcRa31qem1lrJBBdghW-qqmujkM89NTofBvbFW-Neud8CY-TlweW9C4xw500PCwgREobguotOf9w1zlLW8J4-qiLLWvLR-WxqBLDDKK-t8volm9ndjOYoP3JN_yzflN19q1m4JorB7yfaL__I7I2Qtpl4ztFCkiz1jxsu93BpGx_RI5MljPp7F/s1600-rw/02_cancel_detail.png / 없음
+
+삽입 ID: IMG_04
+추천 업로드 순서 / 본문 노출 순서: 4 / 4
+원래 파일번호 / 파일명: raw/03_long.png → 04_03_long.png
+원본 경로: 26_1113/노하우2_배민클럽 환불/웹조사/raw/03_long.png
+업로드 파일 경로: 26_1113/노하우2_배민클럽 환불/웹조사/publish/04_03_long.png
+이미지 내부 표식 번호 / 본문 절차 번호: 빨간 표식 1 / 해당 없음
+역할: reference / 화면 종류: 공식 약관 PC 웹
+삽입 소제목: 장기 구독과 프로모션 예외 / id=exceptions
+직전 문단: id=exceptions-intro / 장기 구독상품에 관한 별도 공제 규정은 아래 공식 약관의 강조 부분에서 확인할 수 있습니다.
+직후 문단: id=exceptions-result / 본인이 어떤 이용권을 결제했는지와 앱에 안내된 적용 조건을 먼저 확인하세요.
+HTML 위치: id=img-04 / data-image-id=IMG_04 / IMAGE_SLOT:IMG_04
+치환 토큰: {{BLOGGER_IMAGE_URL_IMG_04}}
+권장 alt: 배민클럽 약관 제11조의 장기 구독상품 공제 규정을 강조한 화면
+권장 캡션: 장기 구독상품의 별도 규정을 표시한 공식 약관 화면입니다. 2026년 11월 13일 확인.
+크기 / 표시: 1100×955px / 가로 100% 이내, 비율 유지
+출처 / 실제 화면 URL / 확인일: S1 배민클럽 공식 약관 / https://terms.baemin.com/content/BAEMINCLUB_658 / 2026-11-13
+가림·편집·가독성: 기존 발행본의 빨간 테두리와 화살표, 표식 1; 개인정보 없음; 모바일의 작은 글씨는 본문으로 보완
+순서 변경 사유: 환불 조건을 먼저 답하고 앱 경로, 일반 해지, 장기 예외 순으로 배치
+업로드 상태 / Blogger 이미지 URL / 확대 링크 URL: 업로드 완료 / https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXleMjg6N1QRFzEeFEPaKA1TMH_M1_nV7Bo5oO0KR6HjvvV99FYqtes2LRFNwY7ZezW3vl5Pffx4o_RdgXzgbmNjI2LDTFjINQ5_YXZ4HARsneoFAqTrw-MdNK9J-u4z4hsWHuGz5HfW-gAtymMQYXWhsVQ0YV5tJhDLDdgPH50ypYLaiT7jnutPNMrrAG/s1600-rw/04_03_long.png / 없음
+
+[제외·보류 이미지]
+26_1113/노하우2_배민클럽 환불/웹조사/publish/01_05_search.png: 공식 홈페이지 검색 결과로 환불 절차 직접 설명이 부족해 제외.
+26_1113/노하우2_배민클럽 환불/웹조사/raw/04_promo.png: 다른 약관 캡처와 내용이 겹쳐 제외.
+26_1113/노하우2_배민클럽 환불/웹조사/raw/07_confirm.png: 외부 안내 화면이 06과 중복되어 제외.
+26_1113/노하우2_배민클럽 환불/웹조사/raw/05_search.png: 검색 화면 원본, 발행본과 중복 및 계정 영역 포함으로 제외.
+26_1113/노하우2_배민클럽 환불/웹조사/raw/08_terms_recheck.png: 재확인용 약관 첫 화면이며 실제 앱의 해지·환불 단계가 아니어서 제외.
+보완 시도: raw와 기존 4개 발행본 직접 검토, Google 검색 및 공식 약관 재방문. 실제 계정의 해지·환불 확인 화면은 확보하지 못함. 필요하면 후속 담당자가 본인 계정에서 개인정보를 가린 실제 화면을 확인하여 보완.
+
+[업로드 담당 에이전트 전달사항]
+허용 작업: 파일만 작성. 이미지 미업로드, Blogger 초안·발행 미수행.
+이미지 업로드 후 ID별 실제 URL로 토큰을 치환하고 대상 테마에서 다시 미리보기. 광고 설정 및 대표 이미지 바인딩은 대상 블로그에서 확인.
+G/H/L 반영: 미수행. D열 상태는 작업 정보 참조.
+
+[검수 결과]
+파일·이미지 실물, 본문 사실과 이미지 순서, ID/토큰·alt·캡션 대응 검수.
+모바일/PC 로컬 미리보기: 390px 및 약 1365px에서 이미지 4개 로드·비율·가로 넘침 없음 확인. 모바일 캡처의 작은 글씨는 본문으로 보완. 임시 CSS를 사용했으며 실제 Blogger 테마 미리보기는 미수행.
+미해결 사항: 실제 앱의 개인별 화면과 환불 처리 기간 미확인. 작은 캡처 글자는 본문으로 보완.
+
+[Blogger 발행 결과 — 2026-11-13]
+상태: 공개 발행 및 실제 페이지 검증 완료
+blogId / postId / spaceId: 3087664879020853782 / 3381787049473391331 / 39
+공개 URL: https://how2.supportimes.com/2026/11/blog-post_746.html
+공개 발행 시각: 2026-11-13T14:45:00+09:00
+원래 채택 / 실제 업로드 / 대체 / 제외: 4 / 4 / 0 / 0
+공개 페이지 메타 설명: 블로그 공통 설명이 출력됨. 편집기에 저장한 글별 검색 설명과 다름.
+확인 시각: 2026-11-13T14:48:16.133338+09:00

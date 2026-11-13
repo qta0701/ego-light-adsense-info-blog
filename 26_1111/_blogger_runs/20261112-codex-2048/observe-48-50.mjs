@@ -1,1 +1,0 @@
-for(const [row,id] of [[48,18],[49,19],[50,20]]){const t=await taskSpace(id),p=t.page('p1');console.log('ROW',row,'URL',await p.url());console.log((await p.snapshot()).split('\n').filter(x=>/전체\(|검색 결과|검색된|post\/edit|게시됨|임시|text "[^•]+"/.test(x)).slice(-90).join('\n'));}

@@ -1,0 +1,12 @@
+const fs=await import('node:fs/promises');const root='Y:/antigravity-project/ego-light-adsense-info-blog';const keyword='부산은행 환전';
+const page=(await taskSpace(40)).page('p1');const dir=`${root}/26_1113/은행_재테크_${keyword}/웹조사`;const state=JSON.parse(await fs.readFile(`${dir}/evidence/blogger-state.json`,'utf8'));
+const manifest=JSON.parse(await fs.readFile(`${root}/26_1113/_blogger_runs/20261113-blogger-1419/images-10.json`,'utf8'));let html=await fs.readFile(`${root}/${manifest.html}`,'utf8');const txt=await fs.readFile(`${root}/${manifest.txt}`,'utf8');
+for(const x of state.images) html=html.replaceAll(`{{BLOGGER_IMAGE_URL_${x.id}}}`,x.url);
+if(html.includes('{{BLOGGER_IMAGE_URL_'))throw Error('unresolved token');
+const title=txt.match(/최종 추천 제목:\s*(.+)/)[1].trim(),description=txt.match(/최종 추천 메타디스크립션:\s*(.+)/)[1].replace(/\s*\(\d+자\)\s*$/,'').trim(),slug=txt.match(/최종 추천 슬러그:\s*(.+)/)[1].trim();
+await page.fill('input[aria-label="제목"]',title);
+await page.evaluate(value=>{const c=[...document.querySelectorAll('.CodeMirror')].find(e=>e.CodeMirror&&e.offsetParent);c.CodeMirror.setValue(value);c.CodeMirror.save();},html);
+await page.focus('div[role="radio"][aria-label^="맞춤 퍼머링크"]');await page.press('div[role="radio"][aria-label^="맞춤 퍼머링크"]','Space');
+await page.fill('input[aria-label="맞춤 퍼머링크 입력"]',slug);await page.press('input[aria-label="맞춤 퍼머링크 입력"]','Tab');
+await page.fill('textarea[aria-label="검색 설명 입력"]',description);await page.press('textarea[aria-label="검색 설명 입력"]','Tab');
+console.log(JSON.stringify({title,description,slug,snapshot:(await page.snapshot()).slice(-5000)}));

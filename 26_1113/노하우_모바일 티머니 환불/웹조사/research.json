@@ -1,0 +1,149 @@
+{
+  "keyword": "모바일 티머니 환불",
+  "originalQuery": "모바일 티머니 환불",
+  "row": 36,
+  "tab": "노하우",
+  "date": "2026-11-13",
+  "queries": [
+    "모바일 티머니 환불"
+  ],
+  "multiIntent": false,
+  "body": "## 먼저 이용 형태를 확인하세요\n모바일티머니의 환불 경로는 이용 중인 교통카드의 유형과 기기에 따라 다를 수 있습니다. 티머니가 2026년 4월 7일 게시한 안내는 **LG유플러스 USIM 교체와 관련된 Android 모바일티머니**를 대상으로 하며, iPhone 이용자에게는 해당하지 않는다고 명시합니다. 아래 단계는 그 공식 FAQ에서 안내하는 선불충전형 경로입니다. 실제 신청 전 앱에 표시되는 조건과 수수료를 확인하세요. [S1]\n\n### Android 선불충전형 잔액 환불\n1. 모바일티머니 앱을 열고 왼쪽 위 **전체메뉴(≡)**를 선택합니다.\n2. **교통카드 → 환불신청**으로 이동합니다.\n3. 등록된 계좌를 선택합니다. 등록된 계좌가 없다면 환불 계좌 입력 항목을 선택해 안내에 맞춰 입력합니다.\n4. 화면 아래 유의사항을 읽고 확인란을 체크한 뒤 **환불하기**를 선택합니다. 신청 전 환불액과 계좌 정보를 다시 확인하세요. [S1]\n\n이 조사는 앱 설치나 개인 계좌 입력을 하지 않았습니다. 실제 앱의 현재 표시와 환불 가능 여부, 금액, 수수료 및 입금 일정은 신청 화면이나 고객센터에서 확인해야 합니다. 공식 FAQ에 없는 수치나 편의점 환불 조건을 모바일 선불 잔액에 임의로 적용하지 않습니다. [S1]\n\n### 후불청구형이라면\n후불청구형은 충전 잔액을 돌려받는 절차와 구분합니다. 해당 FAQ는 USIM 교체 전에 **전체메뉴 → 교통카드 → 충전형 서비스 전환 → 전환신청 → 확인** 순서로 후불형 서비스를 해지하라고 안내합니다. 후불형 가입 시 최초 승인 금액은 4~5영업일 이내 자동 취소되며 카드사별 시간이 다를 수 있습니다. 해지 없이 USIM을 교체한 경우에는 티머니 고객센터 1644-0088로 문의하도록 안내합니다. [S1]\n\n### USIM을 교체하기 전\nFAQ에 따르면 해당 모바일티머니 선불 잔액은 USIM에 저장됩니다. 환불에 충전한 이전 USIM 실물이 필요하므로 교체 전에 잔액과 신청 상태를 확인하고 기존 USIM을 보관하세요. 같은 FAQ는 모바일기후동행카드·페이머니·페이교통카드는 USIM 교체 전 환불 신청이 필요하지 않다고 별도로 설명합니다. 티머니 갤럭시워치는 워치 단말기에 잔액이 충전된다고 안내합니다. 적용 범위는 해당 공식 공지에서 다시 확인하세요. [S1]\n\n문제가 생기면 어떤 기기와 카드 유형을 사용했는지, USIM을 보유하고 있는지 정리해 고객센터에 문의하세요. 아래 이미지는 실제 앱 조작 화면이 아니라 공개된 공식 FAQ의 각 설명 부분입니다. [S1]",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "티머니, LG유플러스 USIM 교체 관련 모바일티머니(Android) FAQ",
+      "url": "https://www.tmoney.co.kr/aeb/cmnctn/notice/readNoticeView.dev?bdSeqNo=3852",
+      "official": true,
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "images": [
+    {
+      "role": "search",
+      "file": "raw/01_search.png",
+      "publish": "publish/01_01_search.png",
+      "sourceId": "S1",
+      "caption": "티머니 공식 FAQ 검색 결과",
+      "alt": "티머니 공식 FAQ 검색 결과",
+      "boxes": [
+        [
+          104,
+          363,
+          541,
+          45
+        ]
+      ],
+      "crop": [
+        80,
+        330,
+        780,
+        510
+      ],
+      "markedBox": [
+        100,
+        350,
+        640,
+        442
+      ],
+      "screenUrl": "https://www.google.com/search?q=%EB%AA%A8%EB%B0%94%EC%9D%BC%20%ED%8B%B0%EB%A8%B8%EB%8B%88%20%ED%99%98%EB%B6%88",
+      "query": "모바일 티머니 환불"
+    },
+    {
+      "role": "guide",
+      "file": "raw/02_refund.png",
+      "publish": "publish/02_02_refund.png",
+      "sourceId": "S1",
+      "caption": "Android 선불충전형 환불 신청 경로",
+      "alt": "Android 선불충전형 환불 신청 경로",
+      "boxes": [
+        [
+          0,
+          439,
+          947,
+          22
+        ]
+      ],
+      "crop": [
+        0,
+        240,
+        1010,
+        530
+      ],
+      "markedBox": [
+        0,
+        425,
+        960,
+        470
+      ],
+      "screenUrl": "https://www.tmoney.co.kr/aeb/cmnctn/notice/readNoticeView.dev?bdSeqNo=3852"
+    },
+    {
+      "role": "guide",
+      "file": "raw/03_postpaid.png",
+      "publish": "publish/03_03_postpaid.png",
+      "sourceId": "S1",
+      "caption": "후불청구형 해지 안내",
+      "alt": "후불청구형 해지 안내",
+      "boxes": [
+        [
+          0,
+          389,
+          169,
+          22
+        ]
+      ],
+      "crop": [
+        0,
+        265,
+        1010,
+        555
+      ],
+      "markedBox": [
+        0,
+        382,
+        725,
+        470
+      ],
+      "screenUrl": "https://www.tmoney.co.kr/aeb/cmnctn/notice/readNoticeView.dev?bdSeqNo=3852"
+    },
+    {
+      "role": "guide",
+      "file": "raw/04_usim.png",
+      "publish": "publish/04_04_usim.png",
+      "sourceId": "S1",
+      "caption": "기존 USIM 보관과 환불 조건",
+      "alt": "기존 USIM 보관과 환불 조건",
+      "boxes": [
+        [
+          0,
+          439,
+          671,
+          22
+        ]
+      ],
+      "crop": [
+        0,
+        365,
+        900,
+        530
+      ],
+      "markedBox": [
+        0,
+        427,
+        690,
+        475
+      ],
+      "screenUrl": "https://www.tmoney.co.kr/aeb/cmnctn/notice/readNoticeView.dev?bdSeqNo=3852"
+    }
+  ],
+  "limits": {
+    "bodyMin": 3500,
+    "bodyMax": 5500,
+    "guideMax": 8,
+    "referenceMax": 3,
+    "rawMax": 12
+  },
+  "exceptionReason": "공식 검색 1장과 서로 다른 안내·조건 화면 3장으로 핵심 내용을 설명. 앱이나 인증 후 화면은 공개 공식 안내 또는 인증 전 화면으로 대체.",
+  "visualReviewed": false
+}

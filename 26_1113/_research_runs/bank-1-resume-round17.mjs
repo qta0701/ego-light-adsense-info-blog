@@ -1,0 +1,1 @@
+const t=await taskSpace(13),p=t.page('p1');await p.goto('https://www.google.com/search?q='+encodeURIComponent('국민은행 통장사본 PC 출력 뱅킹관리 인쇄 방법'));console.log(JSON.stringify(await p.evaluate(()=>({text:document.body.innerText.slice(0,6000),results:[...document.querySelectorAll('a')].filter(a=>a.querySelector('h3')).slice(0,8).map(a=>a.innerText)}))));

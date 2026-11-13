@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-13",
+  "result": "complete_by_alternative_agent_review",
+  "automaticValidation": "not passed; legacy quantity rules",
+  "automaticErrors": [
+    "본문 1681자: 3500~5500자 필요(출처/이미지 목록 제외)"
+  ],
+  "reason": "공식 지점 수령 경로와 조건, 비로그인 약관 경계, 수령 및 재환전 예외를 수록했다. 약관 동의 이후는 확인하지 않았음을 밝혔다.",
+  "rawCount": 8,
+  "publishImageCount": 7,
+  "markedImageCount": 7,
+  "visualReview": "모든 발행 이미지 접촉 시트와 주요 원본 크기 이미지를 확인. 표시 대상, 좌표, 화면 출처와 텍스트 가독성 점검. Google 화면은 결과 영역을 잘라 개인 프로필 노출 제거. 실제 로그인 QR이나 계좌 개인정보 없음.",
+  "files": [
+    {
+      "file": "publish/01_search.png",
+      "sha256": "21f56eb3ed6ea794f6225ffc7fca4ccc367c718452af16efa1cafd76388e2a01",
+      "pixels": [
+        1000,
+        160
+      ]
+    },
+    {
+      "file": "publish/02_guide.png",
+      "sha256": "d9d8dc9218a6a7dc1d6ec0b4d53cf7b3f28e3e43207605b0e606f632d986d8a6",
+      "pixels": [
+        1440,
+        900
+      ]
+    },
+    {
+      "file": "publish/03_guide.png",
+      "sha256": "1b9e563958f68bde06ff60f982e78674ed8c92268c51bda4dfad3102d1bed5aa",
+      "pixels": [
+        1440,
+        900
+      ]
+    },
+    {
+      "file": "publish/04_guide.png",
+      "sha256": "87b577f1f3c871c3c9714f1b6c19bf25e1d19aaf69c7e0129acbe7ae89d71d1d",
+      "pixels": [
+        1440,
+        900
+      ]
+    },
+    {
+      "file": "publish/05_guide.png",
+      "sha256": "a0d9a81cb1bded940ef5fd25dd62f70969d78d377ca0dd121394557494744ecb",
+      "pixels": [
+        1200,
+        900
+      ]
+    },
+    {
+      "file": "publish/06_guide.png",
+      "sha256": "e70226336d5cb73476b48ca66a91d733f90fc6ddc8d6365590df43b6b7c7b442",
+      "pixels": [
+        1200,
+        900
+      ]
+    },
+    {
+      "file": "publish/07_guide.png",
+      "sha256": "8e960a1f2ba2e5c88df505df3ca3cc983fc102c34dfdd0b55e24afd0071f7bbf",
+      "pixels": [
+        1200,
+        900
+      ]
+    },
+    {
+      "file": "publish/은행_재테크_국민은행 환전신청_웹조사결과.md",
+      "sha256": "a27c47686f4b8c30d7bf35855f8c19022fa6116aa027765ab7c78442660195e9"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "tab": "노하우",
+  "row": 34,
+  "keyword": "앱스토어 국가변경",
+  "account": "qta14",
+  "spaceId": 58,
+  "stage": "published_verified",
+  "promotionUrl": "https://how.supportimes.com/2026/11/change-app-store-country.html",
+  "source": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/노하우_앱스토어 국가변경_네이버블로그.md",
+  "sourceSha256": "29a3705a28ec807d9500e96a7fd8f63611278dee04667e68fa96edde1dcd11c7",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/01_01_search.png",
+      "caption": "1.Apple 지원의 계정 국가 변경 안내",
+      "sha256": "e11e997406393b162993f4deadb1eb8a7650695052c873d76c1df1fae00821ac"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/02_02_conditions.png",
+      "caption": "2.국가 변경 전 잔액과 구독 확인하기",
+      "sha256": "8c7e31e620a181a844f3e8e290c610578f997bb11ac3e70f42abada3729c24ec"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/03_03_iphone.png",
+      "caption": "3.아이폰 설정에서 국가 또는 지역 선택하기",
+      "sha256": "0e7cc40cd2a77846fdb8cb5107405eb83c546e903aa1f90d98014ca31769e383"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/04_04_payment.png",
+      "caption": "4.새 지역 선택 후 약관과 결제 정보 확인하기",
+      "sha256": "407d363994de51909474188a85e1f470225919dc521c4ae57f6c0b95a3c77d6b"
+    },
+    {
+      "marker": "NAVERIMG5",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/05_web_marked.png",
+      "caption": "5.Apple 계정 웹에서 국가 또는 지역 변경하기",
+      "sha256": "cbea3ef49710317fce8da266a20b2b5e0cd6bc74db809932f2dd280de8ee0f67"
+    }
+  ],
+  "completed": [
+    "body",
+    "NAVEROG1",
+    "NAVERIMG1",
+    "NAVERIMG2",
+    "NAVEROG2",
+    "NAVERIMG3",
+    "NAVERIMG4",
+    "NAVERIMG5"
+  ],
+  "plannedPublicationTime": "current",
+  "updatedAt": "2026-11-13T09:20:41.415Z",
+  "category": "앱,PC프로그램",
+  "representative": {
+    "index": 3,
+    "file": "03_03_iphone.png",
+    "reason": "국가 또는 지역 변경 경로를 보여주는 제목과 안내가 썸네일에서도 구분됨",
+    "verifiedInEditor": true
+  },
+  "audit": "tmp/naver-20261113/knowhow-34-audit.json",
+  "submissionStartedAt": "2026-11-13T09:22:35.282Z",
+  "publicUrl": "https://blog.naver.com/qta14/224475977940",
+  "publicationTimeObserved": "2026-11-13T09:23:28.656Z",
+  "publicationTimeSource": "observed_completion",
+  "publicAudit": "tmp/naver-20261113/knowhow-34-public-audit.json",
+  "correction": "첫 이미지 다음 중복 캡션 본문 제거 후 동일 글 업데이트 확인",
+  "publicVerificationAt": "2026-11-13T09:25:28.179Z",
+  "sheetStatus": "verified",
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "ledgerRow": 227,
+  "spaceStatus": "finished",
+  "claimStatus": "released"
+}

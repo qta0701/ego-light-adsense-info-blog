@@ -1,0 +1,50 @@
+{
+  "type": "published",
+  "verified": true,
+  "order": 1,
+  "tab": "이슈",
+  "row": 30,
+  "keyword": "앱스토어 로그아웃",
+  "spaceId": 35,
+  "blogId": "694192108971227039",
+  "postId": "4970818560955615714",
+  "url": "https://io.supportimes.com/2026/11/blog-post.html",
+  "publishedAt": "2026-11-13T14:40:00+09:00",
+  "verifiedAt": "2026-11-13T05:41:46.745Z",
+  "originalImageCount": 3,
+  "uploadedImageCount": 3,
+  "replacementImageCount": 0,
+  "excludedImageCount": 0,
+  "images": [
+    {
+      "id": "IMG_01",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnz0NIIw_kAIeHjufkeinE9U3eBKGT9OL8ojaSnonrJ3pTX0NJYRh4EO5yysQ1dyrzCzZ8gmLR6vELdTjcgj9aMjEt6-YNqrM12gyq98CSfO4ka_bv-9D6kHgSdgy1FJm2ZgI-UvNd17Jx3PW0-EtXTa5IDsnchyphenhyphenvPhI4MT8f3EqadcEaEKhzbrezUYgtt/s1600/02_guide.png",
+      "alt": "Apple 지원 문서의 iPhone과 iPad 로그아웃 안내 중 미디어 및 구입 항목 강조",
+      "complete": true,
+      "width": 955,
+      "caption": "Apple 지원 문서 발췌: 미디어 및 구입 항목 선택과 로그아웃 순서 (2026-11-13 확인)"
+    },
+    {
+      "id": "IMG_02",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivSQ1Y7jhASSzAw7e6ksk-QYECj5pjzgmnR8fa2jHNV90bn0Qp8L9vlDB6jxzQnJKsstgkIB0QLOAxvroprZ2_Xfe5yQdbB7O6JagPtXu5gjX4w0dAsRQMc7tynrRL4nLls5uA0RXBmuiDQxtP7dq2ZluTiWWFSxedQ0lZBRiJFf-oMcURwSuGxVQlFD8i/s1600/04_guide.png",
+      "alt": "Apple 지원 문서의 Mac 스토어 메뉴 로그아웃 경로 강조",
+      "complete": true,
+      "width": 955,
+      "caption": "Apple 지원 문서 발췌: Mac App Store의 스토어 메뉴 (2026-11-13 확인)"
+    },
+    {
+      "id": "IMG_03",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuP3koc18jMvAugytjZz9v5l_o0loJ-eqjJrtZafnZcsjgRBDQb-LnnE-wl76CHyZH7VfsoRnbtM0auB095g1mApEtB_Qzx7vejOvQNSSfXa0Owmaq85CdmBwj-GOP6EyOEUSseXd4EPGVVSujFz7vOwTZa42pQlalxuk1SYIrcGugE89J2VZjojJ4cgUj/s1600/05_family_marked.png",
+      "alt": "Apple 지원 문서의 가족 공유 계정과 구입 항목 공유 설정 안내 강조",
+      "complete": true,
+      "width": 870,
+      "caption": "Apple 지원 문서 발췌: 가족 공유 계정과 구입 항목 공유 설정 (2026-11-13 확인)"
+    }
+  ],
+  "title": "앱스토어 로그아웃 방법: 아이폰·아이패드와 맥에서 계정 바꾸기",
+  "canonical": "https://io.supportimes.com/2026/11/blog-post.html",
+  "description": [
+    "앱스토어 로그아웃을 위한 아이폰·아이패드 설정 경로와 맥 메뉴, 가족 공유 계정 확인 사항을 정리했습니다."
+  ],
+  "evidence": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\_blogger_runs\\20261113-blogger-1419\\public-1.json"
+}

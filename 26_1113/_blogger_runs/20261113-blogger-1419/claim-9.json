@@ -1,0 +1,16 @@
+{
+  "token": "4519027f629d475fb5a3937b35b8fe6c",
+  "job": {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "tab": "노하우2",
+    "row": 36,
+    "folder": "26_1113/노하우2_배민클럽 환불",
+    "stage": "B",
+    "owner": "20261113-blogger-1419"
+  },
+  "createdAt": "2026-11-13T14:20:43.441099+09:00",
+  "locks": [
+    ".session/blogger-workflow/locks/6aea0bd29b675c1d8b5a5cc486f239555d563a3bac2bceb5a30cfa056262da6a.json",
+    ".session/blogger-workflow/locks/797d960cbcb9359d3a95cb6c8d0460dbfbf000d337f431f95c0b807780828baf.json"
+  ]
+}

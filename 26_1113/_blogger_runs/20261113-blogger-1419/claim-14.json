@@ -1,0 +1,16 @@
+{
+  "token": "6f6ec128235b45f684e4e0c46bbb5e5e",
+  "job": {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "tab": "은행_재테크",
+    "row": 18,
+    "folder": "26_1113/은행_재테크_신한은행 환전 방법",
+    "stage": "B",
+    "owner": "20261113-blogger-1419"
+  },
+  "createdAt": "2026-11-13T14:20:44.725314+09:00",
+  "locks": [
+    ".session/blogger-workflow/locks/8826aba2380bf6c0381bc6bbfdfed7c5272785961c287334c174f0ad2d95c832.json",
+    ".session/blogger-workflow/locks/1ea44218a3aac786888cd697997bb5784edb79372dd694530e55f0c387c76233.json"
+  ]
+}

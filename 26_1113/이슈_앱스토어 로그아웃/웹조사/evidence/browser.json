@@ -1,0 +1,30 @@
+{
+  "spaceId": 2,
+  "page": "p1",
+  "status": "finished",
+  "finishMethod": "task.finish({keep:[]})",
+  "tabsBeforeFinish": [
+    {
+      "label": "p1",
+      "title": "가족의 공유 앱 및 콘텐츠를 찾을 수 없는 경우 - Apple 지원 (KR)",
+      "url": "https://support.apple.com/ko-kr/108911",
+      "openedBy": "agent"
+    },
+    {
+      "label": "p2",
+      "title": "OneTab",
+      "url": "chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/onetab.html",
+      "openedBy": "agent"
+    }
+  ],
+  "finishResult": {
+    "spaceId": 2,
+    "closedSpace": true,
+    "keptManagedLabels": [],
+    "closedManagedLabels": [
+      "p1",
+      "p2"
+    ],
+    "preservedUnmanagedCount": 0
+  }
+}

@@ -1,2 +1,0 @@
-const jobs=[{id:1,q:'넷플릭스 한국 인기 영화 순위 확인 방법'},{id:2,q:'넷플릭스 오리지널 역대 영화 순위'}];
-console.log(JSON.stringify(await Promise.all(jobs.map(async j=>{const t=await taskSpace(j.id),p=t.page('p1');await p.goto('https://www.google.com/search?q='+encodeURIComponent(j.q));return {id:j.id,url:await p.url(),links:await p.evaluate(()=>[...document.querySelectorAll('a')].filter(a=>a.querySelector('h3')).slice(0,10).map(a=>({text:a.innerText,href:a.href})))};}))));

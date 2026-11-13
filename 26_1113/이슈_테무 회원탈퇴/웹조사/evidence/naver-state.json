@@ -1,0 +1,134 @@
+{
+  "tab": "이슈",
+  "row": 32,
+  "keyword": "테무 회원탈퇴",
+  "folder": "26_1113/이슈_테무 회원탈퇴",
+  "promotionUrl": "https://io.supportimes.com/2026/11/blog-post_916.html",
+  "profileName": "순분",
+  "account": "supportimes001",
+  "ledgerColumn": "K",
+  "indexOnProfile": 0,
+  "publishMode": "published",
+  "slotMode": "current",
+  "plannedPublicationTime": "2026-11-13T18:09:22+09:00",
+  "planningAnchor": "2026-11-13T09:00:00+09:00",
+  "slotIsConfirmed": true,
+  "spaceId": 61,
+  "profileId": "Profile 2",
+  "stage": "published_verified",
+  "owner": "issue-30-32-01a1d42b",
+  "updatedAt": "2026-11-13T09:25:02.585Z",
+  "title": "테무 회원탈퇴 방법: 앱과 웹 계정 삭제 및 취소 안내",
+  "after": {
+    "title": "테무 회원탈퇴 방법: 앱과 웹 계정 삭제 및 취소 안내",
+    "componentCount": 16,
+    "markers": [
+      "NAVEROG1",
+      "NAVERIMG1",
+      "NAVEROG2",
+      "NAVERIMG2",
+      "NAVERIMG3",
+      "NAVERIMG4"
+    ],
+    "tables": 8
+  },
+  "checkpoint": {
+    "images": [
+      {
+        "loaded": true,
+        "caption": "1.Temu 공식 고객센터의 계정 삭제 안내"
+      },
+      {
+        "loaded": true,
+        "caption": "2.Temu 앱의 설정과 계정 보안 경로"
+      },
+      {
+        "loaded": true,
+        "caption": "3.Temu 웹사이트의 계정 보안 경로"
+      },
+      {
+        "loaded": true,
+        "caption": "4.Temu 계정 삭제 처리와 취소 안내"
+      }
+    ],
+    "markers": []
+  },
+  "category": "앱,PC프로그램",
+  "representative": {
+    "index": 1,
+    "file": "01_search.png",
+    "reason": "공식 도움말의 계정 삭제 제목이 작은 화면에서도 읽히는 핵심 장면",
+    "verifiedSelected": true
+  },
+  "auditFile": "tmp/naver-20261113/audit-editor-32.json",
+  "identityVerified": "supportimes001",
+  "searchEvidence": "tmp/naver-20261113/search-32.txt",
+  "submitStartedAt": "2026-11-13T09:23:58.957Z",
+  "submissionSettings": {
+    "title": "테무 회원탈퇴 방법: 앱과 웹 계정 삭제 및 취소 안내",
+    "public": true,
+    "now": true,
+    "category": "앱,PC프로그램",
+    "rep": [
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "publicUrl": "https://blog.naver.com/supportimes001/224475979445",
+  "publicationObservedAt": "2026-11-13T09:25:02.585Z",
+  "publicationTimeSource": "observed_completion",
+  "publicAudit": "tmp/naver-20261113/audit-public-32.json",
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "sheetStatus": "verified",
+  "ledgerRow": 226,
+  "publicationObservedAtKst": "2026-11-13T18:25:02.585000+09:00",
+  "source": "26_1113/이슈_테무 회원탈퇴/웹조사/publish/이슈_테무 회원탈퇴_네이버블로그.md",
+  "sourceSha256": "7dab70e4949fcb9ad139be218c47874b7419eeb8ebc3d9da0934370082d95969",
+  "titleFile": "26_1113/이슈_테무 회원탈퇴/웹조사/publish/이슈_테무 회원탈퇴_네이버블로그_제목 및 이미지 배치.txt",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1113/이슈_테무 회원탈퇴/웹조사/publish/01_search.png",
+      "caption": "1.Temu 공식 고객센터의 계정 삭제 안내",
+      "sha256": "acf66e4386fb95320bbb6482470547d9a80cd026c37a00c3587f967c986b109e"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1113/이슈_테무 회원탈퇴/웹조사/publish/02_guide.png",
+      "caption": "2.Temu 앱의 설정과 계정 보안 경로",
+      "sha256": "dd3e12535a25ef5485b05f76a4a86d43734851aa47c62fbd089f7e077987f849"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1113/이슈_테무 회원탈퇴/웹조사/publish/03_guide.png",
+      "caption": "3.Temu 웹사이트의 계정 보안 경로",
+      "sha256": "d95b4d26f55aa30f943cef9a628f8df04930e1b00b1820bd5aded19ac46fe168"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1113/이슈_테무 회원탈퇴/웹조사/publish/04_guide.png",
+      "caption": "4.Temu 계정 삭제 처리와 취소 안내",
+      "sha256": "3670e51dd0136ad27bb5bd4c132b84d1a32e5294ed1009eb85f2187fe6f858d1"
+    }
+  ],
+  "urlSource": "콘텐츠표 H 및 원고 CTA 일치",
+  "publicRepresentativeVerified": true,
+  "review": {
+    "identity": true,
+    "duplicateSearch": true,
+    "imageContentAndPrivacy": true,
+    "numberedCaptions": true,
+    "ctaStyle": true,
+    "cardsAndUrls": true,
+    "normalWeight": true,
+    "markersAbsent": true
+  },
+  "scheduleNote": "계획의 즉시 발행은 18:09:22 예상이었고 실제 공개 확인은 더 늦었음. 같은 계정의 이미 제출된 다른 글은 변경하지 않음.",
+  "spaceFinished": true,
+  "claimReleased": true,
+  "spaceStatus": "finished",
+  "claimStatus": "released"
+}

@@ -1,1 +1,0 @@
-for(const id of [7,8]){const task=await taskSpace(id);const page=task.page('p1');await page.click('loc=role:button[name="게시"]');console.log(JSON.stringify({spaceId:id,snapshot:(await page.snapshot()).slice(-1200)}));}

@@ -1,0 +1,40 @@
+{
+  "url": "https://www.temu.com/kr/support/c3/support-f-54-s-124.html",
+  "title": "Temu Republic of Korea - Support Center & FAQ",
+  "width": 1280,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 32,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1280,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 0,
+    "height": 0
+  },
+  "targets": [],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "boxes": [],
+  "pixelSize": {
+    "width": 1280,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T05:04:47.081Z"
+}

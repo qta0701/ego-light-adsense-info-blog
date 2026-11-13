@@ -1,0 +1,50 @@
+{
+  "url": "https://www.korail.com/ticket/login?hiddenTabNms=nonMember&redirectUrl=/ticket/myticket/list",
+  "title": "로그인>코레일 승차권예매",
+  "text": "본문 바로가기\n주메뉴 바로가기\n한국철도\n승차권예매\n기차여행\n로그인\n장바구니\n마이페이지\n고객센터\n기업전용\nLanguage\n팝업열기\n승차권\n철도역·열차\n고객서비스\n철도회원\n전체 메뉴 열기\n로그인\n홈\n로그인\n인쇄\n회원번호\n이메일 주소\n휴대폰 번호\n\n철도회원\n회원번호로 로그인하세요.\n\n마우스로 입력\n회원번호 저장\n로그인 5회 실패 시 로그인할 수 없습니다.\n로그인\n회원번호 찾기\n비밀번호 찾기\n회원가입\n카카오 로그인\n애플 로그인\n이용약관\n여객운송약관 및 부속약관\n개인정보처리방침\n이메일무단수집거부\n저작권정책\n지원 브라우저 안내\n\n\n상호 : 한국철도공사사업자등록 : 314-82-10024통신판매업신고 : 대전 동구 - 0233호\n34618 대전광역시 동구 중앙로 240대표전화 : 1588-7788팩스번호 02-361-8385\n\nCOPYRIGHT(C) KOREA RAILROAD. ALL RIGHTS RESERVED.\n\n관련 사이트\n안내 메시지\n로그인 후 사용 가능합니다.\n확인",
+  "links": [
+    {
+      "title": "본문 바로가기",
+      "url": "https://www.korail.com/ticket/login?hiddenTabNms=nonMember&redirectUrl=/ticket/myticket/list#container"
+    },
+    {
+      "title": "주메뉴 바로가기",
+      "url": "https://www.korail.com/ticket/login?hiddenTabNms=nonMember&redirectUrl=/ticket/myticket/list#header"
+    },
+    {
+      "title": "한국철도",
+      "url": "https://info.korail.com/info/index.do"
+    },
+    {
+      "title": "승차권예매",
+      "url": "https://www.korail.com/ticket/main"
+    },
+    {
+      "title": "기차여행",
+      "url": "https://www.korail.com/tour/main"
+    },
+    {
+      "title": "로그인",
+      "url": "https://www.korail.com/ticket/login?hiddenTabNms=nonMember&redirectUrl=/ticket/myticket/list"
+    },
+    {
+      "title": "장바구니",
+      "url": "https://www.korail.com/ticket/mypage/cart"
+    },
+    {
+      "title": "마이페이지",
+      "url": "https://www.korail.com/ticket/mypage/mykorail"
+    },
+    {
+      "title": "고객센터",
+      "url": "https://www.korail.com/ticket/guest/csc"
+    },
+    {
+      "title": "기업전용",
+      "url": "https://www.korail.com/biz/main"
+    }
+  ],
+  "selector": "body",
+  "sha256": "bfebff13ea7a4fc221e4579aee20590443ae8273a29e58c4ecce2298606393d1",
+  "checkedAt": "2026-11-13T04:00:44.379Z"
+}

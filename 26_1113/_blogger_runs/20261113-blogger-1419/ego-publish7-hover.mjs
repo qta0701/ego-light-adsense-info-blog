@@ -1,0 +1,2 @@
+const task=await taskSpace(34),page=task.page('p1');await page.hover('a[href*="/blog/post/edit/3087664879020853782/7209337448122097859"]');
+console.log(JSON.stringify(await page.evaluate(()=>{const a=document.querySelector('a[href*="/blog/post/edit/3087664879020853782/7209337448122097859"]');const li=a?.closest('[role=listitem],li');return {text:li?.innerText,html:li?.outerHTML.slice(0,10000),links:li?[...li.querySelectorAll('a')].map(a=>({href:a.href,label:a.getAttribute('aria-label'),title:a.title})):[]}})));

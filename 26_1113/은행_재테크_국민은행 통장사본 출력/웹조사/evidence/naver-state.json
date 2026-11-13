@@ -1,0 +1,95 @@
+{
+  "tab": "은행_재테크",
+  "row": 16,
+  "keyword": "국민은행 통장사본 출력",
+  "folder": "26_1113/은행_재테크_국민은행 통장사본 출력",
+  "promotionUrl": "https://bank.supportimes.com/2026/11/pc-stm.html",
+  "profileName": "상민-투넘버",
+  "account": "qta14",
+  "ledgerColumn": "J",
+  "indexOnProfile": 2,
+  "publishMode": "pending_timeline_check",
+  "platform": "naver",
+  "status": "scheduled",
+  "verified": true,
+  "spaceId": 62,
+  "profileId": "Profile 3",
+  "postId": "224475979990",
+  "title": "국민은행 통장사본 출력: PC 메뉴와 제출 전 확인사항",
+  "identityVerified": "qta14",
+  "publicationTime": "2026-11-13T22:10:00+09:00",
+  "publicationTimeSource": "confirmed_reservation_list",
+  "slotIsConfirmed": true,
+  "reservationEvidence": "예약 발행 글 목록에서 해당 제목과 2026.11.13 22:10 확인",
+  "submittedOnce": true,
+  "publicUrl": null,
+  "publicAudit": "예약 글은 아직 공개되지 않아 공개 검수 미실시",
+  "source": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/은행_재테크_국민은행 통장사본 출력_네이버블로그.md",
+  "sourceSha256": "589b0cfa061e6fbbf198ef9ed06be95be9a927e4e5c54ea6e6d93676ca36ea86",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/01_search.png",
+      "caption": "1.국민은행 공식 통장사본 페이지 찾기",
+      "sha256": "67f1bfaaf8dd2a32972490382c8b563b9a64692db132a47adb189e2842137c14"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/02_guide.png",
+      "caption": "2.뱅킹관리 제증명발급의 통장사본 메뉴",
+      "sha256": "1e19df178ea2065b3ea109158aa7411090faf41a5b17cff42bb820051b9ea243"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/03_guide.png",
+      "caption": "3.국민은행 개인뱅킹 로그인 방식 선택",
+      "sha256": "2200ff14cb1a94d3895dbe5dc9796fbdabd85600419e512b82fe2d4d012ec723"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/04_guide.png",
+      "caption": "4.국민은행 STM의 통장 사본 출력 안내",
+      "sha256": "f21e32a0fd80c0d04c3d59d55d6ae29ce7486bebc1d2ad81670ddfc10f69cdd8"
+    }
+  ],
+  "links": [
+    {
+      "marker": "NAVEROG1",
+      "url": "https://bank.supportimes.com/2026/11/pc-stm.html"
+    },
+    {
+      "marker": "NAVEROG2",
+      "url": "https://bank.supportimes.com/2026/11/pc-stm.html"
+    }
+  ],
+  "category": "은행,재테크",
+  "representative": {
+    "index": 2,
+    "file": "26_1113/은행_재테크_국민은행 통장사본 출력/웹조사/publish/02_guide.png",
+    "verifiedSelected": true,
+    "scope": "reopened_saved_reservation"
+  },
+  "styleAudit": {
+    "scope": "reopened_saved_reservation",
+    "normalParagraphs": 36,
+    "boldFailures": 0,
+    "ctaVerified": 2,
+    "images": 4,
+    "og": 2,
+    "tables": 8,
+    "rawUrls": 0,
+    "markers": 0,
+    "passed": true
+  },
+  "styleAuditFile": "tmp/naver-20261113/bank-saved-audit-16.json",
+  "claimReceipt": "tmp/naver-20261113/bank-claim-16.json",
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "sheetProgress": "조정자가 기록 및 재조회 예정",
+  "spaceStatus": "finished",
+  "recordedAt": "2026-11-13T18:27:34.514613+09:00",
+  "finishCalls": 1,
+  "claimStatus": "released",
+  "sheetStatus": "verified",
+  "ledgerRow": 230
+}

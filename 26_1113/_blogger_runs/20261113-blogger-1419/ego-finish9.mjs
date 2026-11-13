@@ -1,0 +1,1 @@
+const fs=await import('node:fs/promises');const task=await taskSpace(39);await task.finish({keep:[]});const data={order:9,spaceId:39,finishedAt:new Date().toISOString()};await fs.writeFile('Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/_blogger_runs/20261113-blogger-1419/space-finished-9.json',JSON.stringify(data,null,2),'utf8');console.log(JSON.stringify(data));

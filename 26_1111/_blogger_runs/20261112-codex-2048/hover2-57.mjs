@@ -1,1 +1,0 @@
-const p=(await taskSpace(27)).page('p1');await p.hover('loc=href:/blog/post/edit/7162964317827704236/5702284435751296131');console.log((await p.snapshot()).split('\n').filter(x=>/보기|애플 환불 요청 방법과 처리 기간|5702284435751296131/.test(x)).slice(0,12).join('\n'));

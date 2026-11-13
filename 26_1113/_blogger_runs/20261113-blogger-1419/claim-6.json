@@ -1,0 +1,16 @@
+{
+  "token": "1167efe78e1d4a8a96c5384b514eaa5e",
+  "job": {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "tab": "노하우",
+    "row": 36,
+    "folder": "26_1113/노하우_모바일 티머니 환불",
+    "stage": "B",
+    "owner": "20261113-blogger-1419"
+  },
+  "createdAt": "2026-11-13T14:20:42.665426+09:00",
+  "locks": [
+    ".session/blogger-workflow/locks/f2e713bf5e507c46e5a4e61fc448a8672be138064cd91cd615b9e48cb02672cc.json",
+    ".session/blogger-workflow/locks/ee5c962e4bcbd84949f685c9e10a6abf12732dcd292015bc0a62090ee884e617.json"
+  ]
+}

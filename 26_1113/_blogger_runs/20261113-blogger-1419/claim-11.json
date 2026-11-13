@@ -1,0 +1,16 @@
+{
+  "token": "67abee89e7cc413ca0f4ad8d3bb0c806",
+  "job": {
+    "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+    "tab": "은행_재테크",
+    "row": 15,
+    "folder": "26_1113/은행_재테크_국민은행 환전신청",
+    "stage": "B",
+    "owner": "20261113-blogger-1419"
+  },
+  "createdAt": "2026-11-13T14:20:43.982089+09:00",
+  "locks": [
+    ".session/blogger-workflow/locks/8e73ec8a2c7ef70dc0b09b9de3600f3b2aaa347361ba36e77252ba9586916ccb.json",
+    ".session/blogger-workflow/locks/2eb3a8e8e525a808b0b2b45c4c143ee03510a84e1652c88c281f97b38a6e1901.json"
+  ]
+}

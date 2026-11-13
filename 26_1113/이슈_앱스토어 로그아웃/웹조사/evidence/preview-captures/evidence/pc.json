@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:18767/26_1113/%EC%9D%B4%EC%8A%88_%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%20%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83/%EC%9B%B9%EC%A1%B0%EC%82%AC/evidence/content-preview.html",
+  "title": "",
+  "width": 1280,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 290.3999938964844,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1264.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "boxes": [],
+  "pixelSize": {
+    "width": 1280,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001562362589829,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1279.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T05:07:04.981Z"
+}

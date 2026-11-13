@@ -1,0 +1,80 @@
+{
+  "tab": "노하우",
+  "row": 35,
+  "keyword": "코레일 승차권 조회",
+  "account": "almawade1",
+  "spaceId": 60,
+  "stage": "scheduled_confirmed",
+  "promotionUrl": "https://how.supportimes.com/2026/11/blog-post.html",
+  "source": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/노하우_코레일 승차권 조회_네이버블로그.md",
+  "sourceSha256": "44be8db77084f706b3bf9f74278560077e7c9159254e2ac2ff84c23e95599ee8",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/01_01_search.png",
+      "caption": "1.코레일 공식 승차권 확인 경로 찾기",
+      "sha256": "17f05066723244c4516af8096f2d0b19e937df78e659979fb28c8c988a13488b"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/08_main_entry_marked.png",
+      "caption": "2.코레일 홈페이지의 승차권 확인 메뉴",
+      "sha256": "1ab7ca4b1c065921d2df1e12c9adff4c5924fb5938619779a7ec084603993dc8"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/02_02_login.png",
+      "caption": "3.회원 승차권 확인을 위한 로그인 화면",
+      "sha256": "c89320359f34b3337e9c07f3e516fe984af2a4915e44a01c1f049f9bbb6aa437"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/03_06_method_clean.png",
+      "caption": "4.간편인증과 기존 비회원 확인 방식 선택",
+      "sha256": "132eff7284c043aef29d11dc8405e72c68c39f43f37f41d4caf1ff52d77a0744"
+    },
+    {
+      "marker": "NAVERIMG5",
+      "path": "26_1113/노하우_코레일 승차권 조회/웹조사/publish/04_07_form_clean.png",
+      "caption": "5.기존 비회원 승차권 확인 입력 항목",
+      "sha256": "65fde07bb780b917ef533e586864d0fea0fea508ed0da4aec789150ed72d3b1a"
+    }
+  ],
+  "completed": [
+    "body",
+    "NAVEROG1",
+    "NAVERIMG1",
+    "NAVERIMG2",
+    "NAVEROG2",
+    "NAVERIMG3",
+    "NAVERIMG4",
+    "NAVERIMG5"
+  ],
+  "plannedPublicationTime": "2026-11-13T20:10:00+09:00",
+  "updatedAt": "2026-11-13T09:28:52.918Z",
+  "representative": {
+    "index": 2,
+    "file": "08_main_entry_marked.png",
+    "reason": "승차권 확인 메뉴가 크게 표시되어 주제와 경로를 보여줌",
+    "verifiedInEditor": true,
+    "verifiedInSavedEditor": true
+  },
+  "category": "앱,PC프로그램",
+  "audit": "tmp/naver-20261113/knowhow-35-audit.json",
+  "submissionStartedAt": "2026-11-13T09:32:03.136Z",
+  "scheduledTime": "2026-11-13T20:10:00+09:00",
+  "title": "코레일 승차권 조회 방법: 회원·비회원 확인 경로",
+  "internalPostId": "224475988063",
+  "reservationEvidence": "해당 계정 글쓰기의 예약 발행 글 목록에서 제목과 2026.11.13 20:10 확인",
+  "reservationObservedAt": "2026-11-13T09:33:22.503Z",
+  "sheetStatus": "verified",
+  "publicVerification": "예약 글이므로 공개 검수 대기",
+  "savedFormatVerification": "예약 글을 다시 열어 제목, 이미지 다섯 장 실제 로드·번호 캡션, 대표 이미지, 표 8개, 카드 2개 썸네일과 인접성, CTA 색·크기·굵기, 일반 문장 보통체, 중복 캡션과 표식 잔존 없음 확인",
+  "savedAudit": "tmp/naver-20261113/knowhow-35-saved-audit.json",
+  "savedVerificationAt": "2026-11-13T09:34:57.580Z",
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "ledgerRow": 233,
+  "spaceStatus": "finished",
+  "claimStatus": "released"
+}

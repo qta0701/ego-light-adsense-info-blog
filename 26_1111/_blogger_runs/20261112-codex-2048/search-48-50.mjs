@@ -1,1 +1,0 @@
-for(const [row,id,q] of [[48,18,'바로구매'],[49,19,'안심결제'],[50,20,'반값택배']]){const t=await taskSpace(id),p=t.page('p1');await p.fill('loc=css:input[aria-label="검색"]',q);await p.press('loc=css:input[aria-label="검색"]','Enter');console.log('ROW',row,(await p.snapshot()).split('\n').filter(x=>/글 검색|전체\(|게시됨|임시|text "|post\/edit/.test(x)).slice(-100).join('\n'));}

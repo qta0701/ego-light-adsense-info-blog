@@ -1,0 +1,51 @@
+{
+  "order": 15,
+  "keyword": "하나은행 환율조회",
+  "checkedAt": "2026-11-13T05:24:45.431010+00:00",
+  "adoptedCount": 4,
+  "slots": [
+    {
+      "id": "IMG_01",
+      "raw": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\은행_재테크_하나은행 환율조회\\웹조사\\raw\\01_search.png",
+      "file": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\은행_재테크_하나은행 환율조회\\웹조사\\publish\\01_search.png",
+      "alt": "하나은행 환율조회 공식 검색 결과",
+      "caption": "검색 결과의 하나은행 공식 페이지, 2026년 11월 13일 PC 화면입니다.",
+      "source": "https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp",
+      "sha256": "04534ff181ae87e5021deb503cd5d851bdcad805e44c252365f8fd625696d02f",
+      "txtBlock": "삽입 ID: IMG_01 / 추천 업로드·노출 순서: 1 / 역할: search\n원래 파일번호·원본: 01 / 26_1113/은행_재테크_하나은행 환율조회/웹조사/raw/01_search.png\n업로드 파일: 26_1113/은행_재테크_하나은행 환율조회/웹조사/publish/01_search.png\n삽입 소제목: 1. 공식 현재환율 화면 열기 / id=s1\n직전: p01-before / 검색 결과에서 하나은행의 환율/외화예금 금리 공식 결과를 확인합니다.\n직후: p01-after / 공식 페이지에서 현재환율 탭을 확인합니다.\nHTML 위치: img-01 / IMAGE_SLOT:IMG_01 / {{BLOGGER_IMAGE_URL_IMG_01}}\nalt: 하나은행 환율조회 공식 검색 결과\n캡션: 검색 결과의 하나은행 공식 페이지, 2026년 11월 13일 PC 화면입니다.\n크기: 1280×360px / 가로 100% 이내, 비율 유지\n화면: PC 웹 / 출처: S1 하나은행 현재환율 / https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp / 확인일: 2026-11-13\n검색 화면 URL: https://www.google.com/search?q=하나은행%20환율조회 / 실제 연 공식 결과: https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp\n표식: 빨간 테두리와 화살표 / 편집: 계정·주소 가림 및 표식 / 채택: 해당 단계 설명"
+    },
+    {
+      "id": "IMG_02",
+      "raw": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\은행_재테크_하나은행 환율조회\\웹조사\\raw\\02_form.png",
+      "file": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\은행_재테크_하나은행 환율조회\\웹조사\\publish\\02_guide.png",
+      "alt": "하나은행 현재환율 통화 일자 고시회차 조회 화면",
+      "caption": "통화와 일자, 고시회차를 지정하는 PC 화면입니다.",
+      "source": "https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp",
+      "sha256": "a49fd005793980728ea275d48103771555b0c169fc956f859e959bb8f95421a8",
+      "txtBlock": "삽입 ID: IMG_02 / 추천 업로드·노출 순서: 2 / 역할: guide\n원래 파일번호·원본: 02 / 26_1113/은행_재테크_하나은행 환율조회/웹조사/raw/02_form.png\n업로드 파일: 26_1113/은행_재테크_하나은행 환율조회/웹조사/publish/02_guide.png\n삽입 소제목: 2. 통화와 날짜, 고시회차 선택 / id=s2\n직전: p02-before / 아래 화면에서 통화선택, 일자선택, 고시회차와 조회 위치를 확인할 수 있습니다.\n직후: p02-after / 조회 후에는 결과의 기준일과 고시일시부터 확인합니다.\nHTML 위치: img-02 / IMAGE_SLOT:IMG_02 / {{BLOGGER_IMAGE_URL_IMG_02}}\nalt: 하나은행 현재환율 통화 일자 고시회차 조회 화면\n캡션: 통화와 일자, 고시회차를 지정하는 PC 화면입니다.\n크기: 1280×975px / 가로 100% 이내, 비율 유지\n화면: PC 웹 / 출처: S1 하나은행 현재환율 / https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp / 확인일: 2026-11-13\n표식: 빨간 테두리와 화살표 / 편집: 표식 추가 / 채택: 해당 단계 설명"
+    },
+    {
+      "id": "IMG_03",
+      "raw": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\은행_재테크_하나은행 환율조회\\웹조사\\raw\\03_rates.png",
+      "file": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\은행_재테크_하나은행 환율조회\\웹조사\\publish\\03_guide.png",
+      "alt": "하나은행 환율표 고시일시와 현찰 송금 열",
+      "caption": "고시 정보와 거래 유형별 열을 구분한 PC 화면입니다.",
+      "source": "https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp",
+      "sha256": "34a17554eb3efc03be6930268ec6ca0870a2c47017fbf87cbe26ea086ee60adf",
+      "txtBlock": "삽입 ID: IMG_03 / 추천 업로드·노출 순서: 3 / 역할: guide\n원래 파일번호·원본: 03 / 26_1113/은행_재테크_하나은행 환율조회/웹조사/raw/03_rates.png\n업로드 파일: 26_1113/은행_재테크_하나은행 환율조회/웹조사/publish/03_guide.png\n삽입 소제목: 3. 현찰과 송금 환율 읽기 / id=s3\n직전: p03-before / 결과표 상단에는 고시 정보와 현찰·송금·매매기준율 열이 나란히 표시됩니다.\n직후: p03-after / 표의 숫자는 캡처 당시 예시이므로 현재 값은 공식 화면에서 다시 확인합니다.\nHTML 위치: img-03 / IMAGE_SLOT:IMG_03 / {{BLOGGER_IMAGE_URL_IMG_03}}\nalt: 하나은행 환율표 고시일시와 현찰 송금 열\n캡션: 고시 정보와 거래 유형별 열을 구분한 PC 화면입니다.\n크기: 1280×975px / 가로 100% 이내, 비율 유지\n화면: PC 웹 / 출처: S1 하나은행 현재환율 / https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp / 확인일: 2026-11-13\n표식: 빨간 테두리와 화살표 / 편집: 표식 추가 / 채택: 해당 단계 설명"
+    },
+    {
+      "id": "IMG_04",
+      "raw": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\은행_재테크_하나은행 환율조회\\웹조사\\raw\\04_notes.png",
+      "file": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\은행_재테크_하나은행 환율조회\\웹조사\\publish\\04_guide.png",
+      "alt": "하나은행 환율조회 휴일 고시 유의사항",
+      "caption": "휴일과 고시 기준에 관한 PC 화면입니다.",
+      "source": "https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp",
+      "sha256": "dd5b613446f352be084f21ff64962155d7bfc79c1d71201aadbad96ef65c0854",
+      "txtBlock": "삽입 ID: IMG_04 / 추천 업로드·노출 순서: 4 / 역할: guide\n원래 파일번호·원본: 04 / 26_1113/은행_재테크_하나은행 환율조회/웹조사/raw/04_notes.png\n업로드 파일: 26_1113/은행_재테크_하나은행 환율조회/웹조사/publish/04_guide.png\n삽입 소제목: 4. 과거 환율과 휴일 확인 / id=s4\n직전: p04-before / 결과표 아래 유의사항에서 휴일과 영업일 첫 고시 전의 조회 기준을 확인합니다.\n직후: p04-after / 기대했던 날짜와 다르면 결과의 기준일과 회차를 함께 확인합니다.\nHTML 위치: img-04 / IMAGE_SLOT:IMG_04 / {{BLOGGER_IMAGE_URL_IMG_04}}\nalt: 하나은행 환율조회 휴일 고시 유의사항\n캡션: 휴일과 고시 기준에 관한 PC 화면입니다.\n크기: 1280×975px / 가로 100% 이내, 비율 유지\n화면: PC 웹 / 출처: S1 하나은행 현재환율 / https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp / 확인일: 2026-11-13\n표식: 빨간 테두리와 화살표 / 편집: 표식 추가 / 채택: 해당 단계 설명"
+    }
+  ],
+  "html": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\은행_재테크_하나은행 환율조회\\웹조사\\publish\\은행_재테크_하나은행 환율조회_html콘텐츠.html",
+  "txt": "Y:\\antigravity-project\\ego-light-adsense-info-blog\\26_1113\\은행_재테크_하나은행 환율조회\\웹조사\\publish\\은행_재테크_하나은행 환율조회_제목메타디스크립션.txt",
+  "duplicateSearchEvidence": "duplicate-15.txt"
+}

@@ -1,0 +1,79 @@
+{
+  "runId": "20261113-blogger-1419",
+  "order": 10,
+  "tab": "은행_재테크",
+  "row": 14,
+  "keyword": "부산은행 환전",
+  "spaceId": 40,
+  "blogId": "3013546958093270596",
+  "startedAt": "2026-11-13T05:23:08.712Z",
+  "stage": "published",
+  "expectedImages": 5,
+  "images": [
+    {
+      "id": "IMG_01",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/02_guide.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtVougJGytsG4Mn9503X-RTyxSYA4-EKugmC8vZMylZnZhGquW5QNhtFWWiGq4FTuGunAPVBrbKYrvyfoHfzEvyQkMEGD4RDg78wHQ0bljNLTE7aE1zH5MG_UrZ4eyK1pjL0sv-1BSg0pp8A5LW-L0Nc4mLmyBjdl9Cqp6O_GTdTgGAZmr0Qo0EOIhGYLl/s1600/02_guide.png",
+      "uploadedAt": "2026-11-13T05:27:33.115Z",
+      "order": 1,
+      "alt": "공식 ONE환전 서비스 개요",
+      "caption": "ONE환전 개요와 수령·배달·보관 안내 화면입니다. 2026년 11월 13일 확인."
+    },
+    {
+      "id": "IMG_02",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/03_guide.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqCekYAsIFApHcWG4fTI_uf3NQoHOEfDuxK5PM4UFl07SNR_OsS5mnxUHpWhYIXv81VjpPZrgmTdFAa56g458fIv8NV1zCzTDLNnH3C_c5It4wdgIMyW2GyKM6mAaOMjEXi6MAfKYR4EQ1moed55NNJdBLDKqYvq8QYvY7f6lpTxHansejmIyWpLMTWZyM/s1600/03_guide.png",
+      "uploadedAt": "2026-11-13T05:29:03.434Z",
+      "order": 2,
+      "alt": "ONE환전 개인 이용대상 안내",
+      "caption": "이용대상과 이용시간을 보여주는 부산은행 PC 웹 화면입니다. 2026년 11월 13일 확인."
+    },
+    {
+      "id": "IMG_03",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/04_guide.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ1BlFgxi4Eqy2YtPNQybbExFdd19HLDWG8Oy6ixFNPzGlmdvhADAMa4_OPtLcoxtTDHOPeIBiGZwL-CKo0KONKMKko7qXOqHSkWuVexXy2emn8s11vdRNm3sWX8kNoIFLEeEq1tvZd-fPMWVw0N1kR8bkY_XkZ_QSvKbU4XvPkqJJgLQcwIYHx4FoTbmd/s1600/04_guide.png",
+      "uploadedAt": "2026-11-13T05:30:31.784Z",
+      "order": 3,
+      "alt": "로그인과 비로그인의 환전 가능 한도",
+      "caption": "로그인 여부에 따른 환전 한도 안내 화면입니다. 2026년 11월 13일 확인."
+    },
+    {
+      "id": "IMG_04",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/05_guide.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT03gSrHt6ZGskr79dEiv7NzhyphenhyphenvVNtcUVRh62gnSsMt9O5Cat6Jb93tGMBA8mcLmBQRExRByex7lgeuHS8EugPrVWi9VhG_f3sMWaIix-8pzF1fPlhoWT2GGvtLTeft2XdtbiRTjdfAqDykHTzdCW9Y4ioezDSCm4xnfnDevq322Kn6CzOCNxAfi9gJ-NT/s1600/05_guide.png",
+      "uploadedAt": "2026-11-13T05:30:40.085Z",
+      "order": 4,
+      "alt": "환전수령과 현찰배달, 금고보관 비교표",
+      "caption": "환전 수령 방법별 비교표의 시작 부분입니다. 2026년 11월 13일 확인."
+    },
+    {
+      "id": "IMG_05",
+      "path": "26_1113/은행_재테크_부산은행 환전/웹조사/publish/blogger-images/06_delivery_marked.png",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGjf5PsjziwYjLVZruxvBSmhkewsWyDi7KehUOfI-uIxERq2hrazcRfCLUxjbAHti5QtmpwB-k9X06h2UBMSHc1O0IMh64OJVsAJNJ3pWpRVmwpHFEiRzXQHF3HNc8WBSyvoJM9x8a5lXMLxT1VrepoLScYAFEpjgsjAGd_fOMKm4Hs6LgeV4niE99s7jY/s1600/06_delivery_marked.png",
+      "uploadedAt": "2026-11-13T05:30:47.526Z",
+      "order": 5,
+      "alt": "현찰배달 금액과 배송비 안내",
+      "caption": "현찰배달 조건과 배송비를 보여주는 부산은행 PC 웹 화면입니다. 2026년 11월 13일 확인."
+    }
+  ],
+  "duplicateEvidence": "duplicate-final-10.txt",
+  "imageEvidence": "images-10.json",
+  "updatedAt": "2026-11-13T05:30:47.526Z",
+  "postId": "2635303107992071336",
+  "editorUrl": "https://www.blogger.com/blog/post/edit/3013546958093270596/2635303107992071336?hl=ko",
+  "createdAt": "2026-11-13T05:25:56.477Z",
+  "draftSavedAt": "2026-11-13T05:36:35.760106+00:00",
+  "verified": true,
+  "title": "부산은행 환전 방법과 ONE환전 한도·수령 조건",
+  "description": "부산은행 ONE환전의 이용대상과 한도, 영업점 수령 및 현찰배달 조건을 확인하세요.",
+  "labels": "부산은행,외화,환전,",
+  "permalink": "automatic",
+  "permalinkNote": "추천 슬러그 저장 후 미유지 확인, 자동 주소로 전환",
+  "verification": "같은 편집기 재진입 후 본문 원문과 URL 치환 결과 완전 일치; 이미지 ID/URL/순서/alt/캡션 및 잔여 토큰 확인",
+  "publishRequestedAt": "2026-11-13T05:43:15.251Z",
+  "url": "https://bank.supportimes.com/2026/11/one.html",
+  "urlObservedAt": "2026-11-13T05:43:56.297Z",
+  "publishedAt": "2026-11-13T14:43:00+09:00",
+  "publicVerifiedAt": "2026-11-13T05:44:17.752805+00:00",
+  "publicEvidence": "public-10.json"
+}

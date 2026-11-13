@@ -1,0 +1,1 @@
+const task=await taskSpace(34),page=task.page('p1');const snap=await page.snapshot({scope:'full_page'});let i=snap.indexOf('진학어플라이 회원가입 방법:');console.log(JSON.stringify({url:await page.url(),index:i,around:snap.slice(i-500,i+2500)}));

@@ -1,0 +1,7 @@
+{
+  "spaceId": 10,
+  "page": "p1",
+  "status": "finished",
+  "finishedVia": "TaskSpace.finish({keep:[]})",
+  "postFinish": "user-owned space remains visible"
+}

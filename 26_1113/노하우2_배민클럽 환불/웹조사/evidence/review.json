@@ -1,0 +1,96 @@
+{
+  "reviewedAt": "2026-11-13 Asia/Seoul",
+  "visualReview": "모든 발행 이미지와 표식 및 개인정보 가림을 직접 확인",
+  "contentDecision": "완료: 공식 근거로 핵심 절차·조건·예외를 확인",
+  "adjustment": "핵심 답변을 반복하지 않도록 본문을 권장 길이보다 짧게 작성. 검색 화면 포함 4장 이상 확보.",
+  "rawCount": 7,
+  "publishedCount": 4,
+  "markedCount": 4,
+  "autoValidation": {
+    "status": "구 수량 기준 미통과",
+    "errors": [
+      "본문 1320자: 3500~5500자 필요(출처/이미지 목록 제외)",
+      "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+    ]
+  },
+  "alternativeReview": {
+    "status": "완료",
+    "fileOpen": "Pillow 확인",
+    "distinctPublishedHashes": 4,
+    "rawDimensionsAndMarks": [
+      {
+        "raw": "raw/05_search.png",
+        "dimensions": [
+          1280,
+          900
+        ],
+        "boxes": [
+          [
+            104,
+            628,
+            316,
+            33
+          ]
+        ],
+        "actualScreenUrl": "https://www.google.com/search?q=%EB%B0%B0%EB%8B%AC%EC%9D%98%EB%AF%BC%EC%A1%B1%20%EA%B3%B5%EC%8B%9D%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%B0%B0%EB%AF%BC%ED%81%B4%EB%9F%BD"
+      },
+      {
+        "raw": "raw/06_entry.png",
+        "dimensions": [
+          1280,
+          1000
+        ],
+        "boxes": [
+          [
+            97,
+            360,
+            752,
+            275
+          ]
+        ],
+        "actualScreenUrl": "https://kooltip.com/baemin-club-cancel/"
+      },
+      {
+        "raw": "raw/01_refund.png",
+        "dimensions": [
+          1100,
+          900
+        ],
+        "boxes": [
+          [
+            55,
+            424,
+            1015,
+            52
+          ]
+        ],
+        "actualScreenUrl": "https://terms.baemin.com/content/BAEMINCLUB_658"
+      },
+      {
+        "raw": "raw/03_long.png",
+        "dimensions": [
+          1100,
+          900
+        ],
+        "boxes": [
+          [
+            55,
+            411,
+            1015,
+            78
+          ]
+        ],
+        "actualScreenUrl": "https://terms.baemin.com/content/BAEMINCLUB_658"
+      }
+    ],
+    "publishHashes": {
+      "publish\\01_05_search.png": "3eb0516b64d56b728fe4fcc33336e1a9769f1450e9bc88c1ec8e4abecef1a11b",
+      "publish\\02_06_entry.png": "94e60f41d014bdd386312d3b533cb2722e1b217ce23b8a11394d3a1c02e9105f",
+      "publish\\03_01_refund.png": "07717ce47a8996970a52768b32edb717da2d3028163104d103a63c35a038d76e",
+      "publish\\04_03_long.png": "7d2ebdf1b1c3a570b612f17f97f97a8726d4c9924ae48b59e8eb326ce79a1fd6",
+      "publish\\노하우2_배민클럽 환불_웹조사결과.md": "fcfbb00d24977b5c23264839205e8acd99f3a45c1493e5bf77ea048c0a66f18f"
+    },
+    "privacy": "Google 계정 식별 부분을 발행 이미지에서 가림; 원본은 보존",
+    "limitation": "공식 약관 URL은 Google의 정확 URL 및 도메인 검색에서 결과가 없어 직접 방문. 공식 홈페이지 검색 결과는 환불 약관 자체가 아님을 명시. 앱 진입 단계는 실제 계정 조작 없이 외부 안내를 보조 출처로 기재. 외부 안내 첫 캡처는 페이지 변경으로 실패했으나 안정화 후 재시도하여 성공했고 광고를 제외해 잘랐다. 미채택 원본 02_cancel·04_promo·07_confirm은 다른 발행 장면과 중복되어 보존만 함. 약관 장면은 내용이 일부 겹치지만 각각 전액 환불과 장기상품 예외를 표식했다."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "runId": "20261113-blogger-1419",
+  "order": 4,
+  "tab": "노하우",
+  "row": 34,
+  "keyword": "앱스토어 국가변경",
+  "blogId": "1872124715220437079",
+  "spaceId": 46,
+  "startedAt": "2026-11-13T05:23:21.817Z",
+  "postId": null,
+  "images": [
+    {
+      "id": "IMG_01",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/02_02_conditions.png",
+      "raw": "26_1113/노하우_앱스토어 국가변경/웹조사/raw/02_conditions.png",
+      "alt": "Apple 지원 문서의 국가 변경 전 준비 항목과 구독 종료 안내",
+      "caption": "Apple 지원의 변경 전 준비 항목 중 구독 안내 (2026-11-13 확인)",
+      "url": null
+    },
+    {
+      "id": "IMG_02",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/03_03_iphone.png",
+      "raw": "26_1113/노하우_앱스토어 국가변경/웹조사/raw/03_iphone.png",
+      "alt": "Apple 지원 문서의 iPhone과 iPad 국가 지역 설정 진입 순서",
+      "caption": "설정에서 국가/지역으로 이동하는 공식 안내 (2026-11-13 확인)",
+      "url": null
+    },
+    {
+      "id": "IMG_03",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/04_04_payment.png",
+      "raw": "26_1113/노하우_앱스토어 국가변경/웹조사/raw/04_payment.png",
+      "alt": "Apple 지원 문서의 국가 선택 약관 동의 결제 정보 입력 순서",
+      "caption": "국가 선택부터 결제 정보 입력까지의 공식 안내 (2026-11-13 확인)",
+      "url": null
+    },
+    {
+      "id": "IMG_04",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/blogger-images/05_web_marked.png",
+      "raw": "26_1113/노하우_앱스토어 국가변경/웹조사/raw/05_web.png",
+      "alt": "Apple 지원 문서의 웹에서 국가 지역 변경 경로",
+      "caption": "Apple 계정 웹사이트에서 변경하는 경로 (2026-11-13 확인)",
+      "url": null
+    }
+  ],
+  "originalCount": 4,
+  "stage": "ready-create",
+  "duplicateCheckedAt": "2026-11-13T05:24:03.533Z",
+  "updatedAt": "2026-11-13T05:25:06.559Z",
+  "duplicateEvidence": "duplicate-4.json",
+  "imageEvidence": "images-4.json"
+}

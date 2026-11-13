@@ -1,0 +1,54 @@
+{
+  "url": "https://support.apple.com/ko-kr/108911",
+  "title": "가족의 공유 앱 및 콘텐츠를 찾을 수 없는 경우 - Apple 지원 (KR)",
+  "width": 1100,
+  "height": 850,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1084.800048828125,
+    "height": 850.4000244140625,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      134.0625,
+      357,
+      816.6625366210938,
+      81
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 850
+  },
+  "boxes": [
+    [
+      134,
+      356,
+      817,
+      82
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 850
+  },
+  "pixelScale": {
+    "x": 1.0001818068403325,
+    "y": 0.999529604418417
+  },
+  "rasterViewport": {
+    "width": 1099.800048828125,
+    "height": 850.4000244140625
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T05:03:57.422Z"
+}

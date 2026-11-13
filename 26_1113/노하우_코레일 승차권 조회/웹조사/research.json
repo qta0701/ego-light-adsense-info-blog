@@ -1,0 +1,163 @@
+{
+  "keyword": "코레일 승차권 조회",
+  "originalQuery": "코레일 승차권 조회",
+  "row": 35,
+  "tab": "노하우",
+  "date": "2026-11-13",
+  "queries": [
+    "코레일 승차권 조회"
+  ],
+  "multiIntent": false,
+  "body": "## 회원과 비회원의 확인 경로\n코레일 승차권을 확인할 때는 예매 당시 회원으로 로그인했는지, 비회원으로 예매했는지를 먼저 확인합니다. 코레일 공식 웹사이트의 **승차권 확인**은 회원에게 로그인을 요구하며, 비회원은 별도의 확인 화면에서 예매 당시 방식에 맞는 인증을 선택합니다. 아래 화면은 2026년 11월 13일 확인한 웹 화면입니다. [S1][S2]\n\n### 회원 승차권 확인\n1. 코레일 승차권예매 사이트에서 **승차권 → 승차권 확인**으로 이동합니다.\n2. 로그인 화면이 나타나면 회원번호, 이메일 주소 또는 휴대폰 번호 탭 등 제공되는 방법을 선택합니다.\n3. 계정 정보를 입력해 로그인하고 승차권 확인 화면으로 이동합니다. 이 조사에서는 개인 계정으로 로그인하지 않았으므로 실제 보유 승차권 목록이나 탑승 화면은 확인하지 않았습니다. [S2]\n\n회원번호나 비밀번호가 기억나지 않으면 로그인 화면의 회원번호 찾기 또는 비밀번호 찾기를 이용할 수 있습니다. 화면에는 로그인 다섯 차례 실패 시 로그인이 제한된다는 안내도 있습니다. 계정정보를 반복해서 추측하기보다 찾기 기능을 사용하세요. [S2]\n\n### 비회원 승차권 확인\n1. 코레일의 비회원 승차권 확인 메뉴로 이동합니다.\n2. **간편인증** 또는 **기존 비회원 승차권 확인** 중 예매할 때 사용한 방식에 맞는 항목을 고릅니다.\n3. 간편인증으로 예매한 승차권은 간편인증으로만 조회할 수 있다는 공식 안내를 확인합니다.\n4. 기존 비회원 확인 화면에서는 예약자 이름, 휴대폰 번호, 비밀번호 5자리를 입력하고 **비회원 승차권 확인**을 누릅니다. 전달받은 승차권의 비밀번호는 코레일 알림톡 또는 문자메시지를 확인하라는 안내가 있습니다. [S1][S3]\n\n비회원 확인 화면은 간편인증으로 예매한 승차권을 조회하지 못하므로, 이 경우 이전 화면에서 간편인증을 선택해야 합니다. 본인 인증이나 실제 승차권 조회는 진행하지 않았습니다. 정보가 맞지 않거나 확인이 어려우면 코레일 대표전화 1588-7788 또는 공식 고객센터의 안내를 확인하세요. [S1][S3]\n\n### 조회와 예매를 구분하기\n이미 구매한 표를 확인하려면 **승차권 확인**을 선택합니다. 출발역·도착역을 넣어 열차를 찾는 새 승차권 예매 화면과는 목적이 다릅니다. 이용 내역이나 영수증이 필요할 때도 해당 메뉴 명칭을 확인해 이동하세요. 사이트 구성은 변경될 수 있으므로 현재 화면의 표시를 기준으로 진행합니다. [S2]",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "코레일 승차권 확인 및 비회원 확인",
+      "url": "https://www.korail.com/ticket/reserve/nonmember/check/menu",
+      "official": true,
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "S2",
+      "title": "코레일 회원 승차권 확인 로그인",
+      "url": "https://www.korail.com/ticket/myticket/list",
+      "official": true,
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "S3",
+      "title": "코레일 기존 비회원 승차권 확인",
+      "url": "https://www.korail.com/ticket/reserve/nonmember/check",
+      "official": true,
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "images": [
+    {
+      "role": "search",
+      "file": "raw/01_search.png",
+      "publish": "publish/01_01_search.png",
+      "sourceId": "S2",
+      "caption": "코레일 공식 승차권 확인 검색 결과",
+      "alt": "코레일 공식 승차권 확인 검색 결과",
+      "boxes": [
+        [
+          104,
+          181,
+          279,
+          44
+        ]
+      ],
+      "crop": [
+        80,
+        150,
+        770,
+        280
+      ],
+      "markedBox": [
+        100,
+        165,
+        420,
+        236
+      ],
+      "screenUrl": "https://www.google.com/search?q=%EC%BD%94%EB%A0%88%EC%9D%BC%20%EC%8A%B9%EC%B0%A8%EA%B6%8C%20%EC%A1%B0%ED%9A%8C",
+      "query": "코레일 승차권 조회"
+    },
+    {
+      "role": "guide",
+      "file": "raw/02_login.png",
+      "publish": "publish/02_02_login.png",
+      "sourceId": "S2",
+      "caption": "회원 승차권 확인을 위한 로그인 화면",
+      "alt": "회원 승차권 확인을 위한 로그인 화면",
+      "boxes": [
+        [
+          293,
+          370,
+          499,
+          60
+        ]
+      ],
+      "crop": [
+        15,
+        270,
+        1060,
+        690
+      ],
+      "markedBox": [
+        293,
+        370,
+        792,
+        430
+      ],
+      "screenUrl": "https://www.korail.com/ticket/login?hiddenTabNms=nonMember&redirectUrl=/ticket/myticket/list"
+    },
+    {
+      "role": "guide",
+      "file": "raw/06_method_clean.png",
+      "publish": "publish/03_06_method_clean.png",
+      "sourceId": "S1",
+      "caption": "비회원 로그인 방식 선택",
+      "alt": "비회원 로그인 방식 선택",
+      "boxes": [
+        [
+          395,
+          342,
+          295,
+          116
+        ]
+      ],
+      "crop": [
+        50,
+        170,
+        750,
+        485
+      ],
+      "markedBox": [
+        395,
+        342,
+        690,
+        458
+      ],
+      "screenUrl": "https://www.korail.com/ticket/reserve/nonmember/check/menu"
+    },
+    {
+      "role": "guide",
+      "file": "raw/07_form_clean.png",
+      "publish": "publish/04_07_form_clean.png",
+      "sourceId": "S3",
+      "caption": "기존 비회원 인증 입력 화면",
+      "alt": "기존 비회원 인증 입력 화면",
+      "boxes": [
+        [
+          354,
+          383,
+          545,
+          34
+        ]
+      ],
+      "crop": [
+        55,
+        205,
+        1020,
+        550
+      ],
+      "markedBox": [
+        175,
+        326,
+        910,
+        475
+      ],
+      "screenUrl": "https://www.korail.com/ticket/reserve/nonmember/check"
+    }
+  ],
+  "limits": {
+    "bodyMin": 3500,
+    "bodyMax": 5500,
+    "guideMax": 8,
+    "referenceMax": 3,
+    "rawMax": 12
+  },
+  "exceptionReason": "공식 검색 1장과 서로 다른 안내·조건 화면 3장으로 핵심 내용을 설명. 앱이나 인증 후 화면은 공개 공식 안내 또는 인증 전 화면으로 대체.",
+  "visualReviewed": false
+}

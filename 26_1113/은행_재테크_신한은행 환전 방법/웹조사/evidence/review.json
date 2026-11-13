@@ -1,0 +1,33 @@
+{
+  "status": "agent_review_complete",
+  "checkedAt": "2026-11-13 Asia/Seoul",
+  "automaticValidation": {
+    "exitCode": 1,
+    "errors": [
+      "본문 2070자: 3500~5500자 필요(출처/이미지 목록 제외)"
+    ]
+  },
+  "quantityAdjustment": "구 도구의 3500자 및 안내 4장 고정 기준과 현재 권장 기준 차이. 로그인 경계와 공개 화면의 정보 범위에 맞췄고 중복 화면을 늘리지 않음.",
+  "manualChecks": [
+    "원본과 발행 이미지 전체 시각 비교: 표식, 캡션, 단계, 가독성, 팝업, 검색 주소와 계정 가림 확인",
+    "PNG 열림, 픽셀 크기, 원본 및 발행 SHA-256, 중복 원본, 이미지별 실제 URL과 Markdown 상대 경로 확인",
+    "공식 본문과 요약을 대조하고 로그인 이후 미확인과 시점 의존 조건 명시"
+  ],
+  "limitations": "PC 로그인 이후 신청과 모바일 앱 실제 조작 미확인; 조건은 신청 화면 재확인",
+  "contentDecision": "핵심 의도에 대한 공식 진입·범위·확인 방법과 활용 가능한 실제 이미지 확보. 미확인 경계 명시.",
+  "rawImages": 7,
+  "publishedImages": 6,
+  "artifactHashes": {
+    "publish\\01_search.png": "50c6e202fb585d08c84db5ce8a24d206961689100ab2cedd0519297c7f4117b8",
+    "publish\\02_guide.png": "1514fd909281f4566ab034f639ac3cf658479d3af12a0b6b705629a5de4601e2",
+    "publish\\03_guide.png": "0dcea9de48b9166f713e8b49b668b9e3ac8054826eb599d4631245e0b651ef82",
+    "publish\\04_guide.png": "c654ebd74c3faaa83fe8672fd75badc10821e5cdac00c6c59c8c0712d696f60f",
+    "publish\\05_guide.png": "bd3b8f03d2f5e19e68ea4b78155c1f5f18d06d84e3c6c32c3c3fe601d800b6d6",
+    "publish\\06_guide.png": "1b76f0cb7aa445b907a34ec500d9cf1e2a038144d3d9a6dc86fa928845da7ac1",
+    "publish\\은행_재테크_신한은행 환전 방법_웹조사결과.md": "6a0b333b92cbfa7dd9ab633622c379ec0bff07ff8586052706ec0851e0eafa5a"
+  },
+  "researchSha256": "68c8f161343b9a4a6374319ef8c534dd855d015621439ace3340c724ab15f766",
+  "unusedRaw": [
+    "raw/01_search.png: 동일 공식 결과의 더 집중된 07_searchfocus.png를 사용"
+  ]
+}

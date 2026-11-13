@@ -1,1 +1,0 @@
-const p=(await taskSpace(4)).page('p1');console.log(JSON.stringify(await p.evaluate(()=>[...document.querySelectorAll('button')].filter(x=>x.innerText.includes('당근 앱에서 보기')).map(x=>({html:x.outerHTML.slice(0,700),parent:x.parentElement.outerHTML.slice(0,900)})))));

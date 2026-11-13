@@ -1,0 +1,16 @@
+{
+  "images": [
+    "01_search",
+    "02_app",
+    "03_web",
+    "04_term"
+  ],
+  "publishHashes": {
+    "01_search.png": "acf66e4386fb95320bbb6482470547d9a80cd026c37a00c3587f967c986b109e",
+    "02_guide.png": "dd3e12535a25ef5485b05f76a4a86d43734851aa47c62fbd089f7e077987f849",
+    "03_guide.png": "d95b4d26f55aa30f943cef9a628f8df04930e1b00b1820bd5aded19ac46fe168",
+    "04_guide.png": "3670e51dd0136ad27bb5bd4c132b84d1a32e5294ed1009eb85f2187fe6f858d1",
+    "이슈_테무 회원탈퇴_웹조사결과.md": "86d6d9336bbfc092083bf12fa1a1016af4ec012a14014ce06e1a11ad808c85ad"
+  },
+  "notes": "공식 페이지 본문 캡처를 발췌하고 빨간 테두리와 번호를 추가. 검색 결과의 URL과 계정 아이콘은 자르기로 제거. 원본 보존."
+}

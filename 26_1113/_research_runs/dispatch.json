@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-13",
+  "spreadsheet_id": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "popup_total": 84,
+  "popup_tabs": 15,
+  "copy_status": "복사 버튼 참조 오류; 팝업 요약 텍스트 사용",
+  "limit": 15,
+  "sections": [
+    {"id":"issue-1","tab":"이슈","rows":[{"row":30,"keyword":"앱스토어 로그아웃"},{"row":31,"keyword":"코레일 민원접수"},{"row":32,"keyword":"테무 회원탈퇴"}]},
+    {"id":"knowhow-1","tab":"노하우","rows":[{"row":34,"keyword":"앱스토어 국가변경"},{"row":35,"keyword":"코레일 승차권 조회"},{"row":36,"keyword":"모바일 티머니 환불"}]},
+    {"id":"knowhow2-1","tab":"노하우2","rows":[{"row":34,"keyword":"진학어플라이 회원가입"},{"row":35,"keyword":"인스타그램 탈퇴방법"},{"row":36,"keyword":"배민클럽 환불"}]},
+    {"id":"bank-1","tab":"은행_재테크","rows":[{"row":14,"keyword":"부산은행 환전"},{"row":15,"keyword":"국민은행 환전신청"},{"row":16,"keyword":"국민은행 통장사본 출력"}]},
+    {"id":"bank-2","tab":"은행_재테크","rows":[{"row":17,"keyword":"신한은행 간편조회"},{"row":18,"keyword":"신한은행 환전 방법"},{"row":19,"keyword":"하나은행 환율조회"}]}
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-13",
+  "result": "complete_by_alternative_agent_review",
+  "automaticValidation": "not passed; legacy quantity rules",
+  "automaticErrors": [
+    "본문 1433자: 3500~5500자 필요(출처/이미지 목록 제외)",
+    "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+  ],
+  "reason": "검색 1장과 공식 메뉴·로그인·STM 안내 3장으로 총 4장의 서로 다른 화면을 사용했다. 인증 이후 절차는 직접 확인하지 않고 실제 방문한 제3자 출처로 구분했다.",
+  "rawCount": 4,
+  "publishImageCount": 4,
+  "markedImageCount": 4,
+  "visualReview": "모든 발행 이미지 접촉 시트와 주요 원본 크기 이미지를 확인. 표시 대상, 좌표, 화면 출처와 텍스트 가독성 점검. Google 화면은 결과 영역을 잘라 개인 프로필 노출 제거. 실제 로그인 QR이나 계좌 개인정보 없음.",
+  "files": [
+    {
+      "file": "publish/01_search.png",
+      "sha256": "67f1bfaaf8dd2a32972490382c8b563b9a64692db132a47adb189e2842137c14",
+      "pixels": [
+        1280,
+        340
+      ]
+    },
+    {
+      "file": "publish/02_guide.png",
+      "sha256": "1e19df178ea2065b3ea109158aa7411090faf41a5b17cff42bb820051b9ea243",
+      "pixels": [
+        1440,
+        900
+      ]
+    },
+    {
+      "file": "publish/03_guide.png",
+      "sha256": "2200ff14cb1a94d3895dbe5dc9796fbdabd85600419e512b82fe2d4d012ec723",
+      "pixels": [
+        1440,
+        900
+      ]
+    },
+    {
+      "file": "publish/04_guide.png",
+      "sha256": "f21e32a0fd80c0d04c3d59d55d6ae29ce7486bebc1d2ad81670ddfc10f69cdd8",
+      "pixels": [
+        1440,
+        900
+      ]
+    },
+    {
+      "file": "publish/은행_재테크_국민은행 통장사본 출력_웹조사결과.md",
+      "sha256": "be83fd92a647003c15e1cd735c5b2975294f548e4ea2ad0a719f608dd671247b"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=%ED%85%8C%EB%AC%B4%20%ED%9A%8C%EC%9B%90%ED%83%88%ED%87%B4",
+  "title": "테무 회원탈퇴 - Google 검색",
+  "width": 1280,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 183.1999969482422,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1264.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      104,
+      427.82501220703125,
+      426.5500183105469,
+      43.17499923706055
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "boxes": [
+    [
+      104,
+      427,
+      427,
+      45
+    ]
+  ],
+  "pixelSize": {
+    "width": 1280,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001562362589829,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1279.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T03:51:27.575Z"
+}

@@ -1,0 +1,16 @@
+{
+  "images": [
+    "01_search",
+    "02_voc",
+    "03_station",
+    "05_auth_button"
+  ],
+  "publishHashes": {
+    "01_search.png": "543179a03a2371ef98f45372a746f9e45ea597b0186a2570ae27ea093586bdb8",
+    "02_guide.png": "0795fc000c4afa276489a947bab82b719d81fcd76ef74dac6809c8ae0e3c3ff5",
+    "03_guide.png": "a2e63880e143cbc67b8530d212364ab6d8a4135fe39f028c8e9f99b6f9b52ac6",
+    "04_guide.png": "86da4acce4615592801862bbcf56d7bb989e3420ea0ddd595947b557d987ff43",
+    "이슈_코레일 민원접수_웹조사결과.md": "28ac40388f8376e33509e204e42f613413a6209577efe8b5be9be329323f0d85"
+  },
+  "notes": "공식 페이지 본문 캡처를 발췌하고 빨간 테두리와 번호를 추가. 검색 결과의 URL과 계정 아이콘은 자르기로 제거. 원본 보존."
+}

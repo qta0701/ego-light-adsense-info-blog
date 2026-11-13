@@ -1,1 +1,0 @@
-const t=await taskSpace(17);const p=t.page('p1');console.log(await p.evaluate(()=>{let a=document.querySelector('a[href*="6912395706096692937"]');let item=a?.closest('[role=listitem]');return item?.outerHTML.slice(0,12000)}));

@@ -1,0 +1,1762 @@
+[p2 "현재환율 < 환율/외화예금 금리 < 상품 < 하나은행" | space "research-20261113-bank2-row19"(16): 2 managed, 0 untracked — p1 "하나은행 환율조회 - Google 검색", p2* "현재환율 < 환율/외화예금 금리 < 상품 < 하나은행"]
+root
+  anchor [ref=67, loc=href:/cont/mall/mall15/mall1501/index.jsp#contents, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#contents]
+    text "본문 바로가기"
+  anchor [ref=68, loc=href:/cont/mall/mall15/mall1501/index.jsp#gnb, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#gnb]
+    text "주메뉴 바로가기"
+  container
+    unordered_list
+      list_item
+        anchor [ref=1, loc=href:https://biz.kebhana.com/, url=https://biz.kebhana.com/]
+          text "기업뱅킹"
+      list_item
+        anchor [ref=2, loc=href:https://www.hanacard.co.kr/, url=https://www.hanacard.co.kr/]
+          text "하나카드"
+      list_item
+        anchor [ref=3, loc=href:http://pr.kebhana.com/contents/kor/index.jsp, url=http://pr.kebhana.com/contents/kor/index.jsp]
+          text "은행소개"
+      list_item
+        anchor [ref=4, loc=href:https://hanabank.recruiter.co.kr/appsite/company/index, url=https://hanabank.recruiter.co.kr/appsite/company/index]
+          text "채용안내"
+    unordered_list
+      list_item
+        anchor [ref=5, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+          text "로그인"
+      list_item
+        anchor [ref=6, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+          text "인증센터"
+    anchor [ref=7, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+      text "Language"
+      image
+    heading
+      anchor [ref=8, url=https://www.kebhana.com/index.html]
+        image
+    unordered_list
+      list_item
+        anchor [ref=9, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+          text "조회"
+      list_item
+        anchor [ref=10, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+          text "이체"
+      list_item
+        anchor [ref=11, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+          text "공과금"
+      list_item
+        anchor [ref=12, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+          text "외환"
+      list_item
+        anchor [ref=13, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+          text "금융상품"
+    anchor [ref=14, url=javascript:void(0)]
+      text "하이챗봇"
+    text "하이챗봇에게 물어보세요~"
+    button "툴팁 닫기" [ref=15, loc=css:button[aria-label="툴팁 닫기"]]
+    anchor [ref=16, url=javascript:void(0)]
+      text "검색버튼"
+    anchor [ref=17, url=javascript:void(0)]
+      text "전체메뉴"
+    container
+      heading
+        text "외환"
+      unordered_list
+        list_item
+          anchor [ref=18, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+            text "환율/외화예금 금리"
+        list_item
+          anchor [ref=19, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+            text "환전지갑"
+        list_item
+          anchor [ref=20, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+            text "외화송금"
+            container
+              text "하위메뉴"
+              text "열기"
+        list_item
+          anchor [ref=21, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+            text "외화계좌이체"
+            container
+              text "하위메뉴"
+              text "열기"
+        list_item
+          anchor [ref=22, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+            text "외화예금"
+            container
+              text "하위메뉴"
+              text "열기"
+        list_item
+          anchor [ref=23, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+            text "송금클럽"
+            container
+              text "하위메뉴"
+              text "열기"
+      heading
+        text "고객센터"
+      unordered_list
+        list_item
+          text "1588-1111"
+          text "1599-1111"
+      container
+        paragraph
+          text "Home"
+          text ">"
+          text "외환"
+          text ">"
+          text "환율/외화예금 금리"
+        heading
+          text "환율/외화예금 금리"
+        unordered_list
+          list_item
+            anchor [ref=24, loc=href:/cont/mall/mall15/mall1501/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp]
+              text "현재환율"
+          list_item
+            anchor [ref=25, loc=href:/cont/mall/mall15/mall1502/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1502/index.jsp]
+              text "평균환율"
+          list_item
+            anchor [ref=26, loc=href:/cont/mall/mall15/mall1503/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1503/index.jsp]
+              text "환율변동"
+          list_item
+            anchor [ref=27, loc=href:/cont/mall/mall15/mall1508/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1508/index.jsp]
+              text "환율차트"
+          list_item
+            anchor [ref=28, loc=href:/cont/mall/mall15/mall1509/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1509/index.jsp]
+              text "비고시환율"
+          list_item
+            anchor [ref=29, loc=href:/cont/mall/mall15/mall1510/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1510/index.jsp]
+              text "환율변동성"
+          list_item
+            anchor [ref=30, loc=href:/cont/mall/mall15/mall1511/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1511/index.jsp]
+              text "통화간상관계수"
+          list_item
+            anchor [ref=31, loc=href:/cont/mall/mall15/mall1512/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1512/index.jsp]
+              text "Domestic Rate"
+          list_item
+            anchor [ref=32, loc=href:/cont/mall/mall15/mall1504/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1504/index.jsp]
+              text "환가료율 조회"
+          list_item
+            anchor [ref=33, loc=href:/cont/mall/mall15/mall1505/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1505/index.jsp]
+              text "Libor/대체금리조회"
+          list_item
+            anchor [ref=34, loc=href:/cont/mall/mall15/mall1506/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1506/index.jsp]
+              text "koribor금리조회"
+          list_item
+            anchor [ref=35, loc=href:/cont/mall/mall15/mall1507/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1507/index.jsp]
+              text "외화예금이율조회"
+          list_item
+            anchor [ref=36, loc=href:/cont/mall/mall15/mall1513/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1513/index.jsp]
+              text "공항환율"
+          list_item
+            anchor [ref=37, loc=href:/cont/mall/mall15/mall1514/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1514/index.jsp]
+              text "이종통화환율정보"
+          list_item
+            anchor [ref=38, loc=href:/cont/mall/mall15/mall1515/index.jsp, url=https://www.kebhana.com/cont/mall/mall15/mall1515/index.jsp]
+              text "이종통화환율변동"
+        heading
+          text "현재환율"
+        iframe [ref=39]
+          root
+            form
+              table
+                text "현재환율 조회"
+                table_row
+                  table_cell
+                    text "통화선택"
+                  table_cell
+                    combobox [ref=40, loc=css:select[name="curCd"]]
+                      text "USD:달러(미국)"
+                table_row
+                  table_cell
+                    text "일자선택"
+                  table_cell
+                    textbox [ref=41, loc=css:input[name="tmpInqStrDt"]]
+                      text "2026-11-13"
+                    anchor [ref=42, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                      image
+                    text "연월일 8자리로 ‘-’ 없이 입력해야 합니다. 예) 20160101"
+                table_row
+                  table_cell
+                    text "고시회차"
+                  table_cell
+                    radio [ref=69]
+                    text "최초"
+                    radio [ref=70]
+                    text "현재"
+                    radio [ref=71]
+                    text "특정회차"
+                    text "고시회차"
+                    textbox [ref=43, loc=css:input[name="pbldSqn"]]
+            anchor [ref=44, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+              text "조회"
+            container
+              anchor [ref=72, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                text "다운로드"
+              anchor [ref=73, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                text "다운로드"
+              anchor [ref=74, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                text "인쇄하기"
+              container
+                paragraph
+                  text "기준일"
+                  text ":"
+                  text "2026년11월13일"
+                  text "고시일시"
+                  text ":"
+                  text "2026년11월13일"
+                  text "13시36분00초"
+                  text "(285회차)"
+                  text "조회시각"
+                  text ":"
+                  text "2026년11월13일 13시40분10초"
+                table
+                  text "기간별 기준가격 고시회차에 대한 내용"
+                  table_row
+                    table_cell
+                      text "통화"
+                    table_cell
+                      text "현찰"
+                    table_cell
+                      text "송금"
+                    table_cell
+                      text "외화"
+                      text "수표"
+                      text "파실때"
+                    table_cell
+                      text "매매"
+                      text "기준율"
+                    table_cell
+                      text "환가"
+                      text "료율"
+                    table_cell
+                      text "미화"
+                      text "환산율"
+                  table_row
+                    table_cell
+                      text "사실 때"
+                    table_cell
+                      text "파실 때"
+                    table_cell
+                      text "보낼 때"
+                    table_cell
+                      text "받을 때"
+                  table_row
+                    table_cell
+                      text "환율"
+                    table_cell
+                      text "Spread"
+                    table_cell
+                      text "환율"
+                    table_cell
+                      text "Spread"
+                  table_row
+                    table_cell
+                      anchor [ref=75, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "미국 USD"
+                    table_cell
+                      text "1,356.93"
+                    table_cell
+                      text "1.75"
+                    table_cell
+                      text "1,310.27"
+                    table_cell
+                      text "1.75"
+                    table_cell
+                      text "1,346.60"
+                    table_cell
+                      text "1,320.60"
+                    table_cell
+                      text "1,318.45"
+                    table_cell
+                      text "1,333.60"
+                    table_cell
+                      text "5.80695"
+                    table_cell
+                      text "1.0000"
+                  table_row
+                    table_cell
+                      anchor [ref=76, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "일본 JPY (100)"
+                    table_cell
+                      text "848.56"
+                    table_cell
+                      text "1.75"
+                    table_cell
+                      text "819.38"
+                    table_cell
+                      text "1.75"
+                    table_cell
+                      text "842.14"
+                    table_cell
+                      text "825.80"
+                    table_cell
+                      text "825.11"
+                    table_cell
+                      text "833.97"
+                    table_cell
+                      text "3.39482"
+                    table_cell
+                      text "0.6254"
+                  table_row
+                    table_cell
+                      anchor [ref=77, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "유로 EUR"
+                    table_cell
+                      text "1,504.17"
+                    table_cell
+                      text "1.99"
+                    table_cell
+                      text "1,445.49"
+                    table_cell
+                      text "1.99"
+                    table_cell
+                      text "1,489.57"
+                    table_cell
+                      text "1,460.09"
+                    table_cell
+                      text "1,458.27"
+                    table_cell
+                      text "1,474.83"
+                    table_cell
+                      text "4.46200"
+                    table_cell
+                      text "1.1059"
+                  table_row
+                    table_cell
+                      anchor [ref=78, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "중국 CNY"
+                    table_cell
+                      text "209.91"
+                    table_cell
+                      text "5.00"
+                    table_cell
+                      text "189.93"
+                    table_cell
+                      text "5.00"
+                    table_cell
+                      text "201.91"
+                    table_cell
+                      text "197.93"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "199.92"
+                    table_cell
+                      text "3.49803"
+                    table_cell
+                      text "0.1499"
+                  table_row
+                    table_cell
+                      anchor [ref=79, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "홍콩 HKD"
+                    table_cell
+                      text "173.34"
+                    table_cell
+                      text "1.97"
+                    table_cell
+                      text "166.66"
+                    table_cell
+                      text "1.97"
+                    table_cell
+                      text "171.70"
+                    table_cell
+                      text "168.30"
+                    table_cell
+                      text "168.11"
+                    table_cell
+                      text "170.00"
+                    table_cell
+                      text "4.71100"
+                    table_cell
+                      text "0.1275"
+                  table_row
+                    table_cell
+                      anchor [ref=80, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "태국 THB"
+                    table_cell
+                      text "41.38"
+                    table_cell
+                      text "5.00"
+                    table_cell
+                      text "37.05"
+                    table_cell
+                      text "6.00"
+                    table_cell
+                      text "39.80"
+                    table_cell
+                      text "39.02"
+                    table_cell
+                      text "39.00"
+                    table_cell
+                      text "39.41"
+                    table_cell
+                      text "3.02500"
+                    table_cell
+                      text "0.0296"
+                  table_row
+                    table_cell
+                      anchor [ref=81, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "대만 TWD"
+                    table_cell
+                      text "45.90"
+                    table_cell
+                      text "13.10"
+                    table_cell
+                      text "36.54"
+                    table_cell
+                      text "10.00"
+                    table_cell
+                      text "41.03"
+                    table_cell
+                      text "40.15"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "40.59"
+                    table_cell
+                      text "3.58566"
+                    table_cell
+                      text "0.0304"
+                  table_row
+                    table_cell
+                      anchor [ref=82, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "필리핀 PHP"
+                    table_cell
+                      text "23.03"
+                    table_cell
+                      text "10.00"
+                    table_cell
+                      text "19.23"
+                    table_cell
+                      text "8.20"
+                    table_cell
+                      text "21.14"
+                    table_cell
+                      text "20.74"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "20.94"
+                    table_cell
+                      text "7.30800"
+                    table_cell
+                      text "0.0157"
+                  table_row
+                    table_cell
+                      anchor [ref=83, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "싱가포르 SGD"
+                    table_cell
+                      text "1,057.19"
+                    table_cell
+                      text "1.99"
+                    table_cell
+                      text "1,015.95"
+                    table_cell
+                      text "1.99"
+                    table_cell
+                      text "1,046.93"
+                    table_cell
+                      text "1,026.21"
+                    table_cell
+                      text "1,025.25"
+                    table_cell
+                      text "1,036.57"
+                    table_cell
+                      text "3.77500"
+                    table_cell
+                      text "0.7773"
+                  table_row
+                    table_cell
+                      anchor [ref=84, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "호주 AUD"
+                    table_cell
+                      text "925.25"
+                    table_cell
+                      text "1.97"
+                    table_cell
+                      text "889.51"
+                    table_cell
+                      text "1.97"
+                    table_cell
+                      text "916.45"
+                    table_cell
+                      text "898.31"
+                    table_cell
+                      text "896.63"
+                    table_cell
+                      text "907.38"
+                    table_cell
+                      text "6.77033"
+                    table_cell
+                      text "0.6804"
+                  table_row
+                    table_cell
+                      anchor [ref=85, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "베트남 VND (100)"
+                    table_cell
+                      text "5.80"
+                    table_cell
+                      text "11.80"
+                    table_cell
+                      text "4.58"
+                    table_cell
+                      text "11.80"
+                    table_cell
+                      text "5.24"
+                    table_cell
+                      text "5.14"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "5.19"
+                    table_cell
+                      text "7.63833"
+                    table_cell
+                      text "0.0039"
+                  table_row
+                    table_cell
+                      anchor [ref=86, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "영국 GBP"
+                    table_cell
+                      text "1,800.81"
+                    table_cell
+                      text "1.97"
+                    table_cell
+                      text "1,731.23"
+                    table_cell
+                      text "1.97"
+                    table_cell
+                      text "1,783.68"
+                    table_cell
+                      text "1,748.36"
+                    table_cell
+                      text "1,745.42"
+                    table_cell
+                      text "1,766.02"
+                    table_cell
+                      text "6.07866"
+                    table_cell
+                      text "1.3243"
+                  table_row
+                    table_cell
+                      anchor [ref=87, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "캐나다 CAD"
+                    table_cell
+                      text "953.62"
+                    table_cell
+                      text "1.97"
+                    table_cell
+                      text "916.78"
+                    table_cell
+                      text "1.97"
+                    table_cell
+                      text "944.55"
+                    table_cell
+                      text "925.85"
+                    table_cell
+                      text "924.70"
+                    table_cell
+                      text "935.20"
+                    table_cell
+                      text "4.43433"
+                    table_cell
+                      text "0.7013"
+                  table_row
+                    table_cell
+                      anchor [ref=88, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "말레이시아 MYR"
+                    table_cell
+                      text "350.61"
+                    table_cell
+                      text "7.40"
+                    table_cell
+                      text "302.31"
+                    table_cell
+                      text "7.40"
+                    table_cell
+                      text "329.72"
+                    table_cell
+                      text "323.20"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "326.46"
+                    table_cell
+                      text "4.99200"
+                    table_cell
+                      text "0.2448"
+                  table_row
+                    table_cell
+                      anchor [ref=89, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "러시아 RUB"
+                    table_cell
+                      text "17.61"
+                    table_cell
+                      text "9.50"
+                    table_cell
+                      text "13.28"
+                    table_cell
+                      text "17.50"
+                    table_cell
+                      text "16.65"
+                    table_cell
+                      text "15.53"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "16.09"
+                    table_cell
+                      text "2.97500"
+                    table_cell
+                      text "0.0121"
+                  table_row
+                    table_cell
+                      anchor [ref=90, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "남아공화국 ZAR"
+                    table_cell
+                      text "85.93"
+                    table_cell
+                      text "8.00"
+                    table_cell
+                      text "73.21"
+                    table_cell
+                      text "8.00"
+                    table_cell
+                      text "80.52"
+                    table_cell
+                      text "78.62"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "79.57"
+                    table_cell
+                      text "9.06566"
+                    table_cell
+                      text "0.0597"
+                  table_row
+                    table_cell
+                      anchor [ref=91, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "노르웨이 NOK"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "140.83"
+                    table_cell
+                      text "138.05"
+                    table_cell
+                      text "137.80"
+                    table_cell
+                      text "139.44"
+                    table_cell
+                      text "6.68000"
+                    table_cell
+                      text "0.1046"
+                  table_row
+                    table_cell
+                      anchor [ref=92, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "뉴질랜드 NZD"
+                    table_cell
+                      text "753.84"
+                    table_cell
+                      text "1.97"
+                    table_cell
+                      text "724.72"
+                    table_cell
+                      text "1.97"
+                    table_cell
+                      text "746.67"
+                    table_cell
+                      text "731.89"
+                    table_cell
+                      text "730.89"
+                    table_cell
+                      text "739.28"
+                    table_cell
+                      text "4.96966"
+                    table_cell
+                      text "0.5543"
+                  table_row
+                    table_cell
+                      anchor [ref=93, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "덴마크 DKK"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "199.27"
+                    table_cell
+                      text "195.33"
+                    table_cell
+                      text "195.10"
+                    table_cell
+                      text "197.30"
+                    table_cell
+                      text "4.26233"
+                    table_cell
+                      text "0.1479"
+                  table_row
+                    table_cell
+                      anchor [ref=94, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "멕시코 MXN"
+                    table_cell
+                      text "79.18"
+                    table_cell
+                      text "10.50"
+                    table_cell
+                      text "64.14"
+                    table_cell
+                      text "10.50"
+                    table_cell
+                      text "72.37"
+                    table_cell
+                      text "70.95"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "71.66"
+                    table_cell
+                      text "8.59600"
+                    table_cell
+                      text "0.0537"
+                  table_row
+                    table_cell
+                      anchor [ref=95, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "몽골 MNT"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.37"
+                    table_cell
+                      text "0.37"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.37"
+                    table_cell
+                      text "13.47500"
+                    table_cell
+                      text "0.0003"
+                  table_row
+                    table_cell
+                      anchor [ref=96, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "바레인 BHD"
+                    table_cell
+                      text "3,761.30"
+                    table_cell
+                      text "6.40"
+                    table_cell
+                      text "3,252.26"
+                    table_cell
+                      text "8.00"
+                    table_cell
+                      text "3,570.41"
+                    table_cell
+                      text "3,499.71"
+                    table_cell
+                      text "3,492.53"
+                    table_cell
+                      text "3,535.06"
+                    table_cell
+                      text "7.31766"
+                    table_cell
+                      text "2.6508"
+                  table_row
+                    table_cell
+                      anchor [ref=97, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "방글라데시 BDT"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "10.84"
+                    table_cell
+                      text "10.60"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "10.72"
+                    table_cell
+                      text "11.97500"
+                    table_cell
+                      text "0.0080"
+                  table_row
+                    table_cell
+                      anchor [ref=98, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "브라질 BRL"
+                    table_cell
+                      text "260.44"
+                    table_cell
+                      text "10.20"
+                    table_cell
+                      text "212.71"
+                    table_cell
+                      text "10.00"
+                    table_cell
+                      text "239.17"
+                    table_cell
+                      text "233.51"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "236.34"
+                    table_cell
+                      text "14.14700"
+                    table_cell
+                      text "0.1772"
+                  table_row
+                    table_cell
+                      anchor [ref=99, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "브루나이 BND"
+                    table_cell
+                      text "1,078.03"
+                    table_cell
+                      text "4.00"
+                    table_cell
+                      text "974.38"
+                    table_cell
+                      text "6.00"
+                    table_cell
+                      text "1,049.00"
+                    table_cell
+                      text "1,024.14"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "1,036.57"
+                    table_cell
+                      text "3.77500"
+                    table_cell
+                      text "0.7773"
+                  table_row
+                    table_cell
+                      anchor [ref=100, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "사우디아라비아 SAR"
+                    table_cell
+                      text "377.70"
+                    table_cell
+                      text "6.30"
+                    table_cell
+                      text "330.81"
+                    table_cell
+                      text "6.90"
+                    table_cell
+                      text "358.87"
+                    table_cell
+                      text "351.77"
+                    table_cell
+                      text "351.08"
+                    table_cell
+                      text "355.32"
+                    table_cell
+                      text "7.09733"
+                    table_cell
+                      text "0.2664"
+                  table_row
+                    table_cell
+                      anchor [ref=101, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "스리랑카 LKR"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "4.05"
+                    table_cell
+                      text "3.97"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "4.01"
+                    table_cell
+                      text "12.35500"
+                    table_cell
+                      text "0.0030"
+                  table_row
+                    table_cell
+                      anchor [ref=102, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "스웨덴 SEK"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "134.41"
+                    table_cell
+                      text "131.75"
+                    table_cell
+                      text "131.61"
+                    table_cell
+                      text "133.08"
+                    table_cell
+                      text "4.03866"
+                    table_cell
+                      text "0.0998"
+                  table_row
+                    table_cell
+                      anchor [ref=103, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "스위스 CHF"
+                    table_cell
+                      text "1,627.91"
+                    table_cell
+                      text "1.97"
+                    table_cell
+                      text "1,565.01"
+                    table_cell
+                      text "1.97"
+                    table_cell
+                      text "1,612.42"
+                    table_cell
+                      text "1,580.50"
+                    table_cell
+                      text "1,579.61"
+                    table_cell
+                      text "1,596.46"
+                    table_cell
+                      text "2.01933"
+                    table_cell
+                      text "1.1971"
+                  table_row
+                    table_cell
+                      anchor [ref=104, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "아랍에미리트공화국 AED"
+                    table_cell
+                      text "383.08"
+                    table_cell
+                      text "5.50"
+                    table_cell
+                      text "338.06"
+                    table_cell
+                      text "6.90"
+                    table_cell
+                      text "366.74"
+                    table_cell
+                      text "359.48"
+                    table_cell
+                      text "358.97"
+                    table_cell
+                      text "363.11"
+                    table_cell
+                      text "5.07500"
+                    table_cell
+                      text "0.2723"
+                  table_row
+                    table_cell
+                      anchor [ref=105, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "알제리 DZD"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "9.85"
+                    table_cell
+                      text "9.63"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "9.74"
+                    table_cell
+                      text "8.22500"
+                    table_cell
+                      text "0.0073"
+                  table_row
+                    table_cell
+                      anchor [ref=106, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "오만 OMR"
+                    table_cell
+                      text "3,706.18"
+                    table_cell
+                      text "7.00"
+                    table_cell
+                      text "3,221.26"
+                    table_cell
+                      text "7.00"
+                    table_cell
+                      text "3,505.28"
+                    table_cell
+                      text "3,422.16"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "3,463.72"
+                    table_cell
+                      text "4.20500"
+                    table_cell
+                      text "2.5973"
+                  table_row
+                    table_cell
+                      anchor [ref=107, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "요르단 JOD"
+                    table_cell
+                      text "2,048.36"
+                    table_cell
+                      text "8.90"
+                    table_cell
+                      text "1,730.49"
+                    table_cell
+                      text "8.00"
+                    table_cell
+                      text "1,903.53"
+                    table_cell
+                      text "1,858.39"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "1,880.96"
+                    table_cell
+                      text "8.10800"
+                    table_cell
+                      text "1.4104"
+                  table_row
+                    table_cell
+                      anchor [ref=108, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "이스라엘 ILS"
+                    table_cell
+                      text "458.50"
+                    table_cell
+                      text "10.00"
+                    table_cell
+                      text "383.48"
+                    table_cell
+                      text "8.00"
+                    table_cell
+                      text "421.82"
+                    table_cell
+                      text "411.82"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "416.82"
+                    table_cell
+                      text "5.30900"
+                    table_cell
+                      text "0.3126"
+                  table_row
+                    table_cell
+                      anchor [ref=109, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "이집트 EGP"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "25.25"
+                    table_cell
+                      text "24.67"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "24.96"
+                    table_cell
+                      text "8.22500"
+                    table_cell
+                      text "0.0187"
+                  table_row
+                    table_cell
+                      anchor [ref=110, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "인도 INR"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "14.33"
+                    table_cell
+                      text "14.01"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "14.17"
+                    table_cell
+                      text "8.18966"
+                    table_cell
+                      text "0.0106"
+                  table_row
+                    table_cell
+                      anchor [ref=111, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "인도네시아 IDR (100)"
+                    table_cell
+                      text "8.06"
+                    table_cell
+                      text "10.00"
+                    table_cell
+                      text "6.60"
+                    table_cell
+                      text "10.00"
+                    table_cell
+                      text "7.40"
+                    table_cell
+                      text "7.26"
+                    table_cell
+                      text "7.25"
+                    table_cell
+                      text "7.33"
+                    table_cell
+                      text "8.47500"
+                    table_cell
+                      text "0.0055"
+                  table_row
+                    table_cell
+                      anchor [ref=112, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "체코 CZK"
+                    table_cell
+                      text "65.63"
+                    table_cell
+                      text "8.50"
+                    table_cell
+                      text "55.05"
+                    table_cell
+                      text "9.00"
+                    table_cell
+                      text "61.15"
+                    table_cell
+                      text "59.83"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "60.49"
+                    table_cell
+                      text "5.83800"
+                    table_cell
+                      text "0.0454"
+                  table_row
+                    table_cell
+                      anchor [ref=113, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "칠레 CLP"
+                    table_cell
+                      text "1.47"
+                    table_cell
+                      text "10.00"
+                    table_cell
+                      text "1.21"
+                    table_cell
+                      text "10.00"
+                    table_cell
+                      text "1.35"
+                    table_cell
+                      text "1.33"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "1.34"
+                    table_cell
+                      text "5.21600"
+                    table_cell
+                      text "0.0010"
+                  table_row
+                    table_cell
+                      anchor [ref=114, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "카자흐스탄 KZT"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "3.03"
+                    table_cell
+                      text "2.97"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "3.00"
+                    table_cell
+                      text "19.97500"
+                    table_cell
+                      text "0.0022"
+                  table_row
+                    table_cell
+                      anchor [ref=115, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "카타르 QAR"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "370.26"
+                    table_cell
+                      text "361.48"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "365.87"
+                    table_cell
+                      text "3.35500"
+                    table_cell
+                      text "0.2743"
+                  table_row
+                    table_cell
+                      anchor [ref=116, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "케냐 KES"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "10.38"
+                    table_cell
+                      text "10.14"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "10.26"
+                    table_cell
+                      text "12.21500"
+                    table_cell
+                      text "0.0077"
+                  table_row
+                    table_cell
+                      anchor [ref=117, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "콜롬비아 COP"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.40"
+                    table_cell
+                      text "0.40"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.40"
+                    table_cell
+                      text "2.97500"
+                    table_cell
+                      text "0.0003"
+                  table_row
+                    table_cell
+                      anchor [ref=118, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "쿠웨이트 KWD"
+                    table_cell
+                      text "4,557.30"
+                    table_cell
+                      text "6.50"
+                    table_cell
+                      text "3,936.83"
+                    table_cell
+                      text "8.00"
+                    table_cell
+                      text "4,321.95"
+                    table_cell
+                      text "4,236.37"
+                    table_cell
+                      text "4,230.02"
+                    table_cell
+                      text "4,279.16"
+                    table_cell
+                      text "5.34533"
+                    table_cell
+                      text "3.2087"
+                  table_row
+                    table_cell
+                      anchor [ref=119, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "탄자니아 TZS"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.50"
+                    table_cell
+                      text "0.50"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.50"
+                    table_cell
+                      text "9.78033"
+                    table_cell
+                      text "0.0004"
+                  table_row
+                    table_cell
+                      anchor [ref=120, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "튀르키예 TRY"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "26.77"
+                    table_cell
+                      text "26.19"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "26.48"
+                    table_cell
+                      text "39.10833"
+                    table_cell
+                      text "0.0199"
+                  table_row
+                    table_cell
+                      anchor [ref=121, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "파키스탄 PKR"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "4.87"
+                    table_cell
+                      text "4.77"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "4.82"
+                    table_cell
+                      text "18.37500"
+                    table_cell
+                      text "0.0036"
+                  table_row
+                    table_cell
+                      anchor [ref=122, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "폴란드 PLN"
+                    table_cell
+                      text "361.64"
+                    table_cell
+                      text "8.00"
+                    table_cell
+                      text "308.08"
+                    table_cell
+                      text "8.00"
+                    table_cell
+                      text "338.54"
+                    table_cell
+                      text "331.18"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "334.86"
+                    table_cell
+                      text "6.01966"
+                    table_cell
+                      text "0.2511"
+                  table_row
+                    table_cell
+                      anchor [ref=123, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "헝가리 HUF"
+                    table_cell
+                      text "4.41"
+                    table_cell
+                      text "9.30"
+                    table_cell
+                      text "3.72"
+                    table_cell
+                      text "8.00"
+                    table_cell
+                      text "4.08"
+                    table_cell
+                      text "4.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "4.04"
+                    table_cell
+                      text "7.60600"
+                    table_cell
+                      text "0.0030"
+                  table_row
+                    table_cell
+                      anchor [ref=124, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "네팔 NPR"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "8.95"
+                    table_cell
+                      text "8.75"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "8.85"
+                    table_cell
+                      text "2.97500"
+                    table_cell
+                      text "0.0066"
+                  table_row
+                    table_cell
+                      anchor [ref=125, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "마카오 MOP"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "166.90"
+                    table_cell
+                      text "162.96"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "164.93"
+                    table_cell
+                      text "4.71100"
+                    table_cell
+                      text "0.1237"
+                  table_row
+                    table_cell
+                      anchor [ref=126, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "캄보디아 KHR"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.33"
+                    table_cell
+                      text "0.33"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.33"
+                    table_cell
+                      text "2.97500"
+                    table_cell
+                      text "0.0002"
+                  table_row
+                    table_cell
+                      anchor [ref=127, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "피지 FJD"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "593.48"
+                    table_cell
+                      text "579.42"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "586.45"
+                    table_cell
+                      text "1.97500"
+                    table_cell
+                      text "0.4397"
+                  table_row
+                    table_cell
+                      anchor [ref=128, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "리비아 LYD"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "209.37"
+                    table_cell
+                      text "204.41"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "206.89"
+                    table_cell
+                      text "2.97500"
+                    table_cell
+                      text "0.1551"
+                  table_row
+                    table_cell
+                      anchor [ref=129, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "루마니아 RON"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "278.86"
+                    table_cell
+                      text "272.80"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "275.83"
+                    table_cell
+                      text "8.03266"
+                    table_cell
+                      text "0.2068"
+                  table_row
+                    table_cell
+                      anchor [ref=130, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "미얀마 MMK"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.64"
+                    table_cell
+                      text "0.64"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.64"
+                    table_cell
+                      text "1.97500"
+                    table_cell
+                      text "0.0005"
+                  table_row
+                    table_cell
+                      anchor [ref=131, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "에티오피아 ETB"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "8.35"
+                    table_cell
+                      text "8.17"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "8.26"
+                    table_cell
+                      text "2.97500"
+                    table_cell
+                      text "0.0062"
+                  table_row
+                    table_cell
+                      anchor [ref=132, url=https://www.kebhana.com/cms/rate/index.do?contentUrl=/cms/rate/wpfxd651_01i.do#//HanaBank]
+                        text "우즈베키스탄 UZS"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.11"
+                    table_cell
+                      text "0.11"
+                    table_cell
+                      text "0.00"
+                    table_cell
+                      text "0.11"
+                    table_cell
+                      text "17.47500"
+                    table_cell
+                      text "0.0001"
+            container
+              heading
+                text "유의사항"
+              unordered_list
+                list_item
+                  text "2014.3.4 이후 중국 위안화 (CNY)환율은 홍콩시장에서 거래되는 위안화환율을 고시합니다."
+                list_item
+                  text "스프레드율은 각 통화의 매매기준율과 대고객 매매율의 차이를 계산하기 위하여 매매기준을 곱하는 백분율입니다."
+                list_item
+                  text "각 통화별 매매기준율과 현찰매매 스프레드율에 의해 아래와 같이 현찰 사실때/파실때 환율이 산출됩니다."
+                  unordered_list
+                    list_item
+                      text "현찰 사실 때 환율 : 매매기준율 * (1+외화현찰 사실 때 스프레드율)"
+                    list_item
+                      text "현찰 파실 때 환율 : 매매기준율 * (1-외화현찰 파실 때 스프레드율)"
+                list_item
+                  text "NCU[독일(DEM), 프랑스(FRF), 이탈리아(ITL), 벨기에(BEF), 오스트리아(ATS), 네덜란드(NLG), 스페인(ESP), 핀란드(FIM), 슬로바키아(SKK)] 통화는 비고시환율에서 조�..."
+                list_item
+                  text "조회일이 토/일/공휴일 또는 은행영업일 1회차 고시 전인 경우, 전 영업일자로 조회됩니다. (1986.1.27 부터 조회가능)"
+                  unordered_list
+                    list_item
+                      text "단, 2017.9.23부터 토/일/공휴일에도 시장 상황에 따라 환율이 재고시 될 수 있으며, 전영업일 마지막회차 다음 회차로 표시됩니다."
+                list_item
+                  text "당행에서 거래되지 않는 환율은 고시되지 않습니다."
+              unordered_list
+                list_item
+                  text "※ KZT (카자흐스탄 텡게), BND(브루나이 달러), DZD(알제리 디나르), OMR(오만 리얄), JOD(요르단 디나르),  KES(케냐 실링), MOP(마카오 파타카), FJD(피지 달러), ..."
+    container
+      container
+        unordered_list
+          list_item
+            unordered_list
+              list_item
+                anchor [ref=45, loc=href:/cont/customer/customer05/customer0501/index.jsp, url=https://www.kebhana.com/cont/customer/customer05/customer0501/index.jsp]
+                  text "사고신고"
+              list_item
+                anchor [ref=46, loc=href:/cont/mall/mall09/mall0901/index.jsp, url=https://www.kebhana.com/cont/mall/mall09/mall0901/index.jsp]
+                  text "상품 공시실"
+              list_item
+                anchor [ref=47, loc=href:/cont/mall/mall11/mall1101/index.jsp, url=https://www.kebhana.com/cont/mall/mall11/mall1101/index.jsp]
+                  text "보호금융상품등록부"
+              list_item
+                anchor [ref=48, loc=href:http://pr.kebhana.com/contents/kor/about/annual/management/index.jsp, url=http://pr.kebhana.com/contents/kor/about/annual/management/index.jsp]
+                  text "경영공시"
+              list_item
+                anchor [ref=49, loc=href:https://pension.hanabank.com/rpc/hhom/kr/main.do, url=https://pension.hanabank.com/rpc/hhom/kr/main.do]
+                  text "퇴직연금공시"
+              list_item
+                anchor [ref=50, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+                  text "인증센터"
+              list_item
+                anchor [ref=51, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+                  text "원격지원상담"
+              list_item
+                anchor [ref=52, loc=href:/cont/customer/customer03/index.jsp, url=https://www.kebhana.com/cont/customer/customer03/index.jsp]
+                  text "손님의소리"
+              list_item
+                anchor [ref=53, loc=href:/cont/customer/customer02/customer0201/index.jsp, url=https://www.kebhana.com/cont/customer/customer02/customer0201/index.jsp]
+                  text "상담센터"
+          list_item
+            unordered_list
+              list_item
+                anchor [ref=54, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+                  text "개인정보처리방침"
+              list_item
+                anchor [ref=55, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+                  text "신용정보활용체제"
+              list_item
+                anchor [ref=56, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+                  text "본인정보이용 제공현황"
+              list_item
+                anchor [ref=57, url=https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp#//HanaBank]
+                  text "그룹사간 고객정보 제공내역조회"
+              list_item
+                anchor [ref=58, url=https://www.kebhana.com/cont/util/util04/util0401/index.jsp]
+                  text "영업점 찾기"
+              list_item
+                anchor [ref=59, loc=href:/loan/consult/index.do, url=https://www.kebhana.com/loan/consult/index.do]
+                  text "원큐 금융 상담서비스"
+        container
+          unordered_list
+            list_item
+              anchor [ref=60, loc=href:http://www.webwatch.or.kr/Situation/WA_Situation.html?MenuCD=110, url=http://www.webwatch.or.kr/Situation/WA_Situation.html?MenuCD=110]
+                image
+            list_item
+              anchor [ref=61, loc=href:https://www.bsigroup.com/ko-KR/iso27001/, url=https://www.bsigroup.com/ko-KR/iso27001/]
+                image
+            list_item
+              image
+          paragraph
+            text "ⓒ Hana Bank. All rights reserved."
+        unordered_list
+          list_item
+            button [ref=62]
+              text "브랜드사이트"
+              image
+          list_item
+            button [ref=63]
+              text "하나네트워크"
+              image
+          list_item
+            anchor [ref=64, loc=href:https://global.1qbank.com/lounge/hub/et/main.html, url=https://global.1qbank.com/lounge/hub/et/main.html]
+              text "글로벌네트워크"
+            image
+          list_item
+            button [ref=65]
+              text "하나은행 SNS"
+              image
+      container
+        unordered_list
+          list_item
+            text "고객센터"
+            text "1588-1111"
+            text "/"
+            text "1599-1111"
+          list_item
+            text "고객센터(해외)"
+            text "+82-42-520-2500"
+        button [ref=66]
+          image
+          text "하나소비자세상"
+          image

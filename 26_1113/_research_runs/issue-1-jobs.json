@@ -1,0 +1,9 @@
+{
+  "spreadsheetId": "1KAnq9pvZ7VYFJOAQ_25cM8EjaDFUX5Z6x9jfCCtTf7s",
+  "concurrency": 1,
+  "jobs": [
+    {"tab":"이슈","row":30,"keyword":"앱스토어 로그아웃"},
+    {"tab":"이슈","row":31,"keyword":"코레일 민원접수"},
+    {"tab":"이슈","row":32,"keyword":"테무 회원탈퇴"}
+  ]
+}

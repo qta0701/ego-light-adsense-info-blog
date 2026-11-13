@@ -1,1 +1,0 @@
-const t=await taskSpace(16),p=t.page('p1');await p.fill('@312','kakaotalk-chat-restore');await p.press('@312','Tab');await p.click('loc=role:button[name="옵션 더보기"]');console.log((await p.snapshot()).split('\n').filter(x=>/저장|menuitem/.test(x)).join('\n'));

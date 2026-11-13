@@ -1,0 +1,1 @@
+const task=await taskSpace(34),page=task.page('p1');await page.hover('loc=href:/blog/post/edit/3087664879020853782/7209337448122097859');const snap=await page.snapshot();const i=snap.indexOf('진학어플라이 회원가입 방법:');console.log(snap.slice(i-200,i+2500));

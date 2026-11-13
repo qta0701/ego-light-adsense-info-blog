@@ -1,1 +1,0 @@
-for(const [row,id] of [[48,18],[49,19]]){const t=await taskSpace(id),p=t.page('p1');await p.click('text="퍼머링크"');await p.waitForSelector('loc=role:radio[name="맞춤 퍼머링크"]');console.log('ROW',row,(await p.snapshot()).split('\n').slice(-38).join('\n'));}

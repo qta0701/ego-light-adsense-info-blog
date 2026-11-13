@@ -1,0 +1,115 @@
+{
+  "tab": "은행_재테크",
+  "row": 18,
+  "keyword": "신한은행 환전 방법",
+  "folder": "26_1113/은행_재테크_신한은행 환전 방법",
+  "promotionUrl": "https://bank.supportimes.com/2026/11/blog-post_198.html",
+  "profileName": "박상민",
+  "account": "chocolateelf",
+  "ledgerColumn": "L",
+  "indexOnProfile": 3,
+  "publishMode": "pending_timeline_check",
+  "slotMode": "scheduled",
+  "plannedPublicationTime": "2026-11-14T00:10:00+09:00",
+  "planningAnchor": "2026-11-13T07:00:00+09:00",
+  "slotIsConfirmed": true,
+  "source": "26_1113/은행_재테크_신한은행 환전 방법/웹조사/publish/은행_재테크_신한은행 환전 방법_네이버블로그.md",
+  "sourceSha256": "f845571aeaadc18aef27f8442b422a4d45bf9a26d530b77dd5628d4f46c34dcf",
+  "titleFile": "26_1113/은행_재테크_신한은행 환전 방법/웹조사/publish/은행_재테크_신한은행 환전 방법_네이버블로그_제목 및 이미지 배치.txt",
+  "images": [
+    {
+      "marker": "NAVERIMG1",
+      "path": "26_1113/은행_재테크_신한은행 환전 방법/웹조사/publish/01_search.png",
+      "caption": "1.신한은행 공식 환전가이드 찾기",
+      "sha256": "50c6e202fb585d08c84db5ce8a24d206961689100ab2cedd0519297c7f4117b8"
+    },
+    {
+      "marker": "NAVERIMG2",
+      "path": "26_1113/은행_재테크_신한은행 환전 방법/웹조사/publish/04_guide.png",
+      "caption": "2.환전 목적에 따른 준비 서류 확인",
+      "sha256": "c654ebd74c3faaa83fe8672fd75badc10821e5cdac00c6c59c8c0712d696f60f"
+    },
+    {
+      "marker": "NAVERIMG3",
+      "path": "26_1113/은행_재테크_신한은행 환전 방법/웹조사/publish/02_guide.png",
+      "caption": "3.신한은행 환전가이드의 인터넷환전신청",
+      "sha256": "1514fd909281f4566ab034f639ac3cf658479d3af12a0b6b705629a5de4601e2"
+    },
+    {
+      "marker": "NAVERIMG4",
+      "path": "26_1113/은행_재테크_신한은행 환전 방법/웹조사/publish/03_guide.png",
+      "caption": "4.인터넷환전 신청의 로그인 수단 선택",
+      "sha256": "0dcea9de48b9166f713e8b49b668b9e3ac8054826eb599d4631245e0b651ef82"
+    },
+    {
+      "marker": "NAVERIMG5",
+      "path": "26_1113/은행_재테크_신한은행 환전 방법/웹조사/publish/05_guide.png",
+      "caption": "5.쏠편한 환전 대상과 수령 방식 안내",
+      "sha256": "bd3b8f03d2f5e19e68ea4b78155c1f5f18d06d84e3c6c32c3c3fe601d800b6d6"
+    },
+    {
+      "marker": "NAVERIMG6",
+      "path": "26_1113/은행_재테크_신한은행 환전 방법/웹조사/publish/06_guide.png",
+      "caption": "6.모바일 환전 우대율과 한도 확인",
+      "sha256": "1b76f0cb7aa445b907a34ec500d9cf1e2a038144d3d9a6dc86fa928845da7ac1"
+    }
+  ],
+  "links": [
+    {
+      "marker": "NAVEROG1",
+      "url": "https://bank.supportimes.com/2026/11/blog-post_198.html"
+    },
+    {
+      "marker": "NAVEROG2",
+      "url": "https://bank.supportimes.com/2026/11/blog-post_198.html"
+    }
+  ],
+  "platform": "naver",
+  "status": "scheduled",
+  "verified": true,
+  "spaceId": 68,
+  "profileId": "Profile 1",
+  "postId": "224475992906",
+  "title": "신한은행 환전 방법: 인터넷 신청과 수령 전 확인사항",
+  "identityVerified": "chocolateelf",
+  "publicationTime": "2026-11-14T00:10:00+09:00",
+  "publicationTimeSource": "confirmed_reservation_list",
+  "reservationEvidence": "chocolateelf 예약 발행 글 목록에서 해당 제목과 2026.11.14 00:10 확인",
+  "submittedOnce": true,
+  "publicUrl": null,
+  "publicAudit": "공개 전 예약 글이므로 공개 페이지 검수 미실시",
+  "urlSource": "콘텐츠표 H 및 원고 CTA 일치",
+  "category": "은행,재테크",
+  "representative": {
+    "index": 3,
+    "file": "02_guide.png",
+    "verifiedSelected": true,
+    "scope": "reopened_saved_reservation"
+  },
+  "styleAudit": {
+    "scope": "reopened_saved_reservation",
+    "normalParagraphs": 36,
+    "boldFailures": 0,
+    "ctaVerified": 2,
+    "images": 6,
+    "og": 2,
+    "tables": 8,
+    "markers": 0,
+    "rawUrls": 0,
+    "passed": true
+  },
+  "styleAuditFile": "tmp/naver-20261113/bank-saved-audit-18.json",
+  "claimReceipt": "tmp/naver-20261113/bank-claim-18.json",
+  "imageReview": "채택 화면의 내용, 개인정보 노출 및 캡션 일치 확인",
+  "duplicateSearch": "각 배정 블로그의 검색 결과에서 동일 글 미발견",
+  "cardsNote": "두 카드의 썸네일과 CTA 직후 배치 및 입력한 원고 URL 확인. 예약 편집 DOM은 href를 노출하지 않아 공개 후 링크 재검수 필요.",
+  "sheetProgress": "조정자 기록 및 재조회 예정",
+  "sheetsUpdated": true,
+  "sheetsVerified": true,
+  "spaceStatus": "finished",
+  "claimStatus": "released",
+  "recordedAt": "2026-11-13T18:41:09.254006+09:00",
+  "finishCalls": 1,
+  "sheetStatus": "verified",
+  "ledgerRow": 239
+}

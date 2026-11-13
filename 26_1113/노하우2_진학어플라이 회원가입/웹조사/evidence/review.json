@@ -1,0 +1,108 @@
+{
+  "reviewedAt": "2026-11-13 Asia/Seoul",
+  "visualReview": "모든 발행 이미지와 표식 및 개인정보 가림을 직접 확인",
+  "contentDecision": "완료: 공식 근거로 핵심 절차·조건·예외를 확인",
+  "adjustment": "핵심 답변을 반복하지 않도록 본문을 권장 길이보다 짧게 작성. 검색 화면 포함 4장 이상 확보.",
+  "rawCount": 4,
+  "publishedCount": 4,
+  "markedCount": 4,
+  "autoValidation": {
+    "status": "구 수량 기준 미통과",
+    "errors": [
+      "본문 1270자: 3500~5500자 필요(출처/이미지 목록 제외)",
+      "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+    ]
+  },
+  "alternativeReview": {
+    "status": "완료",
+    "fileOpen": "Pillow 확인",
+    "distinctPublishedHashes": 4,
+    "rawDimensionsAndMarks": [
+      {
+        "raw": "raw/01_search.png",
+        "dimensions": [
+          1280,
+          900
+        ],
+        "boxes": [
+          [
+            104,
+            206,
+            276,
+            33
+          ]
+        ],
+        "actualScreenUrl": "https://www.google.com/search?q=%EC%A7%84%ED%95%99%EC%96%B4%ED%94%8C%EB%9D%BC%EC%9D%B4%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85"
+      },
+      {
+        "raw": "raw/02_guide_choice.png",
+        "dimensions": [
+          1280,
+          1000
+        ],
+        "boxes": [
+          [
+            735,
+            305,
+            175,
+            165
+          ]
+        ],
+        "actualScreenUrl": "https://apply.jinhakapply.com/Customer/Guide/Join/1"
+      },
+      {
+        "raw": "raw/03_guide_agree.png",
+        "dimensions": [
+          1280,
+          1000
+        ],
+        "boxes": [
+          [
+            897,
+            335,
+            50,
+            368
+          ],
+          [
+            812,
+            711,
+            150,
+            51
+          ]
+        ],
+        "actualScreenUrl": "https://apply.jinhakapply.com/Customer/Guide/Join/1"
+      },
+      {
+        "raw": "raw/04_guide_form.png",
+        "dimensions": [
+          1280,
+          1000
+        ],
+        "boxes": [
+          [
+            696,
+            343,
+            253,
+            337
+          ],
+          [
+            681,
+            681,
+            285,
+            55
+          ]
+        ],
+        "actualScreenUrl": "https://apply.jinhakapply.com/Customer/Guide/Join/1"
+      }
+    ],
+    "publishHashes": {
+      "publish\\01_01_search.png": "930c568859977ad337f7f8419cf8ccf52b3192a05005d17ab31a115f8d31ee0a",
+      "publish\\02_02_guide_choice.png": "5428634628af57c952a050ab3bdb8f875b4bf5340f481e451a0aa4b79de4650f",
+      "publish\\03_03_guide_agree.png": "7c00940ded953434a79f422a81b15a1e27665e45b98b0219e53cbe8ad75ac3cd",
+      "publish\\04_04_guide_form.png": "7aa998ef2d9e58dc7af763eca0bb7042de7ab9c45394ade505a083bc37b2d047",
+      "publish\\노하우2_진학어플라이 회원가입_웹조사결과.md": "ff77ffa42f813d34e97c3e2e55ca215201125f71979bfbb3d8723d77cb48b05f"
+    },
+    "privacy": "Google 계정 식별 부분을 발행 이미지에서 가림; 원본은 보존",
+    "limitation": "공식 예시 이미지의 화면은 현재 가입 양식과 다를 수 있어 예시로 명시. 회원가입 제출 및 인증은 수행하지 않음. 실제 가입 화면의 요소 선택이 모호하여 캡처 실패 후 공식 가이드 화면으로 보완."
+  }
+}

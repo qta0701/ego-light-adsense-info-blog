@@ -1,0 +1,54 @@
+{
+  "url": "https://bank.shinhan.com/index.jsp#020502010000",
+  "title": "환전가이드-환전이용안내 | 신한은행 개인뱅킹",
+  "width": 1280,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 120.80000305175781,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1264.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      142.40000915527344,
+      440.8000183105469,
+      980,
+      18
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "boxes": [
+    [
+      142,
+      440,
+      981,
+      19
+    ]
+  ],
+  "pixelSize": {
+    "width": 1280,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.0001562362589829,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1279.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:43:07.467Z"
+}

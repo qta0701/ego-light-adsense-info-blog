@@ -1,0 +1,23 @@
+{
+  "spaceId": 4,
+  "page": "p1",
+  "status": "finished",
+  "finishMethod": "task.finish({keep:[]})",
+  "tabsBeforeFinish": [
+    {
+      "label": "p1",
+      "title": "Temu Republic of Korea - Support Center & FAQ",
+      "url": "https://www.temu.com/kr/support/c3/support-f-54-s-124.html",
+      "openedBy": "agent"
+    }
+  ],
+  "finishResult": {
+    "spaceId": 4,
+    "closedSpace": true,
+    "keptManagedLabels": [],
+    "closedManagedLabels": [
+      "p1"
+    ],
+    "preservedUnmanagedCount": 0
+  }
+}

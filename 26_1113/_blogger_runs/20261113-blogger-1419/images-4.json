@@ -1,0 +1,291 @@
+{
+  "order": 4,
+  "name": "노하우_앱스토어 국가변경",
+  "at": "2026-11-13T05:24:30.329Z",
+  "htmlPath": "Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/노하우_앱스토어 국가변경/웹조사/publish/노하우_앱스토어 국가변경_html콘텐츠.html",
+  "txtPath": "Y:/antigravity-project/ego-light-adsense-info-blog/26_1113/노하우_앱스토어 국가변경/웹조사/publish/노하우_앱스토어 국가변경_제목메타디스크립션.txt",
+  "originalCount": 4,
+  "images": [
+    {
+      "id": "IMG_01",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/02_02_conditions.png",
+      "raw": "26_1113/노하우_앱스토어 국가변경/웹조사/raw/02_conditions.png",
+      "rawExists": true,
+      "file": {
+        "bytes": 158217,
+        "width": 900,
+        "height": 620,
+        "sha256": "8c7e31e620a181a844f3e8e290c610578f997bb11ac3e70f42abada3729c24ec"
+      },
+      "error": null,
+      "tokenCount": 1,
+      "htmlSlot": true,
+      "alt": "Apple 지원 문서의 국가 변경 전 준비 항목과 구독 종료 안내",
+      "caption": "Apple 지원의 변경 전 준비 항목 중 구독 안내 (2026-11-13 확인)",
+      "evidence": "S1 Apple 지원 / https://support.apple.com/ko-kr/118283 / 2026-11-13"
+    },
+    {
+      "id": "IMG_02",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/03_03_iphone.png",
+      "raw": "26_1113/노하우_앱스토어 국가변경/웹조사/raw/03_iphone.png",
+      "rawExists": true,
+      "file": {
+        "bytes": 38822,
+        "width": 895,
+        "height": 325,
+        "sha256": "0e7cc40cd2a77846fdb8cb5107405eb83c546e903aa1f90d98014ca31769e383"
+      },
+      "error": null,
+      "tokenCount": 1,
+      "htmlSlot": true,
+      "alt": "Apple 지원 문서의 iPhone과 iPad 국가 지역 설정 진입 순서",
+      "caption": "설정에서 국가/지역으로 이동하는 공식 안내 (2026-11-13 확인)",
+      "evidence": "S1 Apple 지원 / https://support.apple.com/ko-kr/118283 / 2026-11-13"
+    },
+    {
+      "id": "IMG_03",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/04_04_payment.png",
+      "raw": "26_1113/노하우_앱스토어 국가변경/웹조사/raw/04_payment.png",
+      "rawExists": true,
+      "file": {
+        "bytes": 19959,
+        "width": 895,
+        "height": 200,
+        "sha256": "407d363994de51909474188a85e1f470225919dc521c4ae57f6c0b95a3c77d6b"
+      },
+      "error": null,
+      "tokenCount": 1,
+      "htmlSlot": true,
+      "alt": "Apple 지원 문서의 국가 선택 약관 동의 결제 정보 입력 순서",
+      "caption": "국가 선택부터 결제 정보 입력까지의 공식 안내 (2026-11-13 확인)",
+      "evidence": "S1 Apple 지원 / https://support.apple.com/ko-kr/118283 / 2026-11-13"
+    },
+    {
+      "id": "IMG_04",
+      "path": "26_1113/노하우_앱스토어 국가변경/웹조사/publish/blogger-images/05_web_marked.png",
+      "raw": "26_1113/노하우_앱스토어 국가변경/웹조사/raw/05_web.png",
+      "rawExists": true,
+      "file": {
+        "bytes": 17369,
+        "width": 855,
+        "height": 210,
+        "sha256": "cbea3ef49710317fce8da266a20b2b5e0cd6bc74db809932f2dd280de8ee0f67"
+      },
+      "error": null,
+      "tokenCount": 1,
+      "htmlSlot": true,
+      "alt": "Apple 지원 문서의 웹에서 국가 지역 변경 경로",
+      "caption": "Apple 계정 웹사이트에서 변경하는 경로 (2026-11-13 확인)",
+      "evidence": "S1 Apple 지원 / https://support.apple.com/ko-kr/118283 / 2026-11-13"
+    }
+  ],
+  "research": {
+    "keyword": "앱스토어 국가변경",
+    "originalQuery": "앱스토어 국가변경",
+    "row": 34,
+    "tab": "노하우",
+    "date": "2026-11-13",
+    "queries": [
+      "앱스토어 국가변경"
+    ],
+    "multiIntent": false,
+    "body": "## 먼저 확인할 사항\nApp Store에서 이용하는 Apple 계정의 국가나 지역을 바꾸려면 기기 설정 또는 Apple 계정 웹사이트에서 변경할 수 있습니다. 진행 전 계정 잔액, 구독과 처리 중인 항목을 먼저 확인하세요. 새 국가에서 사용 가능한 콘텐츠와 결제 수단도 이전과 다를 수 있습니다. 아래는 2026년 11월 13일 확인한 Apple 지원 문서 기준입니다. [S1]\n\n### 변경 전 준비\n1. Apple 계정에 남은 잔액을 사용합니다. 단일 품목보다 적은 잔액이 남았다면 Apple 지원에 문의해 잔액 처리 방법을 확인할 수 있습니다.\n2. 변경을 차단하는 구독은 취소하고 구독 기간이 끝날 때까지 기다립니다. 취소 버튼을 눌렀다는 사실과 이용 기간 종료는 별개입니다.\n3. 멤버십, 사전 주문, 영화 대여, 시즌 패스와 처리 중인 환불이 끝날 때까지 기다립니다. 가족 공유 그룹에 속한 경우 변경하지 못할 수도 있습니다.\n4. 새 국가나 지역에서 유효한 결제 수단이 필요할 수 있으므로 미리 확인합니다. 일부 콘텐츠는 새 지역에서 이용할 수 없으므로 필요한 앱과 콘텐츠를 사용할 기기에 다시 다운로드합니다. Apple One이나 iCloud+ 해지 시에는 저장 정보에 미치는 영향도 확인하세요. [S1]\n\n### iPhone 또는 iPad에서 변경\n1. **설정 → 사용자 이름**을 누릅니다.\n2. **미디어 및 구입 항목**을 선택합니다. Apple 계정에 로그인해야 할 수 있습니다.\n3. **국가/지역**을 누르고 원하는 국가 또는 지역을 선택합니다.\n4. **계속**을 누르고 이용 약관을 살펴본 후 동의합니다.\n5. 결제 방법을 고르고 새 결제 정보와 청구 주소를 입력한 다음 **완료**를 누릅니다. 실제 입력 화면은 기기와 계정 상태에 따라 달라질 수 있습니다. [S1]\n\n### Mac과 웹에서 변경\nMac에서는 Apple Music 또는 Apple TV 앱을 열고 메뉴 막대의 **계정 → 계정 설정 → 국가/지역**으로 이동합니다. 웹에서는 account.apple.com에 로그인한 뒤 **개인 정보 → 국가/지역**을 선택하고 안내를 따릅니다. 인증이나 결제 정보 입력은 본인 계정에서 직접 진행하세요. [S1]\n\n### 변경이 되지 않을 때\n구독이 실제로 종료되었는지, 남은 잔액과 보류 중인 활동이 있는지 먼저 확인합니다. 가족 공유도 제한 요인이 될 수 있습니다. 해결되지 않으면 Apple 지원에 문의하세요. 이 조사에서는 실제 계정 변경을 실행하지 않았으며, 발행 이미지는 Apple의 공개 안내 화면을 표시한 것입니다. [S1]",
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Apple 지원, Apple 계정 국가 또는 지역 변경하기",
+        "url": "https://support.apple.com/ko-kr/118283",
+        "official": true,
+        "checkedAt": "2026-11-13"
+      }
+    ],
+    "images": [
+      {
+        "role": "search",
+        "file": "raw/01_search.png",
+        "publish": "publish/01_01_search.png",
+        "sourceId": "S1",
+        "caption": "Apple 공식 검색 결과",
+        "alt": "Apple 공식 검색 결과",
+        "boxes": [
+          [
+            104,
+            377,
+            213,
+            44
+          ]
+        ],
+        "crop": [
+          80,
+          340,
+          780,
+          460
+        ],
+        "markedBox": [
+          100,
+          360,
+          350,
+          437
+        ],
+        "screenUrl": "https://www.google.com/search?q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%20%EA%B5%AD%EA%B0%80%EB%B3%80%EA%B2%BD",
+        "query": "앱스토어 국가변경"
+      },
+      {
+        "role": "guide",
+        "file": "raw/02_conditions.png",
+        "publish": "publish/02_02_conditions.png",
+        "sourceId": "S1",
+        "caption": "국가 변경 전 구독과 잔액 등 확인",
+        "alt": "국가 변경 전 구독과 잔액 등 확인",
+        "boxes": [
+          [
+            154,
+            373,
+            797,
+            54
+          ]
+        ],
+        "crop": [
+          115,
+          130,
+          975,
+          710
+        ],
+        "markedBox": [
+          154,
+          373,
+          951,
+          427
+        ],
+        "screenUrl": "https://support.apple.com/ko-kr/118283"
+      },
+      {
+        "role": "guide",
+        "file": "raw/03_iphone.png",
+        "publish": "publish/03_03_iphone.png",
+        "sourceId": "S1",
+        "caption": "iPhone·iPad의 국가/지역 진입 단계",
+        "alt": "iPhone·iPad의 국가/지역 진입 단계",
+        "boxes": [
+          [
+            154,
+            386,
+            797,
+            28
+          ]
+        ],
+        "crop": [
+          115,
+          200,
+          970,
+          485
+        ],
+        "markedBox": [
+          135,
+          382,
+          750,
+          475
+        ],
+        "screenUrl": "https://support.apple.com/ko-kr/118283"
+      },
+      {
+        "role": "guide",
+        "file": "raw/04_payment.png",
+        "publish": "publish/04_04_payment.png",
+        "sourceId": "S1",
+        "caption": "국가 선택 후 약관 및 결제 정보 입력",
+        "alt": "국가 선택 후 약관 및 결제 정보 입력",
+        "boxes": [
+          [
+            154,
+            386,
+            797,
+            28
+          ]
+        ],
+        "crop": [
+          115,
+          270,
+          970,
+          430
+        ],
+        "markedBox": [
+          135,
+          285,
+          780,
+          412
+        ],
+        "screenUrl": "https://support.apple.com/ko-kr/118283"
+      }
+    ],
+    "limits": {
+      "bodyMin": 3500,
+      "bodyMax": 5500,
+      "guideMax": 8,
+      "referenceMax": 3,
+      "rawMax": 12
+    },
+    "exceptionReason": "공식 검색 1장과 서로 다른 안내·조건 화면 3장으로 핵심 내용을 설명. 앱이나 인증 후 화면은 공개 공식 안내 또는 인증 전 화면으로 대체.",
+    "visualReviewed": false
+  },
+  "review": {
+    "status": "agent_alternative_review_complete",
+    "date": "2026-11-13",
+    "automatic_validation": "고정 수량 기준 미통과",
+    "automatic_errors": [
+      "본문 1276자: 3500~5500자 필요(출처/이미지 목록 제외)",
+      "안내 4~8장(복합 예외 9장), 참고 최대 3장"
+    ],
+    "bodyCharacters": 1276,
+    "rawImages": 4,
+    "publishedImages": 4,
+    "redMarkedImages": 4,
+    "rawFiles": [
+      "01_search.png",
+      "02_conditions.png",
+      "03_iphone.png",
+      "04_payment.png"
+    ],
+    "dimensions": {
+      "01_01_search.png": [
+        740,
+        160
+      ],
+      "02_02_conditions.png": [
+        900,
+        620
+      ],
+      "03_03_iphone.png": [
+        895,
+        325
+      ],
+      "04_04_payment.png": [
+        895,
+        200
+      ]
+    },
+    "sha256": {
+      "publish/01_01_search.png": "e11e997406393b162993f4deadb1eb8a7650695052c873d76c1df1fae00821ac",
+      "publish/02_02_conditions.png": "8c7e31e620a181a844f3e8e290c610578f997bb11ac3e70f42abada3729c24ec",
+      "publish/03_03_iphone.png": "0e7cc40cd2a77846fdb8cb5107405eb83c546e903aa1f90d98014ca31769e383",
+      "publish/04_04_payment.png": "407d363994de51909474188a85e1f470225919dc521c4ae57f6c0b95a3c77d6b",
+      "publish/노하우_앱스토어 국가변경_웹조사결과.md": "d2bdfcb2cf4c349c6d79993a5927ed9550acd06f0233642492048bff28cd252e"
+    },
+    "checks": [
+      "공식 검색 결과에서 실제 공식 페이지 방문과 근거 대조",
+      "발행 이미지 4장 모두 원본 및 좌표와 직접 시각 대조",
+      "PNG 열림, 서로 다른 해시, 표식과 잘라낸 영역 경계 확인",
+      "검색 결과 및 안내 이미지 개인정보와 팝업 잔존 확인",
+      "이미지별 원본·발행 파일명, 실제 화면 URL과 확인일 대조"
+    ],
+    "adjustment": "검색 1장 및 서로 다른 진입·단계·조건 3장으로 핵심 경로를 설명해 반복 화면과 문장을 추가하지 않음. 코레일은 선택·회원 로그인·기존 비회원 폼의 실제 URL 3개를 명세.",
+    "limitations": "Apple 실제 기기 조작 대신 공식 지원 문서 화면. 로그인·결제·변경은 수행하지 않음.",
+    "completionDecision": "확인 가능한 공식 근거와 핵심 절차, 이용 조건, 4장의 발행 이미지 및 실제 URL을 검수함"
+  },
+  "htmlTokens": [
+    "IMG_01",
+    "IMG_02",
+    "IMG_03",
+    "IMG_04"
+  ]
+}

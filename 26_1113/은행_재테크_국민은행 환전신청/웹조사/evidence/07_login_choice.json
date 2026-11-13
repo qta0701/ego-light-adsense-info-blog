@@ -1,0 +1,54 @@
+{
+  "url": "https://obank.kbstar.com/quics?page=C101339#loading",
+  "title": "환전신청 ( 개인뱅킹 | 외환 | 환전 | 환전신청 )",
+  "width": 1440,
+  "height": 900,
+  "scrollX": 0,
+  "scrollY": 0,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1424.800048828125,
+    "height": 900,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      442.3000183105469,
+      474.70001220703125,
+      540,
+      90
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "boxes": [
+    [
+      442,
+      474,
+      541,
+      91
+    ]
+  ],
+  "pixelSize": {
+    "width": 1440,
+    "height": 900
+  },
+  "pixelScale": {
+    "x": 1.000138874263852,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1439.800048828125,
+    "height": 900
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:33:38.211Z"
+}

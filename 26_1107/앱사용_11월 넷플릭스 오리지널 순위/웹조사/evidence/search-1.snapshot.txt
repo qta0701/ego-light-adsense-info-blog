@@ -1,2 +1,0 @@
-[p1 "11월 넷플릭스 오리지널 순위 - Google 검색" | space "research-20261107-09b92673-54-1"(2): 1 managed, 0 untracked — p1* "11월 넷플릭스 오리지널 순위 - Google 검색"]
-root

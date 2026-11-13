@@ -1,3 +1,0 @@
-import {capture} from '../../../tools/research_browser.mjs';
-const jobs=[{id:1,folder:'26_1107/앱사용_넷플릭스 한국 인기 영화 순위 확인 방법/웹조사',url:'https://www.netflix.com/tudum/top10/south-korea'},{id:2,folder:'26_1107/앱사용_넷플릭스 오리지널 역대 영화 순위/웹조사',url:'https://www.netflix.com/tudum/top10/most-popular'}];
-for(const j of jobs){const t=await taskSpace(j.id),p=t.page('p1'),sel='a[jsname="UWckNb"][href="'+j.url+'"]';await p.cdp('Emulation.setDeviceMetricsOverride',{width:1100,height:850,deviceScaleFactor:1,mobile:false});await p.evaluate(s=>document.querySelector(s).scrollIntoView({block:'center',behavior:'instant'}),sel);console.log('search',j.id,JSON.stringify(await capture(p,j.folder,'search-official',[sel],{width:1100,height:850})));}

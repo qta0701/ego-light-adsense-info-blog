@@ -1,0 +1,54 @@
+{
+  "url": "https://www.google.com/search?q=%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4%20%EA%B5%AD%EA%B0%80%EB%B3%80%EA%B2%BD",
+  "title": "앱스토어 국가변경 - Google 검색",
+  "width": 1100,
+  "height": 800,
+  "scrollX": 0,
+  "scrollY": 233.60000610351562,
+  "devicePixelRatio": 1.0000000149011612,
+  "visual": {
+    "x": 0,
+    "y": 0,
+    "width": 1084.800048828125,
+    "height": 800,
+    "scale": 1
+  },
+  "scrollbar": {
+    "width": 15,
+    "height": 0
+  },
+  "targets": [
+    [
+      104.4000015258789,
+      377.4250183105469,
+      211.6875,
+      43.17499923706055
+    ]
+  ],
+  "requestedViewport": {
+    "width": 1100,
+    "height": 800
+  },
+  "boxes": [
+    [
+      104,
+      377,
+      213,
+      44
+    ]
+  ],
+  "pixelSize": {
+    "width": 1100,
+    "height": 800
+  },
+  "pixelScale": {
+    "x": 1.0001818068403325,
+    "y": 1
+  },
+  "rasterViewport": {
+    "width": 1099.800048828125,
+    "height": 800
+  },
+  "coordinateSpace": "png-pixels",
+  "checkedAt": "2026-11-13T04:00:38.564Z"
+}
